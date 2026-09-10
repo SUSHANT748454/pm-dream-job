@@ -2,36 +2,35 @@
 
 import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
-import { useSyncExternalStore } from "react";
+import { useEffect, useState } from "react";
 import { Sparkles, X, ArrowRight } from "lucide-react";
 
 import { useProfile, bandToLevel, firstName } from "@/lib/profile";
 
 const NUDGE_KEY = "pmdj.nudge";
-const NUDGE_EVENT = "pmdj:nudge-dismissed";
 
 function useNudgeDismissed(): [boolean, () => void] {
-  const dismissed = useSyncExternalStore(
-    (cb) => {
-      window.addEventListener(NUDGE_EVENT, cb);
-      return () => window.removeEventListener(NUDGE_EVENT, cb);
-    },
-    () => {
-      try {
-        return sessionStorage.getItem(NUDGE_KEY) === "1";
-      } catch {
-        return false;
-      }
-    },
-    () => true,
-  );
+  // Start "dismissed" so nothing renders during SSR / hydration, then read the
+  // real value from sessionStorage in an effect (see useProfile for why).
+  const [dismissed, setDismissed] = useState(true);
+
+  useEffect(() => {
+    /* eslint-disable react-hooks/set-state-in-effect -- intentional client hydration */
+    try {
+      setDismissed(sessionStorage.getItem(NUDGE_KEY) === "1");
+    } catch {
+      setDismissed(false);
+    }
+    /* eslint-enable react-hooks/set-state-in-effect */
+  }, []);
+
   const dismiss = () => {
     try {
       sessionStorage.setItem(NUDGE_KEY, "1");
     } catch {
       /* ignore */
     }
-    window.dispatchEvent(new Event(NUDGE_EVENT));
+    setDismissed(true);
   };
   return [dismissed, dismiss];
 }

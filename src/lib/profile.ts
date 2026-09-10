@@ -1,6 +1,6 @@
 "use client";
 
-import { useCallback, useSyncExternalStore } from "react";
+import { useCallback, useEffect, useState } from "react";
 
 import type { ExperienceLevel } from "@/types/job";
 
@@ -117,54 +117,46 @@ export function firstName(profile: SeekerProfile | null): string | null {
   return profile.fullName.trim().split(/\s+/)[0] ?? null;
 }
 
-/* ---- external-store plumbing so the hook is SSR-safe and reactive ---- */
-
-let cache: SeekerProfile | null = null;
-let cacheRaw: string | null = null;
-
-function getSnapshot(): SeekerProfile | null {
-  let raw: string | null = null;
-  try {
-    raw = window.localStorage.getItem(KEY);
-  } catch {
-    raw = null;
-  }
-  if (raw !== cacheRaw) {
-    cacheRaw = raw;
-    cache = readProfile();
-  }
-  return cache;
-}
-
-function getServerSnapshot(): SeekerProfile | null {
-  return null;
-}
-
-function subscribe(onChange: () => void): () => void {
-  window.addEventListener(EVENT, onChange);
-  window.addEventListener("storage", onChange);
-  return () => {
-    window.removeEventListener(EVENT, onChange);
-    window.removeEventListener("storage", onChange);
-  };
-}
-
-/** Reactive hook: re-renders on profile change in this or another tab. */
+/**
+ * Reactive profile hook. It intentionally starts as `null` / not-hydrated and
+ * fills in from localStorage in an effect: effects don't run during SSR or the
+ * hydration render, so the server and first client render always agree — no
+ * hydration mismatch, even inside a Suspense boundary.
+ */
 export function useProfile(): {
   profile: SeekerProfile | null;
   hydrated: boolean;
   save: (p: SeekerProfile) => void;
   clear: () => void;
 } {
-  const profile = useSyncExternalStore(subscribe, getSnapshot, getServerSnapshot);
-  const hydrated = useSyncExternalStore(
-    subscribe,
-    () => true,
-    () => false,
-  );
+  const [profile, setProfile] = useState<SeekerProfile | null>(null);
+  const [hydrated, setHydrated] = useState(false);
 
-  const save = useCallback((p: SeekerProfile) => writeProfile(p), []);
-  const clear = useCallback(() => clearProfile(), []);
+  useEffect(() => {
+    /* eslint-disable react-hooks/set-state-in-effect --
+       Deliberate: hydrate client-only state from localStorage after mount so
+       the SSR and first client render agree. The extra render is intentional. */
+    const sync = () => setProfile(readProfile());
+    sync();
+    setHydrated(true);
+    /* eslint-enable react-hooks/set-state-in-effect */
+    window.addEventListener(EVENT, sync);
+    window.addEventListener("storage", sync);
+    return () => {
+      window.removeEventListener(EVENT, sync);
+      window.removeEventListener("storage", sync);
+    };
+  }, []);
+
+  const save = useCallback((p: SeekerProfile) => {
+    writeProfile(p);
+    setProfile(p);
+  }, []);
+
+  const clear = useCallback(() => {
+    clearProfile();
+    setProfile(null);
+  }, []);
 
   return { profile, hydrated, save, clear };
 }

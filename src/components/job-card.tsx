@@ -4,10 +4,11 @@ import Link from "next/link";
 import { MapPin, Briefcase, Building2, ArrowUpRight } from "lucide-react";
 
 import type { Job } from "@/types/job";
-import { cn, relativeDate, formatSalary } from "@/lib/utils";
+import { cn, formatSalary } from "@/lib/utils";
 import { trackEvent } from "@/lib/analytics";
 import { Badge } from "@/components/ui/badge";
 import { Logo } from "@/components/ui/logo";
+import { TimeAgo } from "@/components/ui/time-ago";
 
 export function JobCard({ job, className }: { job: Job; className?: string }) {
   const salary = formatSalary(job.salary);
@@ -82,7 +83,7 @@ export function JobCard({ job, className }: { job: Job; className?: string }) {
 
       <div className="mt-4 flex items-center justify-between border-t border-[var(--border)] pt-3 text-xs text-text-faint">
         <span>{job.employmentType}</span>
-        <span>Posted {relativeDate(job.postedAt)}</span>
+        <TimeAgo iso={job.postedAt} prefix="Posted " />
       </div>
     </article>
   );
