@@ -4,13 +4,23 @@ import Link from "next/link";
 import { MapPin, Briefcase, Building2, ArrowUpRight } from "lucide-react";
 
 import type { Job } from "@/types/job";
+import type { MatchResult } from "@/lib/ats";
 import { cn, formatSalary } from "@/lib/utils";
 import { trackEvent } from "@/lib/analytics";
 import { Badge } from "@/components/ui/badge";
 import { Logo } from "@/components/ui/logo";
 import { TimeAgo } from "@/components/ui/time-ago";
+import { MatchBadge } from "@/components/match-badge";
 
-export function JobCard({ job, className }: { job: Job; className?: string }) {
+export function JobCard({
+  job,
+  className,
+  match,
+}: {
+  job: Job;
+  className?: string;
+  match?: MatchResult | null;
+}) {
   const salary = formatSalary(job.salary);
 
   return (
@@ -70,6 +80,7 @@ export function JobCard({ job, className }: { job: Job; className?: string }) {
           </div>
 
           <div className="mt-3.5 flex flex-wrap items-center gap-1.5">
+            {match && <MatchBadge score={match.score} band={match.band} />}
             <Badge tone="gold">{job.experienceLevel}</Badge>
             {job.domain.slice(0, 2).map((d) => (
               <Badge key={d} tone="outline">

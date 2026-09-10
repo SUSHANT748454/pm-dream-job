@@ -129,7 +129,7 @@ export interface JobQuery {
   pageSize?: number;
 }
 
-export type JobSort = "recent" | "oldest" | "company";
+export type JobSort = "recent" | "oldest" | "company" | "match";
 
 export interface JobQueryResult {
   jobs: Job[];

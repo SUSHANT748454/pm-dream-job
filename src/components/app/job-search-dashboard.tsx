@@ -22,6 +22,12 @@ import {
 import { cn, relativeDate, formatSalary } from "@/lib/utils";
 import { trackEvent } from "@/lib/analytics";
 import { useTracker, STAGES, type Stage } from "@/lib/tracker";
+import { useResume } from "@/lib/resume";
+import { useProfile } from "@/lib/profile";
+import { resumeTerms, scoreJob, type MatchResult } from "@/lib/ats";
+import { MatchBadge } from "@/components/match-badge";
+import { MatchBreakdown } from "@/components/match-breakdown";
+import { ResumePrompt } from "@/components/resume-prompt";
 import { Logo } from "@/components/ui/logo";
 import { Badge } from "@/components/ui/badge";
 import { Sparkline } from "@/components/app/sparkline";
@@ -55,8 +61,19 @@ export function JobSearchDashboard({
 }) {
   const router = useRouter();
   const tracker = useTracker();
+  const { resume } = useResume();
+  const { profile } = useProfile();
   const [now] = React.useState(() => Date.now());
+  const [sortByMatch, setSortByMatch] = React.useState(false);
   const rel = React.useCallback((iso: string) => relativeDate(iso, now), [now]);
+
+  const matches = React.useMemo(() => {
+    if (!resume) return null;
+    const terms = resumeTerms(resume.text);
+    const m = new Map<string, MatchResult>();
+    for (const j of jobs) m.set(j.id, scoreJob(terms, j, profile?.experienceYears));
+    return m;
+  }, [resume, jobs, profile?.experienceYears]);
 
   const [q, setQ] = React.useState("");
   const [city, setCity] = React.useState("");
@@ -93,7 +110,7 @@ export function JobSearchDashboard({
   const filtered = React.useMemo(() => {
     const needle = q.trim().toLowerCase();
     const terms = needle.split(/\s+/).filter(Boolean);
-    return jobs.filter((j) => {
+    const base = jobs.filter((j) => {
       if (city && j.location.city !== city && !(city === "Remote" && j.workMode === "Remote"))
         return false;
       if (mode && j.workMode !== mode) return false;
@@ -121,7 +138,15 @@ export function JobSearchDashboard({
       }
       return true;
     });
-  }, [jobs, q, city, mode, level, company, dateDays, now]);
+    if (matches && sortByMatch) {
+      return [...base].sort(
+        (a, b) =>
+          (matches.get(b.id)?.score ?? 0) - (matches.get(a.id)?.score ?? 0) ||
+          b.postedAt.localeCompare(a.postedAt),
+      );
+    }
+    return base;
+  }, [jobs, q, city, mode, level, company, dateDays, now, matches, sortByMatch]);
 
   const selected =
     filtered.find((j) => j.slug === selectedSlug) ?? filtered[0] ?? null;
@@ -221,7 +246,35 @@ export function JobSearchDashboard({
               Clear ({activeFilterCount})
             </button>
           )}
+
+          {matches && (
+            <div className="ml-auto inline-flex rounded-lg border border-[var(--border-strong)] p-0.5 text-[12px]">
+              {(["recent", "match"] as const).map((k) => {
+                const on = (k === "match") === sortByMatch;
+                return (
+                  <button
+                    key={k}
+                    onClick={() => setSortByMatch(k === "match")}
+                    className={cn(
+                      "rounded-md px-2.5 py-1 transition-colors",
+                      on
+                        ? "bg-[var(--bg-elevated)] text-text"
+                        : "text-text-muted hover:text-text",
+                    )}
+                  >
+                    {k === "match" ? "Best match" : "Newest"}
+                  </button>
+                );
+              })}
+            </div>
+          )}
         </div>
+
+        {!resume && (
+          <div className="mt-4">
+            <ResumePrompt />
+          </div>
+        )}
       </div>
 
       {/* Master / detail */}
@@ -264,6 +317,13 @@ export function JobSearchDashboard({
                           >
                             {job.title}
                           </span>
+                          {matches?.get(job.id) && (
+                            <MatchBadge
+                              compact
+                              score={matches.get(job.id)!.score}
+                              band={matches.get(job.id)!.band}
+                            />
+                          )}
                           {t && (
                             <span className="shrink-0 rounded-full bg-[var(--gold-dim)] px-1.5 text-[10px] text-gold-soft">
                               {STAGES.find((s) => s.id === t.stage)?.label}
@@ -493,6 +553,8 @@ function DetailPane({
       <DetailList title="What you'll do" items={job.responsibilities} />
       <DetailList title="What you'll bring" items={job.requirements} />
       <DetailList title="Nice to have" items={job.preferred} />
+
+      <MatchBreakdown job={job} />
     </div>
   );
 }

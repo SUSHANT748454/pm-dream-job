@@ -12,7 +12,11 @@ import {
   type FilterKey,
 } from "@/lib/filters";
 import { trackEvent } from "@/lib/analytics";
+import { useResume } from "@/lib/resume";
+import { useProfile } from "@/lib/profile";
+import { resumeTerms, scoreJob, type MatchResult } from "@/lib/ats";
 import { JobCard } from "@/components/job-card";
+import { ResumePrompt } from "@/components/resume-prompt";
 import { SearchBar } from "@/components/search-bar";
 import {
   FiltersSidebar,
@@ -34,7 +38,7 @@ interface State {
   page: number;
 }
 
-const VALID_SORTS: JobSort[] = ["recent", "oldest", "company"];
+const VALID_SORTS: JobSort[] = ["recent", "oldest", "company", "match"];
 
 function emptySelected(): Selected {
   const s = {} as Selected;
@@ -109,6 +113,17 @@ export function JobsBrowser({
 }) {
   const router = useRouter();
   const [state, setState] = React.useState<State>(INITIAL);
+  const { resume } = useResume();
+  const { profile } = useProfile();
+
+  const matchMap = React.useMemo(() => {
+    if (!resume) return null;
+    const terms = resumeTerms(resume.text);
+    const map = new Map<string, MatchResult>();
+    for (const job of jobs)
+      map.set(job.id, scoreJob(terms, job, profile?.experienceYears));
+    return map;
+  }, [resume, jobs, profile?.experienceYears]);
 
   React.useEffect(() => {
     // Hydrate filter state from the URL after mount (SSR renders the unfiltered
@@ -188,7 +203,13 @@ export function JobsBrowser({
       });
     }
     const sorted = [...out];
-    if (state.sort === "oldest")
+    if (state.sort === "match" && matchMap)
+      sorted.sort(
+        (a, b) =>
+          (matchMap.get(b.id)?.score ?? 0) - (matchMap.get(a.id)?.score ?? 0) ||
+          b.postedAt.localeCompare(a.postedAt),
+      );
+    else if (state.sort === "oldest")
       sorted.sort((a, b) => a.postedAt.localeCompare(b.postedAt));
     else if (state.sort === "company")
       sorted.sort(
@@ -198,7 +219,7 @@ export function JobsBrowser({
       );
     else sorted.sort((a, b) => b.postedAt.localeCompare(a.postedAt));
     return sorted;
-  }, [jobs, state.q, state.selected, state.sort]);
+  }, [jobs, state.q, state.selected, state.sort, matchMap]);
 
   const count = filtered.length;
   const visible = filtered.slice(0, state.page * DEFAULT_PAGE_SIZE);
@@ -237,6 +258,12 @@ export function JobsBrowser({
         />
       </div>
 
+      {!resume && (
+        <div className="mt-4">
+          <ResumePrompt />
+        </div>
+      )}
+
       <div className="mt-6 grid gap-10 lg:grid-cols-[16rem_1fr]">
         <FiltersSidebar
           facets={facets}
@@ -261,7 +288,11 @@ export function JobsBrowser({
                 {count === 1 ? "role" : "roles"}
               </p>
             </div>
-            <SortSelect value={state.sort} onChange={setSort} />
+            <SortSelect
+              value={state.sort === "match" && !matchMap ? DEFAULT_SORT : state.sort}
+              onChange={setSort}
+              withMatch={Boolean(matchMap)}
+            />
           </div>
 
           <div className="mt-4">
@@ -282,7 +313,11 @@ export function JobsBrowser({
             <>
               <div className="mt-5 grid gap-4">
                 {visible.map((job) => (
-                  <JobCard key={job.id} job={job} />
+                  <JobCard
+                    key={job.id}
+                    job={job}
+                    match={matchMap?.get(job.id)}
+                  />
                 ))}
               </div>
               {remaining > 0 && (

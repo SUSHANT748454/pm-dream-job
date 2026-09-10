@@ -18,6 +18,8 @@ export type AnalyticsEvent =
   | { name: "apply_clicked"; props: { jobId: string; slug: string; company: string; source: string } }
   | { name: "profile_wall_viewed"; props: { placement: string } }
   | { name: "profile_wall_cta_clicked"; props: { placement: string } }
+  | { name: "resume_parsed"; props: { type: string; ok: boolean } }
+  | { name: "ats_scored"; props: { band: string; score: number } }
   | {
       name: "onboarding_completed";
       props: { next: string; hasResume: boolean; level: string | null };

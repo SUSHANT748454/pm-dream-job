@@ -30,6 +30,8 @@ import {
 } from "@/lib/profile";
 import { trackEvent } from "@/lib/analytics";
 import { readNextPath } from "@/lib/next-path";
+import { writeResume, clearResume } from "@/lib/resume";
+import { parseResumeFile, ResumeParseError, ACCEPTED } from "@/lib/resume-parse";
 import { cn } from "@/lib/utils";
 
 const STEPS = [
@@ -417,15 +419,52 @@ function BasicStep({
 function ResumeStep({ draft, set }: StepProps) {
   const inputRef = useRef<HTMLInputElement>(null);
   const has = Boolean(draft.resumeName);
+  const [busy, setBusy] = useState(false);
+  const [error, setError] = useState<string | null>(null);
+  const [pasteOpen, setPasteOpen] = useState(false);
+  const [pasteText, setPasteText] = useState("");
 
-  function onFile(file: File | undefined) {
+  async function onFile(file: File | undefined) {
     if (!file) return;
-    if (file.size > 5 * 1024 * 1024) {
-      alert("Please choose a file under 5 MB.");
+    setBusy(true);
+    setError(null);
+    try {
+      const { text, source } = await parseResumeFile(file);
+      writeResume({ text, fileName: file.name, source });
+      set("resumeName", file.name);
+      set("resumeSize", text.length);
+      trackEvent({ name: "resume_parsed", props: { type: source, ok: true } });
+    } catch (e) {
+      setError(
+        e instanceof ResumeParseError
+          ? e.message
+          : "Couldn't read that file. Try a PDF, .docx, or paste the text.",
+      );
+      trackEvent({ name: "resume_parsed", props: { type: "file", ok: false } });
+    } finally {
+      setBusy(false);
+    }
+  }
+
+  function savePaste() {
+    const text = pasteText.trim();
+    if (text.length < 80) {
+      setError("That looks too short — paste the full résumé text.");
       return;
     }
-    set("resumeName", file.name);
-    set("resumeSize", file.size);
+    writeResume({ text, source: "paste" });
+    set("resumeName", "Résumé (pasted)");
+    set("resumeSize", text.length);
+    trackEvent({ name: "resume_parsed", props: { type: "paste", ok: true } });
+    setPasteOpen(false);
+    setPasteText("");
+    setError(null);
+  }
+
+  function remove() {
+    clearResume();
+    set("resumeName", "");
+    set("resumeSize", 0);
   }
 
   return (
@@ -439,51 +478,93 @@ function ResumeStep({ draft, set }: StepProps) {
             <p className="truncate text-sm font-medium text-[#1b1a17]">
               {draft.resumeName}
             </p>
-            {draft.resumeSize > 0 && (
-              <p className="text-xs text-[#8a857a]">
-                {(draft.resumeSize / 1024).toFixed(0)} KB · saved on this device
-              </p>
-            )}
+            <p className="text-xs text-[#8a857a]">
+              {draft.resumeSize.toLocaleString()} characters · match scoring on ·
+              this device only
+            </p>
           </div>
           <button
             type="button"
-            onClick={() => {
-              set("resumeName", "");
-              set("resumeSize", 0);
-            }}
+            onClick={remove}
             className="rounded p-1 text-[#8a857a] hover:text-[#1b1a17]"
             aria-label="Remove résumé"
           >
             <X className="h-4 w-4" />
           </button>
         </div>
+      ) : pasteOpen ? (
+        <div>
+          <textarea
+            value={pasteText}
+            onChange={(e) => setPasteText(e.target.value)}
+            rows={8}
+            placeholder="Paste your résumé text here…"
+            className={cn(fieldCls, "resize-y")}
+          />
+          <div className="mt-2 flex items-center gap-3">
+            <button
+              type="button"
+              onClick={savePaste}
+              className="inline-flex h-9 items-center rounded-[10px] bg-[#c9812a] px-4 text-[13px] font-semibold text-white hover:bg-[#b0701f]"
+            >
+              Use this text
+            </button>
+            <button
+              type="button"
+              onClick={() => {
+                setPasteOpen(false);
+                setError(null);
+              }}
+              className="text-[13px] text-[#6b675e] hover:text-[#1b1a17]"
+            >
+              Cancel
+            </button>
+          </div>
+        </div>
       ) : (
-        <button
-          type="button"
-          onClick={() => inputRef.current?.click()}
-          className="flex w-full flex-col items-center rounded-[14px] border border-dashed border-[#cfc9ba] bg-white/60 px-6 py-12 text-center transition-colors hover:border-[#c9812a] hover:bg-white"
-        >
-          <span className="grid h-12 w-12 place-items-center rounded-full bg-[#f5e6d3] text-[#c9812a]">
-            <UploadCloud className="h-5 w-5" />
-          </span>
-          <span className="mt-4 text-sm font-medium text-[#1b1a17]">
-            Click to upload your résumé
-          </span>
-          <span className="mt-1 font-mono text-[12px] text-[#8a857a]">
-            PDF, DOC or DOCX · up to 5MB
-          </span>
-        </button>
+        <>
+          <button
+            type="button"
+            onClick={() => inputRef.current?.click()}
+            disabled={busy}
+            className="flex w-full flex-col items-center rounded-[14px] border border-dashed border-[#cfc9ba] bg-white/60 px-6 py-12 text-center transition-colors hover:border-[#c9812a] hover:bg-white disabled:opacity-60"
+          >
+            <span className="grid h-12 w-12 place-items-center rounded-full bg-[#f5e6d3] text-[#c9812a]">
+              <UploadCloud className="h-5 w-5" />
+            </span>
+            <span className="mt-4 text-sm font-medium text-[#1b1a17]">
+              {busy ? "Reading your résumé…" : "Click to upload your résumé"}
+            </span>
+            <span className="mt-1 font-mono text-[12px] text-[#8a857a]">
+              PDF, DOCX or TXT · up to 8 MB
+            </span>
+          </button>
+          <button
+            type="button"
+            onClick={() => {
+              setPasteOpen(true);
+              setError(null);
+            }}
+            className="mt-2 text-[13px] text-[#6b675e] hover:text-[#1b1a17]"
+          >
+            or paste the text instead
+          </button>
+        </>
       )}
+
       <input
         ref={inputRef}
         type="file"
-        accept=".pdf,.doc,.docx"
+        accept={ACCEPTED}
         className="hidden"
         onChange={(e) => onFile(e.target.files?.[0])}
       />
+
+      {error && <p className="mt-3 text-xs text-red-500">{error}</p>}
+
       <p className="mt-4 text-xs leading-relaxed text-[#8a857a]">
-        Stored only in this browser for now. Résumé autofill and one-click apply
-        arrive with accounts.
+        Parsed in your browser and stored only on this device — it&apos;s never
+        uploaded. Used to match you against each role.
       </p>
     </div>
   );

@@ -24,6 +24,7 @@ import { ApplyButton } from "@/components/apply-button";
 import { JobCard } from "@/components/job-card";
 import { TrackView } from "@/components/analytics/track-view";
 import { ProfileBanner } from "@/components/profile-banner";
+import { MatchBreakdown } from "@/components/match-breakdown";
 
 export function generateStaticParams() {
   return getAllActiveJobSlugs().map((slug) => ({ slug }));
@@ -227,6 +228,8 @@ export default async function JobDetailPage(props: {
           <Section title="What you'll do" items={job.responsibilities} />
           <Section title="What you'll bring" items={job.requirements} />
           <Section title="Nice to have" items={job.preferred} />
+
+          <MatchBreakdown job={job} />
 
           {job.tags.length > 0 && (
             <div className="mt-8 flex flex-wrap gap-1.5">
