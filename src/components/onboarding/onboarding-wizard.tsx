@@ -112,11 +112,8 @@ export function OnboardingWizard() {
 
   function finish() {
     persist();
-    trackEvent({
-      name: "page_viewed",
-      props: { path: "/welcome#done" },
-    });
-    router.push("/jobs?onboarded=1");
+    trackEvent({ name: "page_viewed", props: { path: "/welcome#done" } });
+    router.push("/app");
   }
 
   const current = STEPS[step];

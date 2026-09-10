@@ -1,0 +1,201 @@
+{
+  "categories": [
+    "Product Sense",
+    "Analytical & Metrics",
+    "Strategy",
+    "Estimation",
+    "Execution",
+    "Behavioral",
+    "Technical"
+  ],
+  "questions": [
+    {
+      "id": "ps-1",
+      "category": "Product Sense",
+      "q": "Design a product to help people in India discover local events.",
+      "approach": "Clarify the user (age, city tier, intent). Pick a segment and a job-to-be-done. List 2–3 pain points, prioritise one, sketch a solution, name the single metric it moves, and call out one risk.",
+      "tags": ["consumer", "0-to-1"]
+    },
+    {
+      "id": "ps-2",
+      "category": "Product Sense",
+      "q": "Your favourite product has one feature you'd remove. Which, and why?",
+      "approach": "State the product's core value. Explain how the feature dilutes focus, adds cost, or confuses the primary user. Quantify the trade-off and describe how you'd validate the removal (holdback test, usage data).",
+      "tags": ["judgement", "prioritisation"]
+    },
+    {
+      "id": "ps-3",
+      "category": "Product Sense",
+      "q": "Improve onboarding for a fintech app aimed at first-time investors.",
+      "approach": "Map the current funnel (install → KYC → first deposit → first trade). Find the biggest drop-off, form a hypothesis for why, propose a change, and define the success metric (activation rate to first trade within 7 days).",
+      "tags": ["fintech", "activation"]
+    },
+    {
+      "id": "ps-4",
+      "category": "Product Sense",
+      "q": "How would you redesign the returns experience for an e-commerce app?",
+      "approach": "Segment by return reason (wrong size, damaged, changed mind). Balance customer trust against margin. Propose self-serve flows, instant refunds for trusted users, and measure repeat-purchase rate and return-abuse rate.",
+      "tags": ["ecommerce", "trust"]
+    },
+    {
+      "id": "ps-5",
+      "category": "Product Sense",
+      "q": "Design a feature to reduce loneliness for elderly users.",
+      "approach": "Empathise: accessibility, tech literacy, trust. Choose a channel they already use. Keep the solution simple (scheduled calls, community matching). Watch for safety and privacy risks. Metric: weekly meaningful interactions.",
+      "tags": ["accessibility", "social"]
+    },
+
+    {
+      "id": "am-1",
+      "category": "Analytical & Metrics",
+      "q": "DAU dropped 5% week-over-week. Walk me through your investigation.",
+      "approach": "Rule out data issues first. Slice by platform, geo, version, new vs returning, cohort. Check for seasonality, releases, external events, and marketing changes. Form a hypothesis, size the impact, propose a fix and a monitor.",
+      "tags": ["debugging", "metrics"]
+    },
+    {
+      "id": "am-2",
+      "category": "Analytical & Metrics",
+      "q": "What's the one metric you'd use to measure the health of WhatsApp?",
+      "approach": "Anchor on the core value (reliable messaging with people you care about). Argue for something like 'sends per active user to 2+ recipients' over raw DAU. Name the guardrails (spam rate, latency).",
+      "tags": ["north-star", "messaging"]
+    },
+    {
+      "id": "am-3",
+      "category": "Analytical & Metrics",
+      "q": "You ran an A/B test; the primary metric is flat but a secondary metric is up 8%. Ship it?",
+      "approach": "Check significance and power on both. Ask whether the secondary metric is a leading indicator of the primary. Consider novelty effects and segment heterogeneity. Decide based on the long-term value, not the p-value alone.",
+      "tags": ["experimentation", "decision"]
+    },
+    {
+      "id": "am-4",
+      "category": "Analytical & Metrics",
+      "q": "How would you detect and measure feature adoption gone wrong (misuse)?",
+      "approach": "Define intended vs unintended use. Build a funnel and outlier detection (frequency, sequence, value). Pair quantitative signals with a small qualitative review. Track a 'healthy adoption' ratio over time.",
+      "tags": ["adoption", "risk"]
+    },
+
+    {
+      "id": "st-1",
+      "category": "Strategy",
+      "q": "Should Zomato enter the grocery delivery market? Make the call.",
+      "approach": "Assess strategic fit (customers, riders, brand, data), market size and growth, competition and unit economics, and the cost of not entering. Recommend a clear yes/no with the first two experiments to de-risk it.",
+      "tags": ["market-entry", "india"]
+    },
+    {
+      "id": "st-2",
+      "category": "Strategy",
+      "q": "A competitor just launched your flagship feature for free. What do you do?",
+      "approach": "Separate signal from noise: is it a real threat to your moat? Options: accelerate roadmap, differentiate up-market, bundle, or ignore. Decide based on where your durable advantage is and communicate the rationale internally.",
+      "tags": ["competition", "moats"]
+    },
+    {
+      "id": "st-3",
+      "category": "Strategy",
+      "q": "Your B2B SaaS has 120% net revenue retention but weak new logo growth. Where do you invest?",
+      "approach": "Diagnose the funnel: is it awareness, conversion, or ICP fit? Weigh expansion (lower CAC, proven) vs acquisition (TAM ceiling). Propose a split, the leading indicators for each, and a review checkpoint.",
+      "tags": ["saas", "growth"]
+    },
+    {
+      "id": "st-4",
+      "category": "Strategy",
+      "q": "How would you think about pricing a new AI feature inside an existing product?",
+      "approach": "Value-based framing: what outcome does it drive, for whom? Consider usage-based vs seat-based vs tiered. Model cost-to-serve (inference). Test willingness to pay with a fake-door or design-partner pricing.",
+      "tags": ["pricing", "ai"]
+    },
+
+    {
+      "id": "es-1",
+      "category": "Estimation",
+      "q": "Estimate the number of Product Manager roles open in India right now.",
+      "approach": "Top-down: number of tech companies by size band × PMs per band × annual attrition/growth × fraction open at any time. Sanity-check bottom-up from a few job boards. State assumptions and give a range.",
+      "tags": ["market-sizing"]
+    },
+    {
+      "id": "es-2",
+      "category": "Estimation",
+      "q": "How many UPI transactions happen in India per day?",
+      "approach": "Population → smartphone users → active UPI users → transactions per user per day, split by P2P and merchant. Cross-check against a known public figure order of magnitude. Show the arithmetic clearly.",
+      "tags": ["fintech", "india"]
+    },
+    {
+      "id": "es-3",
+      "category": "Estimation",
+      "q": "Estimate the storage cost to keep one year of a mid-size app's event logs.",
+      "approach": "Events/day × bytes/event × 365 × replication factor → raw TB. Apply a blended storage price (hot vs cold). Add ingestion and query cost as a rough multiple. Note where compression changes the answer.",
+      "tags": ["technical", "cost"]
+    },
+
+    {
+      "id": "ex-1",
+      "category": "Execution",
+      "q": "You're two weeks from launch and engineering says they'll miss by a month. What now?",
+      "approach": "Get the real scope gap and root cause. Options: cut scope to a safe MVP, move the date, add help (rarely fast), or split the launch. Recommend one, state the trade-offs, align stakeholders, and update the plan.",
+      "tags": ["delivery", "stakeholders"]
+    },
+    {
+      "id": "ex-2",
+      "category": "Execution",
+      "q": "How do you decide what goes into the next sprint?",
+      "approach": "Tie candidates to the current quarter goal. Score by impact, confidence, effort, and dependencies. Reserve capacity for bugs and KTLO. Make the trade-offs visible and get explicit buy-in from eng and design.",
+      "tags": ["prioritisation", "planning"]
+    },
+    {
+      "id": "ex-3",
+      "category": "Execution",
+      "q": "A launched feature has 2% adoption after a month. Walk me through what you do.",
+      "approach": "Was 2% expected? Check discoverability, comprehension, and value delivery separately. Talk to users who didn't adopt. Decide: iterate, reposition, or sunset — and set a kill criterion this time.",
+      "tags": ["post-launch", "adoption"]
+    },
+
+    {
+      "id": "bh-1",
+      "category": "Behavioral",
+      "q": "Tell me about a time you shipped something that failed. What did you learn?",
+      "approach": "Use STAR. Be specific about your decision and the signal you missed. Show you took ownership, name the concrete change you made to your process, and give evidence it worked next time.",
+      "tags": ["ownership", "STAR"]
+    },
+    {
+      "id": "bh-2",
+      "category": "Behavioral",
+      "q": "Describe a disagreement with an engineer or designer and how you resolved it.",
+      "approach": "Frame it as a healthy conflict over a real trade-off, not personalities. Show you sought their reasoning, brought data, and either changed your mind or found a test to settle it. End with the outcome and the relationship intact.",
+      "tags": ["influence", "collaboration"]
+    },
+    {
+      "id": "bh-3",
+      "category": "Behavioral",
+      "q": "Tell me about a time you said no to a senior stakeholder.",
+      "approach": "Show judgement and courage. Explain the ask, why it conflicted with the goal or users, how you said no (with an alternative and data), and how you kept the relationship. Note what you'd do differently.",
+      "tags": ["stakeholders", "judgement"]
+    },
+    {
+      "id": "bh-4",
+      "category": "Behavioral",
+      "q": "How do you prioritise when everything is 'urgent'?",
+      "approach": "Give your actual framework (goal alignment, reversible vs one-way-door, cost of delay). Walk through a real example where you pushed back, sequenced work, and communicated the trade-offs to keep trust.",
+      "tags": ["prioritisation"]
+    },
+
+    {
+      "id": "tc-1",
+      "category": "Technical",
+      "q": "Explain how you'd design a rate limiter for a public API.",
+      "approach": "Clarify the goal (fairness, abuse, cost). Token bucket vs sliding window. Where it lives (edge vs service), storage (in-memory vs Redis), and behaviour on limit (429 + Retry-After). Discuss distributed consistency and failure modes.",
+      "tags": ["systems", "api"]
+    },
+    {
+      "id": "tc-2",
+      "category": "Technical",
+      "q": "What happens when a user types a URL and hits enter?",
+      "approach": "DNS → TCP/TLS → HTTP request → server + CDN/cache → response → parse HTML → fetch subresources → render → hydrate. Call out where latency and failures commonly occur and what a PM can influence.",
+      "tags": ["web", "fundamentals"]
+    },
+    {
+      "id": "tc-3",
+      "category": "Technical",
+      "q": "A key API endpoint's p99 latency doubled overnight. How do you help debug?",
+      "approach": "Look at what changed (deploys, traffic, dependencies, data volume). Break latency down by span (DB, cache, downstream calls). Correlate with error rate and a specific cohort. Decide rollback vs forward-fix with eng.",
+      "tags": ["performance", "incident"]
+    }
+  ]
+}

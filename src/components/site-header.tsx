@@ -55,29 +55,36 @@ export function SiteHeader() {
 
         <div className="flex items-center gap-2">
           {hydrated && name ? (
-            <Link
-              href="/welcome"
-              className="hidden items-center gap-2 rounded-full border border-[var(--border-strong)] py-1 pl-1 pr-3 text-sm text-text-muted transition-colors hover:text-text sm:inline-flex"
-              title="Edit your profile"
-            >
-              <span className="grid h-6 w-6 place-items-center rounded-full bg-[var(--gold-dim)] font-display text-[11px] text-gold-soft">
-                {monogram(profile!.fullName)}
-              </span>
-              {name}
-            </Link>
+            <>
+              <Link
+                href="/app"
+                className="hidden items-center gap-2 rounded-full border border-[var(--border-strong)] py-1 pl-1 pr-3 text-sm text-text-muted transition-colors hover:text-text sm:inline-flex"
+                title="Open your dashboard"
+              >
+                <span className="grid h-6 w-6 place-items-center rounded-full bg-[var(--gold-dim)] font-display text-[11px] text-gold-soft">
+                  {monogram(profile!.fullName)}
+                </span>
+                {name}
+              </Link>
+              <Button asChild size="sm" className="hidden sm:inline-flex">
+                <Link href="/app">Dashboard</Link>
+              </Button>
+            </>
           ) : (
-            <Button
-              asChild
-              size="sm"
-              variant="secondary"
-              className="hidden sm:inline-flex"
-            >
-              <Link href="/welcome">Set up profile</Link>
-            </Button>
+            <>
+              <Button
+                asChild
+                size="sm"
+                variant="secondary"
+                className="hidden sm:inline-flex"
+              >
+                <Link href="/welcome">Set up profile</Link>
+              </Button>
+              <Button asChild size="sm" className="hidden sm:inline-flex">
+                <Link href="/jobs">Browse jobs</Link>
+              </Button>
+            </>
           )}
-          <Button asChild size="sm" className="hidden sm:inline-flex">
-            <Link href="/jobs">Browse jobs</Link>
-          </Button>
           <button
             type="button"
             aria-label="Menu"
@@ -123,11 +130,11 @@ export function SiteHeader() {
               </Link>
             ))}
             <Link
-              href="/welcome"
+              href={hydrated && name ? "/app" : "/welcome"}
               onClick={() => setOpen(false)}
               className="rounded-md px-2 py-3 text-sm text-gold-soft"
             >
-              {hydrated && name ? `${name} — edit profile` : "Set up profile"}
+              {hydrated && name ? "Open dashboard" : "Set up profile"}
             </Link>
           </nav>
         </div>

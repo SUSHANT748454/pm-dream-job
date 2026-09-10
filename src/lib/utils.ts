@@ -5,11 +5,14 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
 }
 
-/** "Posted 2 days ago" style relative date from an ISO (YYYY-MM-DD) string. */
-export function relativeDate(iso: string): string {
+/**
+ * "Posted 2 days ago" style relative date from an ISO (YYYY-MM-DD) string.
+ * Pass `now` (e.g. a server timestamp) to keep SSR and client output identical.
+ */
+export function relativeDate(iso: string, now: number = Date.now()): string {
   const then = new Date(iso + (iso.length === 10 ? "T00:00:00Z" : "")).getTime();
   if (Number.isNaN(then)) return "Recently";
-  const days = Math.floor((Date.now() - then) / 86_400_000);
+  const days = Math.floor((now - then) / 86_400_000);
   if (days <= 0) return "Today";
   if (days === 1) return "Yesterday";
   if (days < 7) return `${days} days ago`;
