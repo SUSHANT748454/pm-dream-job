@@ -136,6 +136,8 @@ interface GreenhouseResponse {
 async function fromGreenhouse(c: SeedCompany): Promise<RawJob[]> {
   const data = await fetchJson<GreenhouseResponse>(
     `https://boards-api.greenhouse.io/v1/boards/${c.slug}/jobs?content=true`,
+    undefined,
+    45000,
   );
   const out: RawJob[] = [];
   for (const j of data.jobs ?? []) {

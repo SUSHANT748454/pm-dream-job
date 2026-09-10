@@ -1,11 +1,10 @@
 /**
- * Curated companies with an India presence that hire Product Managers, plus the
- * public job-board (ATS) endpoint we can read without an API key.
+ * Companies whose public job board (Greenhouse / Lever / Ashby) we read without
+ * an API key. Every `slug` here returned at least one India-based Product
+ * Manager role when last checked (2026-09-10). A slug that later breaks just
+ * 404s and is skipped — safe to extend.
  *
- * `slug` is the token in the ATS URL. A wrong token just 404s and that company
- * is skipped, so this list is safe to extend over time.
- *
- * Tokens marked "verified" returned jobs on 2026-09-10.
+ * Re-check / discover new tokens with: node scripts/probe-tokens.mjs
  */
 
 import type { Domain } from "../../src/types/job.ts";
@@ -23,32 +22,49 @@ export interface SeedCompany {
 }
 
 export const SEED_COMPANIES: SeedCompany[] = [
-  // --- Greenhouse (verified tokens) ---
+  // ---------------- Greenhouse ----------------
   { name: "Razorpay", domain: "razorpay.com", ats: "greenhouse", slug: "razorpaysoftwareprivatelimited", industry: "Fintech", size: "1000-5000", domains: ["Fintech", "SaaS"] },
   { name: "Groww", domain: "groww.in", ats: "greenhouse", slug: "groww", industry: "Fintech", size: "1000-5000", domains: ["Fintech", "Consumer"] },
   { name: "Postman", domain: "postman.com", ats: "greenhouse", slug: "postman", industry: "Developer Tools", size: "1000-5000", domains: ["SaaS", "Enterprise", "AI"] },
   { name: "slice", domain: "sliceit.com", ats: "greenhouse", slug: "slice", industry: "Fintech", size: "1000-5000", domains: ["Fintech", "Consumer"] },
   { name: "Porter", domain: "porter.in", ats: "greenhouse", slug: "porter", industry: "Logistics", size: "1000-5000", domains: ["Logistics", "Consumer"] },
   { name: "BlueStone", domain: "bluestone.com", ats: "greenhouse", slug: "bluestone", industry: "Ecommerce", size: "1000-5000", domains: ["Ecommerce", "Consumer"] },
+  { name: "Stripe", domain: "stripe.com", ats: "greenhouse", slug: "stripe", industry: "Fintech", size: "5000+", domains: ["Fintech", "SaaS", "Enterprise"] },
+  { name: "Affirm", domain: "affirm.com", ats: "greenhouse", slug: "affirm", industry: "Fintech", size: "1000-5000", domains: ["Fintech", "Consumer"] },
+  { name: "Coinbase", domain: "coinbase.com", ats: "greenhouse", slug: "coinbase", industry: "Fintech", size: "5000+", domains: ["Fintech", "Consumer"] },
+  { name: "Instacart", domain: "instacart.com", ats: "greenhouse", slug: "instacart", industry: "Ecommerce", size: "5000+", domains: ["Ecommerce", "Logistics", "Consumer"] },
+  { name: "GitLab", domain: "gitlab.com", ats: "greenhouse", slug: "gitlab", industry: "Developer Tools", size: "1000-5000", domains: ["SaaS", "Enterprise"] },
+  { name: "Reddit", domain: "reddit.com", ats: "greenhouse", slug: "reddit", industry: "Social", size: "1000-5000", domains: ["Consumer"] },
+  { name: "Pinterest", domain: "pinterest.com", ats: "greenhouse", slug: "pinterest", industry: "Social", size: "1000-5000", domains: ["Consumer", "Ecommerce"] },
+  { name: "Smartsheet", domain: "smartsheet.com", ats: "greenhouse", slug: "smartsheet", industry: "SaaS", size: "1000-5000", domains: ["SaaS", "Enterprise"] },
+  { name: "Glean", domain: "glean.com", ats: "greenhouse", slug: "gleanwork", industry: "AI", size: "500-1000", domains: ["AI", "Enterprise", "SaaS"] },
+  { name: "Toast", domain: "toasttab.com", ats: "greenhouse", slug: "toast", industry: "Fintech", size: "5000+", domains: ["Fintech", "SaaS"] },
+  { name: "Anthropic", domain: "anthropic.com", ats: "greenhouse", slug: "anthropic", industry: "AI", size: "1000-5000", domains: ["AI", "Enterprise"] },
+  { name: "Sumo Logic", domain: "sumologic.com", ats: "greenhouse", slug: "sumologic", industry: "SaaS", size: "1000-5000", domains: ["SaaS", "Enterprise"] },
+  { name: "MongoDB", domain: "mongodb.com", ats: "greenhouse", slug: "mongodb", industry: "Developer Tools", size: "5000+", domains: ["SaaS", "Enterprise"] },
+  { name: "Airbnb", domain: "airbnb.com", ats: "greenhouse", slug: "airbnb", industry: "Travel", size: "5000+", domains: ["Consumer"] },
+  { name: "Zscaler", domain: "zscaler.com", ats: "greenhouse", slug: "zscaler", industry: "Security", size: "5000+", domains: ["Enterprise", "SaaS"] },
+  { name: "Rubrik", domain: "rubrik.com", ats: "greenhouse", slug: "rubrik", industry: "Enterprise", size: "1000-5000", domains: ["Enterprise", "SaaS"] },
+  { name: "Karat", domain: "karat.com", ats: "greenhouse", slug: "karat", industry: "HR Tech", size: "500-1000", domains: ["SaaS", "Enterprise"] },
+  { name: "Karya", domain: "karya.in", ats: "greenhouse", slug: "karya", industry: "AI", size: "50-100", domains: ["AI", "Consumer"] },
+  { name: "Commvault", domain: "commvault.com", ats: "greenhouse", slug: "commvault", industry: "Enterprise", size: "1000-5000", domains: ["Enterprise", "SaaS"] },
 
-  // --- Greenhouse (best-effort tokens) ---
-  { name: "Meesho", domain: "meesho.com", ats: "greenhouse", slug: "meeshoexternal", industry: "Ecommerce", size: "1000-5000", domains: ["Ecommerce", "Consumer"] },
-  { name: "Sprinto", domain: "sprinto.com", ats: "greenhouse", slug: "sprintohq", industry: "SaaS", size: "100-500", domains: ["SaaS", "Enterprise"] },
-  { name: "MoEngage", domain: "moengage.com", ats: "greenhouse", slug: "moengage", industry: "SaaS", size: "500-1000", domains: ["SaaS", "Enterprise", "AI"] },
-  { name: "Whatfix", domain: "whatfix.com", ats: "greenhouse", slug: "whatfix", industry: "SaaS", size: "500-1000", domains: ["SaaS", "Enterprise"] },
+  // ---------------- Lever ----------------
+  { name: "Paytm", domain: "paytm.com", ats: "lever", slug: "paytm", industry: "Fintech", size: "5000+", domains: ["Fintech", "Consumer"] },
+  { name: "Meesho", domain: "meesho.com", ats: "lever", slug: "meesho", industry: "Ecommerce", size: "1000-5000", domains: ["Ecommerce", "Consumer"] },
+  { name: "MindTickle", domain: "mindtickle.com", ats: "lever", slug: "mindtickle", industry: "SaaS", size: "500-1000", domains: ["SaaS", "Enterprise", "AI"] },
+  { name: "Hevo Data", domain: "hevodata.com", ats: "lever", slug: "hevodata", industry: "Data", size: "100-500", domains: ["SaaS", "Enterprise"] },
+  { name: "Saviynt", domain: "saviynt.com", ats: "lever", slug: "saviynt", industry: "Security", size: "1000-5000", domains: ["Enterprise", "SaaS"] },
+  { name: "FamPay", domain: "fampay.in", ats: "lever", slug: "fampay", industry: "Fintech", size: "100-500", domains: ["Fintech", "Consumer"] },
+  { name: "Warner Music Group", domain: "wmg.com", ats: "lever", slug: "wmg", industry: "Entertainment", size: "5000+", domains: ["Consumer"] },
 
-  // --- Ashby (verified tokens) ---
+  // ---------------- Ashby ----------------
   { name: "Navi", domain: "navi.com", ats: "ashby", slug: "navi", industry: "Fintech", size: "1000-5000", domains: ["Fintech", "Consumer"] },
   { name: "SpotDraft", domain: "spotdraft.com", ats: "ashby", slug: "spotdraft", industry: "SaaS", size: "100-500", domains: ["SaaS", "Enterprise", "AI"] },
   { name: "Atlan", domain: "atlan.com", ats: "ashby", slug: "atlan", industry: "Data", size: "100-500", domains: ["SaaS", "Enterprise", "AI"] },
-
-  // --- Ashby (best-effort tokens) ---
-  { name: "Fi Money", domain: "fi.money", ats: "ashby", slug: "epifi", industry: "Fintech", size: "500-1000", domains: ["Fintech", "Consumer"] },
-  { name: "Zluri", domain: "zluri.com", ats: "ashby", slug: "zluri", industry: "SaaS", size: "100-500", domains: ["SaaS", "Enterprise"] },
-  { name: "SuperOps", domain: "superops.com", ats: "ashby", slug: "superops", industry: "SaaS", size: "100-500", domains: ["SaaS", "Enterprise"] },
-
-  // --- Lever (best-effort tokens) ---
-  { name: "Spinny", domain: "spinny.com", ats: "lever", slug: "spinny", industry: "Ecommerce", size: "1000-5000", domains: ["Ecommerce", "Consumer"] },
-  { name: "Classplus", domain: "classplusapp.com", ats: "lever", slug: "classplus", industry: "EdTech", size: "500-1000", domains: ["EdTech", "SaaS"] },
-  { name: "LeadSquared", domain: "leadsquared.com", ats: "lever", slug: "leadsquared", industry: "SaaS", size: "500-1000", domains: ["SaaS", "Enterprise"] },
+  { name: "Sarvam AI", domain: "sarvam.ai", ats: "ashby", slug: "sarvam", industry: "AI", size: "50-100", domains: ["AI", "Consumer"] },
+  { name: "Ema", domain: "ema.co", ats: "ashby", slug: "ema", industry: "AI", size: "100-500", domains: ["AI", "Enterprise"] },
+  { name: "Vanta", domain: "vanta.com", ats: "ashby", slug: "vanta", industry: "Security", size: "500-1000", domains: ["SaaS", "Enterprise"] },
+  { name: "Josys", domain: "josys.com", ats: "ashby", slug: "josys", industry: "SaaS", size: "500-1000", domains: ["SaaS", "Enterprise"] },
+  { name: "Hex", domain: "hex.tech", ats: "ashby", slug: "hex", industry: "Data", size: "100-500", domains: ["SaaS", "AI", "Enterprise"] },
 ];

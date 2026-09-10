@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T09:09:40.901Z",
+  "generatedAt": "2026-09-10T09:16:36.087Z",
   "jobs": [
     {
       "id": "job_3c39b5",
@@ -59,6 +59,162 @@
       "applyUrl": "https://jobs.ashbyhq.com/spotdraft/e9146208-bd24-443b-b1d8-96aabd292538",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_e4eec1",
+      "slug": "principal-product-manager-sumo-logic-bengaluru-e4eec1",
+      "title": "Principal Product Manager",
+      "company": {
+        "id": "sumo-logic",
+        "name": "Sumo Logic",
+        "logo": null,
+        "domain": "sumologic.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise"
+      ],
+      "skills": [
+        "SQL",
+        "Analytics",
+        "Platform",
+        "Data",
+        "Demand"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "Group Product Manager",
+        "Onsite",
+        "SQL",
+        "Analytics",
+        "Platform",
+        "Data"
+      ],
+      "description": "",
+      "responsibilities": [
+        "Agentic Investigation & Reliability Experiences",
+        "Sumo Logic is hiring a Principal Product Manager to lead how engineers and operators investigate incidents, understand reliability risk, and act on their operational and security telemetry.",
+        "The observability category was built around collecting telemetry and giving people tools to navigate it: dashboards, queries, monitors, traces, and alerts. Customer expectations are now shifting. Teams don't just want more dashboards; they want help getting from a signal to a resolution, understanding what's broken, why, what's impacted, and what to do next. As AI agents move into production operations, this role owns how Sumo Logic brings intelligent, agent-assisted investigation and reliability workflows to customers, grounded in evidence, context, and enterprise governance.",
+        "This is a senior, high-ownership role. It requires genuine observability domain background. You should have lived in this space and understand how monitoring, troubleshooting, and reliability actually work, combined with the ambition to define a new category of experience on top of it.",
+        "What You Will Own",
+        "The current data experiences.",
+        "Log Search, Live Tail, query and query optimization, Metrics Search, Tracing, Dashboards, and the data-experience UI. This is a live, revenue-generating product with real customers, and keeping it strong is part of the job. You own its health, roadmap, and competitiveness today while steering it toward an AI-native future, focusing new investment where it strengthens investigation, speed, and value for both new and power users.",
+        "The reliability and alerting surface.",
+        "Monitors, Alerts, SLOs, Scheduled Searches, and the reliability workflows around them. You will own alerting accuracy, noise reduction, and operational health signals both as capabilities customers depend on today and as the foundation for more automated, agent-assisted detection and investigation.",
+        "The agentic investigation experience.",
+        "You will define how a user moves from a search, a monitor, a dashboard, or an alert to likely cause faster, with supporting evidence. This means productizing investigation workflows that reason across logs, metrics, traces, monitors, dashboards, and related context, and evolving them from reactive troubleshooting toward more proactive detection over time.",
+        "What You Will Be Doing"
+      ],
+      "requirements": [
+        "8+ years of product management experience with real observability or monitoring domain background. You have owned products in observability, monitoring, incident response, APM, or a closely adjacent operational-telemetry space. This is a hard requirement.",
+        "Deep, first-hand understanding of the observability surface area including logs, metrics, traces, dashboards, monitors, alerts, and SLOs, and of how engineers and operators actually investigate incidents and decide what to trust.",
+        "Proven ability to run a live, at-scale product, owning the roadmap, health, and competitiveness of shipping surfaces while driving a larger transformation.",
+        "A track record of owning broad, technically deep surfaces and setting direction that other teams build on.",
+        "Familiarity with how AI and agents are changing data interaction, including natural-language investigation, tools, guardrails, and human-in-the-loop action, or the ability to ramp quickly.",
+        "Strong technical instincts around query engines, time-series and trace data, and alerting systems, plus the judgment to know where an AI-assisted experience should replace a manual flow and where depth must stay.",
+        "Strong analytical skills and comfort using telemetry, dashboards, SQL, and usage data to understand adoption, friction, reliability, and cost.",
+        "Excellent communication across technical and business audiences, and the ability to write clear proposals, decision docs, PRDs, and acceptance criteria.",
+        "High ownership and drive to make progress across a large, ambiguous, fast-moving surface.",
+        "Must-Have Qualities",
+        "Runs today, builds tomorrow.",
+        "Keeps a live product healthy and competitive while reinventing it, and knows what to sustain and what to rebuild."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Sumo Logic",
+      "applyUrl": "https://job-boards.greenhouse.io/sumologic/jobs/8098451",
+      "postedAt": "2026-09-08",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_29f119",
+      "slug": "principal-product-manager-sumo-logic-delhi-ncr-29f119",
+      "title": "Principal Product Manager",
+      "company": {
+        "id": "sumo-logic",
+        "name": "Sumo Logic",
+        "logo": null,
+        "domain": "sumologic.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise"
+      ],
+      "skills": [
+        "SQL",
+        "Analytics",
+        "Platform",
+        "Data",
+        "Demand"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "Group Product Manager",
+        "Onsite",
+        "SQL",
+        "Analytics",
+        "Platform",
+        "Data"
+      ],
+      "description": "",
+      "responsibilities": [
+        "Agentic Investigation & Reliability Experiences",
+        "Sumo Logic is hiring a Principal Product Manager to lead how engineers and operators investigate incidents, understand reliability risk, and act on their operational and security telemetry.",
+        "The observability category was built around collecting telemetry and giving people tools to navigate it: dashboards, queries, monitors, traces, and alerts. Customer expectations are now shifting. Teams don't just want more dashboards; they want help getting from a signal to a resolution, understanding what's broken, why, what's impacted, and what to do next. As AI agents move into production operations, this role owns how Sumo Logic brings intelligent, agent-assisted investigation and reliability workflows to customers, grounded in evidence, context, and enterprise governance.",
+        "This is a senior, high-ownership role. It requires genuine observability domain background. You should have lived in this space and understand how monitoring, troubleshooting, and reliability actually work, combined with the ambition to define a new category of experience on top of it.",
+        "What You Will Own",
+        "The current data experiences.",
+        "Log Search, Live Tail, query and query optimization, Metrics Search, Tracing, Dashboards, and the data-experience UI. This is a live, revenue-generating product with real customers, and keeping it strong is part of the job. You own its health, roadmap, and competitiveness today while steering it toward an AI-native future, focusing new investment where it strengthens investigation, speed, and value for both new and power users.",
+        "The reliability and alerting surface.",
+        "Monitors, Alerts, SLOs, Scheduled Searches, and the reliability workflows around them. You will own alerting accuracy, noise reduction, and operational health signals both as capabilities customers depend on today and as the foundation for more automated, agent-assisted detection and investigation.",
+        "The agentic investigation experience.",
+        "You will define how a user moves from a search, a monitor, a dashboard, or an alert to likely cause faster, with supporting evidence. This means productizing investigation workflows that reason across logs, metrics, traces, monitors, dashboards, and related context, and evolving them from reactive troubleshooting toward more proactive detection over time.",
+        "What You Will Be Doing"
+      ],
+      "requirements": [
+        "8+ years of product management experience with real observability or monitoring domain background. You have owned products in observability, monitoring, incident response, APM, or a closely adjacent operational-telemetry space. This is a hard requirement.",
+        "Deep, first-hand understanding of the observability surface area including logs, metrics, traces, dashboards, monitors, alerts, and SLOs, and of how engineers and operators actually investigate incidents and decide what to trust.",
+        "Proven ability to run a live, at-scale product, owning the roadmap, health, and competitiveness of shipping surfaces while driving a larger transformation.",
+        "A track record of owning broad, technically deep surfaces and setting direction that other teams build on.",
+        "Familiarity with how AI and agents are changing data interaction, including natural-language investigation, tools, guardrails, and human-in-the-loop action, or the ability to ramp quickly.",
+        "Strong technical instincts around query engines, time-series and trace data, and alerting systems, plus the judgment to know where an AI-assisted experience should replace a manual flow and where depth must stay.",
+        "Strong analytical skills and comfort using telemetry, dashboards, SQL, and usage data to understand adoption, friction, reliability, and cost.",
+        "Excellent communication across technical and business audiences, and the ability to write clear proposals, decision docs, PRDs, and acceptance criteria.",
+        "High ownership and drive to make progress across a large, ambiguous, fast-moving surface.",
+        "Must-Have Qualities",
+        "Runs today, builds tomorrow.",
+        "Keeps a live product healthy and competitive while reinventing it, and knows what to sustain and what to rebuild."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Sumo Logic",
+      "applyUrl": "https://job-boards.greenhouse.io/sumologic/jobs/8089130",
+      "postedAt": "2026-09-08",
+      "firstSeenAt": "2026-09-10",
       "lastSeenAt": "2026-09-10",
       "status": "Active"
     },
@@ -389,6 +545,64 @@
       "status": "Active"
     },
     {
+      "id": "job_abb4e4",
+      "slug": "product-management-senior-product-manager-risk-paytm-bengaluru-abb4e4",
+      "title": "Product Management - Senior Product Manager - Risk",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Consumer",
+        "AI"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Experimentation",
+        "Analytics",
+        "Growth",
+        "Data",
+        "Machine Learning",
+        "Mobile",
+        "Payments",
+        "Fraud",
+        "Demand"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "AI",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Experimentation",
+        "Analytics"
+      ],
+      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology.  About the Team: The Credit Risk Product Team is at the core of our lending operations, ensuring that our risk assessment models are efficient, scalable, and compliant with regulatory frameworks. The team collaborates closely with data scientis",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/5dbd7403-b047-48e1-b433-574933914ff3",
+      "postedAt": "2026-09-06",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
       "id": "job_285c64",
       "slug": "product-owner-reference-and-market-data-broadridge-bengaluru-285c64",
       "title": "Product Owner — Reference and Market Data",
@@ -468,6 +682,63 @@
       "status": "Active"
     },
     {
+      "id": "job_9f9142",
+      "slug": "staff-product-manager-global-expansion-stripe-bengaluru-9f9142",
+      "title": "Staff Product Manager, Global Expansion",
+      "company": {
+        "id": "stripe",
+        "name": "Stripe",
+        "logo": null,
+        "domain": "stripe.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 12,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "SaaS"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Go-to-Market",
+        "Growth",
+        "Pricing",
+        "API",
+        "Platform",
+        "Data",
+        "Payments",
+        "Marketplace",
+        "Demand"
+      ],
+      "tags": [
+        "Fintech",
+        "SaaS",
+        "Lead Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Go-to-Market",
+        "Growth",
+        "Pricing"
+      ],
+      "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Stripe",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=7570242",
+      "postedAt": "2026-09-04",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
       "id": "job_9964e8",
       "slug": "director-platform-engineering-product-management-appian-chennai-9964e8",
       "title": "Director, Platform Engineering (Product Management)",
@@ -527,6 +798,55 @@
       "applyUrl": "https://www.themuse.com/jobs/appian/director-platform-engineering-product-management-e018fd",
       "postedAt": "2026-09-03",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_114e7b",
+      "slug": "product-management-paytm-insurance-i-exp-6-8-years-paytm-delhi-ncr-114e7b",
+      "title": "Product Management- Paytm Insurance I Exp- 6-8 Years",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 6,
+      "experienceMax": 8,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Data",
+        "Payments",
+        "Demand"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "Data",
+        "Payments",
+        "Demand"
+      ],
+      "description": "About Paytm Paytm is a pioneer of digital payments in India, serving over 450 million consumers and 45 million merchants across payments, financial services, and commerce. Over the years, Paytm has built deep in-house capabilities across technology, data, and operations to operate at scale with high reliability. About the team: Headquartered in Noida, India, Paytm Insurance Broking Private Limited (PIBPL), a wholly  owned subsidiary of One97 Communications (OCL) is an online insurance market place, that  offers insurance products across all leading insurance companies, with products across aut",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/5e3ae6dd-e4a3-4cfc-acb7-ae8b9d030cc1",
+      "postedAt": "2026-09-03",
+      "firstSeenAt": "2026-09-10",
       "lastSeenAt": "2026-09-10",
       "status": "Active"
     },
@@ -591,6 +911,64 @@
       "applyUrl": "https://www.themuse.com/jobs/ukg/product-manager-ii-certinia-product-manager",
       "postedAt": "2026-09-03",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_ca8386",
+      "slug": "senior-product-manager-identity-resilience-rubrik-bengaluru-ca8386",
+      "title": "Senior Product Manager-Identity Resilience",
+      "company": {
+        "id": "rubrik",
+        "name": "Rubrik",
+        "logo": null,
+        "domain": "rubrik.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "Enterprise",
+        "SaaS",
+        "AI"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Go-to-Market",
+        "Growth",
+        "Pricing",
+        "API",
+        "Platform",
+        "Data",
+        "B2B",
+        "Stakeholder Management",
+        "Compliance"
+      ],
+      "tags": [
+        "Enterprise",
+        "SaaS",
+        "AI",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Go-to-Market",
+        "Growth"
+      ],
+      "description": "Senior Product Manager, Identity Resilience\n\nLocation: Bangalore",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Rubrik",
+      "applyUrl": "https://www.rubrik.com/company/careers/departments/job.7976001?gh_jid=7976001",
+      "postedAt": "2026-09-03",
+      "firstSeenAt": "2026-09-10",
       "lastSeenAt": "2026-09-10",
       "status": "Active"
     },
@@ -715,6 +1093,260 @@
       "status": "Active"
     },
     {
+      "id": "job_02c16a",
+      "slug": "product-management-senior-product-manager-edc-product-paytm-delhi-ncr-02c16a",
+      "title": "Product Management - Senior Product Manager - EDC Product",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Product Strategy",
+        "A/B Testing",
+        "Experimentation",
+        "Analytics",
+        "Growth",
+        "Monetization",
+        "API",
+        "Data",
+        "Mobile",
+        "Payments"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "A/B Testing",
+        "Experimentation",
+        "Analytics"
+      ],
+      "description": "About Us Paytm is India’s leading mobile payments and financial services distribution company. A pioneer of the mobile QR payments revolution, Paytm builds technology that enables small businesses and consumers to participate in the digital economy. Our mission is to serve half a billion Indians and bring them into the mainstream economy through technology. About the Role We are looking for a strategic, customer-focused and data-driven Product Manager to own and scale products and experiences for Paytm’s offline merchant ecosystem. The role will be responsible for defining product strategy, id",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/31b1200e-0efe-43fc-8f6f-08a2559b31ab",
+      "postedAt": "2026-09-02",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_cb783c",
+      "slug": "product-management-senior-product-manager-lending-paytm-delhi-ncr-cb783c",
+      "title": "Product Management - Senior Product Manager - Lending",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Consumer",
+        "Ecommerce"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Experimentation",
+        "Analytics",
+        "Data",
+        "Mobile",
+        "Payments",
+        "Demand",
+        "Stakeholder Management",
+        "Agile",
+        "Scrum"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Ecommerce",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Experimentation",
+        "Analytics"
+      ],
+      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology Role Overview We are looking for a Senior Product Manager (SPM) who can own products end-to-end — from identifying customer and business problems to defining the product strategy, shipping high-quality experiences, and measuring outcomes. The id",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/f24d29df-a4ad-4991-ae78-1c5c24c63c75",
+      "postedAt": "2026-09-02",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_bd752c",
+      "slug": "product-management-product-manager-ai-risk-paytm-bengaluru-bd752c",
+      "title": "Product Management - Product Manager (AI) - Risk",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Consumer",
+        "AI"
+      ],
+      "skills": [
+        "API",
+        "Platform",
+        "Data",
+        "Mobile",
+        "Payments",
+        "Demand",
+        "Compliance"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "AI",
+        "Product Manager",
+        "Onsite",
+        "API",
+        "Platform",
+        "Data"
+      ],
+      "description": "About Us: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm's mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. What are we building We are building a full-stack AI Agentic Platform that powers customer, sales and internal workflows end-to-end. Core capabilities are including but not limited to: *Multi-agent, multi-modal customer interactions. *Agents which",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/1486e470-b4f5-43d9-9d2e-e121db0437ef",
+      "postedAt": "2026-09-01",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_6bfa7f",
+      "slug": "senior-product-manager-mongodb-delhi-ncr-6bfa7f",
+      "title": "Senior Product Manager",
+      "company": {
+        "id": "mongodb",
+        "name": "MongoDB",
+        "logo": null,
+        "domain": "mongodb.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Experimentation",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "iOS",
+        "Figma"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Experimentation",
+        "Growth",
+        "API"
+      ],
+      "description": "We're building a new product team in India to help shape how customers build, deploy, and operate AI applications on MongoDB. This is an early hire on a growing team—you'll join while the team is still taking shape, with the opportunity to have real impact from the start.\n\nYou'll report to a Director of Product Management based in Europe, working async-first with partners across India, EMEA, and North America. The engineering team in India is being built in parallel, so you'll be working closely with engineers from the early days of the team.\n\nWe are looking to speak to candidates based in Gurugram for our hybrid working model.\n\nWhat you'll own\n\nYou'll be the end-to-end owner for a core area of our AI application platform—from discovery and vision through roadmap, delivery, and iteration. This is a senior individual contributor role where you lead through ownership, expertise, and cross-functional influence.",
+      "responsibilities": [
+        "Defining product strategy and roadmap for your area, aligned with MongoDB's broader AI strategy and business goals",
+        "Talking to customers — from AI-native startups to large enterprises — to understand how they build and deploy AI applications, where they struggle, and what MongoDB should do about it",
+        "Writing clear product narratives, memos, and specs that align stakeholders, clarify trade-offs, to guide conversations with engineering, design, product marketing, etc",
+        "Partnering with cross-functional stakeholders—including Engineering, Design, Product Marketing, Partners, Sales, and Developer Relations—to scope, prioritize, and ship, balancing experimentation with reliability and scale, and driving positioning, launches, and enablement",
+        "Identifying new opportunities autonomously—spotting gaps, shaping problem spaces, researching industry trends and running discovery sessions with customers",
+        "Define and own clear success metrics for your area and use them to prioritize, make trade-offs and communicate impact",
+        "You'll develop deep expertise in how companies build AI applications — including agentic workflows, retrieval and memory, evaluation, observability, and deployment patterns.",
+        "How we work",
+        "Async-first. Documentation and written communication are how decisions travel across time zones",
+        "Sync when it makes sense. When we need to discuss something live, we hop on a call to unbundle issues together.",
+        "In-person when it matters. The team gets together periodically for planning, relationship-building, and the kind of work that's better done face to face"
+      ],
+      "requirements": [
+        "5+ years in product management (or equivalent) building platforms, infrastructure, or developer-facing products — ideally in cloud, data, or AI",
+        "Proven end-to-end ownership of a product area: from framing the problem and vision through roadmap, execution, launch, and iteration",
+        "Customer obsession: you're comfortable running discovery calls, digging into workflows, and turning messy feedback into clear product decisions",
+        "Strong written and live communication: clear docs, productive meetings, confident stakeholder presentations. This matters more in an async, distributed team — writing is how you lead",
+        "Technical depth sufficient to collaborate with senior engineers on distributed systems, cloud services, and AI/ML tooling, and to ask good questions when something is unclear",
+        "Curiosity about AI: you follow how companies are building AI applications — agents, orchestration frameworks, RAG, fine-tuning, or other emerging patterns",
+        "Comfort with ambiguity: you help define the problem, the success metrics, and the path forward. In an early-stage team, this is the job"
+      ],
+      "preferred": [
+        "Experience building developer tools, AI platforms, or MLOps/LLMOps products",
+        "Engineering background or deep experience partnering with engineering on technical products",
+        "Experience with enterprise customers on mission-critical workloads",
+        "Comfort using AI tools (e.g., Claude, Gemini, Figma Make) to move faster and amplify impact",
+        "How we'll measure success (30/60/90 days)",
+        "We need someone who can onboard quickly and start driving impact early.",
+        "In your first 30 days, you will:",
+        "Ramp up on MongoDB products, AI application patterns, and how our teams work"
+      ],
+      "salary": null,
+      "source": "Greenhouse · MongoDB",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8094528",
+      "postedAt": "2026-09-01",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
       "id": "job_1273ce",
       "slug": "senior-product-manager-behavioral-analytics-experian-hyderabad-1273ce",
       "title": "Senior Product Manager - Behavioral Analytics",
@@ -796,6 +1428,178 @@
       "status": "Active"
     },
     {
+      "id": "job_501392",
+      "slug": "senior-product-manager-saas-applications-protection-cyber-recovery-commvault-bengaluru-501392",
+      "title": "Senior Product Manager - SaaS Applications Protection & Cyber Recovery",
+      "company": {
+        "id": "commvault",
+        "name": "Commvault",
+        "logo": null,
+        "domain": "commvault.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 7,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise",
+        "Fintech"
+      ],
+      "skills": [
+        "Analytics",
+        "Go-to-Market",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Fraud",
+        "Compliance"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "Fintech",
+        "Senior Product Manager",
+        "Onsite",
+        "Analytics",
+        "Go-to-Market",
+        "Growth"
+      ],
+      "description": "Recruitment Fraud Alert\n\nWe’ve learned that scammers are impersonating Commvault team members—including HR and leadership—via email or text. These bad actors may conduct fake interviews and ask for personal information, such as your social security number.\n\nWhat to know:",
+      "responsibilities": [
+        "Commvault does not conduct interviews by email or text.",
+        "We will never ask you to submit sensitive documents (including banking information, SSN, etc) before your first day.",
+        "If you suspect a recruiting scam, please contact us at wwrecruitingteam@commvault.com"
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Commvault",
+      "applyUrl": "https://job-boards.greenhouse.io/commvault/jobs/5252738008",
+      "postedAt": "2026-09-01",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_faba2a",
+      "slug": "product-management-senior-product-manager-pi-agents-smb-paytm-delhi-ncr-faba2a",
+      "title": "Product Management - Senior Product Manager - Pi Agents (SMB)",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 4,
+      "experienceMax": 6,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Experimentation",
+        "SQL",
+        "Analytics",
+        "Growth",
+        "Data",
+        "Mobile",
+        "B2C",
+        "Payments",
+        "Onboarding",
+        "Retention"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "Experimentation",
+        "SQL",
+        "Analytics",
+        "Growth"
+      ],
+      "description": "About Us:  Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm's mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. About the team: Pi Agents At Pi Agents, we are creating AI agents for businesses. We are building agents that help businesses of all sizes with their day to day challenges, across the full lifecycle: Acquiring, Servicing, Retaining, Upselling, an",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/9c74fdd9-36e1-4e42-839a-d52577bb3d70",
+      "postedAt": "2026-08-27",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_ff953a",
+      "slug": "product-manager-glean-bengaluru-ff953a",
+      "title": "Product Manager",
+      "company": {
+        "id": "glean",
+        "name": "Glean",
+        "logo": null,
+        "domain": "glean.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 6,
+      "experienceMax": null,
+      "domain": [
+        "AI",
+        "Enterprise",
+        "SaaS"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "B2B",
+        "Onboarding"
+      ],
+      "tags": [
+        "AI",
+        "Enterprise",
+        "SaaS",
+        "Senior Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "Growth",
+        "API"
+      ],
+      "description": "About Glean: Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industry’s most advanced enterprise search has evolved into a full-scale Work AI ecosystem, powering intelligent Search, an AI Assistant, and scalable AI agents on one secure, open platform. With over 100 enterprise SaaS connectors, flexible LLM choice, and robust APIs, Glean gives organizations the infrastructure to govern, scale, and customize AI across their entire business",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Glean",
+      "applyUrl": "https://job-boards.greenhouse.io/gleanwork/jobs/4726336005",
+      "postedAt": "2026-08-26",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
       "id": "job_3191a8",
       "slug": "technical-product-manager-visa-bengaluru-3191a8",
       "title": "Technical Product Manager",
@@ -849,6 +1653,114 @@
       "applyUrl": "https://www.themuse.com/jobs/visa/technical-product-manager-ba480c",
       "postedAt": "2026-08-26",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_525969",
+      "slug": "ppsl-product-management-senior-product-manager-edc-product-paytm-delhi-ncr-525969",
+      "title": "PPSL - Product Management - Senior Product Manager - EDC Product",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Product Strategy",
+        "A/B Testing",
+        "Experimentation",
+        "Analytics",
+        "Growth",
+        "Monetization",
+        "API",
+        "Data",
+        "Mobile",
+        "Payments"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "A/B Testing",
+        "Experimentation",
+        "Analytics"
+      ],
+      "description": "About Us Paytm is India’s leading mobile payments and financial services distribution company. A pioneer of the mobile QR payments revolution, Paytm builds technology that enables small businesses and consumers to participate in the digital economy. Our mission is to serve half a billion Indians and bring them into the mainstream economy through technology. About the Role We are looking for a strategic, customer-focused and data-driven Product Manager to own and scale products and experiences for Paytm’s offline merchant ecosystem. The role will be responsible for defining product strategy, id",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/8e70173d-43f1-4ca2-b41d-098f9ad36ee8",
+      "postedAt": "2026-08-25",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_adf63f",
+      "slug": "product-manager-model-apis-sarvam-ai-bengaluru-adf63f",
+      "title": "Product Manager, Model APIs",
+      "company": {
+        "id": "sarvam-ai",
+        "name": "Sarvam AI",
+        "logo": null,
+        "domain": "sarvam.ai"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
+      "experienceMax": null,
+      "domain": [
+        "AI",
+        "Consumer"
+      ],
+      "skills": [
+        "SQL",
+        "API",
+        "Platform",
+        "Data"
+      ],
+      "tags": [
+        "AI",
+        "Consumer",
+        "Product Manager",
+        "Onsite",
+        "SQL",
+        "API",
+        "Platform",
+        "Data"
+      ],
+      "description": "ABOUT SARVAM Sarvam is building the bedrock of Sovereign AI for India. The company is developing India's full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India's leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC. ABOUT THE ROLE We are hiring a Product Manager for Model APIs. This is the person who owns how developers and ent",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Ashby · Sarvam AI",
+      "applyUrl": "https://jobs.ashbyhq.com/sarvam/45986600-4da3-4e46-a204-2865392df169",
+      "postedAt": "2026-08-25",
+      "firstSeenAt": "2026-09-10",
       "lastSeenAt": "2026-09-10",
       "status": "Active"
     },
@@ -930,6 +1842,109 @@
       "applyUrl": "https://www.themuse.com/jobs/experian/senior-product-manager-digital-intelligence-57c7c1",
       "postedAt": "2026-08-25",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_e037d2",
+      "slug": "ppsl-product-management-devices-paytm-delhi-ncr-e037d2",
+      "title": "PPSL- Product Management- Devices",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 2,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Growth",
+        "Data",
+        "Mobile",
+        "Payments",
+        "Demand"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Product Manager",
+        "Onsite",
+        "Growth",
+        "Data",
+        "Mobile",
+        "Payments"
+      ],
+      "description": "We’re hiring at Paytm Payments Services Limited(PPSL)",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/37613994-400b-466d-8cc8-55a3b92d6b57",
+      "postedAt": "2026-08-24",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_286ea3",
+      "slug": "product-manager-chanakya-sarvam-ai-delhi-ncr-286ea3",
+      "title": "Product Manager - Chanakya",
+      "company": {
+        "id": "sarvam-ai",
+        "name": "Sarvam AI",
+        "logo": null,
+        "domain": "sarvam.ai"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 4,
+      "experienceMax": 8,
+      "domain": [
+        "AI",
+        "Consumer"
+      ],
+      "skills": [
+        "Growth",
+        "Pricing",
+        "API",
+        "Data"
+      ],
+      "tags": [
+        "AI",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "Growth",
+        "Pricing",
+        "API",
+        "Data"
+      ],
+      "description": "About team: Chanakya is Sarvam AI's specialised, self-contained vertical for national security and institutions of national importance. It carries its own pricing, business, product, engineering, custom-model and vendor functions under one roof — a complete unit built to solve the most complex problems in the strategic sector: the three armed forces, intelligence agencies, financial regulators, and institutions of national importance such as central ministries and national policy bodies. What we deploy here must be at strategic parity or higher — anything less is a national-security risk. That",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Ashby · Sarvam AI",
+      "applyUrl": "https://jobs.ashbyhq.com/sarvam/c4099026-b194-4b16-8a12-c7ae1a9b51a0",
+      "postedAt": "2026-08-24",
+      "firstSeenAt": "2026-09-10",
       "lastSeenAt": "2026-09-10",
       "status": "Active"
     },
@@ -1221,6 +2236,119 @@
       "status": "Active"
     },
     {
+      "id": "job_de2ff8",
+      "slug": "product-management-product-manager-telco-paytm-delhi-ncr-de2ff8",
+      "title": "Product Management - Product Manager - Telco",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 2,
+      "experienceMax": 5,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Mobile",
+        "Payments",
+        "Demand",
+        "Stakeholder Management"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Product Manager",
+        "Onsite",
+        "Growth",
+        "API",
+        "Platform",
+        "Data"
+      ],
+      "description": "About Us:  Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology About Telco Team: Thriving on innovation, One97 delivers Customer Communication, Up-Selling, Mobile Content, Advertising based and Platform services to over 500 Million mobile consumers across the globe. One97’s products and services are available",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/be484058-3628-4b82-9342-6d1864c2d4a0",
+      "postedAt": "2026-08-14",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_e58c06",
+      "slug": "product-management-product-manager-upi-paytm-delhi-ncr-e58c06",
+      "title": "Product Management - Product Manager - UPI",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 4,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "AI",
+        "Consumer"
+      ],
+      "skills": [
+        "A/B Testing",
+        "Experimentation",
+        "Analytics",
+        "User Research",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Mobile",
+        "Payments"
+      ],
+      "tags": [
+        "Fintech",
+        "AI",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "A/B Testing",
+        "Experimentation",
+        "Analytics"
+      ],
+      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology About the Role At Paytm, we are building the next generation of intelligent payment experiences for millions of users. We are looking for an AI-first Senior Product Manager who combines exceptional product thinking, customer empathy, UX sensibil",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/c173ccbe-d2ae-42f4-9cd5-72f69ff45a0f",
+      "postedAt": "2026-08-14",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
       "id": "job_a4e18a",
       "slug": "senior-product-manager-ai-spotdraft-bengaluru-a4e18a",
       "title": "Senior Product Manager - AI",
@@ -1270,6 +2398,166 @@
       "applyUrl": "https://jobs.ashbyhq.com/spotdraft/88fc1f00-e546-463a-8ba0-78bc89a95cc6",
       "postedAt": "2026-08-14",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_ad3ab4",
+      "slug": "senior-product-manager-meesho-bengaluru-ad3ab4",
+      "title": "Senior Product Manager",
+      "company": {
+        "id": "meesho",
+        "name": "Meesho",
+        "logo": null,
+        "domain": "meesho.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Ecommerce",
+        "Consumer"
+      ],
+      "skills": [
+        "Experimentation",
+        "Analytics",
+        "User Research",
+        "Go-to-Market",
+        "Growth"
+      ],
+      "tags": [
+        "Ecommerce",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "Experimentation",
+        "Analytics",
+        "User Research",
+        "Go-to-Market"
+      ],
+      "description": "About the Team   Product Management in Meesho closely resembles our rocketship growth. Because we obsess over understanding customer behaviour, we’ve been able to carve out an e-commerce niche in Tier 2/3/4 towns in Bharat. Our business growth is testimony to a singular focus on how we think of ‘product’ for our unique customers",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Meesho",
+      "applyUrl": "https://jobs.lever.co/meesho/128cee5f-5e62-43f4-8339-6ead8b5498e7",
+      "postedAt": "2026-08-12",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_960192",
+      "slug": "product-management-intern-telco-paytm-delhi-ncr-960192",
+      "title": "Product Management - Intern - Telco.",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Internship",
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Platform",
+        "Data",
+        "Mobile",
+        "iOS",
+        "Payments",
+        "Demand",
+        "Figma"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Product Manager",
+        "Onsite",
+        "Platform",
+        "Data",
+        "Mobile",
+        "iOS"
+      ],
+      "description": "Title: Product Management Intern\n\nAbout Paytm Group:\n\nPaytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology.",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/5648edd6-b73b-4156-96f5-343f4d851610",
+      "postedAt": "2026-08-11",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_a01a00",
+      "slug": "group-product-manager-manager-effectiveness-mindtickle-pune-a01a00",
+      "title": "Group Product Manager (Manager Effectiveness)",
+      "company": {
+        "id": "mindtickle",
+        "name": "MindTickle",
+        "logo": null,
+        "domain": "mindtickle.com"
+      },
+      "location": {
+        "city": "Pune",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise",
+        "AI"
+      ],
+      "skills": [
+        "Analytics",
+        "Pricing",
+        "Platform",
+        "Data",
+        "B2B",
+        "Onboarding"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "AI",
+        "Group Product Manager",
+        "Onsite",
+        "Analytics",
+        "Pricing",
+        "Platform"
+      ],
+      "description": "Who we are Mindtickle is the leading AI-powered revenue enablement platform, helping sales teams learn faster, practice smarter, and perform at their best. We bring together onboarding, training, coaching, content, digital sales rooms, conversation intelligence, and AI role-plays into one platform so revenue teams have everything they need to build winning sellers. Global companies, like Fortune 500 organizations, trust Mindtickle to support their revenue teams. Customers and industry analysts have also recognized us. G2 has ranked us the #1 Sales Training & Onboarding platform for 28 consecut",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · MindTickle",
+      "applyUrl": "https://jobs.lever.co/mindtickle/4365dc2a-87b1-4751-bd30-c90c70dea92c",
+      "postedAt": "2026-08-10",
+      "firstSeenAt": "2026-09-10",
       "lastSeenAt": "2026-09-10",
       "status": "Active"
     },
@@ -1345,6 +2633,493 @@
       "applyUrl": "https://www.themuse.com/jobs/gevernova/technical-product-manager-integrated-business-planning-ibp",
       "postedAt": "2026-08-06",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_c92d87",
+      "slug": "staff-platform-manager-loyalty-platform-lead-product-management-airbnb-bengaluru-c92d87",
+      "title": "Staff Platform Manager, Loyalty Platform Lead (Product Management)",
+      "company": {
+        "id": "airbnb",
+        "name": "Airbnb",
+        "logo": null,
+        "domain": "airbnb.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": 9,
+      "experienceMax": 17,
+      "domain": [
+        "Fintech",
+        "Ecommerce",
+        "Consumer"
+      ],
+      "skills": [
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "B2B",
+        "B2C",
+        "Payments",
+        "Fraud",
+        "Marketplace",
+        "Demand"
+      ],
+      "tags": [
+        "Fintech",
+        "Ecommerce",
+        "Consumer",
+        "Group Product Manager",
+        "Onsite",
+        "Growth",
+        "API",
+        "Platform"
+      ],
+      "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n\nThe Community You Will Join:\n\nAt Airbnb, anything related to money and value transfer comes through the Payments team. We're building a world-class payments and commerce organization that currently supports 220+ countries, 70+ currencies, connects dozens of payment providers and banks, processes billions of dollars, and empowers more people to participate in our global marketplace.\n\nWe're looking for people who know and use Airbnb and believe in what we're trying to accomplish. Airbnb is a marketplace that connects guests and hosts, and Payments is central to creating the trust that makes every transaction possible. The Platform team plays the role of conductor, bringing together engineers, designers, and partnerships to build great product experiences.\n\nThe Difference You Will Make:\n\nOur Payments Platform Managers own outcomes across foundation, growth, and empowerment, setting the vision and strategy, defining the Platform roadmap, and driving execution. We are building foundational loyalty and incentives platform capabilities that require expertise in consumer loyalty programs and B2B2C incentives platforms. The Staf",
+      "responsibilities": [
+        "Own the Loyalty & Incentives platform domain strategy, roadmap, and operating model, enabling teams across Airbnb to launch, configure, and evolve loyalty, membership, and incentive programs through reusable, scalable platform capabilities — including support for different loyalty currencies (fiat, points, cryptocurrency, and emerging digital assets) to accommodate a wide range of use cases",
+        "Lead platform strategy for gift card capabilities as a core part of the Loyalty & Incentives domain, aligning business, partnership, and engineering roadmaps to scale the platform efficiently, sustainably, and profitably",
+        "Monitor B2B2C platform performance for membership and loyalty campaigns, while partnering with cross-functional teams",
+        "Drive platform due diligence and integration strategy for loyalty and membership partners, defining reusable patterns, technical and operational requirements, and scalable integration models that expand platform reach and business impact",
+        "Partner across Engineering, Design, Product Marketing, Partnerships, Compliance, Operations, Data, and marketplace business teams to align roadmaps, resolve cross-org tradeoffs, and scale foundational platform capabilities — and work directly with external enterprise partners to deeply integrate product capabilities and drive real business impact",
+        "Your Expertise:",
+        "Required:",
+        "Min 9-17 years of product management experience specializing in loyalty or incentive platforms, with a strong history of driving strategy, roadmap definition, and execution",
+        "Proven track record building enterprise-level or B2B2C platforms for extensive consumer-facing businesses, with sophisticated understanding of earn/redemption workflows, compliance, and fraud/losses",
+        "Deep experience defining partner integration strategies and operating models that balance technical feasibility, compliance, and business objectives",
+        "Global and multi-market experience across geographies, currencies, and regulatory environments",
+        "Ability to articulate a clear, compelling vision and strategy and rally cross-functional teams around it"
+      ],
+      "requirements": [],
+      "preferred": [
+        "Technical background in multi-currency incentives processing & loyalty operations",
+        "Experience scaling loyalty programs internationally",
+        "Experience managing developer-facing platforms and API-based solutions",
+        "Experience with payments and risk losses",
+        "Experience at a consumer marketplace or two-sided platform with both B2B and B2C surfaces",
+        "Experience with AI prototypes in the product development process",
+        "Demonstrated ability to scale products from 0→1 in ambiguous environments",
+        "Our Commitment To Inclusion & Belonging"
+      ],
+      "salary": null,
+      "source": "Greenhouse · Airbnb",
+      "applyUrl": "https://careers.airbnb.com/positions/8091831?gh_jid=8091831",
+      "postedAt": "2026-08-05",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_253bbe",
+      "slug": "product-management-senior-product-manager-ads-paytm-bengaluru-253bbe",
+      "title": "Product Management - Senior Product Manager - Ads",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 3,
+      "experienceMax": 7,
+      "domain": [
+        "Fintech",
+        "Consumer",
+        "Ecommerce"
+      ],
+      "skills": [
+        "Experimentation",
+        "Monetization",
+        "Pricing",
+        "API",
+        "Platform",
+        "Data",
+        "Mobile",
+        "B2B",
+        "Payments",
+        "Fraud"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Ecommerce",
+        "Senior Product Manager",
+        "Onsite",
+        "Experimentation",
+        "Monetization",
+        "Pricing"
+      ],
+      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology.  About the Role Paytm Ads is building the next generation of advertising infrastructure by combining high-intent first-party commerce data, AI-driven decisioning, and a scalable programmatic ecosystem. As a PMII / SPM, you will own key componen",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/6cee2f1c-6cae-4e46-9533-d62283f56734",
+      "postedAt": "2026-07-31",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_e55272",
+      "slug": "product-management-upi-product-experience-6-yrs-paytm-delhi-ncr-e55272",
+      "title": "Product Management - UPI Product | Experience : 6+ yrs",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Consumer",
+        "AI"
+      ],
+      "skills": [
+        "Experimentation",
+        "SQL",
+        "Analytics",
+        "Growth",
+        "Platform",
+        "Data",
+        "Mobile",
+        "Payments",
+        "Fraud",
+        "Onboarding"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "AI",
+        "Product Manager",
+        "Onsite",
+        "Experimentation",
+        "SQL",
+        "Analytics"
+      ],
+      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology About the Role",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/fec8e98b-d09b-4edb-b5a9-fe04aa079a3c",
+      "postedAt": "2026-07-28",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_eb1c4d",
+      "slug": "principal-product-manager-data-ai-platforms-smartsheet-bengaluru-eb1c4d",
+      "title": "Principal Product Manager, Data & AI Platforms",
+      "company": {
+        "id": "smartsheet",
+        "name": "Smartsheet",
+        "logo": null,
+        "domain": "smartsheet.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise",
+        "AI"
+      ],
+      "skills": [
+        "Analytics",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "Onboarding",
+        "Retention",
+        "Compliance"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "AI",
+        "Group Product Manager",
+        "Onsite",
+        "Analytics",
+        "Platform",
+        "Data"
+      ],
+      "description": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day.\n\nPrincipal Product Manager, Data & AI Platforms\n\nAs a\n\nPrincipal Product Manager, Data & AI Platforms\n\nat Smartsheet, you will serve as a visionary leader, responsible for the strategic direction and execution of our foundational data ecosystem. You will treat our data and AI infrastructure as a premier product, ensuring it is of high quality, architected for massive scale, and directly aligned with Smartsheet’s mission-critical business and advanced AI objectives. This is a high-impact role that bridges engineering excellence with measurable business value, driving the democratization of data and the enablement of advanced AI capabilities across the global organization.\n\nYou Will:\n\nDrive Strategic Alignment:\n\nLead the alignment of data governance and AI-driven use cases across Engineering, Product, and Business organizations to ensure unified goals, rigorous prioritization, and clear scoping of platform capabilities.",
+      "responsibilities": [
+        "Lead Product Lifecycle:",
+        "Manage both inbound (requirements gathering, strategic roadmap definition) and outbound (internal/external evangelism, community engagement, customer feedback loops) product management for the data and AI platform.",
+        "Own the Execution Roadmap:",
+        "Define and drive the execution roadmap for critical data platform features, including the enablement of AI capabilities, streamlined data ingestion/onboarding, and foundational data vision initiatives.",
+        "Champion Governance & Quality:",
+        "Own the business-stakeholder perspective for data quality and governance, ensuring the platform provides reliable, secure, and compliant data assets for all consumers.",
+        "Deliver High-Quality",
+        "Data as a Product (DaaP):",
+        "Evangelize and implement a \"Data as a Product\" mindset, shifting the organization from reactive data requests to a self-service, scalable, and visionary data platform.",
+        "AI Enablement:",
+        "Partner closely with AI and Engineering teams to integrate AI-driven use cases into the core data fabric, ensuring the platform robustly supports advanced machine learning, predictive analytics, and process automation.",
+        "Infrastructure Strategy:"
+      ],
+      "requirements": [
+        "Provide a continuous stream of detailed requirements with clear, measurable acceptance criteria, demonstrating a deep understanding of both upstream data source complexities and downstream end-user consumption needs.",
+        "Engage Stakeholders Extensively:",
+        "Partner with cross-functional executive leaders to inform platform roadmaps and ensure the data strategy remains strategically aligned with Smartsheet’s overall product and business platform goals.",
+        "Act as a Data Ambassador:",
+        "Represent the data and AI platform's capabilities internally and externally, clearly communicating the value proposition of features related to data retention, security, compliance, reliability, and integrity.",
+        "Provide Mentorship:",
+        "Offer informal leadership and mentorship to Engineering and Product team members, fostering a culture of technical excellence, accountability, and collaborative delivery.",
+        "Experience:",
+        "8+ years of experience in Product Management, with a significant and proven focus on AI & data infrastructure, core backend platforms, or high-scale technical SaaS products.",
+        "Execution Focus:",
+        "Proven track record of owning and successfully driving execution roadmaps for critical, scalable, and reliable data systems.",
+        "Technical Depth:"
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Smartsheet",
+      "applyUrl": "https://job-boards.greenhouse.io/smartsheet/jobs/7794964",
+      "postedAt": "2026-07-27",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_f5f51a",
+      "slug": "product-manager-media-entertainment-sarvam-studio-sarvam-ai-bengaluru-f5f51a",
+      "title": "Product Manager – Media & Entertainment, Sarvam Studio",
+      "company": {
+        "id": "sarvam-ai",
+        "name": "Sarvam AI",
+        "logo": null,
+        "domain": "sarvam.ai"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": 10,
+      "domain": [
+        "Consumer",
+        "AI",
+        "Logistics"
+      ],
+      "skills": [
+        "SQL",
+        "Pricing",
+        "API",
+        "Platform",
+        "Data",
+        "iOS",
+        "Supply",
+        "Demand",
+        "Compliance"
+      ],
+      "tags": [
+        "Consumer",
+        "AI",
+        "Logistics",
+        "Senior Product Manager",
+        "Onsite",
+        "SQL",
+        "Pricing",
+        "API"
+      ],
+      "description": "Product · Bengaluru · Full Time · On-Site",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Ashby · Sarvam AI",
+      "applyUrl": "https://jobs.ashbyhq.com/sarvam/adbc090f-3aad-4b12-af36-a2f4b55c017e",
+      "postedAt": "2026-07-27",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_27b71a",
+      "slug": "sr-product-manager-ii-gantt-view-smartsheet-bengaluru-27b71a",
+      "title": "Sr, Product Manager II - Gantt View",
+      "company": {
+        "id": "smartsheet",
+        "name": "Smartsheet",
+        "logo": null,
+        "domain": "smartsheet.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 7,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Experimentation",
+        "Analytics",
+        "User Research",
+        "Data",
+        "B2B",
+        "Agile"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "Lead Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Experimentation",
+        "Analytics",
+        "User Research"
+      ],
+      "description": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day.\n\nWe are seeking a seasoned and strategic Senior Product Manager II to join our Product Organization. You will be instrumental in developing new capabilities that address the advanced project management needs of our most valuable and strategic customers, driving meaningful change in their organizations.\n\nYou will be focused on delivering a completely new Gantt View experience. You will work closely with a dedicated engineering team based in Bangalore and report to the US-based Group Product Manager for Core Views experiences.\n\nYou Will:\n\nProduct Strategy & Vision:\n\nDefine, prioritize, and drive the future roadmap for project management capabilities, ensuring alignment with customer needs, company objectives, and industry best practices.",
+      "responsibilities": [
+        "Feature Delivery:",
+        "Own the end-to-end delivery of a new, scalable Gantt View experience, ensuring a compelling, high-quality customer experience that sets a new bar for Smartsheet.",
+        "Cross-Functional Partnership:",
+        "Work in close partnership with design, engineering, user research, data science, and analytics teams to create, test, and launch proposed new capabilities and validate hypotheses.",
+        "Data-Driven Decision Making:",
+        "Leverage internal and external data to guide experimentation, make informed product decisions, and evaluate the success of launches.",
+        "Executive Alignment:",
+        "Regularly present product strategy, concepts, health metrics, and roadmap updates to senior leadership to educate, influence, and align stakeholders across the company.",
+        "Product Leadership:",
+        "Operate effectively at both strategic and tactical levels, forming strong cross-team partnerships rooted in driving maximum customer benefit."
+      ],
+      "requirements": [
+        "7+ years of progressive product management experience, preferably in B2B/enterprise or scaled consumer software.",
+        "Proven experience partnering with engineering, design, user research, and marketing teams to deliver complex, scaled software products from inception through launch.",
+        "A technical degree or equivalent experience working closely with engineers to make product and technical decisions.",
+        "A strong, data-driven mentality with a focus on metrics, analytics, and experimentation.",
+        "Exceptional written, verbal communication, and presentation skills necessary to lead working teams and align with senior management.",
+        "High-level interpersonal skills for building trusted, strategic cross-team partnerships.",
+        "Familiarity with Project Management Institute’s Project Management Body of Knowledge (PMBOK).",
+        "Certification in Scaled Agile Framework (SAFe®) and/or as a Certified Project Management Professional (PMP).",
+        "Get to Know Us:",
+        "At Smartsheet, your ideas are heard, your potential is supported, and your contributions have real impact. You’ll have the freedom to explore, push boundaries, and grow beyond your role. We welcome diverse perspectives and nontraditional paths—because we know that impact comes from individuals who care deeply and challenge thoughtfully. When you’re doing work that stretches you, excites you, and connects you to something bigger, that’s magic at work. Let’s build what’s next, together."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Smartsheet",
+      "applyUrl": "https://job-boards.greenhouse.io/smartsheet/jobs/8064552",
+      "postedAt": "2026-07-27",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_087402",
+      "slug": "product-manager-warner-music-group-bengaluru-087402",
+      "title": "Product Manager",
+      "company": {
+        "id": "warner-music-group",
+        "name": "Warner Music Group",
+        "logo": null,
+        "domain": "wmg.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": null,
+      "domain": [
+        "Consumer",
+        "Logistics"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "Platform",
+        "Data",
+        "Supply"
+      ],
+      "tags": [
+        "Consumer",
+        "Logistics",
+        "Senior Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "Platform",
+        "Data",
+        "Supply"
+      ],
+      "description": "Technology is one of the most important parts of our business. Whether it’s supporting our songwriters, ensuring we provide the right royalty data to global partners, or helping our creative teams use the latest AI tools to discover new talent, technology plays an invaluable role in our success. Product Managers help turn vision into reality.\n\nWe are looking for a Product Manager to partner with a local in-person engineering team in Bengaluru focused on music distribution. Distribution is the vital link between music creation and a fan’s headphones, ensuring our music reaches platforms like Spotify and YouTube globally while protecting the complex rights that ensure our artists get paid. You will be a \"user-first\" thinker who is responsible for a portfolio of features and products, navigating the high-stakes world of global rights, supply chain automation, and high-scale digital delivery.",
+      "responsibilities": [
+        "Continuous Discovery:",
+        "Build deep empathy for our labels, operations teams, and global partners by maintaining a constant dialogue with them. Uncover their underlying pain points, ensuring that every solution we build truly solves their problems and makes their daily workflows more seamless.",
+        "Strategy & Roadmap:",
+        "Define and communicate the long-term vision and roadmap for your products, ensuring they align with WMG’s broader tech strategy.",
+        "Product Trio Collaboration:",
+        "Work in a \"Product Trio\" alongside Engineering and Design to solve complex problems, resolving trade-offs and tackling risks.",
+        "Execution & Ownership:",
+        "Serve as the primary author of PRDs and the \"executor-in-chief\" for your projects, driving development from ideation through technical delivery.",
+        "Launch & Impact:",
+        "Develop comprehensive go-to-market strategies, including product positioning, internal messaging, and launch plans. You don't just \"ship\" code; you ensure the organization is ready to adopt it to achieve maximum impact.",
+        "Analytical Optimization:",
+        "Continuously monitor product performance metrics, user feedback, and market trends. Use this data to make informed prioritization decisions, identify areas for improvement, and manage technical debt to optimize the product over its entire lifecycle."
+      ],
+      "requirements": [
+        "Experienced:",
+        "You have at least 5 years of product management experience, ideally with exposure to the music business or other digital media.",
+        "Technical & Business Savvy:",
+        "You can discuss system architecture with engineers and business constraints with executives, mitigating Value, Usability, Feasibility, and Business Viability risks upfront.",
+        "A Master Storyteller:",
+        "You own the \"Why\" and can easily adjust your communication style for different audiences, from developers to more senior stakeholders.",
+        "Biased to Action:",
+        "You have a proven ability to unstick a team, make difficult prioritization decisions, and navigate the ambiguity of a global business.",
+        "Humble Leader:",
+        "You have strong opinions, held weakly; you are quick to share credit with your team and accept responsibility when things don’t go as planned.",
+        "Mission-Driven:",
+        "You are a music fan motivated by the fact that your work directly impacts an artist’s ability to grow their career and get paid."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Warner Music Group",
+      "applyUrl": "https://jobs.lever.co/wmg/2badd508-5d7d-4733-b357-f2eecf7cd1b6",
+      "postedAt": "2026-07-24",
+      "firstSeenAt": "2026-09-10",
       "lastSeenAt": "2026-09-10",
       "status": "Active"
     },
@@ -1636,6 +3411,139 @@
       "status": "Active"
     },
     {
+      "id": "job_fb50bb",
+      "slug": "product-management-director-product-lending-paytm-bengaluru-fb50bb",
+      "title": "Product Management - Director Product - Lending",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Director",
+      "experienceMin": 8,
+      "experienceMax": 13,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Platform",
+        "Data",
+        "Mobile",
+        "Payments",
+        "Demand",
+        "Agile",
+        "Scrum"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Director",
+        "Onsite",
+        "Platform",
+        "Data",
+        "Mobile",
+        "Payments"
+      ],
+      "description": "About Us: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. Expectation:",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/e3f616a7-6e5d-4989-a9b5-3da729d9ba03",
+      "postedAt": "2026-07-14",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_3188a4",
+      "slug": "staff-product-manager-partner-developer-ecosystem-saviynt-bengaluru-3188a4",
+      "title": "Staff Product Manager (Partner & Developer Ecosystem)",
+      "company": {
+        "id": "saviynt",
+        "name": "Saviynt",
+        "logo": null,
+        "domain": "saviynt.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise",
+        "AI"
+      ],
+      "skills": [
+        "API",
+        "Platform",
+        "Data",
+        "Mobile",
+        "Compliance"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "AI",
+        "Lead Product Manager",
+        "Onsite",
+        "API",
+        "Platform",
+        "Data"
+      ],
+      "description": "Saviynt's AI-powered identity platform manages and governs human and non-human access to all of an organization's applications, data, and business processes. Customers trust Saviynt to safeguard their digital assets, drive operational efficiency, and reduce compliance costs. Built for the AI age, Saviynt is today helping organizations safely accelerate their deployment and usage of AI. Saviynt is recognized as the leader in identity security, with solutions that protect and empower the world’s leading brands, Fortune 500 companies and government institutions. For more information, please visit www.saviynt.com.\n\nYou'll be the voice of Saviynt's partner and developer community — ensuring their needs shape the product, their feedback drives decisions, and their experience on the platform is exceptional.\n\nIn this role, you'll partner with ISVs, technology partners, and external developers to bring new apps, integrations, and solutions to life on Saviynt Exchange. You'll review partner contributions, support community members, and serve as a trusted resource across the ecosystem.\n\nInternally, you'll work hand-in-hand with Product & Engineering to sharpen Saviynt's developer tooling and resources, while collaborating with Technology Alliances and GTM teams to drive adoption of third-party apps and integrations among customers and SI partners.\n\nAs a champion of Saviynt's integration frameworks, connectors, and best practices, you'll also build the content developers rely on — from s",
+      "responsibilities": [
+        "Unlock ISV/Technology partner integrations",
+        "by identifying joint use cases and guiding partners to build integrations that address real customer needs on the Saviynt Identity Security platform.",
+        "Pioneer AI-native product experiences",
+        "— leverage AI agents and emerging agentic frameworks to reimagine how developers and partners interact with Saviynt's platform, define the product vision, requirements, and success metrics for embedding agentic capabilities across the developer ecosystem.",
+        "Uncover high-impact opportunities",
+        "through ongoing customer and developer discovery, surfacing integration gaps before they become friction points.",
+        "Build a world-class Developer Portal",
+        "and a rich library of resources — APIs, SDKs, documentation, and tooling — that make it easy for developers, partners, and community members to create apps and solutions.",
+        "Meet developers where they are",
+        "— engaging across forums, social media, events, webinars, and hackathons to build an active, thriving community.",
+        "Be the developer's voice internally",
+        "— partnering closely with Product, Engineering, and Documentation teams to ensure developer feedback directly shapes the roadmap."
+      ],
+      "requirements": [
+        "You're a technologist at heart and a community builder by instinct — equally comfortable writing a Python script, reviewing a partner's API integration, and presenting at a developer conference.",
+        "Educational foundation",
+        ": Bachelor's degree in Computer Science, Engineering, or a related technical field.",
+        "Deep practitioner experience",
+        ": 8+ years as a senior software developer or engineer, with hands-on experience engaging ISV/technology partners and advocating for developer communities.",
+        "Platform & API fluency:",
+        "Strong command of REST APIs, JSON, YAML, SDKs, MCP, LLMs, and modern web and mobile standards — plus a solid grasp of platform design principles and AI-powered capabilities.",
+        "AI-forward PM mindset:",
+        "Practical experience working with AI agents, agentic frameworks, and LLM-based tooling — and a clear point of view on how these technologies reshape developer and partner experiences.",
+        "Coding chops:",
+        "Hands-on proficiency in Java and/or Python, with comfort across code repositories and debugging tools.",
+        "Partnership track record:"
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Saviynt",
+      "applyUrl": "https://jobs.lever.co/saviynt/53b6e38f-ed8d-4764-bc39-8671961ca8c7",
+      "postedAt": "2026-07-13",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
       "id": "job_66cbfc",
       "slug": "principal-product-manager-platform-infrastructure-ukg-delhi-ncr-66cbfc",
       "title": "Principal Product Manager- Platform Infrastructure",
@@ -1686,6 +3594,55 @@
       "applyUrl": "https://www.themuse.com/jobs/ukg/principal-product-manager-platform-infrastructure",
       "postedAt": "2026-07-12",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_f44ff2",
+      "slug": "product-management-manager-sr-manager-paytm-insurance-paytm-delhi-ncr-f44ff2",
+      "title": "Product Management - Manager/ Sr. Manager- Paytm Insurance",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
+      "experienceMax": 8,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Data",
+        "Payments",
+        "Demand"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Product Manager",
+        "Onsite",
+        "Data",
+        "Payments",
+        "Demand"
+      ],
+      "description": "About Paytm Paytm is a pioneer of digital payments in India, serving over 450 million consumers and 45 million merchants across payments, financial services, and commerce. Over the years, Paytm has built deep in-house capabilities across technology, data, and operations to operate at scale with high reliability. About the team: Headquartered in Noida, India, Paytm Insurance Broking Private Limited (PIBPL), a wholly  owned subsidiary of One97 Communications (OCL) is an online insurance market place, that  offers insurance products across all leading insurance companies, with products across aut",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/afab6a29-2a98-4f63-8b45-f4b0aaefc1b4",
+      "postedAt": "2026-07-11",
+      "firstSeenAt": "2026-09-10",
       "lastSeenAt": "2026-09-10",
       "status": "Active"
     },
@@ -1877,6 +3834,61 @@
       "status": "Active"
     },
     {
+      "id": "job_1a3fba",
+      "slug": "product-manager-connectors-glean-bengaluru-1a3fba",
+      "title": "Product Manager, Connectors",
+      "company": {
+        "id": "glean",
+        "name": "Glean",
+        "logo": null,
+        "domain": "glean.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 6,
+      "experienceMax": null,
+      "domain": [
+        "AI",
+        "Enterprise",
+        "SaaS"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "B2B",
+        "Onboarding"
+      ],
+      "tags": [
+        "AI",
+        "Enterprise",
+        "SaaS",
+        "Senior Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "Growth",
+        "API"
+      ],
+      "description": "About Glean: Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industry’s most advanced enterprise search has evolved into a full-scale Work AI ecosystem, powering intelligent Search, an AI Assistant, and scalable AI agents on one secure, open platform. With over 100 enterprise SaaS connectors, flexible LLM choice, and robust APIs, Glean gives organizations the infrastructure to govern, scale, and customize AI across their entire business",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Glean",
+      "applyUrl": "https://job-boards.greenhouse.io/gleanwork/jobs/4629292005",
+      "postedAt": "2026-07-08",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
       "id": "job_8be83e",
       "slug": "portfolio-product-manager-broadridge-bengaluru-8be83e",
       "title": "Portfolio / Product Manager",
@@ -1943,6 +3955,1221 @@
       "applyUrl": "https://www.themuse.com/jobs/broadridge/portfolio-product-manager",
       "postedAt": "2026-07-06",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_2e8d81",
+      "slug": "senior-product-manager-help-center-cx-automation-coinbase-remote-2e8d81",
+      "title": "Senior Product Manager, Help Center (CX Automation)",
+      "company": {
+        "id": "coinbase",
+        "name": "Coinbase",
+        "logo": null,
+        "domain": "coinbase.com"
+      },
+      "location": {
+        "city": "Remote",
+        "country": "India"
+      },
+      "workMode": "Remote",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Consumer",
+        "AI"
+      ],
+      "skills": [
+        "Analytics",
+        "Platform",
+        "Data"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "AI",
+        "Senior Product Manager",
+        "Remote",
+        "Analytics",
+        "Platform",
+        "Data"
+      ],
+      "description": "Ready to do the most impactful work of your career? At Coinbase, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase.\n\nThe CX Automation team within Enterprise Applications & Architecture engineers seamless, intelligent customer experiences by maximizing automation across support surfaces. As Senior Product Manager for the Help Center, you’ll own Coinbase’s primary self-service channel—where most customers first seek support. You’ll drive Automation Rate and customer satisfaction by building AI-powered search, personalized article experiences, and self-service workflows that resolve issues before they reach an agent.",
+      "responsibilities": [
+        "Own the Help Center roadmap across search quality, article strategy, AI summaries, and self-service flows serving millions of global customers.",
+        "Improve Automation Rate and CSAT by identifying high-impact opportunities to deflect contacts via better self-service, smarter surfacing, and proactive resolution.",
+        "Build AI-integrated search and content experiences with ML/LLM partners to enhance relevance, summaries, and contextual Quick Actions.",
+        "Partner with CX Ops, Content Design, Engineering, and Data Science to maintain accurate, high-coverage knowledge across geographies and languages.",
+        "Define and track funnel metrics (Automation Rate, Search AtR, CSAT, escalation rate) and use data to drive prioritization.",
+        "Collaborate with internal platform teams and 3P vendors to keep chat, voice, and agent-tool integrations seamless and current.",
+        "Required Skills and Experience",
+        "5+ years in product management owning customer-facing surfaces, content platforms, or self-service products.",
+        "Experience building or improving search, knowledge management, or self-service—ideally with AI/ML-powered search, recommendations, or RAG retrieval.",
+        "Proven ability to define and use support/self-service metrics (automation, deflection, CSAT, escalation) to inform decisions.",
+        "Strong cross-functional collaboration across content, engineering, operations, and analytics without owning end-to-end UX.",
+        "Experience with Help Center or knowledge base platforms (Contentful, Zendesk, Freshdesk, Salesforce, or similar CMS/support tooling)."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Coinbase",
+      "applyUrl": "https://www.coinbase.com/careers/positions/8031208?gh_jid=8031208",
+      "postedAt": "2026-07-06",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_c4612f",
+      "slug": "principal-product-manager-karat-bengaluru-c4612f",
+      "title": "Principal Product Manager",
+      "company": {
+        "id": "karat",
+        "name": "Karat",
+        "logo": null,
+        "domain": "karat.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Remote",
+      "employmentType": "Full Time",
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise",
+        "Consumer"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Analytics",
+        "Go-to-Market",
+        "API",
+        "Platform",
+        "Data",
+        "B2B",
+        "B2C"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "Consumer",
+        "Group Product Manager",
+        "Remote",
+        "Product Strategy",
+        "Analytics",
+        "Go-to-Market"
+      ],
+      "description": "We're\n\nKarat\n\n, the world's largest interviewing company.\n\nKarat is transforming organizations around the world. We provide a powerful system for technical leaders at companies like PayPal, Atlassian, and Citi who want to take control of how they hire top engineers, elevate their teams and contractors, and stay ahead. At the core of Karat’s system are live, expert-led interviews, analytics designed to give leaders maximum visibility, and the most robust interview performance dataset in the world.\n\nCome join our\n\nProduct\n\nteam\n\nOur Product team is committed to driving forward Karat’s mission to make interviews predictive, fair, and enjoyable. We are focused on providing deeper value to engineering and talent leaders, hiring managers, recruiters, candidates, and Interview Engineers.\n\nWhat you will do\n\nAs Principal Product Manager, you will own the product vision, strategy, and execution for our interview platform. Working directly with the VP of Product, you'll leverage deep user empathy and product thinking to create experiences that evolve alongside rapid AI advancements in software development, while collaborating across engineering, content, design, and go-to-market teams to deliver high-impact solutions that transform how companies evaluate talent.\n\nThis position requires a schedule that overlaps with U.S. business hours.",
+      "responsibilities": [
+        "Product Strategy & Innovation:",
+        "Help define the roadmap for our product suite; evaluate how we should leverage AI to provide a stronger signal and measure of a candidate’s technical capabilities; collaborate with leadership to shape Karat's strategy in the evolving technical assessment market.",
+        "Product Development & Execution:",
+        "Prioritize features based on customer needs and business objectives; partner with engineering, content, and UX teams to deliver high-quality solutions.",
+        "Analytics & Insights:",
+        "Analyze assessment data to improve accuracy; design experiments to evaluate different approaches; leverage our database of hundreds of thousands of candidates to enhance our signal on candidate performance.",
+        "Market & Customer Focus:",
+        "Monitor performance metrics and identify opportunities for improvement; partner with Go-to-Market (GTM) teams on expansion strategies; develop compelling business cases for new offerings.",
+        "The experience you will bring",
+        "8+ years of product management experience working on B2B and B2C offerings, and ideally, past experience working as a software developer",
+        "Track record of working directly with B2B clients in a SaaS environment — comfortable in customer discovery calls, QBRs, and translating enterprise feedback into product decisions",
+        "Demonstrated experience defining, launching, selling, and scaling successful products with proven business impact"
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Karat",
+      "applyUrl": "https://job-boards.greenhouse.io/karat/jobs/8589269002",
+      "postedAt": "2026-06-30",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_a1586c",
+      "slug": "group-product-manager-meesho-bengaluru-a1586c",
+      "title": "Group Product Manager",
+      "company": {
+        "id": "meesho",
+        "name": "Meesho",
+        "logo": null,
+        "domain": "meesho.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "Ecommerce",
+        "Consumer"
+      ],
+      "skills": [
+        "Experimentation",
+        "Go-to-Market",
+        "Growth",
+        "Data"
+      ],
+      "tags": [
+        "Ecommerce",
+        "Consumer",
+        "Group Product Manager",
+        "Onsite",
+        "Experimentation",
+        "Go-to-Market",
+        "Growth",
+        "Data"
+      ],
+      "description": "About the Team   Product Management in Meesho closely resembles our rapacious growth. Because we obsess over understanding customer behaviour, we’ve been able to carve out an e-commerce niche in Tier 2/3/4 towns in Bharat. Our business growth is testimony to a singular focus on how we think of ‘product’ for our unique customers",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Meesho",
+      "applyUrl": "https://jobs.lever.co/meesho/d7924eb1-301e-4098-ab7b-f3a4c92c210a",
+      "postedAt": "2026-06-29",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_e2262b",
+      "slug": "product-management-senior-product-manager-data-product-ppsl-paytm-bengaluru-e2262b",
+      "title": "Product Management - Senior Product Manager (Data Product) - PPSL",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "SQL",
+        "Analytics",
+        "Growth",
+        "Platform",
+        "Data",
+        "Mobile",
+        "Payments",
+        "Demand",
+        "Compliance"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "SQL",
+        "Analytics",
+        "Growth",
+        "Platform"
+      ],
+      "description": "About Us:  Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. About the Team: We are the Central Data and AI Product team, responsible for building and managing the analytical products and datasets that power decision-making across Paytm. We’re rebuilding how analytics gets done at the company. As a central",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/26a6a342-55db-4262-8e75-648bd8338fd0",
+      "postedAt": "2026-06-23",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_30f664",
+      "slug": "product-management-intern-insurance-paytm-delhi-ncr-30f664",
+      "title": "Product Management Intern- Insurance",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Internship",
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Analytics",
+        "Data",
+        "Mobile",
+        "Payments",
+        "Demand",
+        "Figma",
+        "Mixpanel"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Product Manager",
+        "Onsite",
+        "Analytics",
+        "Data",
+        "Mobile",
+        "Payments"
+      ],
+      "description": "About Paytm Group:\n\nPaytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology.",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/4a97658f-ac6f-4a86-b483-ae50dd5c7a46",
+      "postedAt": "2026-06-19",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_a4485c",
+      "slug": "product-manager-growth-sarvam-ai-bengaluru-a4485c",
+      "title": "Product Manager, Growth",
+      "company": {
+        "id": "sarvam-ai",
+        "name": "Sarvam AI",
+        "logo": null,
+        "domain": "sarvam.ai"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 2,
+      "experienceMax": 3,
+      "domain": [
+        "AI",
+        "Consumer"
+      ],
+      "skills": [
+        "SQL",
+        "Analytics",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Mobile",
+        "Onboarding",
+        "Retention",
+        "Amplitude"
+      ],
+      "tags": [
+        "AI",
+        "Consumer",
+        "Product Manager",
+        "Onsite",
+        "SQL",
+        "Analytics",
+        "Growth",
+        "API"
+      ],
+      "description": "About Sarvam Sarvam is building the bedrock of Sovereign AI for India. The company is developing India’s full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India’s leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC. About the Role We're building India's sovereign AI platform across API, Agents, Creator Studio, and consumer prod",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Ashby · Sarvam AI",
+      "applyUrl": "https://jobs.ashbyhq.com/sarvam/929e2e12-7a2f-4e28-9d27-f220910b2125",
+      "postedAt": "2026-05-25",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_3a0d51",
+      "slug": "product-manager-monetization-retention-sarvam-ai-bengaluru-3a0d51",
+      "title": "Product Manager, Monetization & Retention",
+      "company": {
+        "id": "sarvam-ai",
+        "name": "Sarvam AI",
+        "logo": null,
+        "domain": "sarvam.ai"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 2,
+      "experienceMax": 3,
+      "domain": [
+        "Fintech",
+        "AI",
+        "Consumer"
+      ],
+      "skills": [
+        "SQL",
+        "Growth",
+        "Monetization",
+        "Pricing",
+        "API",
+        "Platform",
+        "Data",
+        "Payments",
+        "Retention"
+      ],
+      "tags": [
+        "Fintech",
+        "AI",
+        "Consumer",
+        "Product Manager",
+        "Onsite",
+        "SQL",
+        "Growth",
+        "Monetization"
+      ],
+      "description": "About Sarvam Sarvam is building the bedrock of Sovereign AI for India. The company is developing India’s full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India’s leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC. About the Role We're building India's sovereign AI platform across API, Agents, Creator Studio, and consumer prod",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Ashby · Sarvam AI",
+      "applyUrl": "https://jobs.ashbyhq.com/sarvam/6390e602-7b98-4700-baa9-ced5be8b1651",
+      "postedAt": "2026-05-25",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_d19163",
+      "slug": "product-manager-glean-protect-security-governance-glean-bengaluru-d19163",
+      "title": "Product Manager, Glean Protect (Security & Governance)",
+      "company": {
+        "id": "glean",
+        "name": "Glean",
+        "logo": null,
+        "domain": "glean.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "AI",
+        "Enterprise",
+        "SaaS"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Onboarding"
+      ],
+      "tags": [
+        "AI",
+        "Enterprise",
+        "SaaS",
+        "Lead Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "Growth",
+        "API"
+      ],
+      "description": "About Glean: Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industry’s most advanced enterprise search has evolved into a full-scale Work AI ecosystem, powering intelligent Search, an AI Assistant, and scalable AI agents on one secure, open platform. With over 100 enterprise SaaS connectors, flexible LLM choice, and robust APIs, Glean gives organizations the infrastructure to govern, scale, and customize AI across their entire business",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Glean",
+      "applyUrl": "https://job-boards.greenhouse.io/gleanwork/jobs/4641940005",
+      "postedAt": "2026-05-14",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_1b08dc",
+      "slug": "product-manager-on-device-edge-ai-sarvam-ai-bengaluru-1b08dc",
+      "title": "Product Manager On-Device & Edge AI",
+      "company": {
+        "id": "sarvam-ai",
+        "name": "Sarvam AI",
+        "logo": null,
+        "domain": "sarvam.ai"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 4,
+      "experienceMax": 8,
+      "domain": [
+        "SaaS",
+        "AI",
+        "Consumer"
+      ],
+      "skills": [
+        "API",
+        "Platform",
+        "Data",
+        "B2B",
+        "Retention",
+        "Compliance"
+      ],
+      "tags": [
+        "SaaS",
+        "AI",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "API",
+        "Platform",
+        "Data"
+      ],
+      "description": "About Sarvam Sarvam is building the bedrock of Sovereign AI for India. The company is developing India's full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India's leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC. About the Role Sarvam is our on-device AI product line — purpose-built for enterprise deployments where data sove",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Ashby · Sarvam AI",
+      "applyUrl": "https://jobs.ashbyhq.com/sarvam/f462051e-ec76-45cf-96c5-e0192dd4dcc6",
+      "postedAt": "2026-05-12",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_31a7d7",
+      "slug": "associate-product-manager-karya-bengaluru-31a7d7",
+      "title": "Associate Product Manager",
+      "company": {
+        "id": "karya",
+        "name": "Karya",
+        "logo": null,
+        "domain": "karya.in"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "APM",
+      "experienceMin": 1,
+      "experienceMax": 3,
+      "domain": [
+        "AI",
+        "Consumer"
+      ],
+      "skills": [
+        "A/B Testing",
+        "Experimentation",
+        "SQL",
+        "User Research",
+        "API",
+        "Platform",
+        "Data",
+        "Retention",
+        "Stakeholder Management",
+        "Agile"
+      ],
+      "tags": [
+        "AI",
+        "Consumer",
+        "APM",
+        "Onsite",
+        "A/B Testing",
+        "Experimentation",
+        "SQL",
+        "User Research"
+      ],
+      "description": "About Karya : Why was Karya on the cover of the Time Magazine , highlighted by Satya Nadella , and chosen by Google as its partner for Project Vaani? In part, because Karya is on a mission to provide AI enabled earning and learning opportunities to economically underserved communities, thereby building a pathway out of poverty for them. Karya achieves this while also delivering high quality, timely, and price competitive data to its clients. Karya’s workers make at least 20 times the Indian minimum wage and through our one-of-a-kind digital work platform, we have delivered over 40 million digi",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Karya",
+      "applyUrl": "https://job-boards.greenhouse.io/karya/jobs/5205891008",
+      "postedAt": "2026-05-04",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_ea78ab",
+      "slug": "product-manager-hevo-data-bengaluru-ea78ab",
+      "title": "Product Manager",
+      "company": {
+        "id": "hevo-data",
+        "name": "Hevo Data",
+        "logo": null,
+        "domain": "hevodata.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 6,
+      "experienceMax": 8,
+      "domain": [
+        "SaaS",
+        "Enterprise",
+        "Consumer"
+      ],
+      "skills": [
+        "API",
+        "Platform",
+        "Data",
+        "B2B"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "API",
+        "Platform",
+        "Data"
+      ],
+      "description": "",
+      "responsibilities": [
+        "Hevo",
+        "The Hard Thing About Data",
+        "Most companies that claim to have a \"data platform\" have a dashboard with some charts and a dream. Hevo has something different. Something that took eight years to build and can't be bought. Over 2,000 companies send us their most sensitive data every single day. 100 billion events a month. Raw. Unfiltered. Before transformation, before aggregation, at the exact moment truth is created. That's not a product feature. That's trust, earned one customer at a time, over eight years, by not screwing up.",
+        "That position is now the foundation for something much bigger. We're building an Intelligence Layer on top of it, a system that reads across every data source a company runs, connects the signals that matter, and tells people what to do before they have to go looking for answers. We call it the Context Graph. It's real enough to show results. Early enough that the person who joins now defines what it becomes.",
+        "This is the moment. Not the moment after it's obvious. Now.",
+        "What You're Walking Into",
+        "You'll own a product pod. SaaS integrations, database connectors, or the Intelligence Layer, depending on where the biggest need is when you join. You own the backlog. More importantly, you own the why behind everything that gets built. You report directly to the CEO. In the first 3-6 months, your job is to make the foundation bulletproof, find the gaps in the platform, close them, and make the product sharper than it's ever been. After that, you move into the Intelligence Layer and help define what Hevo becomes in its next chapter.",
+        "What This Job Actually Is",
+        "Let's be honest about what great PMs do, and what mediocre ones do instead. Mediocre PMs write specs and hand them off. They synthesize feedback from CSMs and call it customer insight. They sit in architecture meetings and nod. They measure their own output in documents shipped, not outcomes delivered. That's not this job. This job is three things, done well, simultneously.",
+        "First: technical ownership. You will be in the room when architecture decisions get made. Not watching. Contributing. Pushing back. Asking the questions that change the direction of the decision. You need to understand how data pipelines work at a systems level, CDC, connectors, streaming, schema management, failure modes. If you can't hold your own in that room, engineering will stop inviting you to it. And they'll be right to.",
+        "Second: direct customer engagement. You talk to customers yourself. No intermediary. No secondhand summary. You hear the problem in the customer's own words, you sit with the complexity of it, and you own the translation into product decisions. If you're relying on a CSM to tell you what customers need, you will always be one step behind.",
+        "Third: making complexity simple. Hevo's product is deeply technical. The people who sell it and support it are not always. A big part of your job is taking complex system behavior and making it crisp and understandable, for Support, for CS, for Solutions Engineering, so they can represent the product confidently to customers. If internal teams are confused, customers will be too."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Hevo Data",
+      "applyUrl": "https://jobs.lever.co/hevodata/c665b22f-6336-4ec2-88d8-4165f51d5396",
+      "postedAt": "2026-04-30",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_2c98d2",
+      "slug": "product-management-product-manager-lending-platform-paytm-bengaluru-2c98d2",
+      "title": "Product Management - Product Manager - Lending Platform",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 2,
+      "experienceMax": 4,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Platform",
+        "Data",
+        "Mobile",
+        "Payments",
+        "Demand",
+        "Agile",
+        "Scrum"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Product Manager",
+        "Onsite",
+        "Platform",
+        "Data",
+        "Mobile",
+        "Payments"
+      ],
+      "description": "About Us: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. Expectation:",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/bcd1320b-72a8-47e1-a062-15241381fdb3",
+      "postedAt": "2026-04-17",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_88d447",
+      "slug": "product-management-senior-director-ads-paytm-bengaluru-88d447",
+      "title": "Product Management - Senior Director - Ads",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Director",
+      "experienceMin": 10,
+      "experienceMax": 15,
+      "domain": [
+        "Fintech",
+        "AI",
+        "Consumer"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Growth",
+        "Monetization",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "Mobile",
+        "Payments",
+        "Personalization",
+        "Marketplace"
+      ],
+      "tags": [
+        "Fintech",
+        "AI",
+        "Consumer",
+        "Director",
+        "Onsite",
+        "Product Strategy",
+        "Growth",
+        "Monetization"
+      ],
+      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology.  About the Role Paytm Ads is strengthening its position as a leading outcome-driven advertising platform, powered by high-intent first-party data, machine learning–led optimization, and robust measurement and attribution capabilities. As Direct",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/5cd87542-29fa-406e-b47c-c2b5a4056783",
+      "postedAt": "2026-04-17",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_3310a0",
+      "slug": "product-manager-models-sarvam-ai-bengaluru-3310a0",
+      "title": "Product Manager (Models)",
+      "company": {
+        "id": "sarvam-ai",
+        "name": "Sarvam AI",
+        "logo": null,
+        "domain": "sarvam.ai"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
+      "experienceMax": null,
+      "domain": [
+        "AI",
+        "Consumer"
+      ],
+      "skills": [
+        "SQL",
+        "API",
+        "Platform",
+        "Data"
+      ],
+      "tags": [
+        "AI",
+        "Consumer",
+        "Product Manager",
+        "Onsite",
+        "SQL",
+        "API",
+        "Platform",
+        "Data"
+      ],
+      "description": "About Sarvam Sarvam is building the bedrock of Sovereign AI for India. The company is developing India's full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India's leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC.   About the Role We are hiring a Model Product Manager to own charters for Automatic Speech Recognition (ASR), Te",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Ashby · Sarvam AI",
+      "applyUrl": "https://jobs.ashbyhq.com/sarvam/9e197c29-5164-42eb-8e74-4f691a794517",
+      "postedAt": "2026-04-17",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_12d58a",
+      "slug": "product-management-senior-product-manager-agent-merchant-paytm-bengaluru-12d58a",
+      "title": "Product Management - Senior Product Manager - Agent & Merchant",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 3,
+      "experienceMax": 6,
+      "domain": [
+        "Fintech",
+        "Consumer",
+        "AI"
+      ],
+      "skills": [
+        "Analytics",
+        "Wireframing",
+        "Growth",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "Mobile",
+        "Payments",
+        "Demand",
+        "Amplitude"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "AI",
+        "Senior Product Manager",
+        "Onsite",
+        "Analytics",
+        "Wireframing",
+        "Growth"
+      ],
+      "description": "About Paytm Group:\n\nPaytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology.\n\nSkills that will help you succeed in this role",
+      "responsibilities": [
+        "3–6 years of core Product Management experience, specifically within high-growth consumer or partner-facing product charters.",
+        "Proven track record in scaling products and owning KPI outcomes, preferably at new-age internet leaders (e.g., Zomato, Swiggy, Flipkart, Amazon, MMT or equivalent).",
+        "Strong preference for candidates with platform-thinking capabilities - those who can look beyond the immediate sprint to architect 1-year scalable roadmaps across multiple business verticals.",
+        "Must possess a 'data-first' mindset, with the ability to move beyond basic reporting to derive actionable insights",
+        "Hands-on experience with product analytics suites (e.g., Amplitude, Mixpanel, Google Analytics or Clevertap) and prevalent visualization tools",
+        "Candidates with hands-on experience of building Data Science, Machine Learning, AI native products to be preferred.",
+        "Hands-on experience in using AI tools or Agentic AI for wireframing, workflows, prototyping, documentation, data analysis & generating insights."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/b909105c-269c-4726-b0af-f07ff2b2dd36",
+      "postedAt": "2026-04-10",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_a4ef2a",
+      "slug": "product-management-senior-product-manager-lending-platform-paytm-delhi-ncr-a4ef2a",
+      "title": "Product Management - Senior Product Manager - Lending Platform",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 4,
+      "experienceMax": 8,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Platform",
+        "Data",
+        "Mobile",
+        "Payments",
+        "Demand",
+        "Agile",
+        "Scrum"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "Platform",
+        "Data",
+        "Mobile",
+        "Payments"
+      ],
+      "description": "About Us: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. Expectation:",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/75992181-c0d0-44e7-805a-6dddfd0fe23b",
+      "postedAt": "2026-04-04",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_f404a7",
+      "slug": "senior-product-manager-josys-bengaluru-f404a7",
+      "title": "Senior Product Manager",
+      "company": {
+        "id": "josys",
+        "name": "Josys",
+        "logo": null,
+        "domain": "josys.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Platform",
+        "Data",
+        "B2B"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Platform",
+        "Data",
+        "B2B"
+      ],
+      "description": "About Josys Josys is a modern AI-native identity security and governance platform. Enterprise AI adoption has made identity the fastest-growing attack surface, and the hardest to govern. Josys discovers, governs, and secures every identity",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Ashby · Josys",
+      "applyUrl": "https://jobs.ashbyhq.com/josys/6f88d5de-acdb-42c9-9c7b-da2a3c916b05",
+      "postedAt": "2026-04-01",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_d31aac",
+      "slug": "product-management-product-growth-manager-agent-paytm-bengaluru-d31aac",
+      "title": "Product Management - Product Growth Manager - Agent",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
+      "experienceMax": 6,
+      "domain": [
+        "Fintech",
+        "Consumer",
+        "AI"
+      ],
+      "skills": [
+        "Analytics",
+        "Wireframing",
+        "Growth",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "Mobile",
+        "Payments",
+        "Demand",
+        "Amplitude"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "AI",
+        "Product Manager",
+        "Onsite",
+        "Analytics",
+        "Wireframing",
+        "Growth"
+      ],
+      "description": "About Paytm:  Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. Skills that will help you succeed in this role",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/3db438be-5917-4f31-96ca-f8e26f0ff5bc",
+      "postedAt": "2025-12-30",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_730c0d",
+      "slug": "product-management-product-manager-paytm-money-paytm-bengaluru-730c0d",
+      "title": "Product Management - Product Manager - Paytm Money",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 4,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Analytics",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Mobile",
+        "B2C",
+        "Payments",
+        "Retention",
+        "Stakeholder Management"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "Analytics",
+        "Growth",
+        "API",
+        "Platform"
+      ],
+      "description": "About Us:Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology.",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/d73b511b-ae92-46f0-9aa1-ac10f2fbb84a",
+      "postedAt": "2025-12-02",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_c3b693",
+      "slug": "senior-product-manager-fampay-bengaluru-c3b693",
+      "title": "Senior Product Manager",
+      "company": {
+        "id": "fampay",
+        "name": "FamPay",
+        "logo": null,
+        "domain": "fampay.in"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 6,
+      "experienceMax": 8,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Product Strategy",
+        "A/B Testing",
+        "Experimentation",
+        "Analytics",
+        "Growth",
+        "API",
+        "Data",
+        "B2C",
+        "Payments",
+        "Retention"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "A/B Testing",
+        "Experimentation",
+        "Analytics"
+      ],
+      "description": "About Fam (previously FamPay)\n\nFam is India’s first payments app for everyone above 11. FamApp helps make online and offline payments through UPI and FamCard. We are on a mission to raise a new, financially aware generation, and drive 250 million+ young users in India to kickstart their financial journey super early in their life.\n\nWe’re reimagining how the next generation experiences fintech—going beyond payments to build a lifestyle brand that blends money, identity, and everyday experiences into one seamless, intuitive journey.\n\nFounded in 2019 by IIT Roorkee alumni, Fam is backed by some of the most respected investors around the world like Elevation Capital, Y-Combinator, Peak XV (Sequoia Capital) India, Venture Highway, Global Founder’s Capital and the likes of Kunal Shah, Amrish Rao as angel investors.\n\nAbout this role\n\nCan you make us a product offer we can't refuse? Then join us to be the godfather of some of the most innovative products in the Indian fintech industry. When the mission is to become the most loved application among the digital native young cohort of India, we cannot afford a product that's not better than the world's best out there.\n\nAs a Senior Product Manager at Fam you get to create and manage product innovations that the country is seeing for the first time ever. From the first numberless card in India, to the only payments app for teens, you would be required to build upon and build from scratch everyday.\n\nIf you are think you can create products",
+      "responsibilities": [
+        "Drive product vision and execution: Translate the broader product strategy into actionable roadmaps and deliver measurable impact",
+        "Own key funnels or metrics – define, monitor, and improve critical KPIs such as activation, retention, CSAT, or revenue",
+        "Collaborate cross-functionally with Engineering, Design, Growth, and Analytics teams to deliver end-to-end solutions",
+        "Identify and solve real user problems by deeply understanding user needs, identifying opportunities, validating hypotheses, and delivering delightful experiences",
+        "Be data-informed: Use quantitative and qualitative data to prioritize features and evaluate success post-launch",
+        "Ensure high-quality product documentation by writing clear, structured PRDs and contributing to improved product processes",
+        "Mentor and guide PMs through structured feedback, sharing best practices, and conducting product reviews",
+        "Influence through user advocacy: Balance business goals with user empathy and data-driven decision-making",
+        "Collaborate with teams to align on product priorities, share insights, and communicate progress effectively",
+        "Get hands dirty when needed: Participate in discovery, design reviews, QA, or data deep-dives as required",
+        "Must-haves (Min. qualifications)",
+        "6–8 years of experience in Product Management, ideally in B2C or consumer-facing products"
+      ],
+      "requirements": [],
+      "preferred": [
+        "Experience in FinTech, Payments, or B2C commerce",
+        "Exposure to ads, revenue, or customer retention initiatives",
+        "Prior experience as an engineer turned PM or strong technical understanding of frontend/backend systems",
+        "Comfort working in ambiguous, fast-paced environments",
+        "Exposure to KYC, Customer Support, Retention, and Growth verticals",
+        "Experience in building for scale, leveraging consumer insights and data to prioritize product bets",
+        "Understanding of design systems, usability principles, and user behavior analytics tools",
+        "Experience mentoring or managing small product pods or PMs"
+      ],
+      "salary": null,
+      "source": "Lever · FamPay",
+      "applyUrl": "https://jobs.lever.co/fampay/bc1060ed-d15a-4f62-a560-856cc344201e",
+      "postedAt": "2025-11-07",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
+      "id": "job_928764",
+      "slug": "product-management-manager-paytm-insurance-paytm-delhi-ncr-928764",
+      "title": "Product Management - Manager- Paytm Insurance",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
+      "experienceMax": 8,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Data",
+        "Payments",
+        "Demand"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Product Manager",
+        "Onsite",
+        "Data",
+        "Payments",
+        "Demand"
+      ],
+      "description": "About Paytm Paytm is a pioneer of digital payments in India, serving over 450 million consumers and 45 million merchants across payments, financial services, and commerce. Over the years, Paytm has built deep in-house capabilities across technology, data, and operations to operate at scale with high reliability. About the team: Headquartered in Noida, India, Paytm Insurance Broking Private Limited (PIBPL), a wholly  owned subsidiary of One97 Communications (OCL) is an online insurance market place, that  offers insurance products across all leading insurance companies, with products across aut",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/00b98697-9b57-442e-9778-fe159769d1ee",
+      "postedAt": "2025-08-18",
+      "firstSeenAt": "2026-09-10",
       "lastSeenAt": "2026-09-10",
       "status": "Active"
     },
@@ -2695,6 +5922,63 @@
       "status": "Active"
     },
     {
+      "id": "job_9b3096",
+      "slug": "product-manager-ema-bengaluru-9b3096",
+      "title": "Product Manager",
+      "company": {
+        "id": "ema",
+        "name": "Ema",
+        "logo": null,
+        "domain": "ema.co"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": null,
+      "domain": [
+        "AI",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "A/B Testing",
+        "User Research",
+        "Go-to-Market",
+        "API",
+        "Platform",
+        "Data",
+        "Demand",
+        "Stakeholder Management",
+        "Agile"
+      ],
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "A/B Testing",
+        "User Research",
+        "Go-to-Market"
+      ],
+      "description": "ABOUT EMA Ema is building the world’s leading Agentic AI platform to transform enterprise productivity. We enable organizations to delegate repetitive tasks to Ema, the Universal AI Employee, delivering 10x gains in workforce efficiency, across functions. Founded by former executives from Google, Coinbase, Flipkart, and Okta, our team includes engineers from premier tech companies and graduates of Stanford, MIT, UC Berkeley, CMU, and IITs. We are backed by industry leading investors including Accel, Naspers/Prosus, Section32, and angels like Sheryl Sandberg and Dustin Moskovitz. Headquartered ",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Ashby · Ema",
+      "applyUrl": "https://jobs.ashbyhq.com/ema/74540ab2-9782-476f-ad0d-78cc2e7717ed",
+      "postedAt": "2024-10-23",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-10",
+      "status": "Active"
+    },
+    {
       "id": "job_da9207",
       "slug": "product-manager-bluecore-delhi-ncr-da9207",
       "title": "Product Manager",
@@ -2766,6 +6050,19 @@
   ],
   "companies": [
     {
+      "id": "airbnb",
+      "name": "Airbnb",
+      "logo": null,
+      "domain": "airbnb.com",
+      "website": "https://airbnb.com",
+      "industry": "Travel",
+      "companySize": "5000+",
+      "description": "Airbnb is a travel company hiring product managers in India.",
+      "locations": [
+        "Bengaluru"
+      ]
+    },
+    {
       "id": "appian",
       "name": "Appian",
       "logo": null,
@@ -2831,6 +6128,32 @@
       ]
     },
     {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "logo": null,
+      "domain": "coinbase.com",
+      "website": "https://coinbase.com",
+      "industry": "Fintech",
+      "companySize": "5000+",
+      "description": "Coinbase is a fintech company hiring product managers in India.",
+      "locations": [
+        "Remote"
+      ]
+    },
+    {
+      "id": "commvault",
+      "name": "Commvault",
+      "logo": null,
+      "domain": "commvault.com",
+      "website": "https://commvault.com",
+      "industry": "Enterprise",
+      "companySize": "1000-5000",
+      "description": "Commvault is a enterprise company hiring product managers in India.",
+      "locations": [
+        "Bengaluru"
+      ]
+    },
+    {
       "id": "cornerstone-ondemand",
       "name": "Cornerstone OnDemand",
       "logo": null,
@@ -2841,6 +6164,19 @@
       "description": null,
       "locations": [
         "Pune"
+      ]
+    },
+    {
+      "id": "ema",
+      "name": "Ema",
+      "logo": null,
+      "domain": "ema.co",
+      "website": "https://ema.co",
+      "industry": "AI",
+      "companySize": "100-500",
+      "description": "Ema is a ai company hiring product managers in India.",
+      "locations": [
+        "Bengaluru"
       ]
     },
     {
@@ -2875,6 +6211,19 @@
       ]
     },
     {
+      "id": "fampay",
+      "name": "FamPay",
+      "logo": null,
+      "domain": "fampay.in",
+      "website": "https://fampay.in",
+      "industry": "Fintech",
+      "companySize": "100-500",
+      "description": "FamPay is a fintech company hiring product managers in India.",
+      "locations": [
+        "Bengaluru"
+      ]
+    },
+    {
       "id": "ge-vernova",
       "name": "GE Vernova",
       "logo": null,
@@ -2883,6 +6232,32 @@
       "industry": null,
       "companySize": null,
       "description": null,
+      "locations": [
+        "Bengaluru"
+      ]
+    },
+    {
+      "id": "glean",
+      "name": "Glean",
+      "logo": null,
+      "domain": "glean.com",
+      "website": "https://glean.com",
+      "industry": "AI",
+      "companySize": "500-1000",
+      "description": "Glean is a ai company hiring product managers in India.",
+      "locations": [
+        "Bengaluru"
+      ]
+    },
+    {
+      "id": "hevo-data",
+      "name": "Hevo Data",
+      "logo": null,
+      "domain": "hevodata.com",
+      "website": "https://hevodata.com",
+      "industry": "Data",
+      "companySize": "100-500",
+      "description": "Hevo Data is a data company hiring product managers in India.",
       "locations": [
         "Bengaluru"
       ]
@@ -2901,6 +6276,45 @@
       ]
     },
     {
+      "id": "josys",
+      "name": "Josys",
+      "logo": null,
+      "domain": "josys.com",
+      "website": "https://josys.com",
+      "industry": "SaaS",
+      "companySize": "500-1000",
+      "description": "Josys is a saas company hiring product managers in India.",
+      "locations": [
+        "Bengaluru"
+      ]
+    },
+    {
+      "id": "karat",
+      "name": "Karat",
+      "logo": null,
+      "domain": "karat.com",
+      "website": "https://karat.com",
+      "industry": "HR Tech",
+      "companySize": "500-1000",
+      "description": "Karat is a hr tech company hiring product managers in India.",
+      "locations": [
+        "Bengaluru"
+      ]
+    },
+    {
+      "id": "karya",
+      "name": "Karya",
+      "logo": null,
+      "domain": "karya.in",
+      "website": "https://karya.in",
+      "industry": "AI",
+      "companySize": "50-100",
+      "description": "Karya is a ai company hiring product managers in India.",
+      "locations": [
+        "Bengaluru"
+      ]
+    },
+    {
       "id": "mastercard",
       "name": "Mastercard",
       "logo": null,
@@ -2911,6 +6325,59 @@
       "description": null,
       "locations": [
         "Pune"
+      ]
+    },
+    {
+      "id": "meesho",
+      "name": "Meesho",
+      "logo": null,
+      "domain": "meesho.com",
+      "website": "https://meesho.com",
+      "industry": "Ecommerce",
+      "companySize": "1000-5000",
+      "description": "Meesho is a ecommerce company hiring product managers in India.",
+      "locations": [
+        "Bengaluru"
+      ]
+    },
+    {
+      "id": "mindtickle",
+      "name": "MindTickle",
+      "logo": null,
+      "domain": "mindtickle.com",
+      "website": "https://mindtickle.com",
+      "industry": "SaaS",
+      "companySize": "500-1000",
+      "description": "MindTickle is a saas company hiring product managers in India.",
+      "locations": [
+        "Pune"
+      ]
+    },
+    {
+      "id": "mongodb",
+      "name": "MongoDB",
+      "logo": null,
+      "domain": "mongodb.com",
+      "website": "https://mongodb.com",
+      "industry": "Developer Tools",
+      "companySize": "5000+",
+      "description": "MongoDB is a developer tools company hiring product managers in India.",
+      "locations": [
+        "Delhi NCR"
+      ]
+    },
+    {
+      "id": "paytm",
+      "name": "Paytm",
+      "logo": null,
+      "domain": "paytm.com",
+      "website": "https://paytm.com",
+      "industry": "Fintech",
+      "companySize": "5000+",
+      "description": "Paytm is a fintech company hiring product managers in India.",
+      "locations": [
+        "Bengaluru",
+        "Delhi NCR"
       ]
     },
     {
@@ -2927,6 +6394,19 @@
       ]
     },
     {
+      "id": "rubrik",
+      "name": "Rubrik",
+      "logo": null,
+      "domain": "rubrik.com",
+      "website": "https://rubrik.com",
+      "industry": "Enterprise",
+      "companySize": "1000-5000",
+      "description": "Rubrik is a enterprise company hiring product managers in India.",
+      "locations": [
+        "Bengaluru"
+      ]
+    },
+    {
       "id": "salesforce",
       "name": "Salesforce",
       "logo": null,
@@ -2937,6 +6417,33 @@
       "description": null,
       "locations": [
         "Hyderabad",
+        "Bengaluru"
+      ]
+    },
+    {
+      "id": "sarvam-ai",
+      "name": "Sarvam AI",
+      "logo": null,
+      "domain": "sarvam.ai",
+      "website": "https://sarvam.ai",
+      "industry": "AI",
+      "companySize": "50-100",
+      "description": "Sarvam AI is a ai company hiring product managers in India.",
+      "locations": [
+        "Bengaluru",
+        "Delhi NCR"
+      ]
+    },
+    {
+      "id": "saviynt",
+      "name": "Saviynt",
+      "logo": null,
+      "domain": "saviynt.com",
+      "website": "https://saviynt.com",
+      "industry": "Security",
+      "companySize": "1000-5000",
+      "description": "Saviynt is a security company hiring product managers in India.",
+      "locations": [
         "Bengaluru"
       ]
     },
@@ -2967,6 +6474,19 @@
       ]
     },
     {
+      "id": "smartsheet",
+      "name": "Smartsheet",
+      "logo": null,
+      "domain": "smartsheet.com",
+      "website": "https://smartsheet.com",
+      "industry": "SaaS",
+      "companySize": "1000-5000",
+      "description": "Smartsheet is a saas company hiring product managers in India.",
+      "locations": [
+        "Bengaluru"
+      ]
+    },
+    {
       "id": "spotdraft",
       "name": "SpotDraft",
       "logo": null,
@@ -2977,6 +6497,33 @@
       "description": "SpotDraft is a saas company hiring product managers in India.",
       "locations": [
         "Bengaluru"
+      ]
+    },
+    {
+      "id": "stripe",
+      "name": "Stripe",
+      "logo": null,
+      "domain": "stripe.com",
+      "website": "https://stripe.com",
+      "industry": "Fintech",
+      "companySize": "5000+",
+      "description": "Stripe is a fintech company hiring product managers in India.",
+      "locations": [
+        "Bengaluru"
+      ]
+    },
+    {
+      "id": "sumo-logic",
+      "name": "Sumo Logic",
+      "logo": null,
+      "domain": "sumologic.com",
+      "website": "https://sumologic.com",
+      "industry": "SaaS",
+      "companySize": "1000-5000",
+      "description": "Sumo Logic is a saas company hiring product managers in India.",
+      "locations": [
+        "Bengaluru",
+        "Delhi NCR"
       ]
     },
     {
@@ -3028,6 +6575,19 @@
       "industry": null,
       "companySize": null,
       "description": null,
+      "locations": [
+        "Bengaluru"
+      ]
+    },
+    {
+      "id": "warner-music-group",
+      "name": "Warner Music Group",
+      "logo": null,
+      "domain": "wmg.com",
+      "website": "https://wmg.com",
+      "industry": "Entertainment",
+      "companySize": "5000+",
+      "description": "Warner Music Group is a entertainment company hiring product managers in India.",
       "locations": [
         "Bengaluru"
       ]
