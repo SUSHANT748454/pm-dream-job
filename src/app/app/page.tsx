@@ -9,7 +9,15 @@ export const metadata: Metadata = { title: "Job Search" };
 export const dynamic = "force-dynamic";
 
 export default function AppHomePage() {
-  const jobs = getActiveJobList();
+  // Trim the long-form text for the dashboard payload; "Open full page" links
+  // to /jobs/[slug] for the complete listing.
+  const jobs = getActiveJobList().map((j) => ({
+    ...j,
+    description: j.description.slice(0, 600),
+    responsibilities: j.responsibilities.slice(0, 6),
+    requirements: j.requirements.slice(0, 6),
+    preferred: j.preferred.slice(0, 4),
+  }));
   const stats = getDashboardStats();
   // Per-request server timestamp so relative dates match on server and client.
   // eslint-disable-next-line react-hooks/purity
