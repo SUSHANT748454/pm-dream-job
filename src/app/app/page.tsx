@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { Suspense } from "react";
 
 import { getActiveJobList, getDashboardStats } from "@/services/jobService";
 import { JobSearchDashboard } from "@/components/app/job-search-dashboard";
@@ -8,9 +7,16 @@ import { TrackView } from "@/components/analytics/track-view";
 export const metadata: Metadata = { title: "Job Search" };
 export const dynamic = "force-dynamic";
 
-export default function AppHomePage() {
-  // Trim the long-form text for the dashboard payload; "Open full page" links
-  // to /jobs/[slug] for the complete listing.
+export default async function AppHomePage(props: {
+  searchParams: Promise<{ job?: string }>;
+}) {
+  // Reading searchParams makes this a dynamic route, which lets the client
+  // components below use useSearchParams() without an extra Suspense boundary
+  // (that boundary was leaving the page stuck on its fallback intermittently).
+  await props.searchParams;
+
+  // Trim long-form text from the dashboard payload; "Open full page" links to
+  // /jobs/[slug] for the complete listing.
   const jobs = getActiveJobList().map((j) => ({
     ...j,
     description: j.description.slice(0, 600),
@@ -26,15 +32,7 @@ export default function AppHomePage() {
   return (
     <>
       <TrackView event={{ name: "page_viewed", props: { path: "/app" } }} />
-      <Suspense
-        fallback={
-          <div className="grid h-[60vh] place-items-center text-sm text-text-faint">
-            Loading your board…
-          </div>
-        }
-      >
-        <JobSearchDashboard jobs={jobs} stats={stats} now={now} />
-      </Suspense>
+      <JobSearchDashboard jobs={jobs} stats={stats} now={now} />
     </>
   );
 }
