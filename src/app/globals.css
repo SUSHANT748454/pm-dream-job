@@ -1,0 +1,142 @@
+@import "tailwindcss";
+
+/*
+  PM Dream Job — dark, editorial, premium.
+  Single committed theme (dark only, per product brief).
+*/
+
+:root {
+  --bg: #0a0b0d;
+  --bg-elevated: #121317;
+  --bg-card: #131418;
+  --bg-card-hover: #17181d;
+  --border: #26272d;
+  --border-strong: #34353c;
+
+  --text: #f6f6f4;
+  --text-muted: #a2a2ac;
+  --text-faint: #6f7079;
+
+  --gold: #d8b36a;
+  --gold-soft: #e7cd9b;
+  --gold-dim: rgba(216, 179, 106, 0.14);
+
+  --accent: #7c8cff;
+  --accent-soft: rgba(124, 140, 255, 0.14);
+
+  --positive: #5bbf8a;
+  --danger: #e0736b;
+
+  --radius: 0.75rem;
+  --radius-lg: 1.1rem;
+
+  --shadow-card: 0 1px 2px rgba(0, 0, 0, 0.4), 0 12px 40px -18px rgba(0, 0, 0, 0.7);
+  --shadow-pop: 0 20px 60px -20px rgba(0, 0, 0, 0.75);
+
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-bg-elevated: var(--bg-elevated);
+  --color-bg-card: var(--bg-card);
+  --color-bg-card-hover: var(--bg-card-hover);
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
+  --color-text: var(--text);
+  --color-text-muted: var(--text-muted);
+  --color-text-faint: var(--text-faint);
+  --color-gold: var(--gold);
+  --color-gold-soft: var(--gold-soft);
+  --color-accent: var(--accent);
+  --color-positive: var(--positive);
+  --color-danger: var(--danger);
+
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-fraunces), Georgia, "Times New Roman", serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, monospace;
+
+  --radius-DEFAULT: var(--radius);
+  --radius-lg: var(--radius-lg);
+}
+
+* {
+  border-color: var(--border);
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: var(--font-sans);
+  /* subtle top-of-page glow */
+  background-image:
+    radial-gradient(1100px 520px at 50% -10%, rgba(124, 140, 255, 0.08), transparent 60%),
+    radial-gradient(900px 500px at 85% 0%, rgba(216, 179, 106, 0.06), transparent 55%);
+  background-repeat: no-repeat;
+}
+
+::selection {
+  background: var(--gold);
+  color: #17130a;
+}
+
+/* Focus ring */
+:where(a, button, input, select, [tabindex]):focus-visible {
+  outline: 2px solid var(--gold-soft);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+@utility container-page {
+  margin-inline: auto;
+  max-width: 76rem;
+  padding-inline: 1.25rem;
+}
+
+@utility text-balance {
+  text-wrap: balance;
+}
+
+@utility hairline {
+  border: 1px solid var(--border);
+}
+
+/* thin custom scrollbar for filter rails etc. */
+.scroll-slim {
+  scrollbar-width: thin;
+  scrollbar-color: var(--border-strong) transparent;
+}
+.scroll-slim::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+.scroll-slim::-webkit-scrollbar-thumb {
+  background: var(--border-strong);
+  border-radius: 999px;
+}
+
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-in {
+  animation: fade-in-up 0.5s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-in {
+    animation: none;
+  }
+}

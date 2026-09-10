@@ -1,0 +1,41 @@
+name: Refresh jobs
+
+# Re-reads every job source and commits an updated src/data/jobs.json.
+# Runs every 5 hours; Vercel redeploys automatically on the commit.
+
+on:
+  schedule:
+    - cron: "0 */5 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-jobs
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Run ingestion
+        run: node scripts/ingest/index.ts
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- src/data/jobs.json; then
+            echo "No changes to jobs.json"
+            exit 0
+          fi
+          git config user.name "pm-dream-job-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add src/data/jobs.json
+          git commit -m "chore(data): refresh jobs [skip ci]"
+          git push

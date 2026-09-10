@@ -1,0 +1,66 @@
+import type { Metadata } from "next";
+import { Geist, Geist_Mono, Fraunces } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
+
+import "./globals.css";
+import { SiteHeader } from "@/components/site-header";
+import { SiteFooter } from "@/components/site-footer";
+
+const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
+const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
+const fraunces = Fraunces({
+  variable: "--font-fraunces",
+  subsets: ["latin"],
+  weight: ["400", "500", "600"],
+  style: ["normal", "italic"],
+});
+
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pm-dream-job.vercel.app";
+
+export const metadata: Metadata = {
+  metadataBase: new URL(siteUrl),
+  title: {
+    default: "PM Dream Job — Product Management jobs in India, in one place",
+    template: "%s · PM Dream Job",
+  },
+  description:
+    "Discover Product Management roles across India — search, filter by level, domain and work mode, and apply at the source. Refreshed every few hours.",
+  keywords: [
+    "product manager jobs",
+    "PM jobs India",
+    "APM jobs",
+    "senior product manager",
+    "product management careers",
+  ],
+  openGraph: {
+    type: "website",
+    siteName: "PM Dream Job",
+    url: siteUrl,
+    title: "PM Dream Job — Product Management jobs in India, in one place",
+    description:
+      "Discover Product Management roles across India — search, filter, and apply at the source.",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "PM Dream Job",
+    description: "Product Management jobs in India, in one place.",
+  },
+  robots: { index: true, follow: true },
+};
+
+export default function RootLayout({ children }: LayoutProps<"/">) {
+  return (
+    <html
+      lang="en"
+      data-scroll-behavior="smooth"
+      className={`${geistSans.variable} ${geistMono.variable} ${fraunces.variable} h-full antialiased`}
+    >
+      <body className="min-h-full flex flex-col bg-bg text-text">
+        <SiteHeader />
+        <main className="flex-1">{children}</main>
+        <SiteFooter />
+        <Analytics />
+      </body>
+    </html>
+  );
+}
