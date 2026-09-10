@@ -519,12 +519,20 @@ function ApplyControl({
 
   if (!tracked) {
     return (
-      <button
-        onClick={() => onSetStage("applied")}
-        className="inline-flex items-center gap-1.5 rounded-lg bg-gold px-4 py-2 text-sm font-medium text-[#1a1406] hover:bg-gold-soft"
-      >
-        Mark as Applied
-      </button>
+      <>
+        <button
+          onClick={() => onSetStage("saved")}
+          className="inline-flex items-center gap-1.5 rounded-lg border border-[var(--border-strong)] bg-[var(--bg-card)] px-4 py-2 text-sm text-text hover:bg-[var(--bg-elevated)]"
+        >
+          Save
+        </button>
+        <button
+          onClick={() => onSetStage("applied")}
+          className="inline-flex items-center gap-1.5 rounded-lg bg-gold px-4 py-2 text-sm font-medium text-[#1a1406] hover:bg-gold-soft"
+        >
+          Mark as Applied
+        </button>
+      </>
     );
   }
 

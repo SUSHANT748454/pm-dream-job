@@ -37,7 +37,16 @@ export async function generateMetadata(props: {
   const job = getJobBySlug(slug);
   if (!job) return { title: "Job not found" };
   const title = `${job.title} at ${job.company.name}`;
-  const description = `${job.experienceLevel} · ${job.location.city} · ${job.workMode}. ${job.description.slice(0, 150)}`;
+  const blurb = job.description
+    .replace(
+      /^(job requisition id|requisition id|req\.? id|posting id|job id|position id)\b[\s\S]*?(\n\n|$)/i,
+      "",
+    )
+    .replace(/^[A-Z0-9][A-Z0-9\-]{4,14}\s*(\n\n|$)/, "") // bare req/id code line
+    .replace(/\s+/g, " ")
+    .trim()
+    .slice(0, 155);
+  const description = `${job.experienceLevel} · ${job.location.city} · ${job.workMode}.${blurb ? ` ${blurb}` : ""}`;
   return {
     title,
     description,
