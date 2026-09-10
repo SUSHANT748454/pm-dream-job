@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T09:16:36.087Z",
+  "generatedAt": "2026-09-10T13:58:45.464Z",
   "jobs": [
     {
       "id": "job_3c39b5",
@@ -2350,8 +2350,8 @@
     },
     {
       "id": "job_a4e18a",
-      "slug": "senior-product-manager-ai-spotdraft-bengaluru-a4e18a",
-      "title": "Senior Product Manager - AI",
+      "slug": "product-manager-ai-spotdraft-bengaluru-a4e18a",
+      "title": "Product Manager - AI",
       "company": {
         "id": "spotdraft",
         "name": "SpotDraft",
@@ -2364,8 +2364,8 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 4,
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
       "experienceMax": null,
       "domain": [
         "SaaS",
@@ -2382,7 +2382,7 @@
       "tags": [
         "SaaS",
         "Enterprise",
-        "Senior Product Manager",
+        "Product Manager",
         "Onsite",
         "Analytics",
         "API",
