@@ -1,12 +1,13 @@
 "use client";
 
-import { useCallback, useEffect, useState } from "react";
+import { supabase } from "@/lib/supabase/client";
+import type { ResumeRow } from "@/lib/supabase/types";
+import { useSyncedStore, type RemoteAdapter } from "@/lib/synced-store";
 
 /**
- * The résumé, kept ONLY in this browser's localStorage — never uploaded. We
- * store the extracted plain text (used for on-device ATS matching) plus a bit
- * of metadata. Separate key from the profile because it's larger and has its
- * own lifecycle (a user can clear just this).
+ * The résumé text, used for on-device ATS matching. Stored in localStorage and,
+ * once the visitor signs in, synced to the Supabase `resumes` table. The
+ * résumé *file* is never uploaded — only the extracted text.
  */
 
 export type ResumeSource = "pdf" | "docx" | "txt" | "paste";
@@ -15,14 +16,12 @@ export interface StoredResume {
   text: string;
   fileName?: string;
   source: ResumeSource;
-  /** character count, for display */
   chars: number;
   updatedAt: string;
 }
 
 const KEY = "pmdj.resume.v1";
 const EVENT = "pmdj:resume-changed";
-/** localStorage is ~5 MB; keep well clear of it. Résumés are a few KB of text. */
 const MAX_CHARS = 60_000;
 
 export function readResume(): StoredResume | null {
@@ -37,25 +36,38 @@ export function readResume(): StoredResume | null {
   }
 }
 
-export function writeResume(input: {
+export function normalizeResume(input: {
   text: string;
   fileName?: string;
   source: ResumeSource;
 }): StoredResume {
   const text = input.text.replace(/\s+\n/g, "\n").trim().slice(0, MAX_CHARS);
-  const resume: StoredResume = {
+  return {
     text,
     fileName: input.fileName,
     source: input.source,
     chars: text.length,
     updatedAt: new Date().toISOString(),
   };
+}
+
+function putResume(resume: StoredResume): void {
   try {
     window.localStorage.setItem(KEY, JSON.stringify(resume));
     window.dispatchEvent(new Event(EVENT));
   } catch {
-    /* quota / private mode — fail quietly */
+    /* quota / private mode */
   }
+}
+
+/** Normalise + persist locally. Returns the stored record. */
+export function writeResume(input: {
+  text: string;
+  fileName?: string;
+  source: ResumeSource;
+}): StoredResume {
+  const resume = normalizeResume(input);
+  putResume(resume);
   return resume;
 }
 
@@ -68,47 +80,74 @@ export function clearResume(): void {
   }
 }
 
-/**
- * Reactive résumé hook — same effect-based hydration pattern as `useProfile`, so
- * SSR and the first client render always agree (starts null / not hydrated).
- */
+/* Stable references for useSyncedStore. */
+function putResumeOrClear(r: StoredResume | null): void {
+  if (r) putResume(r);
+  else clearResume();
+}
+const resumeEmpty = (r: StoredResume | null): boolean => !r;
+
+/* ---------- Supabase mapping ---------- */
+
+const remote: RemoteAdapter<StoredResume | null> = {
+  fetch: async (userId) => {
+    const { data } = await supabase!
+      .from("resumes")
+      .select("*")
+      .eq("user_id", userId)
+      .maybeSingle();
+    if (!data) return null;
+    const r = data as ResumeRow;
+    return {
+      text: r.text,
+      fileName: r.file_name ?? undefined,
+      source: (r.source as ResumeSource) || "paste",
+      chars: r.chars ?? r.text.length,
+      updatedAt: r.updated_at,
+    };
+  },
+  push: async (userId, value) => {
+    if (!value) return;
+    await supabase!.from("resumes").upsert({
+      user_id: userId,
+      text: value.text,
+      file_name: value.fileName ?? null,
+      source: value.source,
+      chars: value.chars,
+      updated_at: new Date().toISOString(),
+    });
+  },
+  remove: async (userId) => {
+    await supabase!.from("resumes").delete().eq("user_id", userId);
+  },
+};
+
 export function useResume(): {
   resume: StoredResume | null;
   hydrated: boolean;
+  syncing: boolean;
   save: (input: { text: string; fileName?: string; source: ResumeSource }) => StoredResume;
   clear: () => void;
 } {
-  const [resume, setResume] = useState<StoredResume | null>(null);
-  const [hydrated, setHydrated] = useState(false);
+  const store = useSyncedStore<StoredResume | null>({
+    empty: null,
+    readLocal: readResume,
+    writeLocal: putResumeOrClear,
+    clearLocal: clearResume,
+    event: EVENT,
+    isEmpty: resumeEmpty,
+    remote,
+  });
 
-  useEffect(() => {
-    /* eslint-disable react-hooks/set-state-in-effect --
-       Deliberate: hydrate client-only state from localStorage after mount. */
-    const sync = () => setResume(readResume());
-    sync();
-    setHydrated(true);
-    /* eslint-enable react-hooks/set-state-in-effect */
-    window.addEventListener(EVENT, sync);
-    window.addEventListener("storage", sync);
-    return () => {
-      window.removeEventListener(EVENT, sync);
-      window.removeEventListener("storage", sync);
-    };
-  }, []);
-
-  const save = useCallback(
-    (input: { text: string; fileName?: string; source: ResumeSource }) => {
-      const next = writeResume(input);
-      setResume(next);
-      return next;
+  return {
+    resume: store.value,
+    hydrated: store.hydrated,
+    syncing: store.syncing,
+    save: (input) => {
+      const resume = normalizeResume(input);
+      store.save(resume);
+      return resume;
     },
-    [],
-  );
-
-  const clear = useCallback(() => {
-    clearResume();
-    setResume(null);
-  }, []);
-
-  return { resume, hydrated, save, clear };
+    clear: store.clear,
+  };
 }

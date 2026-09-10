@@ -563,8 +563,9 @@ function ResumeStep({ draft, set }: StepProps) {
       {error && <p className="mt-3 text-xs text-red-500">{error}</p>}
 
       <p className="mt-4 text-xs leading-relaxed text-[#8a857a]">
-        Parsed in your browser and stored only on this device — it&apos;s never
-        uploaded. Used to match you against each role.
+        Parsed in your browser and kept on this device — the file is never
+        uploaded. Used to match you against each role. Sign in later to sync it
+        across devices.
       </p>
     </div>
   );

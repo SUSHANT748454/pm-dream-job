@@ -24,6 +24,7 @@ import {
 } from "./core.ts";
 import { SEED_COMPANIES } from "./companies.ts";
 import { fromAtsBoards, fromRemotive, fromTheMuse } from "./sources.ts";
+import { syncToSupabase } from "./supabase-sink.ts";
 import type {
   Company,
   Job,
@@ -278,6 +279,10 @@ async function main() {
   };
 
   await writeFile(DATA_FILE, JSON.stringify(dataset, null, 2) + "\n", "utf8");
+
+  await syncToSupabase(merged, companies).catch((e) =>
+    console.warn("  Supabase sync failed:", e instanceof Error ? e.message : e),
+  );
 
   console.log(
     `\nDone. ${activeJobs.length} active jobs · ${companies.length} companies` +

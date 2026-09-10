@@ -26,6 +26,11 @@ jobs:
           node-version: 24
 
       - name: Run ingestion
+        env:
+          # Optional — set these as repo secrets to also mirror jobs into
+          # Supabase. Without them the step just writes jobs.json.
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: node scripts/ingest/index.ts
 
       - name: Commit changes
@@ -37,5 +42,5 @@ jobs:
           git config user.name "pm-dream-job-bot"
           git config user.email "actions@users.noreply.github.com"
           git add src/data/jobs.json
-          git commit -m "chore(data): refresh jobs [skip ci]"
+          git commit -m "chore(data): refresh jobs"
           git push

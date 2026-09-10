@@ -1,13 +1,15 @@
 "use client";
 
-import { useCallback, useEffect, useState } from "react";
+import { useCallback } from "react";
 
 import type { Job } from "@/types/job";
+import { supabase } from "@/lib/supabase/client";
+import type { ApplicationRow } from "@/lib/supabase/types";
+import { useSyncedStore, type RemoteAdapter } from "@/lib/synced-store";
 
 /**
- * On-device application tracker. Like the profile, this lives only in
- * localStorage — no account, no server. It powers the Application Tracker board
- * and the "Applied" state on job cards.
+ * Application tracker. localStorage first; when the visitor signs in it syncs to
+ * the Supabase `applications` table (one row per job) — see `useSyncedStore`.
  */
 
 export type Stage =
@@ -89,79 +91,163 @@ export function snapshotFromJob(job: Job, stage: Stage): TrackedApplication {
   };
 }
 
+/* ---------- Supabase mapping ---------- */
+
+function rowToApp(r: ApplicationRow): TrackedApplication {
+  return {
+    jobId: r.job_id,
+    slug: r.slug ?? "",
+    title: r.title ?? "",
+    company: r.company ?? "",
+    companyId: r.company_id ?? "",
+    location: r.location ?? "",
+    applyUrl: r.apply_url ?? "",
+    source: r.source ?? "",
+    stage: (r.stage as Stage) || "saved",
+    addedAt: r.added_at ?? r.updated_at,
+    updatedAt: r.updated_at,
+    appliedAt: r.applied_at ?? undefined,
+    notes: r.note ?? undefined,
+  };
+}
+
+function appToRow(userId: string, a: TrackedApplication) {
+  return {
+    user_id: userId,
+    job_id: a.jobId,
+    slug: a.slug,
+    title: a.title,
+    company: a.company,
+    company_id: a.companyId,
+    location: a.location,
+    apply_url: a.applyUrl,
+    source: a.source,
+    stage: a.stage,
+    note: a.notes ?? null,
+    added_at: a.addedAt,
+    applied_at: a.appliedAt ?? null,
+    updated_at: a.updatedAt,
+  };
+}
+
+const remote: RemoteAdapter<Store> = {
+  fetch: async (userId) => {
+    const { data } = await supabase!
+      .from("applications")
+      .select("*")
+      .eq("user_id", userId);
+    if (!data) return null;
+    const store: Store = {};
+    for (const r of data as ApplicationRow[]) store[r.job_id] = rowToApp(r);
+    return store;
+  },
+  push: async (userId, store) => {
+    const rows = Object.values(store).map((a) => appToRow(userId, a));
+    if (rows.length) await supabase!.from("applications").upsert(rows);
+    const ids = Object.keys(store);
+    let del = supabase!.from("applications").delete().eq("user_id", userId);
+    if (ids.length) {
+      const list = ids.map((id) => `"${id.replace(/"/g, "")}"`).join(",");
+      del = del.not("job_id", "in", `(${list})`);
+    }
+    await del;
+  },
+  remove: async (userId) => {
+    await supabase!.from("applications").delete().eq("user_id", userId);
+  },
+};
+
+function mergeStores(local: Store, incoming: Store): Store {
+  const out: Store = { ...incoming };
+  for (const [id, a] of Object.entries(local)) {
+    if (!out[id] || a.updatedAt > out[id].updatedAt) out[id] = a;
+  }
+  return out;
+}
+
+/* Stable references for useSyncedStore. */
+function clearTracker(): void {
+  write({});
+}
+const trackerEmpty = (s: Store): boolean => Object.keys(s).length === 0;
+const EMPTY_STORE: Store = {};
+
 export function useTracker() {
-  const [store, setStore] = useState<Store>({});
-  const [hydrated, setHydrated] = useState(false);
+  const store = useSyncedStore<Store>({
+    empty: EMPTY_STORE,
+    readLocal: read,
+    writeLocal: write,
+    clearLocal: clearTracker,
+    event: EVENT,
+    isEmpty: trackerEmpty,
+    remote,
+    merge: mergeStores,
+  });
+  const { value: map, save, hydrated, syncing } = store;
 
-  useEffect(() => {
-    /* eslint-disable react-hooks/set-state-in-effect -- client hydration from localStorage */
-    const sync = () => setStore(read());
-    sync();
-    setHydrated(true);
-    /* eslint-enable react-hooks/set-state-in-effect */
-    window.addEventListener(EVENT, sync);
-    window.addEventListener("storage", sync);
-    return () => {
-      window.removeEventListener(EVENT, sync);
-      window.removeEventListener("storage", sync);
-    };
-  }, []);
+  const upsert = useCallback(
+    (job: Job, stage: Stage) => {
+      const cur = read();
+      const prev = cur[job.id];
+      const now = new Date().toISOString();
+      cur[job.id] = prev
+        ? {
+            ...prev,
+            stage,
+            updatedAt: now,
+            appliedAt: prev.appliedAt ?? (stage !== "saved" ? now : undefined),
+          }
+        : snapshotFromJob(job, stage);
+      save({ ...cur });
+    },
+    [save],
+  );
 
-  const upsert = useCallback((job: Job, stage: Stage) => {
-    const store = read();
-    const prev = store[job.id];
-    const now = new Date().toISOString();
-    store[job.id] = prev
-      ? {
-          ...prev,
-          stage,
-          updatedAt: now,
-          appliedAt:
-            prev.appliedAt ?? (stage !== "saved" ? now : undefined),
-        }
-      : snapshotFromJob(job, stage);
-    write(store);
-    setStore({ ...store });
-  }, []);
+  const setStage = useCallback(
+    (jobId: string, stage: Stage) => {
+      const cur = read();
+      if (!cur[jobId]) return;
+      const now = new Date().toISOString();
+      cur[jobId] = {
+        ...cur[jobId],
+        stage,
+        updatedAt: now,
+        appliedAt: cur[jobId].appliedAt ?? (stage !== "saved" ? now : undefined),
+      };
+      save({ ...cur });
+    },
+    [save],
+  );
 
-  const setStage = useCallback((jobId: string, stage: Stage) => {
-    const store = read();
-    if (!store[jobId]) return;
-    const now = new Date().toISOString();
-    store[jobId] = {
-      ...store[jobId],
-      stage,
-      updatedAt: now,
-      appliedAt: store[jobId].appliedAt ?? (stage !== "saved" ? now : undefined),
-    };
-    write(store);
-    setStore({ ...store });
-  }, []);
+  const setNotes = useCallback(
+    (jobId: string, notes: string) => {
+      const cur = read();
+      if (!cur[jobId]) return;
+      cur[jobId] = { ...cur[jobId], notes, updatedAt: new Date().toISOString() };
+      save({ ...cur });
+    },
+    [save],
+  );
 
-  const setNotes = useCallback((jobId: string, notes: string) => {
-    const store = read();
-    if (!store[jobId]) return;
-    store[jobId] = { ...store[jobId], notes, updatedAt: new Date().toISOString() };
-    write(store);
-    setStore({ ...store });
-  }, []);
+  const remove = useCallback(
+    (jobId: string) => {
+      const cur = read();
+      delete cur[jobId];
+      save({ ...cur });
+    },
+    [save],
+  );
 
-  const remove = useCallback((jobId: string) => {
-    const store = read();
-    delete store[jobId];
-    write(store);
-    setStore({ ...store });
-  }, []);
-
-  const list = Object.values(store).sort(
-    (a, b) => b.updatedAt.localeCompare(a.updatedAt),
+  const list = Object.values(map).sort((a, b) =>
+    b.updatedAt.localeCompare(a.updatedAt),
   );
 
   return {
     hydrated,
-    map: store,
+    syncing,
+    map,
     list,
-    get: (jobId: string) => store[jobId],
+    get: (jobId: string) => map[jobId],
     upsert,
     setStage,
     setNotes,

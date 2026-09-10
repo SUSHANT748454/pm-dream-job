@@ -1,14 +1,14 @@
 "use client";
 
-import { useCallback, useEffect, useState } from "react";
-
 import type { ExperienceLevel } from "@/types/job";
+import { supabase } from "@/lib/supabase/client";
+import type { ProfileRow } from "@/lib/supabase/types";
+import { useSyncedStore, type RemoteAdapter } from "@/lib/synced-store";
 
 /**
- * Lightweight, on-device job-seeker profile captured by the /welcome flow.
- * Stored in localStorage only — no account, no server (that's Phase 2). It's
- * used to personalise the board (default filters, greeting) and nothing leaves
- * the browser.
+ * Job-seeker profile. Captured by the /welcome flow and stored in localStorage.
+ * When the visitor signs in, it also syncs to the Supabase `profiles` table so
+ * it follows them across devices — see `useSyncedStore`.
  */
 
 export interface SeekerProfile {
@@ -94,6 +94,58 @@ export function clearProfile(): void {
   }
 }
 
+/* Stable references for useSyncedStore. */
+function putProfile(p: SeekerProfile | null): void {
+  if (p) writeProfile(p);
+  else clearProfile();
+}
+const profileEmpty = (p: SeekerProfile | null): boolean => !p;
+
+/* ---------- Supabase mapping ---------- */
+
+function rowToProfile(r: ProfileRow): SeekerProfile {
+  return {
+    fullName: r.full_name ?? "",
+    email: r.email ?? "",
+    phone: r.phone ?? undefined,
+    country: r.country ?? "India",
+    hearAbout: r.hear_about ?? undefined,
+    resumeName: r.resume_name ?? undefined,
+    experienceYears: (r.experience_years as ExperienceBand) || undefined,
+    currentDesignation: r.current_designation ?? undefined,
+    updatedAt: r.updated_at,
+  };
+}
+
+const remote: RemoteAdapter<SeekerProfile | null> = {
+  fetch: async (userId) => {
+    const { data } = await supabase!
+      .from("profiles")
+      .select("*")
+      .eq("user_id", userId)
+      .maybeSingle();
+    return data ? rowToProfile(data) : null;
+  },
+  push: async (userId, value) => {
+    if (!value) return;
+    await supabase!.from("profiles").upsert({
+      user_id: userId,
+      full_name: value.fullName,
+      email: value.email,
+      phone: value.phone ?? null,
+      country: value.country,
+      hear_about: value.hearAbout ?? null,
+      experience_years: value.experienceYears ?? null,
+      current_designation: value.currentDesignation ?? null,
+      resume_name: value.resumeName ?? null,
+      updated_at: new Date().toISOString(),
+    });
+  },
+  remove: async (userId) => {
+    await supabase!.from("profiles").delete().eq("user_id", userId);
+  },
+};
+
 /** Map an experience band to the closest PM ladder rung for default filtering. */
 export function bandToLevel(band?: ExperienceBand): ExperienceLevel | null {
   switch (band) {
@@ -117,46 +169,28 @@ export function firstName(profile: SeekerProfile | null): string | null {
   return profile.fullName.trim().split(/\s+/)[0] ?? null;
 }
 
-/**
- * Reactive profile hook. It intentionally starts as `null` / not-hydrated and
- * fills in from localStorage in an effect: effects don't run during SSR or the
- * hydration render, so the server and first client render always agree — no
- * hydration mismatch, even inside a Suspense boundary.
- */
 export function useProfile(): {
   profile: SeekerProfile | null;
   hydrated: boolean;
+  syncing: boolean;
   save: (p: SeekerProfile) => void;
   clear: () => void;
 } {
-  const [profile, setProfile] = useState<SeekerProfile | null>(null);
-  const [hydrated, setHydrated] = useState(false);
+  const store = useSyncedStore<SeekerProfile | null>({
+    empty: null,
+    readLocal: readProfile,
+    writeLocal: putProfile,
+    clearLocal: clearProfile,
+    event: EVENT,
+    isEmpty: profileEmpty,
+    remote,
+  });
 
-  useEffect(() => {
-    /* eslint-disable react-hooks/set-state-in-effect --
-       Deliberate: hydrate client-only state from localStorage after mount so
-       the SSR and first client render agree. The extra render is intentional. */
-    const sync = () => setProfile(readProfile());
-    sync();
-    setHydrated(true);
-    /* eslint-enable react-hooks/set-state-in-effect */
-    window.addEventListener(EVENT, sync);
-    window.addEventListener("storage", sync);
-    return () => {
-      window.removeEventListener(EVENT, sync);
-      window.removeEventListener("storage", sync);
-    };
-  }, []);
-
-  const save = useCallback((p: SeekerProfile) => {
-    writeProfile(p);
-    setProfile(p);
-  }, []);
-
-  const clear = useCallback(() => {
-    clearProfile();
-    setProfile(null);
-  }, []);
-
-  return { profile, hydrated, save, clear };
+  return {
+    profile: store.value,
+    hydrated: store.hydrated,
+    syncing: store.syncing,
+    save: (p: SeekerProfile) => store.save(p),
+    clear: store.clear,
+  };
 }

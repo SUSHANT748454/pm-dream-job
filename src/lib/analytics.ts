@@ -20,6 +20,9 @@ export type AnalyticsEvent =
   | { name: "profile_wall_cta_clicked"; props: { placement: string } }
   | { name: "resume_parsed"; props: { type: string; ok: boolean } }
   | { name: "ats_scored"; props: { band: string; score: number } }
+  | { name: "sign_in_link_sent"; props?: Record<string, never> }
+  | { name: "signed_in"; props?: Record<string, never> }
+  | { name: "signed_out"; props?: Record<string, never> }
   | {
       name: "onboarding_completed";
       props: { next: string; hasResume: boolean; level: string | null };

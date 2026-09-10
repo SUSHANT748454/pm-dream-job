@@ -18,7 +18,7 @@ import { cn } from "@/lib/utils";
  */
 export function ResumePrompt({
   title = "Add your résumé to see match scores",
-  blurb = "Uploaded here it's parsed in your browser and kept on this device — it's never sent anywhere. Powers an on-device keyword match against each role.",
+  blurb = "Parsed in your browser and kept on this device — the file is never uploaded. Powers an on-device keyword match against each role.",
   className,
   onDone,
 }: {
