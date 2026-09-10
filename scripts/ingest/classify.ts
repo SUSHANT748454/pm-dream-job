@@ -46,7 +46,6 @@ export function resolveLocation(
   extraText = "",
 ): LocationResult {
   const loc = (rawLocation || "").toLowerCase();
-  const blob = `${loc} ${extraText}`.toLowerCase();
 
   let city = "";
   for (const [needle, canonical] of Object.entries(INDIA_CITIES)) {

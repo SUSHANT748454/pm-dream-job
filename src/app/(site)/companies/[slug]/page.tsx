@@ -54,12 +54,7 @@ export default async function CompanyPage(props: {
       </Link>
 
       <header className="mt-6 flex items-start gap-5">
-        <Logo
-          name={company.name}
-          src={company.logo}
-          domain={company.domain}
-          size={64}
-        />
+        <Logo name={company.name} src={company.logo} size={64} />
         <div>
           <h1 className="font-display text-3xl tracking-tight text-text">
             {company.name}

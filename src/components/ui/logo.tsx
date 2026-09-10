@@ -12,13 +12,11 @@ import { cn, monogram } from "@/lib/utils";
 export function Logo({
   name,
   src,
-  domain: _domain,
   size = 44,
   className,
 }: {
   name: string;
   src?: string | null;
-  domain?: string | null;
   size?: number;
   className?: string;
 }) {

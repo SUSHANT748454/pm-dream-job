@@ -151,12 +151,7 @@ export default async function JobDetailPage(props: {
         <div className="min-w-0">
           {/* Header */}
           <div className="flex items-start gap-4">
-            <Logo
-              name={job.company.name}
-              src={job.company.logo}
-              domain={job.company.domain}
-              size={60}
-            />
+            <Logo name={job.company.name} src={job.company.logo} size={60} />
             <div className="min-w-0">
               <h1 className="font-display text-[26px] leading-tight tracking-tight text-text sm:text-3xl">
                 {job.title}

@@ -4,8 +4,9 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import * as React from "react";
 
-import { cn } from "@/lib/utils";
+import { cn, monogram } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
+import { useProfile, firstName } from "@/lib/profile";
 
 const NAV = [
   { href: "/jobs", label: "Jobs" },
@@ -16,6 +17,8 @@ const NAV = [
 export function SiteHeader() {
   const pathname = usePathname();
   const [open, setOpen] = React.useState(false);
+  const { profile, hydrated } = useProfile();
+  const name = firstName(profile);
 
   return (
     <header className="sticky top-0 z-40 border-b border-[var(--border)] bg-[color-mix(in_oklab,var(--bg)_82%,transparent)] backdrop-blur-xl">
@@ -51,6 +54,27 @@ export function SiteHeader() {
         </nav>
 
         <div className="flex items-center gap-2">
+          {hydrated && name ? (
+            <Link
+              href="/welcome"
+              className="hidden items-center gap-2 rounded-full border border-[var(--border-strong)] py-1 pl-1 pr-3 text-sm text-text-muted transition-colors hover:text-text sm:inline-flex"
+              title="Edit your profile"
+            >
+              <span className="grid h-6 w-6 place-items-center rounded-full bg-[var(--gold-dim)] font-display text-[11px] text-gold-soft">
+                {monogram(profile!.fullName)}
+              </span>
+              {name}
+            </Link>
+          ) : (
+            <Button
+              asChild
+              size="sm"
+              variant="secondary"
+              className="hidden sm:inline-flex"
+            >
+              <Link href="/welcome">Set up profile</Link>
+            </Button>
+          )}
           <Button asChild size="sm" className="hidden sm:inline-flex">
             <Link href="/jobs">Browse jobs</Link>
           </Button>
@@ -98,6 +122,13 @@ export function SiteHeader() {
                 {item.label}
               </Link>
             ))}
+            <Link
+              href="/welcome"
+              onClick={() => setOpen(false)}
+              className="rounded-md px-2 py-3 text-sm text-gold-soft"
+            >
+              {hydrated && name ? `${name} — edit profile` : "Set up profile"}
+            </Link>
           </nav>
         </div>
       )}

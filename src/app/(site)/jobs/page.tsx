@@ -12,6 +12,7 @@ import { ActiveFilters } from "@/components/active-filters";
 import { EmptyState } from "@/components/empty-state";
 import { LoadMore } from "@/components/load-more";
 import { TrackView } from "@/components/analytics/track-view";
+import { ProfileNudge } from "@/components/profile-nudge";
 
 export const metadata: Metadata = {
   title: "Product Manager jobs in India",
@@ -68,7 +69,11 @@ export default async function JobsPage(props: { searchParams: Promise<SP> }) {
         <SearchBar resultCountHint={result.total} />
       </div>
 
-      <div className="mt-8 grid gap-10 lg:grid-cols-[16rem_1fr]">
+      <div className="mt-4">
+        <ProfileNudge />
+      </div>
+
+      <div className="mt-6 grid gap-10 lg:grid-cols-[16rem_1fr]">
         <FiltersSidebar facets={facets} />
 
         <div className="min-w-0">

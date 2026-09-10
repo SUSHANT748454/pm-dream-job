@@ -7,6 +7,7 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { JobCard } from "@/components/job-card";
 import { TrackView } from "@/components/analytics/track-view";
+import { HeroProfileLink } from "@/components/hero-profile-link";
 
 export default function HomePage() {
   const stats = getStats();
@@ -45,6 +46,9 @@ export default function HomePage() {
             <Button asChild size="lg" variant="outline">
               <Link href="/companies">Explore companies</Link>
             </Button>
+          </div>
+          <div className="mt-6 flex justify-center">
+            <HeroProfileLink />
           </div>
         </div>
 
