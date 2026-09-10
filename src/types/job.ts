@@ -100,9 +100,9 @@ export interface Job {
 
   /** ISO date (YYYY-MM-DD). */
   postedAt: string;
-  /** ISO timestamp of when the ingester first saw this job. */
+  /** ISO date (YYYY-MM-DD) the ingester first saw this job. */
   firstSeenAt: string;
-  /** ISO timestamp of the most recent refresh that still saw this job. */
+  /** ISO date (YYYY-MM-DD) of the most recent refresh that still saw this job. */
   lastSeenAt: string;
 
   status: JobStatus;

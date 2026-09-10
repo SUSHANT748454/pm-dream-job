@@ -33,8 +33,14 @@ import type {
 const HERE = path.dirname(fileURLToPath(import.meta.url));
 const DATA_FILE = path.join(HERE, "../../src/data/jobs.json");
 
-const EXPIRE_AFTER_MS = 12 * 60 * 60 * 1000; // unseen for one full 5h cycle + grace
-const DROP_AFTER_MS = 14 * 24 * 60 * 60 * 1000;
+const EXPIRE_AFTER_DAYS = 1; // unseen across a full day of refreshes
+const DROP_AFTER_DAYS = 14;
+
+function daysBetween(fromIsoDate: string, toIsoDate: string): number {
+  const a = new Date(fromIsoDate.slice(0, 10) + "T00:00:00Z").getTime();
+  const b = new Date(toIsoDate.slice(0, 10) + "T00:00:00Z").getTime();
+  return Math.round((b - a) / 86_400_000);
+}
 
 const SOURCE_RANK: Record<string, number> = { Greenhouse: 3, Lever: 3, Ashby: 3, "The Muse": 2, Remotive: 1 };
 function rankOf(source: string): number {
@@ -172,8 +178,10 @@ async function loadExisting(): Promise<JobsDataset> {
 }
 
 async function main() {
-  const now = new Date().toISOString();
-  console.log(`\nPM Dream Job · ingestion run @ ${now}`);
+  const nowIso = new Date().toISOString();
+  const today = nowIso.slice(0, 10); // YYYY-MM-DD — per-job stamps use the date
+  const now = today;
+  console.log(`\nPM Dream Job · ingestion run @ ${nowIso}`);
 
   const existing = await loadExisting();
   const existingById = new Map(existing.jobs.map((j) => [j.id, j]));
@@ -211,14 +219,27 @@ async function main() {
   const seenNow = new Set(best.keys());
   const merged: Job[] = [];
 
-  // Fresh + updated jobs
+  // Content signature — everything except the volatile "seen" stamps. Lets us
+  // keep a job's previous row verbatim when nothing substantive changed, so the
+  // committed file (and the Vercel redeploy) only moves on real changes.
+  const sig = (j: Job) =>
+    JSON.stringify({ ...j, firstSeenAt: "", lastSeenAt: "", status: "" });
+
   for (const job of best.values()) {
     const prev = existingById.get(job.id);
-    merged.push({
+    const next: Job = {
       ...job,
       firstSeenAt: prev?.firstSeenAt ?? job.firstSeenAt,
       postedAt: prev?.postedAt ?? job.postedAt,
-    });
+      lastSeenAt: today,
+      status: "Active",
+    };
+    if (prev && sig(prev) === sig(next)) {
+      // unchanged — keep prev, only advance lastSeenAt
+      merged.push({ ...prev, lastSeenAt: today, status: "Active" });
+    } else {
+      merged.push(next);
+    }
   }
 
   // Carry forward jobs not seen this run, expiring / dropping stale ones.
@@ -226,16 +247,14 @@ async function main() {
   let dropped = 0;
   for (const prev of existing.jobs) {
     if (seenNow.has(prev.id)) continue;
-    const age = Date.now() - new Date(prev.lastSeenAt).getTime();
-    if (age > DROP_AFTER_MS) {
+    const age = daysBetween(prev.lastSeenAt, today);
+    if (age >= DROP_AFTER_DAYS) {
       dropped++;
       continue;
     }
-    merged.push({
-      ...prev,
-      status: age > EXPIRE_AFTER_MS ? "Expired" : prev.status,
-    });
-    if (age > EXPIRE_AFTER_MS) expired++;
+    const status = age >= EXPIRE_AFTER_DAYS ? "Expired" : prev.status;
+    merged.push(status === prev.status ? prev : { ...prev, status });
+    if (status === "Expired") expired++;
   }
 
   merged.sort(
@@ -246,8 +265,14 @@ async function main() {
   const activeJobs = merged.filter((j) => j.status === "Active");
   const companies = buildCompanies(merged);
 
+  // Keep the previous generatedAt when nothing else changed, so re-runs with no
+  // new data produce a byte-identical file and the workflow skips the commit.
+  const bodyChanged =
+    JSON.stringify(existing.jobs) !== JSON.stringify(merged) ||
+    JSON.stringify(existing.companies) !== JSON.stringify(companies);
+
   const dataset: JobsDataset = {
-    generatedAt: now,
+    generatedAt: bodyChanged ? nowIso : existing.generatedAt,
     jobs: merged,
     companies,
   };
@@ -256,7 +281,8 @@ async function main() {
 
   console.log(
     `\nDone. ${activeJobs.length} active jobs · ${companies.length} companies` +
-      ` · ${expired} expired · ${dropped} dropped · ${merged.length} total rows\n`,
+      ` · ${expired} expired · ${dropped} dropped · ${merged.length} total rows` +
+      ` · ${bodyChanged ? "CHANGED" : "no change"}\n`,
   );
 }
 
