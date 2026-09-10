@@ -5,9 +5,9 @@ import {
   getCompanies,
   getGeneratedAt,
 } from "@/services/jobService";
+import { siteUrl } from "@/lib/site-url";
 
-const BASE =
-  process.env.NEXT_PUBLIC_SITE_URL ?? "https://pm-dream-job.vercel.app";
+const BASE = siteUrl();
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const lastModified = new Date(

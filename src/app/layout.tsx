@@ -3,6 +3,7 @@ import { Geist, Geist_Mono, Fraunces } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 
 import "./globals.css";
+import { siteUrl as resolveSiteUrl } from "@/lib/site-url";
 
 const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
 const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
@@ -12,21 +13,6 @@ const fraunces = Fraunces({
   weight: ["400", "500", "600"],
   style: ["normal", "italic"],
 });
-
-function resolveSiteUrl(): string {
-  const raw =
-    process.env.NEXT_PUBLIC_SITE_URL ||
-    (process.env.VERCEL_PROJECT_PRODUCTION_URL
-      ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-      : "") ||
-    "https://pm-dream-job.vercel.app";
-  const withProtocol = /^https?:\/\//i.test(raw) ? raw : `https://${raw}`;
-  try {
-    return new URL(withProtocol).origin;
-  } catch {
-    return "https://pm-dream-job.vercel.app";
-  }
-}
 
 const siteUrl = resolveSiteUrl();
 
