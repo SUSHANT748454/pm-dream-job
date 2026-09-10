@@ -22,18 +22,20 @@ import {
   COUNTRIES,
   EXPERIENCE_BANDS,
   HEAR_ABOUT,
+  bandToLevel,
   readProfile,
   writeProfile,
   type ExperienceBand,
   type SeekerProfile,
 } from "@/lib/profile";
 import { trackEvent } from "@/lib/analytics";
+import { readNextPath } from "@/lib/next-path";
 import { cn } from "@/lib/utils";
 
 const STEPS = [
   { id: "basic", n: 1, title: "Basic details", sub: "Name, email, and country", optional: false },
   { id: "resume", n: 2, title: "Your résumé", sub: "Kept on this device", optional: true },
-  { id: "experience", n: 3, title: "Your experience", sub: "Level and current role", optional: true },
+  { id: "experience", n: 3, title: "Your experience", sub: "Level and current role", optional: false },
 ] as const;
 
 type Draft = {
@@ -71,6 +73,7 @@ export function OnboardingWizard() {
   const [step, setStep] = useState(0);
   const [draft, setDraft] = useState<Draft>(initialDraft);
   const [touched, setTouched] = useState(false);
+  const [touchedExp, setTouchedExp] = useState(false);
 
   const set = <K extends keyof Draft>(k: K, v: Draft[K]) =>
     setDraft((d) => ({ ...d, [k]: v }));
@@ -79,6 +82,8 @@ export function OnboardingWizard() {
     draft.fullName.trim().length > 1 &&
     EMAIL_RE.test(draft.email.trim()) &&
     draft.country.length > 0;
+
+  const step3Valid = draft.experienceYears !== "";
 
   function persist(): SeekerProfile {
     const profile: SeekerProfile = {
@@ -102,18 +107,33 @@ export function OnboardingWizard() {
       setTouched(true);
       if (!step1Valid) return;
       persist();
-    }
-    if (step < STEPS.length - 1) {
-      setStep((s) => s + 1);
+      setStep(1);
       return;
     }
+    if (step === 1) {
+      setStep(2);
+      return;
+    }
+    // Step 3 — experience level is required so the board can be tailored.
+    setTouchedExp(true);
+    if (!step3Valid) return;
     finish();
   }
 
   function finish() {
-    persist();
-    trackEvent({ name: "page_viewed", props: { path: "/welcome#done" } });
-    router.push("/app");
+    const profile = persist();
+    // Read `?next=` at click time — by now the URL is fully settled, which it
+    // isn't guaranteed to be during the redirect that lands the user here.
+    const target = readNextPath("/app");
+    trackEvent({
+      name: "onboarding_completed",
+      props: {
+        next: target,
+        hasResume: Boolean(profile.resumeName),
+        level: bandToLevel(profile.experienceYears),
+      },
+    });
+    router.push(target);
   }
 
   const current = STEPS[step];
@@ -142,7 +162,7 @@ export function OnboardingWizard() {
             </h1>
             <p className="mt-4 max-w-xs text-sm leading-relaxed text-text-muted">
               It stays on this device and tailors the board to your level. Takes
-              under a minute — every step after the first is optional.
+              under a minute — only the résumé step is optional.
             </p>
           </div>
 
@@ -204,12 +224,9 @@ export function OnboardingWizard() {
       {/* Right — form (deliberately light, like a focused document) */}
       <section className="flex flex-col bg-[#f5f3ee] text-[#1b1a17]">
         <div className="flex items-center justify-between px-6 py-5 sm:px-12">
-          <Link
-            href="/jobs"
-            className="text-[13px] text-[#6b675e] transition-colors hover:text-[#1b1a17]"
-          >
-            Skip for now
-          </Link>
+          <span className="text-[13px] text-[#8a857a]">
+            No account · stays on this device
+          </span>
           <span className="font-mono text-[12px] tracking-wide text-[#8a857a]">
             Step {current.n} of {STEPS.length}
           </span>
@@ -234,7 +251,9 @@ export function OnboardingWizard() {
                 <BasicStep draft={draft} set={set} showErrors={touched} />
               )}
               {step === 1 && <ResumeStep draft={draft} set={set} />}
-              {step === 2 && <ExperienceStep draft={draft} set={set} />}
+              {step === 2 && (
+                <ExperienceStep draft={draft} set={set} showErrors={touchedExp} />
+              )}
             </div>
 
             <div className="mt-10 flex items-center justify-between gap-4">
@@ -251,7 +270,7 @@ export function OnboardingWizard() {
                 {current.optional && (
                   <button
                     type="button"
-                    onClick={() => (step < STEPS.length - 1 ? setStep((s) => s + 1) : finish())}
+                    onClick={() => setStep((s) => Math.min(s + 1, STEPS.length - 1))}
                     className="text-sm text-[#6b675e] transition-colors hover:text-[#1b1a17]"
                   >
                     Skip
@@ -260,7 +279,10 @@ export function OnboardingWizard() {
                 <button
                   type="button"
                   onClick={next}
-                  disabled={step === 0 && touched && !step1Valid}
+                  disabled={
+                    (step === 0 && touched && !step1Valid) ||
+                    (step === 2 && touchedExp && !step3Valid)
+                  }
                   className="inline-flex items-center gap-2 rounded-[10px] bg-[#c9812a] px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-[#b0701f] disabled:opacity-50"
                 >
                   {step === STEPS.length - 1 ? "Finish" : "Continue"}
@@ -467,13 +489,18 @@ function ResumeStep({ draft, set }: StepProps) {
   );
 }
 
-function ExperienceStep({ draft, set }: StepProps) {
+function ExperienceStep({
+  draft,
+  set,
+  showErrors,
+}: StepProps & { showErrors: boolean }) {
+  const expBad = showErrors && draft.experienceYears === "";
   return (
     <div className="space-y-5">
       <div>
-        <Label>Years of experience</Label>
+        <Label required>Years of experience</Label>
         <select
-          className={cn(fieldCls, "appearance-none")}
+          className={cn(fieldCls, "appearance-none", expBad && "border-red-400")}
           value={draft.experienceYears}
           onChange={(e) => set("experienceYears", e.target.value as ExperienceBand)}
         >
@@ -482,9 +509,15 @@ function ExperienceStep({ draft, set }: StepProps) {
             <option key={b}>{b}</option>
           ))}
         </select>
-        <p className="mt-1 text-xs text-[#8a857a]">
-          We&apos;ll pre-select a matching level on the jobs page.
-        </p>
+        {expBad ? (
+          <p className="mt-1 text-xs text-red-500">
+            Pick a range so we can tailor the board to your level.
+          </p>
+        ) : (
+          <p className="mt-1 text-xs text-[#8a857a]">
+            We&apos;ll pre-select a matching level on the jobs page.
+          </p>
+        )}
       </div>
       <div>
         <Label>Current designation</Label>

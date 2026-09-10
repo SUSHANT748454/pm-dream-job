@@ -9,6 +9,7 @@ import { Logo } from "@/components/ui/logo";
 import { Badge } from "@/components/ui/badge";
 import { JobCard } from "@/components/job-card";
 import { TrackView } from "@/components/analytics/track-view";
+import { ProfileBanner } from "@/components/profile-banner";
 
 export function generateStaticParams() {
   return getCompanies().map((c) => ({ slug: c.id }));
@@ -44,6 +45,8 @@ export default async function CompanyPage(props: {
       <TrackView
         event={{ name: "page_viewed", props: { path: `/companies/${company.id}` } }}
       />
+
+      <ProfileBanner returnTo={`/companies/${company.id}`} />
 
       <Link
         href="/companies"

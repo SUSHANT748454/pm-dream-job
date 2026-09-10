@@ -71,19 +71,9 @@ export function SiteHeader() {
               </Button>
             </>
           ) : (
-            <>
-              <Button
-                asChild
-                size="sm"
-                variant="secondary"
-                className="hidden sm:inline-flex"
-              >
-                <Link href="/welcome">Set up profile</Link>
-              </Button>
-              <Button asChild size="sm" className="hidden sm:inline-flex">
-                <Link href="/jobs">Browse jobs</Link>
-              </Button>
-            </>
+            <Button asChild size="sm" className="hidden sm:inline-flex">
+              <Link href="/welcome?next=/jobs">Create profile</Link>
+            </Button>
           )}
           <button
             type="button"
@@ -130,11 +120,11 @@ export function SiteHeader() {
               </Link>
             ))}
             <Link
-              href={hydrated && name ? "/app" : "/welcome"}
+              href={hydrated && name ? "/app" : "/welcome?next=/jobs"}
               onClick={() => setOpen(false)}
               className="rounded-md px-2 py-3 text-sm text-gold-soft"
             >
-              {hydrated && name ? "Open dashboard" : "Set up profile"}
+              {hydrated && name ? "Open dashboard" : "Create profile"}
             </Link>
           </nav>
         </div>

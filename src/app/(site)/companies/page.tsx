@@ -4,6 +4,7 @@ import { getCompanies, getCompanyOpenCounts } from "@/services/jobService";
 import { CompanyCard } from "@/components/company-card";
 import { TrackView } from "@/components/analytics/track-view";
 import { EmptyState } from "@/components/empty-state";
+import { ProfileBanner } from "@/components/profile-banner";
 
 export const metadata: Metadata = {
   title: "Companies hiring Product Managers in India",
@@ -19,6 +20,8 @@ export default function CompaniesPage() {
   return (
     <div className="container-page py-10">
       <TrackView event={{ name: "page_viewed", props: { path: "/companies" } }} />
+
+      <ProfileBanner returnTo="/companies" />
 
       <header className="max-w-2xl">
         <h1 className="font-display text-3xl tracking-tight text-text">

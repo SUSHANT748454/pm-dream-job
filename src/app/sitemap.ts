@@ -14,9 +14,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     getGeneratedAt().startsWith("1970") ? Date.now() : getGeneratedAt(),
   );
 
+  // /jobs is behind the profile gate now, so it's not a useful landing target.
+  // Individual job + company pages stay public and carry the SEO weight.
   const staticRoutes: MetadataRoute.Sitemap = [
     { url: `${BASE}/`, priority: 1, changeFrequency: "daily" },
-    { url: `${BASE}/jobs`, priority: 0.9, changeFrequency: "hourly", lastModified },
     { url: `${BASE}/companies`, priority: 0.7, changeFrequency: "daily", lastModified },
     { url: `${BASE}/about`, priority: 0.3, changeFrequency: "monthly" },
   ];

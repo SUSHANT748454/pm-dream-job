@@ -3,11 +3,11 @@ import { ArrowRight, Sparkles } from "lucide-react";
 
 import { getStats, getFeaturedJobs, getCompanies } from "@/services/jobService";
 import { LOCATIONS, EXPERIENCE_LEVELS } from "@/lib/filters";
-import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { JobCard } from "@/components/job-card";
 import { TrackView } from "@/components/analytics/track-view";
-import { HeroProfileLink } from "@/components/hero-profile-link";
+import { HeroCtas } from "@/components/hero-ctas";
+import { ProfileWall } from "@/components/profile-wall";
 
 export default function HomePage() {
   const stats = getStats();
@@ -36,19 +36,8 @@ export default function HomePage() {
             pages and job boards into one place — search, filter by level and
             domain, and apply at the source.
           </p>
-          <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
-            <Button asChild size="lg">
-              <Link href="/jobs">
-                Browse jobs
-                <ArrowRight className="h-4 w-4" />
-              </Link>
-            </Button>
-            <Button asChild size="lg" variant="outline">
-              <Link href="/companies">Explore companies</Link>
-            </Button>
-          </div>
-          <div className="mt-6 flex justify-center">
-            <HeroProfileLink />
+          <div className="mt-8">
+            <HeroCtas />
           </div>
         </div>
 
@@ -71,6 +60,7 @@ export default function HomePage() {
         )}
       </section>
 
+      <ProfileWall>
       {/* Featured jobs */}
       {featured.length > 0 && (
         <section className="container-page pb-16">
@@ -129,6 +119,7 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+      </ProfileWall>
 
       {/* Companies strip */}
       {companies.length > 0 && (

@@ -15,7 +15,13 @@ export type AnalyticsEvent =
   | { name: "filter_applied"; props: { filter: string; value: string; active: boolean } }
   | { name: "job_card_clicked"; props: { jobId: string; slug: string; company: string } }
   | { name: "job_details_viewed"; props: { jobId: string; slug: string; company: string } }
-  | { name: "apply_clicked"; props: { jobId: string; slug: string; company: string; source: string } };
+  | { name: "apply_clicked"; props: { jobId: string; slug: string; company: string; source: string } }
+  | { name: "profile_wall_viewed"; props: { placement: string } }
+  | { name: "profile_wall_cta_clicked"; props: { placement: string } }
+  | {
+      name: "onboarding_completed";
+      props: { next: string; hasResume: boolean; level: string | null };
+    };
 
 type EventProps = Record<string, string | number | boolean | null | undefined>;
 

@@ -23,6 +23,7 @@ import { Logo } from "@/components/ui/logo";
 import { ApplyButton } from "@/components/apply-button";
 import { JobCard } from "@/components/job-card";
 import { TrackView } from "@/components/analytics/track-view";
+import { ProfileBanner } from "@/components/profile-banner";
 
 export function generateStaticParams() {
   return getAllActiveJobSlugs().map((slug) => ({ slug }));
@@ -147,6 +148,8 @@ export default async function JobDetailPage(props: {
           props: { jobId: job.id, slug: job.slug, company: job.company.name },
         }}
       />
+
+      <ProfileBanner returnTo={`/jobs/${job.slug}`} />
 
       <Link
         href="/jobs"

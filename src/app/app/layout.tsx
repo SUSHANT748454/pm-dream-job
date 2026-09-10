@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import type { ReactNode } from "react";
 
 import { AppSidebar, AppMobileBar } from "@/components/app/app-sidebar";
+import { ProfileGate } from "@/components/profile-gate";
 
 export const metadata: Metadata = {
   title: { default: "Dashboard", template: "%s · PM Dream Job" },
@@ -14,7 +15,9 @@ export default function AppLayout({ children }: { children: ReactNode }) {
       <AppSidebar />
       <div className="flex min-w-0 flex-1 flex-col">
         <AppMobileBar />
-        <div className="min-w-0 flex-1">{children}</div>
+        <div className="min-w-0 flex-1">
+          <ProfileGate returnTo="/app">{children}</ProfileGate>
+        </div>
       </div>
     </div>
   );
