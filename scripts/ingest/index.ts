@@ -49,8 +49,10 @@ function domainFromName(name: string): string | null {
   return seed?.domain ?? null;
 }
 
-function logoFor(domain: string | null, fallback: string | null): string | null {
-  if (domain) return `https://logo.clearbit.com/${domain}`;
+function logoFor(_domain: string | null, fallback: string | null): string | null {
+  // The component resolves a logo from the company domain (Google's favicon
+  // service) with a monogram fallback, so we only keep an explicit logo URL
+  // when a source handed us one directly.
   return fallback;
 }
 
@@ -86,6 +88,15 @@ function normalize(raw: RawJob, now: string): Job | null {
     new Set([...domain, level, loc.workMode, ...skills.slice(0, 4)]),
   ).slice(0, 8);
 
+  const hasBody =
+    sections.description.length > 0 ||
+    sections.responsibilities.length > 0 ||
+    sections.requirements.length > 0;
+  const description = hasBody
+    ? sections.description
+    : `${title} at ${companyName}, based in ${city} (${loc.workMode.toLowerCase()}). ` +
+      `Full details and application are on the original listing.`;
+
   return {
     id,
     slug: `${slugify(`${title}-${companyName}-${city}`)}-${shortHash(key)}`.replace(/-+/g, "-"),
@@ -105,7 +116,7 @@ function normalize(raw: RawJob, now: string): Job | null {
     domain,
     skills,
     tags,
-    description: sections.description,
+    description,
     responsibilities: sections.responsibilities,
     requirements: sections.requirements,
     preferred: sections.preferred,

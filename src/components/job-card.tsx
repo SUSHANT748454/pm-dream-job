@@ -20,7 +20,12 @@ export function JobCard({ job, className }: { job: Job; className?: string }) {
       )}
     >
       <div className="flex items-start gap-4">
-        <Logo name={job.company.name} src={job.company.logo} size={46} />
+        <Logo
+          name={job.company.name}
+          src={job.company.logo}
+          domain={job.company.domain}
+          size={46}
+        />
 
         <div className="min-w-0 flex-1">
           <div className="flex items-start justify-between gap-3">

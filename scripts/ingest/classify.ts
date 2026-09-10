@@ -132,16 +132,16 @@ export function classifyEmployment(
 }
 
 const DOMAIN_RULES: [RegExp, Domain][] = [
-  [/\b(fintech|payments?|banking|lending|wealth|insurance|insurtech|trading|upi|neobank)\b/i, "Fintech"],
-  [/\b(e-?commerce|marketplace|retail|d2c|shopping|quick commerce|q-commerce)\b/i, "Ecommerce"],
-  [/\b(saas|b2b|platform|api|developer tools?|devtools|infrastructure)\b/i, "SaaS"],
-  [/\b(consumer|b2c|social|content|creator|community|entertainment|music|video)\b/i, "Consumer"],
-  [/\b(\bai\b|artificial intelligence|machine learning|\bml\b|llm|genai|generative)\b/i, "AI"],
-  [/\b(health(care)?|medtech|clinical|hospital|pharma|wellness|diagnostics)\b/i, "Healthcare"],
-  [/\b(edtech|education|learning|upskilling|e-?learning|course)\b/i, "EdTech"],
-  [/\b(gaming|games?|esports|rummy|fantasy sports)\b/i, "Gaming"],
-  [/\b(logistics|supply chain|delivery|mobility|fleet|shipping|warehous)\b/i, "Logistics"],
-  [/\b(enterprise|erp|crm|procurement|hr tech|workforce|compliance|governance)\b/i, "Enterprise"],
+  [/\b(fintech|payments?|banking|lending|wealth ?management|insurtech|neobank|upi|remittance|underwriting)\b/i, "Fintech"],
+  [/\b(e-?commerce|marketplace|d2c|quick ?commerce|q-commerce|online retail|omnichannel retail)\b/i, "Ecommerce"],
+  [/\b(saas|b2b software|developer tools?|devtools|api platform|cloud platform)\b/i, "SaaS"],
+  [/\b(consumer app|b2c|social (media|network)|creator economy|streaming|entertainment)\b/i, "Consumer"],
+  [/\b(artificial intelligence|machine learning|\bllm(s)?\b|genai|generative ai|ml models?|foundation models?)\b/i, "AI"],
+  [/\b(healthcare|healthtech|medtech|clinical|telehealth|diagnostics|digital health|pharma)\b/i, "Healthcare"],
+  [/\b(edtech|ed-?tech|online learning|e-?learning|upskilling|exam prep)\b/i, "EdTech"],
+  [/\b(gaming|game studio|esports|fantasy sports|real money gaming)\b/i, "Gaming"],
+  [/\b(logistics|supply ?chain|last-?mile|fleet management|freight|warehousing)\b/i, "Logistics"],
+  [/\b(enterprise software|erp\b|crm\b|procurement|workforce management|governance risk|compliance platform)\b/i, "Enterprise"],
 ];
 
 export function classifyDomains(text: string, hints: Domain[] = []): Domain[] {
@@ -227,53 +227,110 @@ export function stripHtml(html: string): string {
     .trim();
 }
 
-const BOILERPLATE_HEADING =
-  /^(benefits|perks|what we offer|compensation|salary|our benefits|equal opportunity|eeo|about us|about the company|about \w+|who we are|why join|life at|our culture|note for current employees|diversity)/i;
+const RESP_RE =
+  /^(what you.?ll do|what you.?ll be doing|responsibilities|key responsibilities|the role|your impact|in this role|day[- ]to[- ]day|your responsibilities|about the role|role overview|what the job involves)\b/i;
+const REQ_RE =
+  /^(what we.?re looking for|requirements|qualifications|what you.?ll need|what you.?ll bring|what you bring|you have|you.?ll need|must have|about you|who you are|skills? (and|&) experience|basic qualifications|minimum qualifications|we.?re looking for|the ideal candidate)\b/i;
+const PREF_RE =
+  /^(nice to have|bonus|preferred|preferred qualifications|good to have|pluses|extra credit|it.?s a plus)\b/i;
+const STOP_RE =
+  /^(benefits|perks|what we offer|what.?s in it for you|compensation|salary range|our benefits|equal opportunity|eeo|we are an equal|about us|about the company|about the team|about \w+[:.]?$|who we are|why join|life at|our culture|our values|note for current employees|diversity|how we hire|interview process|the process|our story|join us|ready to)/i;
 
 /** Split a plain-text JD into the four sections the details page renders. */
-export function sectionize(text: string): {
+export function sectionize(rawText: string): {
   description: string;
   responsibilities: string[];
   requirements: string[];
   preferred: string[];
 } {
-  const lines = text.split("\n").map((l) => l.trim());
-  const bucket = { description: [] as string[], responsibilities: [] as string[], requirements: [] as string[], preferred: [] as string[] };
-  let current: keyof typeof bucket = "description";
+  // 1. Break run-together "sentence.Heading" and "text- Bullet" joins.
+  const text = rawText
+    .replace(/([a-z.!?"')])\s*(?=(?:What You|Responsibilities|Requirements|Qualifications|Nice to have|Preferred|About Us|About the|Benefits|Perks|We['’]re looking|Who you are|What we['’]re)\b)/g, "$1\n")
+    .replace(/([a-z.!?"')])\s+([-•])\s+(?=[A-Z0-9])/g, "$1\n$2 ");
 
+  const lines = text.split("\n").map((l) => l.trim());
+  const bucket = {
+    description: [] as string[],
+    responsibilities: [] as string[],
+    requirements: [] as string[],
+    preferred: [] as string[],
+  };
+  let current: "description" | "responsibilities" | "requirements" | "preferred" =
+    "description";
+  let sawStructured = false;
   let stopped = false;
+
   for (const line of lines) {
     if (!line || stopped) continue;
-    const h = line.toLowerCase().replace(/[:*#\-•\s]+$/g, "").trim();
-    const isHeading = line.length < 80;
+    const h = line.replace(/[:.\s*#•\-]+$/g, "").trim();
+    const short = h.length < 90;
 
-    if (isHeading && BOILERPLATE_HEADING.test(h)) {
-      // everything past benefits / EEO / "about us" is boilerplate
+    if (short && STOP_RE.test(h)) {
       stopped = true;
       continue;
     }
-    if (isHeading && /(what you.?ll do|responsibilities|the role|your impact|key responsibilities|in this role|what you.?ll be doing|day to day)/.test(h)) {
+    if (short && RESP_RE.test(h)) {
       current = "responsibilities";
+      sawStructured = true;
       continue;
     }
-    if (isHeading && /(what we.?re looking for|requirements|qualifications|what you.?ll need|you have|must have|about you|who you are|what you bring|you.?ll need|skills? (and|&) experience)/.test(h)) {
+    if (short && REQ_RE.test(h)) {
       current = "requirements";
+      sawStructured = true;
       continue;
     }
-    if (isHeading && /(nice to have|bonus|preferred|good to have|pluses|extra credit)/.test(h)) {
+    if (short && PREF_RE.test(h)) {
       current = "preferred";
+      sawStructured = true;
       continue;
     }
+
+    const isBullet = /^[•\-*·]\s+/.test(line);
     const clean = line.replace(/^[•\-*·]\s*/, "").trim();
-    if (!clean || clean.length < 3) continue;
-    if (current === "description") bucket.description.push(clean);
-    else bucket[current].push(clean);
+    if (clean.length < 3) continue;
+
+    if (current === "description") {
+      // Once structured sections start (or the first bullet appears), stop
+      // growing the intro so it doesn't swallow the whole JD.
+      if (sawStructured || isBullet) {
+        bucket.responsibilities.push(clean);
+        sawStructured = true;
+      } else {
+        bucket.description.push(clean);
+      }
+    } else {
+      bucket[current].push(clean);
+    }
+  }
+
+  let description = bucket.description.join("\n\n").trim().slice(0, 1500);
+  if (description.length < 40) {
+    // No usable intro paragraph — take the text before the first bullet or
+    // section heading rather than dumping the whole run-on JD.
+    const head = rawText
+      .replace(/\n+/g, " ")
+      .split(/\s(?:[-•]\s|What You|Responsibilities|Requirements|Qualifications|Nice to have|We['’]re looking|Who you are)/i)[0]
+      .trim();
+    description = head.length >= 40 ? head.slice(0, 600) : "";
   }
 
   return {
-    description: bucket.description.join("\n\n").slice(0, 4000) || text.slice(0, 1200),
-    responsibilities: bucket.responsibilities.slice(0, 12),
-    requirements: bucket.requirements.slice(0, 12),
-    preferred: bucket.preferred.slice(0, 8),
+    description,
+    responsibilities: dedupeList(bucket.responsibilities).slice(0, 12),
+    requirements: dedupeList(bucket.requirements).slice(0, 12),
+    preferred: dedupeList(bucket.preferred).slice(0, 8),
   };
+}
+
+function dedupeList(items: string[]): string[] {
+  const seen = new Set<string>();
+  const out: string[] = [];
+  for (const raw of items) {
+    const item = raw.replace(/\s+/g, " ").trim();
+    const key = item.toLowerCase().slice(0, 60);
+    if (item.length < 4 || seen.has(key)) continue;
+    seen.add(key);
+    out.push(item);
+  }
+  return out;
 }

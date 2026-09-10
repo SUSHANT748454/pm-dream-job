@@ -151,7 +151,12 @@ export default async function JobDetailPage(props: {
         <div className="min-w-0">
           {/* Header */}
           <div className="flex items-start gap-4">
-            <Logo name={job.company.name} src={job.company.logo} size={60} />
+            <Logo
+              name={job.company.name}
+              src={job.company.logo}
+              domain={job.company.domain}
+              size={60}
+            />
             <div className="min-w-0">
               <h1 className="font-display text-[26px] leading-tight tracking-tight text-text sm:text-3xl">
                 {job.title}
@@ -201,14 +206,16 @@ export default async function JobDetailPage(props: {
           )}
 
           {/* Description */}
-          <section className="mt-8">
-            <h2 className="font-display text-xl text-text">About the role</h2>
-            <div className="mt-3 space-y-3 text-sm leading-relaxed text-text-muted">
-              {job.description.split("\n\n").map((para, i) => (
-                <p key={i}>{para}</p>
-              ))}
-            </div>
-          </section>
+          {job.description.length > 0 && (
+            <section className="mt-8">
+              <h2 className="font-display text-xl text-text">About the role</h2>
+              <div className="mt-3 space-y-3 text-sm leading-relaxed text-text-muted">
+                {job.description.split("\n\n").map((para, i) => (
+                  <p key={i}>{para}</p>
+                ))}
+              </div>
+            </section>
+          )}
 
           <Section title="What you'll do" items={job.responsibilities} />
           <Section title="What you'll bring" items={job.requirements} />

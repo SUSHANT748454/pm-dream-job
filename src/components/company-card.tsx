@@ -17,7 +17,12 @@ export function CompanyCard({
       href={`/companies/${company.id}`}
       className="group flex items-start gap-4 rounded-[var(--radius-lg)] border border-[var(--border)] bg-[var(--bg-card)] p-5 transition-all duration-200 hover:border-[var(--border-strong)] hover:bg-[var(--bg-card-hover)]"
     >
-      <Logo name={company.name} src={company.logo} size={44} />
+      <Logo
+        name={company.name}
+        src={company.logo}
+        domain={company.domain}
+        size={44}
+      />
       <div className="min-w-0 flex-1">
         <div className="flex items-start justify-between gap-2">
           <h3 className="truncate font-display text-[16px] text-text">
