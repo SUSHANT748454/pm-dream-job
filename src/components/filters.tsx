@@ -1,8 +1,7 @@
 "use client";
 
 import * as Dialog from "@radix-ui/react-dialog";
-import { useRouter, usePathname, useSearchParams } from "next/navigation";
-import { useCallback, useMemo, useState, useTransition } from "react";
+import { useState } from "react";
 import { Check, SlidersHorizontal, X } from "lucide-react";
 
 import {
@@ -12,59 +11,16 @@ import {
   type FilterKey,
 } from "@/lib/filters";
 import { cn } from "@/lib/utils";
-import { trackEvent } from "@/lib/analytics";
 
 export type Facets = Record<FilterKey, Record<string, number>>;
 
-function useFilterState() {
-  const router = useRouter();
-  const pathname = usePathname();
-  const params = useSearchParams();
-  const [pending, startTransition] = useTransition();
-
-  const selected = useMemo(() => {
-    const map = {} as Record<FilterKey, Set<string>>;
-    for (const key of FILTER_KEYS) map[key] = new Set(params.getAll(key));
-    return map;
-  }, [params]);
-
-  const activeCount = FILTER_KEYS.reduce((n, k) => n + selected[k].size, 0);
-
-  const toggle = useCallback(
-    (key: FilterKey, value: string) => {
-      const sp = new URLSearchParams(params.toString());
-      const current = sp.getAll(key);
-      sp.delete(key);
-      const active = current.includes(value);
-      const next = active
-        ? current.filter((v) => v !== value)
-        : [...current, value];
-      for (const v of next) sp.append(key, v);
-      sp.delete("page");
-      startTransition(() =>
-        router.replace(`${pathname}?${sp.toString()}`, { scroll: false }),
-      );
-      trackEvent({
-        name: "filter_applied",
-        props: { filter: key, value, active: !active },
-      });
-    },
-    [params, pathname, router],
-  );
-
-  const clearAll = useCallback(() => {
-    const sp = new URLSearchParams(params.toString());
-    for (const key of FILTER_KEYS) sp.delete(key);
-    sp.delete("page");
-    startTransition(() =>
-      router.replace(sp.toString() ? `${pathname}?${sp.toString()}` : pathname, {
-        scroll: false,
-      }),
-    );
-  }, [params, pathname, router]);
-
-  return { selected, activeCount, toggle, clearAll, pending };
-}
+type SharedProps = {
+  facets: Facets;
+  selected: Record<FilterKey, Set<string>>;
+  activeCount: number;
+  onToggle: (key: FilterKey, value: string) => void;
+  onClearAll: () => void;
+};
 
 function FilterGroup({
   filterKey,
@@ -150,8 +106,13 @@ function FilterList({
   );
 }
 
-export function FiltersSidebar({ facets }: { facets: Facets }) {
-  const { selected, activeCount, toggle, clearAll } = useFilterState();
+export function FiltersSidebar({
+  facets,
+  selected,
+  activeCount,
+  onToggle,
+  onClearAll,
+}: SharedProps) {
   return (
     <aside className="hidden lg:block">
       <div className="sticky top-24 max-h-[calc(100vh-7rem)] overflow-y-auto pr-2 scroll-slim">
@@ -159,21 +120,26 @@ export function FiltersSidebar({ facets }: { facets: Facets }) {
           <h2 className="font-display text-[15px] text-text">Filters</h2>
           {activeCount > 0 && (
             <button
-              onClick={clearAll}
+              onClick={onClearAll}
               className="text-xs text-text-muted underline-offset-2 hover:text-text hover:underline"
             >
               Clear all ({activeCount})
             </button>
           )}
         </div>
-        <FilterList facets={facets} selected={selected} onToggle={toggle} />
+        <FilterList facets={facets} selected={selected} onToggle={onToggle} />
       </div>
     </aside>
   );
 }
 
-export function FiltersMobileTrigger({ facets }: { facets: Facets }) {
-  const { selected, activeCount, toggle, clearAll } = useFilterState();
+export function FiltersMobileTrigger({
+  facets,
+  selected,
+  activeCount,
+  onToggle,
+  onClearAll,
+}: SharedProps) {
   const [open, setOpen] = useState(false);
 
   return (
@@ -204,11 +170,11 @@ export function FiltersMobileTrigger({ facets }: { facets: Facets }) {
             </Dialog.Close>
           </div>
           <div className="flex-1 overflow-y-auto px-5 scroll-slim">
-            <FilterList facets={facets} selected={selected} onToggle={toggle} />
+            <FilterList facets={facets} selected={selected} onToggle={onToggle} />
           </div>
           <div className="flex items-center gap-3 border-t border-[var(--border)] px-5 py-4">
             <button
-              onClick={clearAll}
+              onClick={onClearAll}
               className="flex-1 rounded-[var(--radius)] border border-[var(--border-strong)] py-2.5 text-sm text-text-muted"
             >
               Clear all

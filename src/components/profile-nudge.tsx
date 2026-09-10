@@ -1,39 +1,10 @@
 "use client";
 
 import Link from "next/link";
-import { useRouter, useSearchParams } from "next/navigation";
-import { useEffect, useState } from "react";
 import { Sparkles, X, ArrowRight } from "lucide-react";
 
 import { useProfile, bandToLevel, firstName } from "@/lib/profile";
-
-const NUDGE_KEY = "pmdj.nudge";
-
-function useNudgeDismissed(): [boolean, () => void] {
-  // Start "dismissed" so nothing renders during SSR / hydration, then read the
-  // real value from sessionStorage in an effect (see useProfile for why).
-  const [dismissed, setDismissed] = useState(true);
-
-  useEffect(() => {
-    /* eslint-disable react-hooks/set-state-in-effect -- intentional client hydration */
-    try {
-      setDismissed(sessionStorage.getItem(NUDGE_KEY) === "1");
-    } catch {
-      setDismissed(false);
-    }
-    /* eslint-enable react-hooks/set-state-in-effect */
-  }, []);
-
-  const dismiss = () => {
-    try {
-      sessionStorage.setItem(NUDGE_KEY, "1");
-    } catch {
-      /* ignore */
-    }
-    setDismissed(true);
-  };
-  return [dismissed, dismiss];
-}
+import { useDismissed } from "@/lib/use-dismissed";
 
 /**
  * Contextual profile prompt on the jobs page:
@@ -41,32 +12,29 @@ function useNudgeDismissed(): [boolean, () => void] {
  *  - profile set → offer to filter to the matching PM level
  * Dismissals are per-session so it never nags.
  */
-export function ProfileNudge() {
+export function ProfileNudge({
+  levelFilterActive,
+  onApplyLevel,
+}: {
+  levelFilterActive: boolean;
+  onApplyLevel: (level: string) => void;
+}) {
   const { profile, hydrated } = useProfile();
-  const router = useRouter();
-  const params = useSearchParams();
-  const [dismissed, close] = useNudgeDismissed();
+  const [dismissed, dismiss] = useDismissed("pmdj.nudge");
 
-  const hasLevelFilter = params.getAll("experienceLevel").length > 0;
   const level = bandToLevel(profile?.experienceYears);
 
   if (!hydrated || dismissed) return null;
 
-  // Profile set, has a mappable level, not already filtered → offer it.
-  if (profile && level && !hasLevelFilter) {
+  if (profile && level && !levelFilterActive) {
     return (
-      <Shell onClose={close}>
+      <Shell onClose={dismiss}>
         <span className="text-text-muted">
           {firstName(profile)}, based on your profile
           {profile.currentDesignation ? ` (${profile.currentDesignation})` : ""} —
         </span>{" "}
         <button
-          onClick={() => {
-            const sp = new URLSearchParams(params.toString());
-            sp.set("experienceLevel", level);
-            sp.delete("page");
-            router.replace(`/jobs?${sp.toString()}`, { scroll: false });
-          }}
+          onClick={() => onApplyLevel(level)}
           className="inline-flex items-center gap-1 font-medium text-gold-soft hover:text-gold"
         >
           show {level} roles <ArrowRight className="h-3.5 w-3.5" />
@@ -75,10 +43,9 @@ export function ProfileNudge() {
     );
   }
 
-  // No profile → invite.
   if (!profile) {
     return (
-      <Shell onClose={close}>
+      <Shell onClose={dismiss}>
         <span className="text-text-muted">
           Get roles tailored to your experience.
         </span>{" "}

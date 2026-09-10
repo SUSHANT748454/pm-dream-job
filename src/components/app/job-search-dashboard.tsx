@@ -1,7 +1,7 @@
 "use client";
 
 import * as React from "react";
-import { useRouter, useSearchParams } from "next/navigation";
+import { useRouter } from "next/navigation";
 import Link from "next/link";
 import {
   ArrowLeft,
@@ -49,15 +49,13 @@ function sameDay(iso: string | undefined, dayStr: string): boolean {
 export function JobSearchDashboard({
   jobs,
   stats,
-  now,
 }: {
   jobs: Job[];
   stats: Stats;
-  now: number;
 }) {
   const router = useRouter();
-  const params = useSearchParams();
   const tracker = useTracker();
+  const [now] = React.useState(() => Date.now());
   const rel = React.useCallback((iso: string) => relativeDate(iso, now), [now]);
 
   const [q, setQ] = React.useState("");
@@ -67,6 +65,20 @@ export function JobSearchDashboard({
   const [company, setCompany] = React.useState("");
   const [dateId, setDateId] = React.useState("all");
   const [mobileDetail, setMobileDetail] = React.useState(false);
+  const [selectedSlug, setSelectedSlug] = React.useState<string | null>(null);
+
+  React.useEffect(() => {
+    const read = () => {
+      try {
+        setSelectedSlug(new URLSearchParams(window.location.search).get("job"));
+      } catch {
+        setSelectedSlug(null);
+      }
+    };
+    read();
+    window.addEventListener("popstate", read);
+    return () => window.removeEventListener("popstate", read);
+  }, []);
 
   const companies = React.useMemo(
     () =>
@@ -111,14 +123,12 @@ export function JobSearchDashboard({
     });
   }, [jobs, q, city, mode, level, company, dateDays, now]);
 
-  const selectedSlug = params.get("job");
   const selected =
     filtered.find((j) => j.slug === selectedSlug) ?? filtered[0] ?? null;
 
   const select = (slug: string) => {
-    const sp = new URLSearchParams(params.toString());
-    sp.set("job", slug);
-    router.replace(`/app?${sp.toString()}`, { scroll: false });
+    setSelectedSlug(slug);
+    router.replace(`/app?job=${encodeURIComponent(slug)}`, { scroll: false });
     setMobileDetail(true);
   };
 

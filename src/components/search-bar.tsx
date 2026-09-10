@@ -1,46 +1,35 @@
 "use client";
 
-import { useRouter, usePathname, useSearchParams } from "next/navigation";
-import { useEffect, useRef, useState, useTransition } from "react";
+import { useRef, useState } from "react";
 import { Search, X } from "lucide-react";
 
 import { cn } from "@/lib/utils";
 import { trackEvent } from "@/lib/analytics";
 
 export function SearchBar({
+  value,
+  onChange,
   resultCountHint,
   className,
 }: {
+  value: string;
+  onChange: (next: string) => void;
   resultCountHint?: number;
   className?: string;
 }) {
-  const router = useRouter();
-  const pathname = usePathname();
-  const params = useSearchParams();
-  const [pending, startTransition] = useTransition();
-
-  const [value, setValue] = useState(params.get("q") ?? "");
+  const [local, setLocal] = useState(value);
+  const [lastProp, setLastProp] = useState(value);
   const timer = useRef<ReturnType<typeof setTimeout> | null>(null);
-  const lastPushed = useRef(params.get("q") ?? "");
 
-  // keep in sync if the URL changes elsewhere (e.g. "clear filters")
-  useEffect(() => {
-    const urlQ = params.get("q") ?? "";
-    if (urlQ !== lastPushed.current) {
-      lastPushed.current = urlQ;
-      setValue(urlQ);
-    }
-  }, [params]);
+  // Sync the input when `value` changes from outside (chips, clear-all) — the
+  // render-phase "adjust state on prop change" pattern, not an effect.
+  if (value !== lastProp) {
+    setLastProp(value);
+    setLocal(value);
+  }
 
-  function push(next: string) {
-    const sp = new URLSearchParams(params.toString());
-    if (next.trim()) sp.set("q", next.trim());
-    else sp.delete("q");
-    sp.delete("page");
-    lastPushed.current = next.trim();
-    startTransition(() => {
-      router.replace(`${pathname}?${sp.toString()}`, { scroll: false });
-    });
+  function commit(next: string) {
+    onChange(next);
     if (next.trim()) {
       trackEvent({
         name: "job_searched",
@@ -49,10 +38,10 @@ export function SearchBar({
     }
   }
 
-  function onChange(next: string) {
-    setValue(next);
+  function handle(next: string) {
+    setLocal(next);
     if (timer.current) clearTimeout(timer.current);
-    timer.current = setTimeout(() => push(next), 350);
+    timer.current = setTimeout(() => commit(next), 300);
   }
 
   return (
@@ -62,34 +51,29 @@ export function SearchBar({
         className,
       )}
     >
-      <Search
-        className={cn(
-          "h-[18px] w-[18px] shrink-0 transition-colors",
-          pending ? "text-gold" : "text-text-faint",
-        )}
-      />
+      <Search className="h-[18px] w-[18px] shrink-0 text-text-faint" />
       <input
         type="search"
-        value={value}
-        onChange={(e) => onChange(e.target.value)}
+        value={local}
+        onChange={(e) => handle(e.target.value)}
         onKeyDown={(e) => {
           if (e.key === "Enter") {
             if (timer.current) clearTimeout(timer.current);
-            push(value);
+            commit(local);
           }
         }}
         placeholder="Search role, company, skill or city — e.g. “Senior PM fintech Bengaluru”"
         aria-label="Search product management jobs"
         className="min-w-0 flex-1 bg-transparent text-sm text-text placeholder:text-text-faint focus:outline-none"
       />
-      {value && (
+      {local && (
         <button
           type="button"
           aria-label="Clear search"
           onClick={() => {
-            setValue("");
+            setLocal("");
             if (timer.current) clearTimeout(timer.current);
-            push("");
+            commit("");
           }}
           className="shrink-0 rounded p-1 text-text-faint hover:text-text"
         >

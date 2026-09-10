@@ -13,7 +13,22 @@ const fraunces = Fraunces({
   style: ["normal", "italic"],
 });
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pm-dream-job.vercel.app";
+function resolveSiteUrl(): string {
+  const raw =
+    process.env.NEXT_PUBLIC_SITE_URL ||
+    (process.env.VERCEL_PROJECT_PRODUCTION_URL
+      ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
+      : "") ||
+    "https://pm-dream-job.vercel.app";
+  const withProtocol = /^https?:\/\//i.test(raw) ? raw : `https://${raw}`;
+  try {
+    return new URL(withProtocol).origin;
+  } catch {
+    return "https://pm-dream-job.vercel.app";
+  }
+}
+
+const siteUrl = resolveSiteUrl();
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
