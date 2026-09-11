@@ -40,7 +40,17 @@ export function getGeneratedAt(): string {
 /** All active jobs, newest first — for the dashboard's client-side browser. */
 export const getActiveJobList = cache((): Job[] => getActiveJobs());
 
-/** Per-day counts of jobs posted over the last `days` days (for sparklines). */
+/**
+ * When a job was first picked up by our ingestion — this is what "new" / "added"
+ * means for an aggregator. `postedAt` comes straight from the source and is
+ * unreliable across boards (Greenhouse reports last-edited, not posted), so it's
+ * used only for display + sorting, never for the "new" counters.
+ */
+function discoveredAt(job: Job): string {
+  return job.firstSeenAt || job.postedAt;
+}
+
+/** Per-day counts of jobs *added* over the last `days` days (for sparklines). */
 export const getIntakeSeries = cache((days = 7): number[] => {
   const todayUtc = Date.UTC(
     new Date().getUTCFullYear(),
@@ -49,8 +59,8 @@ export const getIntakeSeries = cache((days = 7): number[] => {
   );
   const buckets = new Array(days).fill(0) as number[];
   for (const job of getActiveJobs()) {
-    const posted = new Date(job.postedAt.slice(0, 10) + "T00:00:00Z").getTime();
-    const ageDays = Math.floor((todayUtc - posted) / 86_400_000);
+    const seen = new Date(discoveredAt(job).slice(0, 10) + "T00:00:00Z").getTime();
+    const ageDays = Math.floor((todayUtc - seen) / 86_400_000);
     if (ageDays >= 0 && ageDays < days) buckets[days - 1 - ageDays] += 1;
   }
   return buckets;
@@ -58,12 +68,12 @@ export const getIntakeSeries = cache((days = 7): number[] => {
 
 export const getDashboardStats = cache(() => {
   const jobs = getActiveJobs();
-  const postedWithin = (n: number) =>
-    jobs.filter((j) => isWithinDays(j.postedAt, n)).length;
+  const addedWithin = (n: number) =>
+    jobs.filter((j) => isWithinDays(discoveredAt(j), n)).length;
   return {
     total: jobs.length,
-    new24h: postedWithin(1),
-    new7d: postedWithin(7),
+    new24h: addedWithin(1),
+    new7d: addedWithin(7),
     companies: new Set(jobs.map((j) => j.company.id)).size,
     intake7d: getIntakeSeries(7),
   };
@@ -206,7 +216,7 @@ export const getStats = cache((): BoardStats => {
   return {
     activeJobs: jobs.length,
     companies: new Set(jobs.map((j) => j.company.id)).size,
-    newThisWeek: jobs.filter((j) => isWithinDays(j.postedAt, 7)).length,
+    newThisWeek: jobs.filter((j) => isWithinDays(discoveredAt(j), 7)).length,
   };
 });
 
