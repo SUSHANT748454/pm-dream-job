@@ -9,8 +9,11 @@ import Anthropic from "@anthropic-ai/sdk";
  *
  * Bounded by design: exactly 2 model calls per session (one follow-up
  * question, one feedback turn), gated behind sign-in, and capped at
- * DAILY_LIMIT sessions/user/day — enforced server-side so it can't be
- * bypassed from the client. Skips cleanly (503) if ANTHROPIC_API_KEY isn't
+ * DAILY_LIMIT sessions/user/day — enforced server-side on every call (not
+ * just the one that starts a session) so the cap can't be bypassed by a
+ * client that calls turn 2 directly. Request fields are also length-checked,
+ * since the client fully controls this payload and there's no other limit
+ * on tokens billed per call. Skips cleanly (503) if ANTHROPIC_API_KEY isn't
  * configured, matching every other optional integration in this app.
  */
 
@@ -18,6 +21,21 @@ export const runtime = "nodejs";
 
 const MODEL = "claude-haiku-4-5";
 const DAILY_LIMIT = 3;
+// Every real session is exactly 2 calls (opening + feedback). This is the
+// actual cost ceiling — enforced on every call, not just turn 1 — so a
+// client that skips turn 1 and calls turn 2 directly in a loop can't get
+// unlimited free model calls out of the daily-session gate below.
+const MAX_CALLS_PER_DAY = DAILY_LIMIT * 2;
+
+// A legitimate round never has more than [user, assistant, user] in history,
+// and no field here needs to be more than a paragraph — these caps stop a
+// forged request from ballooning input-token cost past what the UI ever
+// sends, since the client fully controls this payload.
+const MAX_HISTORY_LEN = 6;
+const MAX_CONTENT_LEN = 4000;
+const MAX_Q_LEN = 400;
+const MAX_CATEGORY_LEN = 60;
+const MAX_APPROACH_LEN = 1000;
 
 interface HistoryTurn {
   role: "user" | "assistant";
@@ -49,14 +67,36 @@ async function authenticatedUserId(req: NextRequest): Promise<string | null> {
   return data.user.id;
 }
 
+function isBoundedString(v: unknown, maxLen: number): v is string {
+  return typeof v === "string" && v.length > 0 && v.length <= maxLen;
+}
+
 function isRequestBody(v: unknown): v is RequestBody {
   if (!v || typeof v !== "object") return false;
   const b = v as Record<string, unknown>;
-  return (
-    typeof b.question === "object" &&
-    b.question !== null &&
-    Array.isArray(b.history) &&
-    (b.turn === 1 || b.turn === 2)
+  if (b.turn !== 1 && b.turn !== 2) return false;
+
+  const q = b.question as Record<string, unknown> | null;
+  if (
+    !q ||
+    typeof q !== "object" ||
+    !isBoundedString(q.q, MAX_Q_LEN) ||
+    !isBoundedString(q.category, MAX_CATEGORY_LEN) ||
+    !isBoundedString(q.approach, MAX_APPROACH_LEN)
+  ) {
+    return false;
+  }
+
+  if (!Array.isArray(b.history) || b.history.length === 0 || b.history.length > MAX_HISTORY_LEN) {
+    return false;
+  }
+  return b.history.every(
+    (h) =>
+      h &&
+      typeof h === "object" &&
+      ((h as Record<string, unknown>).role === "user" ||
+        (h as Record<string, unknown>).role === "assistant") &&
+      isBoundedString((h as Record<string, unknown>).content, MAX_CONTENT_LEN),
   );
 }
 
@@ -94,13 +134,26 @@ export async function POST(req: NextRequest) {
   const today = new Date().toISOString().slice(0, 10);
   const { data: existing } = await sb
     .from("interview_usage")
-    .select("count")
+    .select("count, calls")
     .eq("user_id", userId)
     .eq("day", today)
     .maybeSingle();
   const used = (existing?.count as number | undefined) ?? 0;
+  const calls = (existing?.calls as number | undefined) ?? 0;
 
   if (turn === 1 && used >= DAILY_LIMIT) {
+    return NextResponse.json(
+      {
+        error: `You've used today's ${DAILY_LIMIT} AI interview sessions. Self-practice mode has no limit — or come back tomorrow.`,
+      },
+      { status: 429 },
+    );
+  }
+  // Enforced on BOTH turns, not just turn 1: without this, a client that
+  // calls turn 2 directly (skipping turn 1 — and its usage check — entirely)
+  // could make unlimited model calls against this key. This is the real
+  // spend ceiling; the check above is only the user-facing "sessions" one.
+  if (calls >= MAX_CALLS_PER_DAY) {
     return NextResponse.json(
       {
         error: `You've used today's ${DAILY_LIMIT} AI interview sessions. Self-practice mode has no limit — or come back tomorrow.`,
@@ -138,12 +191,14 @@ Respond with ONLY a JSON object, nothing else, no markdown code fences, in exact
     );
   }
 
-  // Only turn 1 consumes a daily session — turn 2 is the same session continuing.
+  // `count` (sessions, shown to the user) only advances on turn 1; `calls`
+  // (raw model calls, the actual cost ceiling) advances on every call.
   await sb.from("interview_usage").upsert(
     {
       user_id: userId,
       day: today,
       count: used + (turn === 1 ? 1 : 0),
+      calls: calls + 1,
       updated_at: new Date().toISOString(),
     },
     { onConflict: "user_id,day" },

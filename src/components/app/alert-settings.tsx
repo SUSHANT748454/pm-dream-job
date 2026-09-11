@@ -29,14 +29,15 @@ export function AlertSettings() {
 
   React.useEffect(() => {
     /* eslint-disable react-hooks/set-state-in-effect -- one-time form hydration from loaded prefs */
+    // Always the account's own email — never trust a previously-stored
+    // value here, since older rows (from before this field was locked down)
+    // could hold a different address, and the DB now rejects a mismatch.
+    setEmail(profile?.email || user?.email || "");
     if (prefs) {
-      setEmail(prefs.email);
       setLocations(new Set(prefs.locations));
       setLevels(new Set(prefs.experienceLevels));
       setModes(new Set(prefs.workModes));
       setDomains(new Set(prefs.domains));
-    } else if (user) {
-      setEmail(profile?.email || user.email || "");
     }
     /* eslint-enable react-hooks/set-state-in-effect */
   }, [prefs, user, profile?.email]);
@@ -136,13 +137,13 @@ export function AlertSettings() {
         <label className="mb-1.5 block text-[13px] font-medium text-text">
           Send alerts to
         </label>
-        <input
-          type="email"
-          value={email}
-          onChange={(e) => setEmail(e.target.value)}
-          placeholder="you@example.com"
-          className="w-full max-w-sm rounded-[var(--radius)] border border-[var(--border-strong)] bg-[var(--bg)] px-3 py-2 text-sm text-text placeholder:text-text-faint focus:border-gold focus:outline-none"
-        />
+        <div className="w-full max-w-sm rounded-[var(--radius)] border border-[var(--border)] bg-[var(--bg-elevated)] px-3 py-2 text-sm text-text-muted">
+          {email || "—"}
+        </div>
+        <p className="mt-1.5 text-xs text-text-faint">
+          Always your sign-in address, so this can&apos;t be pointed at
+          someone else&apos;s inbox.
+        </p>
       </div>
 
       <div className="mt-5 grid gap-5 sm:grid-cols-2">

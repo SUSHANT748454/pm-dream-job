@@ -127,10 +127,16 @@ create table if not exists public.job_alerts (
 
 alter table public.job_alerts enable row level security;
 
--- Managed entirely by the signed-in owner from the client...
+-- Managed entirely by the signed-in owner from the client — and the `email`
+-- column is locked to the authenticated JWT's own email, enforced here (not
+-- just in the UI), so a signed-in visitor can never point a recurring email
+-- at someone else's address by calling the Supabase REST API directly. A
+-- fresh magic-link account is nearly free to create, so this can't rely on
+-- app-layer validation alone — RLS is the actual trust boundary.
 drop policy if exists "own job alert" on public.job_alerts;
 create policy "own job alert" on public.job_alerts
-  for all using (auth.uid() = user_id) with check (auth.uid() = user_id);
+  for all using (auth.uid() = user_id)
+  with check (auth.uid() = user_id and email = (auth.jwt() ->> 'email'));
 
 -- ...the weekly sender script uses the service_role key (bypasses RLS) to read
 -- every enabled row and stamp last_sent_at, so no separate policy is needed for it.
@@ -147,6 +153,18 @@ create table if not exists public.company_suggestions (
   submitted_by  text,
   status        text not null default 'new', -- new | added | rejected | duplicate
   created_at    timestamptz not null default now()
+);
+
+-- Sane upper bounds on a public, unauthenticated, unrated-limited insert
+-- (`drop ... if exists` + `add` rather than `add ... if not exists`, since
+-- Postgres doesn't support IF NOT EXISTS on ADD CONSTRAINT — matches the
+-- drop/create idiom already used for policies in this file).
+alter table public.company_suggestions drop constraint if exists company_suggestions_len_check;
+alter table public.company_suggestions add constraint company_suggestions_len_check check (
+  char_length(company_name) <= 200
+  and (careers_url is null or char_length(careers_url) <= 500)
+  and (note is null or char_length(note) <= 2000)
+  and (submitted_by is null or char_length(submitted_by) <= 200)
 );
 
 alter table public.company_suggestions enable row level security;
@@ -170,6 +188,12 @@ create table if not exists public.interview_usage (
   updated_at  timestamptz not null default now(),
   primary key (user_id, day)
 );
+
+-- `count` is "sessions started" (shown to the user, advances on turn 1 only).
+-- `calls` is every raw model call (both turns) — the actual cost ceiling the
+-- API route enforces, so a request that skips turn 1 and calls turn 2 in a
+-- loop still hits a hard cap. See src/app/api/interview/route.ts.
+alter table public.interview_usage add column if not exists calls integer not null default 0;
 
 alter table public.interview_usage enable row level security;
 
