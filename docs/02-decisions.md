@@ -25,6 +25,7 @@ _Date: 2026-09-10. Updated after round 1 answers._
 | 17 | Open browsing (post-launch, 09-11) | Reversed decision #14: `/jobs` and `/app` no longer require a profile. Only job alerts require sign-in — everything else works without an account. See `04-profile-gating.md`. |
 | 18 | Job alerts (post-launch, 09-11) | Weekly digest email, opt-in at `/app/alerts`, sent via Resend's HTTP API from a scheduled GitHub Action reading the Supabase jobs mirror. See `08-job-alerts.md`. |
 | 19 | Source coverage growth (post-launch, 09-11) | Verified + added 4 new ATS-board companies with confirmed India PM openings (Truecaller, Druva, Zenoti, InMobi — 40 → 44). Added a public "suggest a company" form (`/suggest-company`, footer + `/companies` link) writing to a new `company_suggestions` table (insert-only RLS, reviewed manually) so supply keeps growing without more manual research passes. |
+| 20 | "AI Mock Interview" resolved (post-launch, 09-11) | The placeholder needed an LLM backend, breaking the zero-API-cost rule every other feature follows. Rebranded to **Practice Interview**: a real, zero-cost self-practice mode — timed round against a random question bank entry, then a 5-dimension self-scoring rubric (structure / trade-offs / metrics / empathy / communication), local practice history. No AI claim, no "soon" badge. |
 
 ## Data sourcing — proposed (needs your OK)
 

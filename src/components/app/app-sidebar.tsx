@@ -23,7 +23,7 @@ const NAV = [
   { href: "/app/tracker", label: "Application Tracker", icon: KanbanSquare },
   { href: "/app/alerts", label: "Job Alerts", icon: BellRing },
   { href: "/app/questions", label: "Question Bank", icon: BookOpen },
-  { href: "/app/interview", label: "AI Mock Interview", icon: Mic, soon: true },
+  { href: "/app/interview", label: "Practice Interview", icon: Mic },
 ];
 
 export function AppSidebar() {
@@ -89,16 +89,7 @@ export function AppSidebar() {
                   active ? "text-gold" : "text-text-faint",
                 )}
               />
-              {!collapsed && (
-                <span className="flex flex-1 items-center justify-between">
-                  {item.label}
-                  {item.soon && (
-                    <span className="rounded-full bg-[var(--bg-elevated)] px-1.5 py-0.5 text-[10px] uppercase tracking-wide text-text-faint">
-                      soon
-                    </span>
-                  )}
-                </span>
-              )}
+              {!collapsed && <span className="flex-1">{item.label}</span>}
             </Link>
           );
         })}
