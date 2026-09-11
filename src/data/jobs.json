@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T09:17:24.466Z",
+  "generatedAt": "2026-09-11T13:58:01.880Z",
   "jobs": [
     {
       "id": "job_2e80e6",
@@ -42,7 +42,7 @@
         "Platform",
         "Data"
       ],
-      "description": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise-grade SBOM management, and the leading open source dependency management platform. This empowers enterprises to create and maintain secure, quality, and innovative software at scale.\n\nAs founders of Nexus Repository and stewards of Maven Central, the world’s largest repository of Java open-source software, we are software pioneers, and our open-source expertise is unmatched. We empower innovation with an unparalleled commitment to build faster, safer software and harness AI and data intelligence to mitigate risk, maximize efficiencies, and drive powerful software development.\n\nMore than 2,000 organizations, including 70% of the Fortune 100 and 15 million software developers, rely on Sonatype to optimize their software supply chains.\n\nOur groundbreaking, full-spectrum platform empowers customers to rapidly create, deploy, and maintain innovative software at scale, all while aligning directly to their business needs. Trusted by more than 2,000 organizations—including 70% of the Fortune 100—and over 15 million software developers, Sonatype’s tools and guidance help deliver exceptional, secure software.\n\nFrom inventing modern artifact management with Nexus Repository to introducing the world’s only solution that halts malicious open-source malware in its tr",
+      "description": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise-grade SBOM management, and the leading open source dependency management platform. This empowers enterprises to create and maintain secure, quality, and innovative software at scale.\n\nAs founders of Nexus Repository and stewards of Maven Central, the world’s largest repository of Java open-source software, we are software pioneers, and our open-source expertise is unmatched. We empower innovation with an unparalleled commitment to build faster, safer software and harness AI and data intelligence to mitigate risk, maximize efficiencies, and drive powerful software development.\n\nMore than 2,000 organizations, including 70% of the Fortune 100 and 15 million software developers, rely on Sonatype to optimize their software supply chains.\n\nOur groundbreaking, full-spectrum platform empowers customers to rapidly create, deploy, and maintain innovative software at scale, all while aligning directly to their business needs. Trusted by more than 2,000 organizations—including 70% of the Fortune 100—and over 15 million software developers, Sonatype’s tools and guidance help deliver exceptional, secure software.\n\nFrom inventing modern artifact management with Nexus Repository to introducing the world’s only solution that halts malicious open-source malware in its",
       "responsibilities": [
         "Product Strategy & Leadership",
         ": Own the product roadmap, execute the overall strategy, and manage the business case (including product profitability) for a core part of Sonatype’s security portfolio.",
@@ -112,7 +112,7 @@
         "Growth",
         "API"
       ],
-      "description": "InMobi Advertising\n\nis a global technology leader helping marketers win the moments that matter. Our advertising platform reaches over 2 billion people across 150+ countries and turns real-time context into business outcomes, delivering results grounded in privacy-first principles. Trusted by 30,000+ brands and leading publishers, InMobi is where intelligence, creativity, and accountability converge. By combining lock screens, apps, TVs, and the open web with AI and machine learning, we deliver receptive attention, precise personalization, and measurable impact.\n\nThrough\n\nGlance AI,\n\nwe are shaping AI Commerce, reimagining the future of e-commerce with inspiration-led discovery and shopping. Designed to seamlessly integrate into everyday consumer technology, Glance AI transforms every screen into a gateway for instant, personal, and joyful discovery. Spanning diverse categories such as fashion, beauty, travel, accessories, home décor, pets, and beyond, Glance AI delivers deeply personalized shopping experiences. With rich first-party data and unparalleled consumer access, it harnesses InMobi’s global scale, insights, and targeting capabilities to create high impact, performance driven shopping journeys for brands worldwide.\n\nRecognized as a Great Place to Work, and by MIT Technology Review, Fast Company’s Top 10 Innovators, and more, InMobi is a workplace where bold ideas create global impact. Backed by investors including SoftBank, Kleiner Perkins, and Sherpalo Ventures, InM",
+      "description": "InMobi Advertising\n\nis a global technology leader helping marketers win the moments that matter. Our advertising platform reaches over 2 billion people across 150+ countries and turns real-time context into business outcomes, delivering results grounded in privacy-first principles. Trusted by 30,000+ brands and leading publishers, InMobi is where intelligence, creativity, and accountability converge. By combining lock screens, apps, TVs, and the open web with AI and machine learning, we deliver receptive attention, precise personalization, and measurable impact.\n\nThrough\n\nGlance AI,\n\nwe are shaping AI Commerce, reimagining the future of e-commerce with inspiration-led discovery and shopping. Designed to seamlessly integrate into everyday consumer technology, Glance AI transforms every screen into a gateway for instant, personal, and joyful discovery. Spanning diverse categories such as fashion, beauty, travel, accessories, home décor, pets, and beyond, Glance AI delivers deeply personalized shopping experiences. With rich first-party data and unparalleled consumer access, it harnesses InMobi’s global scale, insights, and targeting capabilities to create high impact, performance driven shopping journeys for brands worldwide.\n\nRecognized as a Great Place to Work, and by MIT Technology Review, Fast Company’s Top 10 Innovators, and more, InMobi is a workplace where bold ideas create global impact. Backed by investors including SoftBank, Kleiner Perkins, and Sherpalo Ventures,",
       "responsibilities": [
         "MSD with deep knowledge of",
         "financial processes",
@@ -304,84 +304,6 @@
       "status": "Active"
     },
     {
-      "id": "job_29f119",
-      "slug": "principal-product-manager-sumo-logic-delhi-ncr-29f119",
-      "title": "Principal Product Manager",
-      "company": {
-        "id": "sumo-logic",
-        "name": "Sumo Logic",
-        "logo": null,
-        "domain": "sumologic.com"
-      },
-      "location": {
-        "city": "Delhi NCR",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Group Product Manager",
-      "experienceMin": 8,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Enterprise"
-      ],
-      "skills": [
-        "SQL",
-        "Analytics",
-        "Platform",
-        "Data",
-        "Demand"
-      ],
-      "tags": [
-        "SaaS",
-        "Enterprise",
-        "Group Product Manager",
-        "Onsite",
-        "SQL",
-        "Analytics",
-        "Platform",
-        "Data"
-      ],
-      "description": "",
-      "responsibilities": [
-        "Agentic Investigation & Reliability Experiences",
-        "Sumo Logic is hiring a Principal Product Manager to lead how engineers and operators investigate incidents, understand reliability risk, and act on their operational and security telemetry.",
-        "The observability category was built around collecting telemetry and giving people tools to navigate it: dashboards, queries, monitors, traces, and alerts. Customer expectations are now shifting. Teams don't just want more dashboards; they want help getting from a signal to a resolution, understanding what's broken, why, what's impacted, and what to do next. As AI agents move into production operations, this role owns how Sumo Logic brings intelligent, agent-assisted investigation and reliability workflows to customers, grounded in evidence, context, and enterprise governance.",
-        "This is a senior, high-ownership role. It requires genuine observability domain background. You should have lived in this space and understand how monitoring, troubleshooting, and reliability actually work, combined with the ambition to define a new category of experience on top of it.",
-        "What You Will Own",
-        "The current data experiences.",
-        "Log Search, Live Tail, query and query optimization, Metrics Search, Tracing, Dashboards, and the data-experience UI. This is a live, revenue-generating product with real customers, and keeping it strong is part of the job. You own its health, roadmap, and competitiveness today while steering it toward an AI-native future, focusing new investment where it strengthens investigation, speed, and value for both new and power users.",
-        "The reliability and alerting surface.",
-        "Monitors, Alerts, SLOs, Scheduled Searches, and the reliability workflows around them. You will own alerting accuracy, noise reduction, and operational health signals both as capabilities customers depend on today and as the foundation for more automated, agent-assisted detection and investigation.",
-        "The agentic investigation experience.",
-        "You will define how a user moves from a search, a monitor, a dashboard, or an alert to likely cause faster, with supporting evidence. This means productizing investigation workflows that reason across logs, metrics, traces, monitors, dashboards, and related context, and evolving them from reactive troubleshooting toward more proactive detection over time.",
-        "What You Will Be Doing"
-      ],
-      "requirements": [
-        "8+ years of product management experience with real observability or monitoring domain background. You have owned products in observability, monitoring, incident response, APM, or a closely adjacent operational-telemetry space. This is a hard requirement.",
-        "Deep, first-hand understanding of the observability surface area including logs, metrics, traces, dashboards, monitors, alerts, and SLOs, and of how engineers and operators actually investigate incidents and decide what to trust.",
-        "Proven ability to run a live, at-scale product, owning the roadmap, health, and competitiveness of shipping surfaces while driving a larger transformation.",
-        "A track record of owning broad, technically deep surfaces and setting direction that other teams build on.",
-        "Familiarity with how AI and agents are changing data interaction, including natural-language investigation, tools, guardrails, and human-in-the-loop action, or the ability to ramp quickly.",
-        "Strong technical instincts around query engines, time-series and trace data, and alerting systems, plus the judgment to know where an AI-assisted experience should replace a manual flow and where depth must stay.",
-        "Strong analytical skills and comfort using telemetry, dashboards, SQL, and usage data to understand adoption, friction, reliability, and cost.",
-        "Excellent communication across technical and business audiences, and the ability to write clear proposals, decision docs, PRDs, and acceptance criteria.",
-        "High ownership and drive to make progress across a large, ambiguous, fast-moving surface.",
-        "Must-Have Qualities",
-        "Runs today, builds tomorrow.",
-        "Keeps a live product healthy and competitive while reinventing it, and knows what to sustain and what to rebuild."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · Sumo Logic",
-      "applyUrl": "https://job-boards.greenhouse.io/sumologic/jobs/8089130",
-      "postedAt": "2026-09-08",
-      "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-11",
-      "status": "Active"
-    },
-    {
       "id": "job_e4eec1",
       "slug": "principal-product-manager-sumo-logic-bengaluru-e4eec1",
       "title": "Principal Product Manager",
@@ -454,6 +376,84 @@
       "salary": null,
       "source": "Greenhouse · Sumo Logic",
       "applyUrl": "https://job-boards.greenhouse.io/sumologic/jobs/8098451",
+      "postedAt": "2026-09-08",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
+      "status": "Active"
+    },
+    {
+      "id": "job_29f119",
+      "slug": "principal-product-manager-sumo-logic-delhi-ncr-29f119",
+      "title": "Principal Product Manager",
+      "company": {
+        "id": "sumo-logic",
+        "name": "Sumo Logic",
+        "logo": null,
+        "domain": "sumologic.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise"
+      ],
+      "skills": [
+        "SQL",
+        "Analytics",
+        "Platform",
+        "Data",
+        "Demand"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "Group Product Manager",
+        "Onsite",
+        "SQL",
+        "Analytics",
+        "Platform",
+        "Data"
+      ],
+      "description": "",
+      "responsibilities": [
+        "Agentic Investigation & Reliability Experiences",
+        "Sumo Logic is hiring a Principal Product Manager to lead how engineers and operators investigate incidents, understand reliability risk, and act on their operational and security telemetry.",
+        "The observability category was built around collecting telemetry and giving people tools to navigate it: dashboards, queries, monitors, traces, and alerts. Customer expectations are now shifting. Teams don't just want more dashboards; they want help getting from a signal to a resolution, understanding what's broken, why, what's impacted, and what to do next. As AI agents move into production operations, this role owns how Sumo Logic brings intelligent, agent-assisted investigation and reliability workflows to customers, grounded in evidence, context, and enterprise governance.",
+        "This is a senior, high-ownership role. It requires genuine observability domain background. You should have lived in this space and understand how monitoring, troubleshooting, and reliability actually work, combined with the ambition to define a new category of experience on top of it.",
+        "What You Will Own",
+        "The current data experiences.",
+        "Log Search, Live Tail, query and query optimization, Metrics Search, Tracing, Dashboards, and the data-experience UI. This is a live, revenue-generating product with real customers, and keeping it strong is part of the job. You own its health, roadmap, and competitiveness today while steering it toward an AI-native future, focusing new investment where it strengthens investigation, speed, and value for both new and power users.",
+        "The reliability and alerting surface.",
+        "Monitors, Alerts, SLOs, Scheduled Searches, and the reliability workflows around them. You will own alerting accuracy, noise reduction, and operational health signals both as capabilities customers depend on today and as the foundation for more automated, agent-assisted detection and investigation.",
+        "The agentic investigation experience.",
+        "You will define how a user moves from a search, a monitor, a dashboard, or an alert to likely cause faster, with supporting evidence. This means productizing investigation workflows that reason across logs, metrics, traces, monitors, dashboards, and related context, and evolving them from reactive troubleshooting toward more proactive detection over time.",
+        "What You Will Be Doing"
+      ],
+      "requirements": [
+        "8+ years of product management experience with real observability or monitoring domain background. You have owned products in observability, monitoring, incident response, APM, or a closely adjacent operational-telemetry space. This is a hard requirement.",
+        "Deep, first-hand understanding of the observability surface area including logs, metrics, traces, dashboards, monitors, alerts, and SLOs, and of how engineers and operators actually investigate incidents and decide what to trust.",
+        "Proven ability to run a live, at-scale product, owning the roadmap, health, and competitiveness of shipping surfaces while driving a larger transformation.",
+        "A track record of owning broad, technically deep surfaces and setting direction that other teams build on.",
+        "Familiarity with how AI and agents are changing data interaction, including natural-language investigation, tools, guardrails, and human-in-the-loop action, or the ability to ramp quickly.",
+        "Strong technical instincts around query engines, time-series and trace data, and alerting systems, plus the judgment to know where an AI-assisted experience should replace a manual flow and where depth must stay.",
+        "Strong analytical skills and comfort using telemetry, dashboards, SQL, and usage data to understand adoption, friction, reliability, and cost.",
+        "Excellent communication across technical and business audiences, and the ability to write clear proposals, decision docs, PRDs, and acceptance criteria.",
+        "High ownership and drive to make progress across a large, ambiguous, fast-moving surface.",
+        "Must-Have Qualities",
+        "Runs today, builds tomorrow.",
+        "Keeps a live product healthy and competitive while reinventing it, and knows what to sustain and what to rebuild."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Sumo Logic",
+      "applyUrl": "https://job-boards.greenhouse.io/sumologic/jobs/8089130",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-10",
       "lastSeenAt": "2026-09-11",
@@ -633,7 +633,7 @@
         "Data",
         "Demand"
       ],
-      "description": "About SpotDraft SpotDraft is on a mission to help legal and business teams move faster, together. Our AI-powered contracting platform is redefining how companies manage contracts, and our story deserves to be told in creative, human, and memorable ways. Top Outcomes: This role sits in the core workflow legal and business teams use every day to get a contract from draft to signature: collaborative editing and redlining, negotiating with counterparties, routing for approval, and signing. It’s one of the highest-usage parts of the product, used by nearly every customer on nearly every contract, a",
+      "description": "About SpotDraft SpotDraft is on a mission to help legal and business teams move faster, together. Our AI-powered contracting platform is redefining how companies manage contracts, and our story deserves to be told in creative, human, and memorable ways. Top Outcomes: This role sits in the core workflow legal and business teams use every day to get a contract from draft to signature: collaborative editing and redlining, negotiating with counterparties, routing for approval, and signing. It’s one of the highest-usage parts of the product, used by nearly every customer on nearly every contract,",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -687,7 +687,7 @@
         "Platform",
         "Data"
       ],
-      "description": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we’ve since grown into a fintech powerhouse driving India’s digital payment revolution.\n\nRazorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow.\n\nFrom building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech\n\nAcross India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that’s redefining how money moves across Asia.\n\nToday, that ecosystem supports everyone from early-stage startups to some of India’s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently.\n\nOur scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like Airbn",
+      "description": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we’ve since grown into a fintech powerhouse driving India’s digital payment revolution.\n\nRazorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow.\n\nFrom building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech\n\nAcross India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that’s redefining how money moves across Asia.\n\nToday, that ecosystem supports everyone from early-stage startups to some of India’s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently.\n\nOur scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like",
       "responsibilities": [
         "Build Customer Empathy: PMs have to regularly meet and understand customer needs first-hand as well as stay on top of the customer pulse via secondary insights - both qualitative and quantitative.",
         "Devise Strategy: Define both long-term strategy and quarterly roadmap to achieve the product vision and create impact.",
@@ -760,7 +760,7 @@
         "Analytics",
         "Growth"
       ],
-      "description": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we’ve since grown into a fintech powerhouse driving India’s digital payment revolution.\n\nRazorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow.\n\nFrom building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech\n\nAcross India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that’s redefining how money moves across Asia.\n\nToday, that ecosystem supports everyone from early-stage startups to some of India’s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently.\n\nOur scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like Airbn",
+      "description": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we’ve since grown into a fintech powerhouse driving India’s digital payment revolution.\n\nRazorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow.\n\nFrom building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech\n\nAcross India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that’s redefining how money moves across Asia.\n\nToday, that ecosystem supports everyone from early-stage startups to some of India’s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently.\n\nOur scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like",
       "responsibilities": [
         "As a PM2, you will independently own a product area or platform charter end-to-end — from strategy and roadmap to execution and business impact. You will operate with significant autonomy and drive initiatives across customer experience, platform scalability, automation, growth, and monetization. You will be expected to think beyond features and solve for systems, operational leverage, and long-term platform evolution.",
         "1. Build Customer Empathy",
@@ -831,7 +831,7 @@
         "Experimentation",
         "Analytics"
       ],
-      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology.  About the Team: The Credit Risk Product Team is at the core of our lending operations, ensuring that our risk assessment models are efficient, scalable, and compliant with regulatory frameworks. The team collaborates closely with data scientis",
+      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology.  About the Team: The Credit Risk Product Team is at the core of our lending operations, ensuring that our risk assessment models are efficient, scalable, and compliant with regulatory frameworks. The team collaborates closely with data",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -1020,7 +1020,7 @@
         "Platform",
         "Data"
       ],
-      "description": "Here at Appian, our values of\n\nIntensity\n\nand\n\nExcellence\n\ndefine who we are. We set high standards and live up to them, ensuring that everything we do is done with care and quality. We approach every challenge with ambition and commitment, holding ourselves and each other accountable to achieve the best results. When you join Appian, you'll be part of a passionate team dedicated to accomplishing hard things, together.\n\nThis role is open to people who are currently in a product leadership role or someone in an engineering leadership role that is interested to make the switch into product.\n\nThis role combines experienced product management leadership with the pivotal responsibilities of a Group Product Lead, offering an opportunity to shape the product strategy and the missions of several teams. You will oversee the product management execution working closely with the product managers for several cross-functional software engineering teams around the world. This position reports to the Head of Product for the Platform Engineering Strategic Business Unit, which is responsible for Appian Cloud offering.\n\nAn excellent candidate will come with a wide range of experience in a product leadership role in the cloud infrastructure domain at a software-as-a-service firm. The product portfolio owned by this position will cover a wide range of cloud native infrastructure and services - from the highly available, resilient, scalable, and efficient infrastructure components on which all Ap",
+      "description": "Here at Appian, our values of\n\nIntensity\n\nand\n\nExcellence\n\ndefine who we are. We set high standards and live up to them, ensuring that everything we do is done with care and quality. We approach every challenge with ambition and commitment, holding ourselves and each other accountable to achieve the best results. When you join Appian, you'll be part of a passionate team dedicated to accomplishing hard things, together.\n\nThis role is open to people who are currently in a product leadership role or someone in an engineering leadership role that is interested to make the switch into product.\n\nThis role combines experienced product management leadership with the pivotal responsibilities of a Group Product Lead, offering an opportunity to shape the product strategy and the missions of several teams. You will oversee the product management execution working closely with the product managers for several cross-functional software engineering teams around the world. This position reports to the Head of Product for the Platform Engineering Strategic Business Unit, which is responsible for Appian Cloud offering.\n\nAn excellent candidate will come with a wide range of experience in a product leadership role in the cloud infrastructure domain at a software-as-a-service firm. The product portfolio owned by this position will cover a wide range of cloud native infrastructure and services - from the highly available, resilient, scalable, and efficient infrastructure components on which all",
       "responsibilities": [
         "Oversee the initiation, planning, execution, and rollout for strategic initiatives.",
         "Lead the creation and ongoing maintenance of a multi-team, short-term and long-term feature backlogs strongly aligned to product and corporate vision.",
@@ -1079,7 +1079,7 @@
         "Payments",
         "Demand"
       ],
-      "description": "About Paytm Paytm is a pioneer of digital payments in India, serving over 450 million consumers and 45 million merchants across payments, financial services, and commerce. Over the years, Paytm has built deep in-house capabilities across technology, data, and operations to operate at scale with high reliability. About the team: Headquartered in Noida, India, Paytm Insurance Broking Private Limited (PIBPL), a wholly  owned subsidiary of One97 Communications (OCL) is an online insurance market place, that  offers insurance products across all leading insurance companies, with products across aut",
+      "description": "About Paytm Paytm is a pioneer of digital payments in India, serving over 450 million consumers and 45 million merchants across payments, financial services, and commerce. Over the years, Paytm has built deep in-house capabilities across technology, data, and operations to operate at scale with high reliability. About the team: Headquartered in Noida, India, Paytm Insurance Broking Private Limited (PIBPL), a wholly  owned subsidiary of One97 Communications (OCL) is an online insurance market place, that  offers insurance products across all leading insurance companies, with products across",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -1313,7 +1313,7 @@
         "Growth",
         "Platform"
       ],
-      "description": "Here at Appian, our values of\n\nIntensity\n\nand\n\nExcellence\n\ndefine who we are. We set high standards and live up to them, ensuring that everything we do is done with care and quality. We approach every challenge with ambition and commitment, holding ourselves and each other accountable to achieve the best results. When you join Appian, you'll be part of a passionate team dedicated to accomplishing hard things, together.\n\nWhen you join Appian, you'll be part of a passionate team dedicated to accomplishing hard things, together.\n\nThis position is based at our office in Chennai, India. Appian was built on a culture of in-person collaboration, which we believe is a key driver of our mission to be the best.\n\nYou will be the product manager working closely with the team whose mission is to strengthen and optimize site infrastructure by delivering essential upgrades, resource efficiency, and scalable solutions. You will be responsible for the direction and roadmap of a component of the Appian Cloud data plane that ensures reliable, high-performance operations for all Appian Cloud customer sites.\n\nThis role is specifically focused on the cloud-native persistence and messaging layer. You will oversee the backend sub-systems-including technologies like S3 and Redis-that power the platform's internal data plane and core services. This component of the software is not directly user-facing but has strong implications on the scalability and reliability requirements our customers expect.\n\nWh",
+      "description": "Here at Appian, our values of\n\nIntensity\n\nand\n\nExcellence\n\ndefine who we are. We set high standards and live up to them, ensuring that everything we do is done with care and quality. We approach every challenge with ambition and commitment, holding ourselves and each other accountable to achieve the best results. When you join Appian, you'll be part of a passionate team dedicated to accomplishing hard things, together.\n\nWhen you join Appian, you'll be part of a passionate team dedicated to accomplishing hard things, together.\n\nThis position is based at our office in Chennai, India. Appian was built on a culture of in-person collaboration, which we believe is a key driver of our mission to be the best.\n\nYou will be the product manager working closely with the team whose mission is to strengthen and optimize site infrastructure by delivering essential upgrades, resource efficiency, and scalable solutions. You will be responsible for the direction and roadmap of a component of the Appian Cloud data plane that ensures reliable, high-performance operations for all Appian Cloud customer sites.\n\nThis role is specifically focused on the cloud-native persistence and messaging layer. You will oversee the backend sub-systems-including technologies like S3 and Redis-that power the platform's internal data plane and core services. This component of the software is not directly user-facing but has strong implications on the scalability and reliability requirements our customers",
       "responsibilities": [
         "Prioritize and Define: Work on an agile team to prioritize, define, and ensure the success of infrastructure and managed services features for a high-level strategic roadmap.",
         "Stakeholder Collaboration: Prioritize what we should build and when by collaborating with stakeholders on product vision and strategy, while taking customer feedback into account.",
@@ -1378,7 +1378,7 @@
         "Experimentation",
         "Analytics"
       ],
-      "description": "About Us Paytm is India’s leading mobile payments and financial services distribution company. A pioneer of the mobile QR payments revolution, Paytm builds technology that enables small businesses and consumers to participate in the digital economy. Our mission is to serve half a billion Indians and bring them into the mainstream economy through technology. About the Role We are looking for a strategic, customer-focused and data-driven Product Manager to own and scale products and experiences for Paytm’s offline merchant ecosystem. The role will be responsible for defining product strategy, id",
+      "description": "About Us Paytm is India’s leading mobile payments and financial services distribution company. A pioneer of the mobile QR payments revolution, Paytm builds technology that enables small businesses and consumers to participate in the digital economy. Our mission is to serve half a billion Indians and bring them into the mainstream economy through technology. About the Role We are looking for a strategic, customer-focused and data-driven Product Manager to own and scale products and experiences for Paytm’s offline merchant ecosystem. The role will be responsible for defining product strategy,",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -1436,7 +1436,7 @@
         "Experimentation",
         "Analytics"
       ],
-      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology Role Overview We are looking for a Senior Product Manager (SPM) who can own products end-to-end — from identifying customer and business problems to defining the product strategy, shipping high-quality experiences, and measuring outcomes. The id",
+      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology Role Overview We are looking for a Senior Product Manager (SPM) who can own products end-to-end — from identifying customer and business problems to defining the product strategy, shipping high-quality experiences, and measuring outcomes. The",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -1491,7 +1491,7 @@
         "Platform",
         "Data"
       ],
-      "description": "About Us: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm's mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. What are we building We are building a full-stack AI Agentic Platform that powers customer, sales and internal workflows end-to-end. Core capabilities are including but not limited to: *Multi-agent, multi-modal customer interactions. *Agents which",
+      "description": "About Us: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm's mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. What are we building We are building a full-stack AI Agentic Platform that powers customer, sales and internal workflows end-to-end. Core capabilities are including but not limited to: *Multi-agent, multi-modal customer interactions. *Agents",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -1546,7 +1546,7 @@
         "Data",
         "B2B"
       ],
-      "description": "About Druva Druva is the resilience foundation for the AI enterprise, helping organizations secure and recover from connected risk across data, cyber, identity, and AI. The Resilience Cloud is a fully managed, cloud-native SaaS platform that delivers air-gapped and immutable protection across cloud, SaaS, on-premises, endpoint, and edge environments. Powered by Dru MetaGraph, Druva’s graph-powered intelligence layer, the platform connects critical business context so customers can understand risk, respond faster, recover cleanly, and govern data with greater confidence. Trusted by nearly 7,500",
+      "description": "About Druva Druva is the resilience foundation for the AI enterprise, helping organizations secure and recover from connected risk across data, cyber, identity, and AI. The Resilience Cloud is a fully managed, cloud-native SaaS platform that delivers air-gapped and immutable protection across cloud, SaaS, on-premises, endpoint, and edge environments. Powered by Dru MetaGraph, Druva’s graph-powered intelligence layer, the platform connects critical business context so customers can understand risk, respond faster, recover cleanly, and govern data with greater confidence. Trusted by nearly",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -1826,7 +1826,7 @@
         "API",
         "Platform"
       ],
-      "description": "InMobi Advertising\n\nis a global technology leader helping marketers win the moments that matter. Our advertising platform reaches over 2 billion people across 150+ countries and turns real-time context into business outcomes, delivering results grounded in privacy-first principles. Trusted by 30,000+ brands and leading publishers, InMobi is where intelligence, creativity, and accountability converge. By combining lock screens, apps, TVs, and the open web with AI and machine learning, we deliver receptive attention, precise personalization, and measurable impact.\n\nThrough\n\nGlance AI,\n\nwe are shaping AI Commerce, reimagining the future of e-commerce with inspiration-led discovery and shopping. Designed to seamlessly integrate into everyday consumer technology, Glance AI transforms every screen into a gateway for instant, personal, and joyful discovery. Spanning diverse categories such as fashion, beauty, travel, accessories, home décor, pets, and beyond, Glance AI delivers deeply personalized shopping experiences. With rich first-party data and unparalleled consumer access, it harnesses InMobi’s global scale, insights, and targeting capabilities to create high impact, performance driven shopping journeys for brands worldwide.\n\nRecognized as a Great Place to Work, and by MIT Technology Review, Fast Company’s Top 10 Innovators, and more, InMobi is a workplace where bold ideas create global impact. Backed by investors including SoftBank, Kleiner Perkins, and Sherpalo Ventures, InM",
+      "description": "InMobi Advertising\n\nis a global technology leader helping marketers win the moments that matter. Our advertising platform reaches over 2 billion people across 150+ countries and turns real-time context into business outcomes, delivering results grounded in privacy-first principles. Trusted by 30,000+ brands and leading publishers, InMobi is where intelligence, creativity, and accountability converge. By combining lock screens, apps, TVs, and the open web with AI and machine learning, we deliver receptive attention, precise personalization, and measurable impact.\n\nThrough\n\nGlance AI,\n\nwe are shaping AI Commerce, reimagining the future of e-commerce with inspiration-led discovery and shopping. Designed to seamlessly integrate into everyday consumer technology, Glance AI transforms every screen into a gateway for instant, personal, and joyful discovery. Spanning diverse categories such as fashion, beauty, travel, accessories, home décor, pets, and beyond, Glance AI delivers deeply personalized shopping experiences. With rich first-party data and unparalleled consumer access, it harnesses InMobi’s global scale, insights, and targeting capabilities to create high impact, performance driven shopping journeys for brands worldwide.\n\nRecognized as a Great Place to Work, and by MIT Technology Review, Fast Company’s Top 10 Innovators, and more, InMobi is a workplace where bold ideas create global impact. Backed by investors including SoftBank, Kleiner Perkins, and Sherpalo Ventures,",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -1884,7 +1884,7 @@
         "API",
         "Platform"
       ],
-      "description": "InMobi Advertising\n\nis a global technology leader helping marketers win the moments that matter. Our advertising platform reaches over 2 billion people across 150+ countries and turns real-time context into business outcomes, delivering results grounded in privacy-first principles. Trusted by 30,000+ brands and leading publishers, InMobi is where intelligence, creativity, and accountability converge. By combining lock screens, apps, TVs, and the open web with AI and machine learning, we deliver receptive attention, precise personalization, and measurable impact.\n\nThrough\n\nGlance AI,\n\nwe are shaping AI Commerce, reimagining the future of e-commerce with inspiration-led discovery and shopping. Designed to seamlessly integrate into everyday consumer technology, Glance AI transforms every screen into a gateway for instant, personal, and joyful discovery. Spanning diverse categories such as fashion, beauty, travel, accessories, home décor, pets, and beyond, Glance AI delivers deeply personalized shopping experiences. With rich first-party data and unparalleled consumer access, it harnesses InMobi’s global scale, insights, and targeting capabilities to create high impact, performance driven shopping journeys for brands worldwide.\n\nRecognized as a Great Place to Work, and by MIT Technology Review, Fast Company’s Top 10 Innovators, and more, InMobi is a workplace where bold ideas create global impact. Backed by investors including SoftBank, Kleiner Perkins, and Sherpalo Ventures, InM",
+      "description": "InMobi Advertising\n\nis a global technology leader helping marketers win the moments that matter. Our advertising platform reaches over 2 billion people across 150+ countries and turns real-time context into business outcomes, delivering results grounded in privacy-first principles. Trusted by 30,000+ brands and leading publishers, InMobi is where intelligence, creativity, and accountability converge. By combining lock screens, apps, TVs, and the open web with AI and machine learning, we deliver receptive attention, precise personalization, and measurable impact.\n\nThrough\n\nGlance AI,\n\nwe are shaping AI Commerce, reimagining the future of e-commerce with inspiration-led discovery and shopping. Designed to seamlessly integrate into everyday consumer technology, Glance AI transforms every screen into a gateway for instant, personal, and joyful discovery. Spanning diverse categories such as fashion, beauty, travel, accessories, home décor, pets, and beyond, Glance AI delivers deeply personalized shopping experiences. With rich first-party data and unparalleled consumer access, it harnesses InMobi’s global scale, insights, and targeting capabilities to create high impact, performance driven shopping journeys for brands worldwide.\n\nRecognized as a Great Place to Work, and by MIT Technology Review, Fast Company’s Top 10 Innovators, and more, InMobi is a workplace where bold ideas create global impact. Backed by investors including SoftBank, Kleiner Perkins, and Sherpalo Ventures,",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -1941,7 +1941,7 @@
         "Analytics",
         "Growth"
       ],
-      "description": "About Us:  Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm's mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. About the team: Pi Agents At Pi Agents, we are creating AI agents for businesses. We are building agents that help businesses of all sizes with their day to day challenges, across the full lifecycle: Acquiring, Servicing, Retaining, Upselling, an",
+      "description": "About Us:  Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm's mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. About the team: Pi Agents At Pi Agents, we are creating AI agents for businesses. We are building agents that help businesses of all sizes with their day to day challenges, across the full lifecycle: Acquiring, Servicing, Retaining, Upselling,",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -2192,7 +2192,7 @@
         "Experimentation",
         "Analytics"
       ],
-      "description": "About Us Paytm is India’s leading mobile payments and financial services distribution company. A pioneer of the mobile QR payments revolution, Paytm builds technology that enables small businesses and consumers to participate in the digital economy. Our mission is to serve half a billion Indians and bring them into the mainstream economy through technology. About the Role We are looking for a strategic, customer-focused and data-driven Product Manager to own and scale products and experiences for Paytm’s offline merchant ecosystem. The role will be responsible for defining product strategy, id",
+      "description": "About Us Paytm is India’s leading mobile payments and financial services distribution company. A pioneer of the mobile QR payments revolution, Paytm builds technology that enables small businesses and consumers to participate in the digital economy. Our mission is to serve half a billion Indians and bring them into the mainstream economy through technology. About the Role We are looking for a strategic, customer-focused and data-driven Product Manager to own and scale products and experiences for Paytm’s offline merchant ecosystem. The role will be responsible for defining product strategy,",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -2243,7 +2243,7 @@
         "Platform",
         "Data"
       ],
-      "description": "ABOUT SARVAM Sarvam is building the bedrock of Sovereign AI for India. The company is developing India's full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India's leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC. ABOUT THE ROLE We are hiring a Product Manager for Model APIs. This is the person who owns how developers and ent",
+      "description": "ABOUT SARVAM Sarvam is building the bedrock of Sovereign AI for India. The company is developing India's full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India's leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC. ABOUT THE ROLE We are hiring a Product Manager for Model APIs. This is the person who owns how developers and",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -2427,7 +2427,7 @@
         "API",
         "Data"
       ],
-      "description": "About team: Chanakya is Sarvam AI's specialised, self-contained vertical for national security and institutions of national importance. It carries its own pricing, business, product, engineering, custom-model and vendor functions under one roof — a complete unit built to solve the most complex problems in the strategic sector: the three armed forces, intelligence agencies, financial regulators, and institutions of national importance such as central ministries and national policy bodies. What we deploy here must be at strategic parity or higher — anything less is a national-security risk. That",
+      "description": "About team: Chanakya is Sarvam AI's specialised, self-contained vertical for national security and institutions of national importance. It carries its own pricing, business, product, engineering, custom-model and vendor functions under one roof — a complete unit built to solve the most complex problems in the strategic sector: the three armed forces, intelligence agencies, financial regulators, and institutions of national importance such as central ministries and national policy bodies. What we deploy here must be at strategic parity or higher — anything less is a national-security risk.",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -2635,7 +2635,7 @@
         "Platform",
         "Data"
       ],
-      "description": "About Vanguard Founded in 1975, Vanguard is one of the world's leading investment management companies. The firm offers investments, advice, and retirement services to tens of millions of individual investors around the globe-directly, through workplace plans, and through financial intermediaries. Vanguard's India Office Vanguard's office in India is a significant milestone in our global expansion. We are committed to establishing an enduring technology center in Hyderabad, Telangana and are excited to be adding talent who will focus on Artificial Intelligence (AI), mobile, and cloud-based tec",
+      "description": "About Vanguard Founded in 1975, Vanguard is one of the world's leading investment management companies. The firm offers investments, advice, and retirement services to tens of millions of individual investors around the globe-directly, through workplace plans, and through financial intermediaries. Vanguard's India Office Vanguard's office in India is a significant milestone in our global expansion. We are committed to establishing an enduring technology center in Hyderabad, Telangana and are excited to be adding talent who will focus on Artificial Intelligence (AI), mobile, and cloud-based",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -2769,7 +2769,7 @@
         "Platform",
         "Data"
       ],
-      "description": "About Us:  Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology About Telco Team: Thriving on innovation, One97 delivers Customer Communication, Up-Selling, Mobile Content, Advertising based and Platform services to over 500 Million mobile consumers across the globe. One97’s products and services are available",
+      "description": "About Us:  Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology About Telco Team: Thriving on innovation, One97 delivers Customer Communication, Up-Selling, Mobile Content, Advertising based and Platform services to over 500 Million mobile consumers across the globe. One97’s products and services are",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -2827,7 +2827,7 @@
         "Experimentation",
         "Analytics"
       ],
-      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology About the Role At Paytm, we are building the next generation of intelligent payment experiences for millions of users. We are looking for an AI-first Senior Product Manager who combines exceptional product thinking, customer empathy, UX sensibil",
+      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology About the Role At Paytm, we are building the next generation of intelligent payment experiences for millions of users. We are looking for an AI-first Senior Product Manager who combines exceptional product thinking, customer empathy, UX",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -2880,7 +2880,7 @@
         "Platform",
         "Data"
       ],
-      "description": "ABOUT SPOTDRAFT SpotDraft is an AI-native contract lifecycle management (CLM) platform built for in-house legal teams “Draft, review, sign & renew faster, with legal in charge” The platform spans the full contract lifecycle: workflow-driven creation, negotiation and collaboration (across Word, Slack, and SpotDraft), a centralised repository with search and access controls, analytics, and native e-signatures compliant with ESIGN and eIDAS. AI runs through the product, not beside it: DraftMate AI turns documents into templates by auto-detecting placeholders. Smart Data Capture extracts contract ",
+      "description": "ABOUT SPOTDRAFT SpotDraft is an AI-native contract lifecycle management (CLM) platform built for in-house legal teams “Draft, review, sign & renew faster, with legal in charge” The platform spans the full contract lifecycle: workflow-driven creation, negotiation and collaboration (across Word, Slack, and SpotDraft), a centralised repository with search and access controls, analytics, and native e-signatures compliant with ESIGN and eIDAS. AI runs through the product, not beside it: DraftMate AI turns documents into templates by auto-detecting placeholders. Smart Data Capture extracts contract",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -3058,7 +3058,7 @@
         "Pricing",
         "Platform"
       ],
-      "description": "Who we are Mindtickle is the leading AI-powered revenue enablement platform, helping sales teams learn faster, practice smarter, and perform at their best. We bring together onboarding, training, coaching, content, digital sales rooms, conversation intelligence, and AI role-plays into one platform so revenue teams have everything they need to build winning sellers. Global companies, like Fortune 500 organizations, trust Mindtickle to support their revenue teams. Customers and industry analysts have also recognized us. G2 has ranked us the #1 Sales Training & Onboarding platform for 28 consecut",
+      "description": "Who we are Mindtickle is the leading AI-powered revenue enablement platform, helping sales teams learn faster, practice smarter, and perform at their best. We bring together onboarding, training, coaching, content, digital sales rooms, conversation intelligence, and AI role-plays into one platform so revenue teams have everything they need to build winning sellers. Global companies, like Fortune 500 organizations, trust Mindtickle to support their revenue teams. Customers and industry analysts have also recognized us. G2 has ranked us the #1 Sales Training & Onboarding platform for 28",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -3191,7 +3191,7 @@
         "API",
         "Platform"
       ],
-      "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n\nThe Community You Will Join:\n\nAt Airbnb, anything related to money and value transfer comes through the Payments team. We're building a world-class payments and commerce organization that currently supports 220+ countries, 70+ currencies, connects dozens of payment providers and banks, processes billions of dollars, and empowers more people to participate in our global marketplace.\n\nWe're looking for people who know and use Airbnb and believe in what we're trying to accomplish. Airbnb is a marketplace that connects guests and hosts, and Payments is central to creating the trust that makes every transaction possible. The Platform team plays the role of conductor, bringing together engineers, designers, and partnerships to build great product experiences.\n\nThe Difference You Will Make:\n\nOur Payments Platform Managers own outcomes across foundation, growth, and empowerment, setting the vision and strategy, defining the Platform roadmap, and driving execution. We are building foundational loyalty and incentives platform capabilities that require expertise in consumer loyalty programs and B2B2C incentives platforms. The Staf",
+      "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n\nThe Community You Will Join:\n\nAt Airbnb, anything related to money and value transfer comes through the Payments team. We're building a world-class payments and commerce organization that currently supports 220+ countries, 70+ currencies, connects dozens of payment providers and banks, processes billions of dollars, and empowers more people to participate in our global marketplace.\n\nWe're looking for people who know and use Airbnb and believe in what we're trying to accomplish. Airbnb is a marketplace that connects guests and hosts, and Payments is central to creating the trust that makes every transaction possible. The Platform team plays the role of conductor, bringing together engineers, designers, and partnerships to build great product experiences.\n\nThe Difference You Will Make:\n\nOur Payments Platform Managers own outcomes across foundation, growth, and empowerment, setting the vision and strategy, defining the Platform roadmap, and driving execution. We are building foundational loyalty and incentives platform capabilities that require expertise in consumer loyalty programs and B2B2C incentives platforms. The",
       "responsibilities": [
         "Own the Loyalty & Incentives platform domain strategy, roadmap, and operating model, enabling teams across Airbnb to launch, configure, and evolve loyalty, membership, and incentive programs through reusable, scalable platform capabilities — including support for different loyalty currencies (fiat, points, cryptocurrency, and emerging digital assets) to accommodate a wide range of use cases",
         "Lead platform strategy for gift card capabilities as a core part of the Loyalty & Incentives domain, aligning business, partnership, and engineering roadmaps to scale the platform efficiently, sustainably, and profitably",
@@ -3271,7 +3271,7 @@
         "Monetization",
         "Pricing"
       ],
-      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology.  About the Role Paytm Ads is building the next generation of advertising infrastructure by combining high-intent first-party commerce data, AI-driven decisioning, and a scalable programmatic ecosystem. As a PMII / SPM, you will own key componen",
+      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology.  About the Role Paytm Ads is building the next generation of advertising infrastructure by combining high-intent first-party commerce data, AI-driven decisioning, and a scalable programmatic ecosystem. As a PMII / SPM, you will own key",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -3743,7 +3743,7 @@
         "Platform",
         "Data"
       ],
-      "description": "Zenoti provides an all-in-one, cloud-based software solution for the beauty and wellness industry. Our solution allows users to seamlessly manage every aspect of the business in a comprehensive mobile solution: online appointment bookings, POS, CRM, employee management, inventory management, built-in marketing programs and more. Zenoti helps clients streamline their systems and reduce costs, while simultaneously improving customer retention and spending. Our platform is engineered for reliability and scale and harnesses the power of enterprise-level technology for businesses of all sizes\n\nZenoti powers more than 30,000 salons, spas, medspas and fitness studios in over 50 countries. This includes a vast portfolio of global brands, such as European Wax Center, Hand & Stone, Massage Heights, Rush Hair & Beauty, Sono Bello, Profile by Sanford, Hair Cuttery, CorePower Yoga and TONI&GUY.\n\nOur recent accomplishments include surpassing a $1 billion unicorn valuation, being named Next Tech Titan by GeekWire, raising an $80 million investment from TPG, ranking as the 316th fastest-growing company in North America on Deloitte’s 2020 Technology Fast 500™. We are also proud to be recognized as a Great Place to Work CertifiedTM for 2021-2022 as this reaffirms our commitment to empowering people to feel good and find their greatness. To learn more about Zenoti visit: https://www.zenoti.com\n\nWhat's the opportunity?\n\nAs a product manager you will be responsible for defining market requirement",
+      "description": "Zenoti provides an all-in-one, cloud-based software solution for the beauty and wellness industry. Our solution allows users to seamlessly manage every aspect of the business in a comprehensive mobile solution: online appointment bookings, POS, CRM, employee management, inventory management, built-in marketing programs and more. Zenoti helps clients streamline their systems and reduce costs, while simultaneously improving customer retention and spending. Our platform is engineered for reliability and scale and harnesses the power of enterprise-level technology for businesses of all sizes\n\nZenoti powers more than 30,000 salons, spas, medspas and fitness studios in over 50 countries. This includes a vast portfolio of global brands, such as European Wax Center, Hand & Stone, Massage Heights, Rush Hair & Beauty, Sono Bello, Profile by Sanford, Hair Cuttery, CorePower Yoga and TONI&GUY.\n\nOur recent accomplishments include surpassing a $1 billion unicorn valuation, being named Next Tech Titan by GeekWire, raising an $80 million investment from TPG, ranking as the 316th fastest-growing company in North America on Deloitte’s 2020 Technology Fast 500™. We are also proud to be recognized as a Great Place to Work CertifiedTM for 2021-2022 as this reaffirms our commitment to empowering people to feel good and find their greatness. To learn more about Zenoti visit: https://www.zenoti.com\n\nWhat's the opportunity?\n\nAs a product manager you will be responsible for defining market",
       "responsibilities": [
         "Excellent communication and presentation skills, including presenting to customers and senior executives",
         "Excellent problem-solving skills, and ability to come up recommendations using data",
@@ -3973,7 +3973,7 @@
         "Platform",
         "Data"
       ],
-      "description": "About Vanguard Founded in 1975, Vanguard is one of the world's leading investment management companies. The firm offers investments, advice, and retirement services to tens of millions of individual investors around the globe-directly, through workplace plans, and through financial intermediaries. Vanguard's India Office Vanguard's office in India is a significant milestone in our global expansion. We are committed to establishing an enduring technology center in Hyderabad, Telangana and are excited to be adding talent who will focus on Artificial Intelligence (AI), mobile, and cloud-based tec",
+      "description": "About Vanguard Founded in 1975, Vanguard is one of the world's leading investment management companies. The firm offers investments, advice, and retirement services to tens of millions of individual investors around the globe-directly, through workplace plans, and through financial intermediaries. Vanguard's India Office Vanguard's office in India is a significant milestone in our global expansion. We are committed to establishing an enduring technology center in Hyderabad, Telangana and are excited to be adding talent who will focus on Artificial Intelligence (AI), mobile, and cloud-based",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -4150,7 +4150,7 @@
         "Platform",
         "Data"
       ],
-      "description": "Saviynt's AI-powered identity platform manages and governs human and non-human access to all of an organization's applications, data, and business processes. Customers trust Saviynt to safeguard their digital assets, drive operational efficiency, and reduce compliance costs. Built for the AI age, Saviynt is today helping organizations safely accelerate their deployment and usage of AI. Saviynt is recognized as the leader in identity security, with solutions that protect and empower the world’s leading brands, Fortune 500 companies and government institutions. For more information, please visit www.saviynt.com.\n\nYou'll be the voice of Saviynt's partner and developer community — ensuring their needs shape the product, their feedback drives decisions, and their experience on the platform is exceptional.\n\nIn this role, you'll partner with ISVs, technology partners, and external developers to bring new apps, integrations, and solutions to life on Saviynt Exchange. You'll review partner contributions, support community members, and serve as a trusted resource across the ecosystem.\n\nInternally, you'll work hand-in-hand with Product & Engineering to sharpen Saviynt's developer tooling and resources, while collaborating with Technology Alliances and GTM teams to drive adoption of third-party apps and integrations among customers and SI partners.\n\nAs a champion of Saviynt's integration frameworks, connectors, and best practices, you'll also build the content developers rely on — from s",
+      "description": "Saviynt's AI-powered identity platform manages and governs human and non-human access to all of an organization's applications, data, and business processes. Customers trust Saviynt to safeguard their digital assets, drive operational efficiency, and reduce compliance costs. Built for the AI age, Saviynt is today helping organizations safely accelerate their deployment and usage of AI. Saviynt is recognized as the leader in identity security, with solutions that protect and empower the world’s leading brands, Fortune 500 companies and government institutions. For more information, please visit www.saviynt.com.\n\nYou'll be the voice of Saviynt's partner and developer community — ensuring their needs shape the product, their feedback drives decisions, and their experience on the platform is exceptional.\n\nIn this role, you'll partner with ISVs, technology partners, and external developers to bring new apps, integrations, and solutions to life on Saviynt Exchange. You'll review partner contributions, support community members, and serve as a trusted resource across the ecosystem.\n\nInternally, you'll work hand-in-hand with Product & Engineering to sharpen Saviynt's developer tooling and resources, while collaborating with Technology Alliances and GTM teams to drive adoption of third-party apps and integrations among customers and SI partners.\n\nAs a champion of Saviynt's integration frameworks, connectors, and best practices, you'll also build the content developers rely on — from",
       "responsibilities": [
         "Unlock ISV/Technology partner integrations",
         "by identifying joint use cases and guiding partners to build integrations that address real customer needs on the Saviynt Identity Security platform.",
@@ -4279,7 +4279,7 @@
         "Payments",
         "Demand"
       ],
-      "description": "About Paytm Paytm is a pioneer of digital payments in India, serving over 450 million consumers and 45 million merchants across payments, financial services, and commerce. Over the years, Paytm has built deep in-house capabilities across technology, data, and operations to operate at scale with high reliability. About the team: Headquartered in Noida, India, Paytm Insurance Broking Private Limited (PIBPL), a wholly  owned subsidiary of One97 Communications (OCL) is an online insurance market place, that  offers insurance products across all leading insurance companies, with products across aut",
+      "description": "About Paytm Paytm is a pioneer of digital payments in India, serving over 450 million consumers and 45 million merchants across payments, financial services, and commerce. Over the years, Paytm has built deep in-house capabilities across technology, data, and operations to operate at scale with high reliability. About the team: Headquartered in Noida, India, Paytm Insurance Broking Private Limited (PIBPL), a wholly  owned subsidiary of One97 Communications (OCL) is an online insurance market place, that  offers insurance products across all leading insurance companies, with products across",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -4466,7 +4466,7 @@
         "Experimentation",
         "Analytics"
       ],
-      "description": "About InvoiceCloud : InvoiceCloud is a fast-growing fintech leader recognized with 20 major awards in 2025, including USA TODAY and Boston Globe Top Workplaces, multiple SaaS Awards wins for Best Solution for Finance and FinTech, and national customer service honors from Stevie and the Business Intelligence Group. Judges also highlighted our mission to reduce digital exclusion and restore simplicity and dignity to how people pay for essential services, as well as our leadership in AI maturity and responsible innovation. It’s an award-winning, purpose-driven environment where top talent thrives",
+      "description": "About InvoiceCloud : InvoiceCloud is a fast-growing fintech leader recognized with 20 major awards in 2025, including USA TODAY and Boston Globe Top Workplaces, multiple SaaS Awards wins for Best Solution for Finance and FinTech, and national customer service honors from Stevie and the Business Intelligence Group. Judges also highlighted our mission to reduce digital exclusion and restore simplicity and dignity to how people pay for essential services, as well as our leadership in AI maturity and responsible innovation. It’s an award-winning, purpose-driven environment where top talent",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -4831,7 +4831,7 @@
         "Growth",
         "Platform"
       ],
-      "description": "About Us:  Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. About the Team: We are the Central Data and AI Product team, responsible for building and managing the analytical products and datasets that power decision-making across Paytm. We’re rebuilding how analytics gets done at the company. As a central",
+      "description": "About Us:  Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. About the Team: We are the Central Data and AI Product team, responsible for building and managing the analytical products and datasets that power decision-making across Paytm. We’re rebuilding how analytics gets done at the company. As a",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -4942,7 +4942,7 @@
         "Growth",
         "API"
       ],
-      "description": "About Sarvam Sarvam is building the bedrock of Sovereign AI for India. The company is developing India’s full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India’s leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC. About the Role We're building India's sovereign AI platform across API, Agents, Creator Studio, and consumer prod",
+      "description": "About Sarvam Sarvam is building the bedrock of Sovereign AI for India. The company is developing India’s full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India’s leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC. About the Role We're building India's sovereign AI platform across API, Agents, Creator Studio, and consumer",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -4999,7 +4999,7 @@
         "Growth",
         "Monetization"
       ],
-      "description": "About Sarvam Sarvam is building the bedrock of Sovereign AI for India. The company is developing India’s full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India’s leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC. About the Role We're building India's sovereign AI platform across API, Agents, Creator Studio, and consumer prod",
+      "description": "About Sarvam Sarvam is building the bedrock of Sovereign AI for India. The company is developing India’s full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India’s leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC. About the Role We're building India's sovereign AI platform across API, Agents, Creator Studio, and consumer",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -5169,7 +5169,7 @@
         "Platform",
         "Data"
       ],
-      "description": "About Sarvam Sarvam is building the bedrock of Sovereign AI for India. The company is developing India's full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India's leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC. About the Role Sarvam is our on-device AI product line — purpose-built for enterprise deployments where data sove",
+      "description": "About Sarvam Sarvam is building the bedrock of Sovereign AI for India. The company is developing India's full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India's leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC. About the Role Sarvam is our on-device AI product line — purpose-built for enterprise deployments where data",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -5226,7 +5226,7 @@
         "SQL",
         "User Research"
       ],
-      "description": "About Karya : Why was Karya on the cover of the Time Magazine , highlighted by Satya Nadella , and chosen by Google as its partner for Project Vaani? In part, because Karya is on a mission to provide AI enabled earning and learning opportunities to economically underserved communities, thereby building a pathway out of poverty for them. Karya achieves this while also delivering high quality, timely, and price competitive data to its clients. Karya’s workers make at least 20 times the Indian minimum wage and through our one-of-a-kind digital work platform, we have delivered over 40 million digi",
+      "description": "About Karya : Why was Karya on the cover of the Time Magazine , highlighted by Satya Nadella , and chosen by Google as its partner for Project Vaani? In part, because Karya is on a mission to provide AI enabled earning and learning opportunities to economically underserved communities, thereby building a pathway out of poverty for them. Karya achieves this while also delivering high quality, timely, and price competitive data to its clients. Karya’s workers make at least 20 times the Indian minimum wage and through our one-of-a-kind digital work platform, we have delivered over 40 million",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -5403,7 +5403,7 @@
         "Growth",
         "Monetization"
       ],
-      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology.  About the Role Paytm Ads is strengthening its position as a leading outcome-driven advertising platform, powered by high-intent first-party data, machine learning–led optimization, and robust measurement and attribution capabilities. As Direct",
+      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology.  About the Role Paytm Ads is strengthening its position as a leading outcome-driven advertising platform, powered by high-intent first-party data, machine learning–led optimization, and robust measurement and attribution capabilities. As",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -5454,7 +5454,7 @@
         "Platform",
         "Data"
       ],
-      "description": "About Sarvam Sarvam is building the bedrock of Sovereign AI for India. The company is developing India's full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India's leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC.   About the Role We are hiring a Model Product Manager to own charters for Automatic Speech Recognition (ASR), Te",
+      "description": "About Sarvam Sarvam is building the bedrock of Sovereign AI for India. The company is developing India's full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India's leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC.   About the Role We are hiring a Model Product Manager to own charters for Automatic Speech Recognition (ASR),",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -5797,7 +5797,7 @@
         "Experimentation",
         "Analytics"
       ],
-      "description": "About Fam (previously FamPay)\n\nFam is India’s first payments app for everyone above 11. FamApp helps make online and offline payments through UPI and FamCard. We are on a mission to raise a new, financially aware generation, and drive 250 million+ young users in India to kickstart their financial journey super early in their life.\n\nWe’re reimagining how the next generation experiences fintech—going beyond payments to build a lifestyle brand that blends money, identity, and everyday experiences into one seamless, intuitive journey.\n\nFounded in 2019 by IIT Roorkee alumni, Fam is backed by some of the most respected investors around the world like Elevation Capital, Y-Combinator, Peak XV (Sequoia Capital) India, Venture Highway, Global Founder’s Capital and the likes of Kunal Shah, Amrish Rao as angel investors.\n\nAbout this role\n\nCan you make us a product offer we can't refuse? Then join us to be the godfather of some of the most innovative products in the Indian fintech industry. When the mission is to become the most loved application among the digital native young cohort of India, we cannot afford a product that's not better than the world's best out there.\n\nAs a Senior Product Manager at Fam you get to create and manage product innovations that the country is seeing for the first time ever. From the first numberless card in India, to the only payments app for teens, you would be required to build upon and build from scratch everyday.\n\nIf you are think you can create products",
+      "description": "About Fam (previously FamPay)\n\nFam is India’s first payments app for everyone above 11. FamApp helps make online and offline payments through UPI and FamCard. We are on a mission to raise a new, financially aware generation, and drive 250 million+ young users in India to kickstart their financial journey super early in their life.\n\nWe’re reimagining how the next generation experiences fintech—going beyond payments to build a lifestyle brand that blends money, identity, and everyday experiences into one seamless, intuitive journey.\n\nFounded in 2019 by IIT Roorkee alumni, Fam is backed by some of the most respected investors around the world like Elevation Capital, Y-Combinator, Peak XV (Sequoia Capital) India, Venture Highway, Global Founder’s Capital and the likes of Kunal Shah, Amrish Rao as angel investors.\n\nAbout this role\n\nCan you make us a product offer we can't refuse? Then join us to be the godfather of some of the most innovative products in the Indian fintech industry. When the mission is to become the most loved application among the digital native young cohort of India, we cannot afford a product that's not better than the world's best out there.\n\nAs a Senior Product Manager at Fam you get to create and manage product innovations that the country is seeing for the first time ever. From the first numberless card in India, to the only payments app for teens, you would be required to build upon and build from scratch everyday.\n\nIf you are think you can create",
       "responsibilities": [
         "Drive product vision and execution: Translate the broader product strategy into actionable roadmaps and deliver measurable impact",
         "Own key funnels or metrics – define, monitor, and improve critical KPIs such as activation, retention, CSAT, or revenue",
@@ -5868,7 +5868,7 @@
         "Payments",
         "Demand"
       ],
-      "description": "About Paytm Paytm is a pioneer of digital payments in India, serving over 450 million consumers and 45 million merchants across payments, financial services, and commerce. Over the years, Paytm has built deep in-house capabilities across technology, data, and operations to operate at scale with high reliability. About the team: Headquartered in Noida, India, Paytm Insurance Broking Private Limited (PIBPL), a wholly  owned subsidiary of One97 Communications (OCL) is an online insurance market place, that  offers insurance products across all leading insurance companies, with products across aut",
+      "description": "About Paytm Paytm is a pioneer of digital payments in India, serving over 450 million consumers and 45 million merchants across payments, financial services, and commerce. Over the years, Paytm has built deep in-house capabilities across technology, data, and operations to operate at scale with high reliability. About the team: Headquartered in Noida, India, Paytm Insurance Broking Private Limited (PIBPL), a wholly  owned subsidiary of One97 Communications (OCL) is an online insurance market place, that  offers insurance products across all leading insurance companies, with products across",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -6673,7 +6673,7 @@
         "User Research",
         "Go-to-Market"
       ],
-      "description": "ABOUT EMA Ema is building the world’s leading Agentic AI platform to transform enterprise productivity. We enable organizations to delegate repetitive tasks to Ema, the Universal AI Employee, delivering 10x gains in workforce efficiency, across functions. Founded by former executives from Google, Coinbase, Flipkart, and Okta, our team includes engineers from premier tech companies and graduates of Stanford, MIT, UC Berkeley, CMU, and IITs. We are backed by industry leading investors including Accel, Naspers/Prosus, Section32, and angels like Sheryl Sandberg and Dustin Moskovitz. Headquartered ",
+      "description": "ABOUT EMA Ema is building the world’s leading Agentic AI platform to transform enterprise productivity. We enable organizations to delegate repetitive tasks to Ema, the Universal AI Employee, delivering 10x gains in workforce efficiency, across functions. Founded by former executives from Google, Coinbase, Flipkart, and Okta, our team includes engineers from premier tech companies and graduates of Stanford, MIT, UC Berkeley, CMU, and IITs. We are backed by industry leading investors including Accel, Naspers/Prosus, Section32, and angels like Sheryl Sandberg and Dustin Moskovitz. Headquartered",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -7268,8 +7268,8 @@
       "companySize": "1000-5000",
       "description": "Sumo Logic is a saas company hiring product managers in India.",
       "locations": [
-        "Delhi NCR",
-        "Bengaluru"
+        "Bengaluru",
+        "Delhi NCR"
       ]
     },
     {
