@@ -280,7 +280,11 @@ async function main() {
 
   await writeFile(DATA_FILE, JSON.stringify(dataset, null, 2) + "\n", "utf8");
 
-  await syncToSupabase(merged, companies).catch((e) =>
+  // Mirror only active jobs — `companies` is built from active jobs too (see
+  // buildCompanies above), so syncing `merged` (which also carries Expired rows
+  // kept around for the idempotent-refresh bookkeeping) could reference a
+  // company that was never inserted and trip the jobs_company_id_fkey.
+  await syncToSupabase(activeJobs, companies).catch((e) =>
     console.warn("  Supabase sync failed:", e instanceof Error ? e.message : e),
   );
 
