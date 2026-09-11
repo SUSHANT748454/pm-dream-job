@@ -31,6 +31,8 @@ export type AnalyticsEvent =
   | { name: "company_suggested"; props?: Record<string, never> }
   | { name: "practice_started"; props: { category: string } }
   | { name: "practice_completed"; props: { category: string; overall: number } }
+  | { name: "ai_interview_started"; props: { category: string } }
+  | { name: "ai_interview_completed"; props: { category: string } }
   | {
       name: "onboarding_completed";
       props: { next: string; hasResume: boolean; level: string | null };

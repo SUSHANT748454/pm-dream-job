@@ -6,6 +6,7 @@ import { Play, Check, Clock, Sparkles } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { trackEvent } from "@/lib/analytics";
 import { usePracticeHistory, type RatingSet } from "@/lib/practice";
+import { AiInterviewSession } from "@/components/app/ai-interview-session";
 import questionsData from "@/data/questions.json";
 
 type Question = { id: string; category: string; q: string; approach: string; tags: string[] };
@@ -42,6 +43,7 @@ function pickQuestion(category: string, avoidId?: string): Question {
  */
 export function PracticeSession() {
   const { records, hydrated, add } = usePracticeHistory();
+  const [mode, setMode] = React.useState<"self" | "ai">("self");
   const [category, setCategory] = React.useState("Any");
   const [phase, setPhase] = React.useState<"setup" | "practicing" | "reviewing">("setup");
   const [question, setQuestion] = React.useState<Question | null>(null);
@@ -101,8 +103,25 @@ export function PracticeSession() {
       : null;
 
   if (phase === "setup" || !question) {
+    if (mode === "ai") {
+      return <AiInterviewSession onSwitchToSelf={() => setMode("self")} />;
+    }
     return (
       <div className="mx-auto max-w-lg rounded-xl border border-[var(--border)] bg-[var(--bg-card)] p-6">
+        <div className="mb-5 inline-flex rounded-lg border border-[var(--border-strong)] p-0.5 text-[12px]">
+          <button
+            onClick={() => setMode("self")}
+            className="rounded-md bg-[var(--bg-elevated)] px-3 py-1.5 text-text"
+          >
+            Self-practice
+          </button>
+          <button
+            onClick={() => setMode("ai")}
+            className="rounded-md px-3 py-1.5 text-text-muted hover:text-text"
+          >
+            AI interviewer
+          </button>
+        </div>
         <span className="grid h-11 w-11 place-items-center rounded-full bg-[var(--gold-dim)] text-gold-soft">
           <Sparkles className="h-5 w-5" />
         </span>

@@ -158,3 +158,24 @@ alter table public.company_suggestions enable row level security;
 drop policy if exists "anyone can suggest a company" on public.company_suggestions;
 create policy "anyone can suggest a company" on public.company_suggestions
   for insert with check (true);
+
+--------------------------------------------------------------------------------
+-- AI INTERVIEW USAGE (daily cap on the LLM-backed practice mode)
+--------------------------------------------------------------------------------
+
+create table if not exists public.interview_usage (
+  user_id     uuid not null references auth.users (id) on delete cascade,
+  day         date not null,
+  count       integer not null default 0,
+  updated_at  timestamptz not null default now(),
+  primary key (user_id, day)
+);
+
+alter table public.interview_usage enable row level security;
+
+-- The visitor can read their own count (so the UI can show "2 of 3 used
+-- today"); only the API route (service_role) increments it — no client
+-- write policy on purpose, so nobody can reset their own cap from the browser.
+drop policy if exists "read own interview usage" on public.interview_usage;
+create policy "read own interview usage" on public.interview_usage
+  for select using (auth.uid() = user_id);
