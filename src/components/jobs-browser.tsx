@@ -331,7 +331,7 @@ export function JobsBrowser({
             </div>
           ) : (
             <>
-              <div className="mt-5 grid gap-4">
+              <div className="mt-5 grid gap-4 xl:grid-cols-2">
                 {visible.map((job) => (
                   <JobCard
                     key={job.id}

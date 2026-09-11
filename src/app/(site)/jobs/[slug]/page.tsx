@@ -232,12 +232,17 @@ export default async function JobDetailPage(props: {
           <MatchBreakdown job={job} />
 
           {job.tags.length > 0 && (
-            <div className="mt-8 flex flex-wrap gap-1.5">
-              {job.tags.map((t) => (
-                <Badge key={t} tone="neutral">
-                  {t}
-                </Badge>
-              ))}
+            <div className="mt-8">
+              <h3 className="text-[11px] font-semibold uppercase tracking-[0.14em] text-text-faint">
+                Skills &amp; keywords
+              </h3>
+              <div className="mt-2.5 flex flex-wrap gap-1.5">
+                {job.tags.map((t) => (
+                  <Badge key={t} tone="neutral">
+                    {t}
+                  </Badge>
+                ))}
+              </div>
             </div>
           )}
 

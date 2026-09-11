@@ -5,6 +5,15 @@ import type {
   WorkMode,
 } from "../../src/types/job.ts";
 
+/** Truncate to maxLen without cutting a word in half — backs up to the last
+ * whitespace so descriptions never end mid-word (e.g. "...in its tr"). */
+function truncateAtWord(text: string, maxLen: number): string {
+  if (text.length <= maxLen) return text;
+  const cut = text.slice(0, maxLen);
+  const lastSpace = cut.lastIndexOf(" ");
+  return (lastSpace > maxLen * 0.6 ? cut.slice(0, lastSpace) : cut).trim();
+}
+
 const INDIA_CITIES: Record<string, string> = {
   bengaluru: "Bengaluru",
   bangalore: "Bengaluru",
@@ -302,7 +311,7 @@ export function sectionize(rawText: string): {
     }
   }
 
-  let description = bucket.description.join("\n\n").trim().slice(0, 1500);
+  let description = truncateAtWord(bucket.description.join("\n\n").trim(), 1500);
   if (description.length < 40) {
     // No usable intro paragraph — take the text before the first bullet or
     // section heading rather than dumping the whole run-on JD.
@@ -310,7 +319,7 @@ export function sectionize(rawText: string): {
       .replace(/\n+/g, " ")
       .split(/\s(?:[-•]\s|What You|Responsibilities|Requirements|Qualifications|Nice to have|We['’]re looking|Who you are)/i)[0]
       .trim();
-    description = head.length >= 40 ? head.slice(0, 600) : "";
+    description = head.length >= 40 ? truncateAtWord(head, 600) : "";
   }
 
   return {

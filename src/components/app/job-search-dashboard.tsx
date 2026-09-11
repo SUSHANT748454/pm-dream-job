@@ -43,6 +43,17 @@ type Stats = {
   intake7d: number[];
 };
 
+// Truncated list-row titles can lose exactly the word that signals seniority
+// ("...Senior Product Man…") — this badge keeps the level visible regardless.
+const LEVEL_ABBR: Record<string, string> = {
+  APM: "APM",
+  "Product Manager": "PM",
+  "Senior Product Manager": "Sr PM",
+  "Lead Product Manager": "Lead PM",
+  "Group Product Manager": "GPM",
+  Director: "Director",
+};
+
 const DATE_OPTIONS = [
   { id: "all", label: "Any time", days: 9999 },
   { id: "1", label: "Last 24 hours", days: 1 },
@@ -326,6 +337,9 @@ export function JobSearchDashboard({
                             )}
                           >
                             {job.title}
+                          </span>
+                          <span className="shrink-0 rounded-full bg-[var(--bg-elevated)] px-1.5 py-0.5 text-[10px] text-text-faint">
+                            {LEVEL_ABBR[job.experienceLevel] ?? job.experienceLevel}
                           </span>
                           {matches?.get(job.id) && (
                             <MatchBadge

@@ -254,7 +254,7 @@ export function OnboardingWizard() {
         </div>
 
         <div className="flex flex-1 items-start px-6 pb-12 pt-4 sm:px-12 lg:items-center lg:pt-0">
-          <div className="w-full max-w-md">
+          <div className="w-full max-w-lg">
             <p className="flex items-center gap-1.5 text-[11px] font-semibold uppercase tracking-[0.18em] text-[#b8791f]">
               <Asterisk className="h-3.5 w-3.5" />
               {current.title}
@@ -304,7 +304,7 @@ export function OnboardingWizard() {
                     (step === 1 && touched && !step1Valid) ||
                     (step === 2 && touchedExp && !step3Valid)
                   }
-                  className="inline-flex items-center gap-2 rounded-[10px] bg-[#c9812a] px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-[#b0701f] disabled:opacity-50"
+                  className="inline-flex items-center gap-2 rounded-[10px] bg-[#a17a2b] px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-[#8c6a25] disabled:opacity-50"
                 >
                   {step === STEPS.length - 1 ? "Finish" : "Continue"}
                   <ArrowRight className="h-4 w-4" />
@@ -324,13 +324,13 @@ function Label({ children, required }: { children: React.ReactNode; required?: b
   return (
     <label className="mb-1.5 block text-[13px] font-medium text-[#3a372f]">
       {children}
-      {required && <span className="ml-0.5 text-[#c9812a]">*</span>}
+      {required && <span className="ml-0.5 text-[#a17a2b]">*</span>}
     </label>
   );
 }
 
 const fieldCls =
-  "w-full rounded-[10px] border border-[#d8d3c6] bg-white px-3 py-2.5 text-sm text-[#1b1a17] placeholder:text-[#a8a396] focus:border-[#c9812a] focus:outline-none focus:ring-2 focus:ring-[#c9812a]/20";
+  "w-full rounded-[10px] border border-[#d8d3c6] bg-white px-3 py-2.5 text-sm text-[#1b1a17] placeholder:text-[#a8a396] focus:border-[#a17a2b] focus:outline-none focus:ring-2 focus:ring-[#a17a2b]/20";
 
 function IconField({
   icon: Icon,
@@ -484,7 +484,7 @@ function ResumeStep({ draft, set }: StepProps) {
       {has ? (
         <>
           <div className="flex items-center gap-3 rounded-[12px] border border-[#d8d3c6] bg-white p-4">
-            <span className="grid h-10 w-10 place-items-center rounded-lg bg-[#f0ede4] text-[#c9812a]">
+            <span className="grid h-10 w-10 place-items-center rounded-lg bg-[#f0ede4] text-[#a17a2b]">
               <FileText className="h-5 w-5" />
             </span>
             <div className="min-w-0 flex-1">
@@ -532,7 +532,7 @@ function ResumeStep({ draft, set }: StepProps) {
             <button
               type="button"
               onClick={savePaste}
-              className="inline-flex h-9 items-center rounded-[10px] bg-[#c9812a] px-4 text-[13px] font-semibold text-white hover:bg-[#b0701f]"
+              className="inline-flex h-9 items-center rounded-[10px] bg-[#a17a2b] px-4 text-[13px] font-semibold text-white hover:bg-[#8c6a25]"
             >
               Use this text
             </button>
@@ -554,9 +554,9 @@ function ResumeStep({ draft, set }: StepProps) {
             type="button"
             onClick={() => inputRef.current?.click()}
             disabled={busy}
-            className="flex w-full flex-col items-center rounded-[14px] border border-dashed border-[#cfc9ba] bg-white/60 px-6 py-12 text-center transition-colors hover:border-[#c9812a] hover:bg-white disabled:opacity-60"
+            className="flex w-full flex-col items-center rounded-[14px] border border-dashed border-[#cfc9ba] bg-white/60 px-6 py-12 text-center transition-colors hover:border-[#a17a2b] hover:bg-white disabled:opacity-60"
           >
-            <span className="grid h-12 w-12 place-items-center rounded-full bg-[#f5e6d3] text-[#c9812a]">
+            <span className="grid h-12 w-12 place-items-center rounded-full bg-[#f5e6d3] text-[#a17a2b]">
               <UploadCloud className="h-5 w-5" />
             </span>
             <span className="mt-4 text-sm font-medium text-[#1b1a17]">

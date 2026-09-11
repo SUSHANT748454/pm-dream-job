@@ -26,7 +26,7 @@ export function JobCard({
   return (
     <article
       className={cn(
-        "group relative rounded-[var(--radius-lg)] border border-[var(--border)] bg-[var(--bg-card)] p-5 transition-all duration-200 hover:border-[var(--border-strong)] hover:bg-[var(--bg-card-hover)] hover:shadow-[var(--shadow-card)]",
+        "group relative min-w-0 rounded-[var(--radius-lg)] border border-[var(--border)] bg-[var(--bg-card)] p-5 transition-all duration-200 hover:border-[var(--border-strong)] hover:bg-[var(--bg-card-hover)] hover:shadow-[var(--shadow-card)]",
         className,
       )}
     >
