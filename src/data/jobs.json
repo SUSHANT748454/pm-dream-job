@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T06:25:44.288Z",
+  "generatedAt": "2026-09-11T09:17:24.466Z",
   "jobs": [
     {
       "id": "job_2e80e6",
@@ -211,7 +211,7 @@
         "We are powered by a team of 450+ employees from 45+ nationalities.",
         "We always look for people who take initiative, own their work, and keep raising the bar. An entrepreneurial mindset matters here, especially when it turns bold ideas into real actions. We stay collaborative and focused, always searching for smarter paths forward. If you want to make an impact and grow with a team that inspires millions, you’ll fit right in.",
         "As Principle Product Manager, you will own and shape the strategy, define KPIs and be responsible for the roadmap delivery of products built under the portfolio of Business Messaging. You will play a key role in the 10-100 journey for a product line that has scaled to become the most anchored offering in Truecaller’s suite of enterprise products.",
-        "You will develop and drive the overall product vision, strategy, and roadmap for everything within the Verified communication solutions portfolio, ensuring alignment with the company's strategic goals, objectives with strong skills in modern AI tooling.",
+        "You will develop and drive the overall product vision, strategy, and roadmap for everything within the Business Messaging solutions portfolio, ensuring alignment with the company's strategic goals, objectives with strong skills in modern AI tooling.",
         "You will deliver high-quality products in-time, to meet important business revenue goals that excite our investors and customers.",
         "You will conduct market research and competitive analysis to identify new opportunities, trends, and customer needs in the business communications space.",
         "You collaborate with cross-functional teams, product & engineering, analytics as well as marketing and sales, to ensure seamless product development and go-to-market processes.",
@@ -2894,8 +2894,8 @@
     },
     {
       "id": "job_ad3ab4",
-      "slug": "senior-product-manager-meesho-bengaluru-ad3ab4",
-      "title": "Senior Product Manager",
+      "slug": "product-manager-internal-platform-meesho-bengaluru-ad3ab4",
+      "title": "Product Manager (Internal Platform)",
       "company": {
         "id": "meesho",
         "name": "Meesho",
@@ -2908,37 +2908,55 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": null,
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
       "experienceMax": null,
       "domain": [
         "Ecommerce",
         "Consumer"
       ],
       "skills": [
+        "Product Strategy",
         "Experimentation",
         "Analytics",
-        "User Research",
-        "Go-to-Market",
-        "Growth"
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Onboarding",
+        "Stakeholder Management",
+        "Segmentation"
       ],
       "tags": [
         "Ecommerce",
         "Consumer",
-        "Senior Product Manager",
+        "Product Manager",
         "Onsite",
+        "Product Strategy",
         "Experimentation",
         "Analytics",
-        "User Research",
-        "Go-to-Market"
+        "Growth"
       ],
-      "description": "About the Team   Product Management in Meesho closely resembles our rocketship growth. Because we obsess over understanding customer behaviour, we’ve been able to carve out an e-commerce niche in Tier 2/3/4 towns in Bharat. Our business growth is testimony to a singular focus on how we think of ‘product’ for our unique customers",
-      "responsibilities": [],
+      "description": "",
+      "responsibilities": [
+        "Bangalore",
+        "About the Team : The Platform Product team at Meesho is the backbone of our product ecosystem, empowering functions across product, business, analytics, tech, and data science. By building scalable platforms and tools, we enable teams to make data-driven decisions, accelerate development cycles, and enhance productivity. Our key focus areas include Data Acquisition, Analytics Tools, Experimentation, Segmentation, Payouts, Security, Reporting and so on, which support critical functions of Meesho",
+        "About the Role : As a Platform Product Manager, you will own and drive one or more product charters within the Platform Product charter. Your role will be pivotal in enabling Meesho’s growth by ensuring seamless cross-functional collaboration and delivering impactful technical solutions. You will work closely with product managers, engineers, analysts, and data scientists across the organisation to turn complex ideas into actionable products.",
+        "We’re looking for strategic thinkers passionate about building platforms that solve large-scale challenges. We want to hear from you if you are a self-starter, excel in driving initiatives independently, and thrive in dynamic environments.",
+        "What you will do",
+        "Drive Product Strategy:",
+        "Define and execute the roadmap for one or more platform charters, aligning with business goals and maximizing value for internal stakeholders.",
+        "Enable Cross-Functional Collaboration:",
+        "Partner with engineering, product, analytics, and business teams to ensure alignment, remove blockers, and drive initiatives to completion.",
+        "Optimise Platform Efficiency:",
+        "Establish workflows, tools, and frameworks that reduce onboarding friction, accelerate product delivery, and improve time-to-market.",
+        "Measure and Monitor Impact:"
+      ],
       "requirements": [],
       "preferred": [],
       "salary": null,
       "source": "Lever · Meesho",
-      "applyUrl": "https://jobs.lever.co/meesho/128cee5f-5e62-43f4-8339-6ead8b5498e7",
+      "applyUrl": "https://jobs.lever.co/meesho/2f1dba8f-bc99-4490-8200-d2cd7f92f544",
       "postedAt": "2026-08-12",
       "firstSeenAt": "2026-09-10",
       "lastSeenAt": "2026-09-11",
