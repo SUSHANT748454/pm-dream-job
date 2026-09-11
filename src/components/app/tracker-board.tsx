@@ -2,9 +2,9 @@
 
 import * as React from "react";
 import Link from "next/link";
-import { ArrowUpRight, Trash2 } from "lucide-react";
+import { ArrowUpRight, Trash2, Clock } from "lucide-react";
 
-import { monogram } from "@/lib/utils";
+import { cn, monogram } from "@/lib/utils";
 import {
   useTracker,
   STAGES,
@@ -12,8 +12,29 @@ import {
   type TrackedApplication,
 } from "@/lib/tracker";
 
+/** Stages someone else's decision is pending on — "saved" isn't waiting on
+ * anyone, "offer"/"rejected" are terminal, so staleness only applies here. */
+const IN_FLIGHT: Stage[] = ["applied", "screen", "interview"];
+const STALE_DAYS = 10;
+
+function daysSince(iso: string, now: number): number {
+  return Math.floor((now - new Date(iso).getTime()) / 86_400_000);
+}
+
+function staleDays(app: TrackedApplication, now: number): number | null {
+  if (!IN_FLIGHT.includes(app.stage)) return null;
+  const days = daysSince(app.updatedAt, now);
+  return days >= STALE_DAYS ? days : null;
+}
+
 export function TrackerBoard() {
   const { list, hydrated, setStage, remove } = useTracker();
+  const [now] = React.useState(() => Date.now());
+
+  const stale = React.useMemo(
+    () => list.filter((a) => staleDays(a, now) != null),
+    [list, now],
+  );
 
   const byStage = React.useMemo(() => {
     const map = Object.fromEntries(STAGES.map((s) => [s.id, [] as TrackedApplication[]])) as Record<
@@ -52,6 +73,24 @@ export function TrackerBoard() {
           </div>
         )}
       </header>
+
+      {hydrated && stale.length > 0 && (
+        <div className="mt-5 flex items-start gap-2.5 rounded-[var(--radius)] border border-[rgba(216,179,106,0.24)] bg-[var(--gold-dim)] px-4 py-2.5 text-[13px]">
+          <Clock className="mt-0.5 h-4 w-4 shrink-0 text-gold" />
+          <p className="leading-relaxed text-text-muted">
+            <span className="font-medium text-text">
+              {stale.length} {stale.length === 1 ? "application hasn't" : "applications haven't"}{" "}
+              moved in {STALE_DAYS}+ days
+            </span>{" "}
+            — {stale
+              .slice(0, 3)
+              .map((a) => a.company)
+              .join(", ")}
+            {stale.length > 3 ? `, +${stale.length - 3} more` : ""}. Might be
+            worth a follow-up.
+          </p>
+        </div>
+      )}
 
       {!hydrated ? null : list.length === 0 ? (
         <div className="mt-10 rounded-xl border border-dashed border-[var(--border-strong)] bg-[var(--bg-card)] px-6 py-16 text-center">
@@ -92,6 +131,7 @@ export function TrackerBoard() {
                   <Card
                     key={app.jobId}
                     app={app}
+                    now={now}
                     onStage={(s) => setStage(app.jobId, s)}
                     onRemove={() => remove(app.jobId)}
                   />
@@ -115,13 +155,16 @@ function Stat({ n, label }: { n: number; label: string }) {
 
 function Card({
   app,
+  now,
   onStage,
   onRemove,
 }: {
   app: TrackedApplication;
+  now: number;
   onStage: (s: Stage) => void;
   onRemove: () => void;
 }) {
+  const stale = staleDays(app, now);
   return (
     <div className="group rounded-lg border border-[var(--border)] bg-[var(--bg-card)] p-3">
       <div className="flex items-start gap-2.5">
@@ -147,6 +190,17 @@ function Card({
           <Trash2 className="h-3.5 w-3.5" />
         </button>
       </div>
+      {stale != null && (
+        <p
+          className={cn(
+            "mt-2 inline-flex items-center gap-1 rounded-full border px-1.5 py-0.5 text-[10.5px]",
+            "border-amber-500/35 bg-amber-500/10 text-amber-300",
+          )}
+        >
+          <Clock className="h-3 w-3" />
+          {stale}d, no update
+        </p>
+      )}
       <div className="mt-2.5 flex items-center gap-2">
         <select
           value={app.stage}
