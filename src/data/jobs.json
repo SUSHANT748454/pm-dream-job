@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T04:48:24.769Z",
+  "generatedAt": "2026-09-11T06:25:44.288Z",
   "jobs": [
     {
       "id": "job_2e80e6",
@@ -63,6 +63,181 @@
       "source": "The Muse",
       "applyUrl": "https://www.themuse.com/jobs/sonatype/product-manager-sbom",
       "postedAt": "2026-09-10",
+      "firstSeenAt": "2026-09-11",
+      "lastSeenAt": "2026-09-11",
+      "status": "Active"
+    },
+    {
+      "id": "job_c33644",
+      "slug": "associate-product-manager-msd-financial-systems-and-transformation-inmobi-bengaluru-c33644",
+      "title": "Associate Product Manager - MSD Financial Systems and Transformation",
+      "company": {
+        "id": "inmobi",
+        "name": "InMobi",
+        "logo": null,
+        "domain": "inmobi.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "APM",
+      "experienceMin": 6,
+      "experienceMax": null,
+      "domain": [
+        "AI",
+        "Consumer",
+        "Fintech"
+      ],
+      "skills": [
+        "Analytics",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "Payments",
+        "Personalization",
+        "Compliance"
+      ],
+      "tags": [
+        "AI",
+        "Consumer",
+        "Fintech",
+        "APM",
+        "Onsite",
+        "Analytics",
+        "Growth",
+        "API"
+      ],
+      "description": "InMobi Advertising\n\nis a global technology leader helping marketers win the moments that matter. Our advertising platform reaches over 2 billion people across 150+ countries and turns real-time context into business outcomes, delivering results grounded in privacy-first principles. Trusted by 30,000+ brands and leading publishers, InMobi is where intelligence, creativity, and accountability converge. By combining lock screens, apps, TVs, and the open web with AI and machine learning, we deliver receptive attention, precise personalization, and measurable impact.\n\nThrough\n\nGlance AI,\n\nwe are shaping AI Commerce, reimagining the future of e-commerce with inspiration-led discovery and shopping. Designed to seamlessly integrate into everyday consumer technology, Glance AI transforms every screen into a gateway for instant, personal, and joyful discovery. Spanning diverse categories such as fashion, beauty, travel, accessories, home décor, pets, and beyond, Glance AI delivers deeply personalized shopping experiences. With rich first-party data and unparalleled consumer access, it harnesses InMobi’s global scale, insights, and targeting capabilities to create high impact, performance driven shopping journeys for brands worldwide.\n\nRecognized as a Great Place to Work, and by MIT Technology Review, Fast Company’s Top 10 Innovators, and more, InMobi is a workplace where bold ideas create global impact. Backed by investors including SoftBank, Kleiner Perkins, and Sherpalo Ventures, InM",
+      "responsibilities": [
+        "MSD with deep knowledge of",
+        "financial processes",
+        "core financial modules",
+        "Microsoft Dynamics 365 Finance & Operations (D365 F&O)",
+        ", and a strong focus on",
+        "Controllership process transformation and driving",
+        "automation",
+        "initiatives. This role will also support the",
+        "Glance transformation program",
+        "to streamline reporting, automation, and visibility across finance functions.",
+        "Job Overview:",
+        "Own the product roadmap"
+      ],
+      "requirements": [
+        "6+ years of experience",
+        "in platform product management or consulting with a focus on financial systems, particularly in",
+        "Microsoft Dynamics 365 Finance & Operations",
+        "Strong understanding of",
+        "finance processes",
+        ", including budgeting, general ledger, AP/AR, Project management and accounting , cash management, and financial close processes.",
+        "Hands-on experience with",
+        "core financial modules",
+        "in D365 F&O, including",
+        "General Ledger",
+        "Accounts Payable",
+        "Accounts Receivable"
+      ],
+      "preferred": [
+        "Conduct",
+        "fit-gap analysis",
+        "and solution design for any new financial capabilities or customizations needed in the system, working closely with development teams.",
+        "Partner with cross-functional teams (engineering, finance, operations, etc.) to drive",
+        "end-to-end project delivery",
+        ", from scoping and development to testing and deployment.",
+        "Lead",
+        "data migration"
+      ],
+      "salary": null,
+      "source": "Greenhouse · InMobi",
+      "applyUrl": "https://job-boards.greenhouse.io/inmobi/jobs/6918622",
+      "postedAt": "2026-09-09",
+      "firstSeenAt": "2026-09-11",
+      "lastSeenAt": "2026-09-11",
+      "status": "Active"
+    },
+    {
+      "id": "job_b057e5",
+      "slug": "principle-product-manager-truecaller-bengaluru-b057e5",
+      "title": "Principle Product Manager",
+      "company": {
+        "id": "truecaller",
+        "name": "Truecaller",
+        "logo": null,
+        "domain": "truecaller.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 8,
+      "experienceMax": 10,
+      "domain": [
+        "Consumer",
+        "AI"
+      ],
+      "skills": [
+        "Analytics",
+        "Go-to-Market",
+        "Growth",
+        "Monetization",
+        "Pricing",
+        "API",
+        "Data",
+        "Mobile",
+        "iOS",
+        "Android"
+      ],
+      "tags": [
+        "Consumer",
+        "AI",
+        "Lead Product Manager",
+        "Onsite",
+        "Analytics",
+        "Go-to-Market",
+        "Growth",
+        "Monetization"
+      ],
+      "description": "Join Truecaller – The place where innovation meets impact!\n\nTruecaller's mission is to build trust in communication by making it safer, smarter, and more efficient. Born in Sweden, trusted by the world, and here’s why we stand out:",
+      "responsibilities": [
+        "We are trusted by over 450 million active users every month across 190+ countries",
+        "We identify over 15 billion calls daily, helping users avoid spam and scams",
+        "We are powered by a team of 450+ employees from 45+ nationalities.",
+        "We always look for people who take initiative, own their work, and keep raising the bar. An entrepreneurial mindset matters here, especially when it turns bold ideas into real actions. We stay collaborative and focused, always searching for smarter paths forward. If you want to make an impact and grow with a team that inspires millions, you’ll fit right in.",
+        "As Principle Product Manager, you will own and shape the strategy, define KPIs and be responsible for the roadmap delivery of products built under the portfolio of Business Messaging. You will play a key role in the 10-100 journey for a product line that has scaled to become the most anchored offering in Truecaller’s suite of enterprise products.",
+        "You will develop and drive the overall product vision, strategy, and roadmap for everything within the Verified communication solutions portfolio, ensuring alignment with the company's strategic goals, objectives with strong skills in modern AI tooling.",
+        "You will deliver high-quality products in-time, to meet important business revenue goals that excite our investors and customers.",
+        "You will conduct market research and competitive analysis to identify new opportunities, trends, and customer needs in the business communications space.",
+        "You collaborate with cross-functional teams, product & engineering, analytics as well as marketing and sales, to ensure seamless product development and go-to-market processes.",
+        "You will develop a deep understanding of our customers and their needs, acting as the voice of the customer within the organization and with leadership.",
+        "Drive and coach teams to develop problem statements and form hypotheses of new feature(s)/feature areas.",
+        "Create clarity for the team by communicating the business priorities and vision and helping them incorporate that into their plans."
+      ],
+      "requirements": [
+        "8-10 years of overall work experience with at least 5-7 years in product management.",
+        "Worked at either a CPaaS, CCaaS or UCaaS ecosystem in building communication solutions or solutions for contact centre management for businesses in India or globally.",
+        "Past experience building consumer mobile applications at scale will be a huge plus.",
+        "Sound technical knowledge of APIs and workflow management.",
+        "Sound understanding of monetization and an ability to build pricing strategies.",
+        "You know how to work with partners as well as end customers to identify problems and build a roadmap that reflects strategic as well as business priorities.",
+        "You have the ability to influence multiple cross-functional teams without authority to get the job done - sales, customer success and more.",
+        "Exceptional analytical, strategic, and problem-solving skills, with a data-driven approach to decision-making.",
+        "Excellent interpersonal and communication skills, with the ability to effectively communicate complex concepts to a diverse range of stakeholders.",
+        "Get stuff done mindset - small team, audacious goals and flawless execution.",
+        "Passionate about creating great user experiences both for businesses and consumers.",
+        "Proven track record of product management for mobile devices and/or applications."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Truecaller",
+      "applyUrl": "https://job-boards.greenhouse.io/truecaller/jobs/8184594",
+      "postedAt": "2026-09-09",
       "firstSeenAt": "2026-09-11",
       "lastSeenAt": "2026-09-11",
       "status": "Active"
@@ -1329,6 +1504,61 @@
       "status": "Active"
     },
     {
+      "id": "job_9ac5a3",
+      "slug": "product-manager-druva-pune-9ac5a3",
+      "title": "Product Manager",
+      "company": {
+        "id": "druva",
+        "name": "Druva",
+        "logo": null,
+        "domain": "druva.com"
+      },
+      "location": {
+        "city": "Pune",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
+      "experienceMax": 5,
+      "domain": [
+        "SaaS",
+        "Enterprise"
+      ],
+      "skills": [
+        "Growth",
+        "Platform",
+        "Data",
+        "B2B",
+        "Retention",
+        "Marketplace",
+        "Stakeholder Management",
+        "Agile"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "Product Manager",
+        "Onsite",
+        "Growth",
+        "Platform",
+        "Data",
+        "B2B"
+      ],
+      "description": "About Druva Druva is the resilience foundation for the AI enterprise, helping organizations secure and recover from connected risk across data, cyber, identity, and AI. The Resilience Cloud is a fully managed, cloud-native SaaS platform that delivers air-gapped and immutable protection across cloud, SaaS, on-premises, endpoint, and edge environments. Powered by Dru MetaGraph, Druva’s graph-powered intelligence layer, the platform connects critical business context so customers can understand risk, respond faster, recover cleanly, and govern data with greater confidence. Trusted by nearly 7,500",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Druva",
+      "applyUrl": "https://www.druva.com/why-druva/explore/careers/jobs/8651130002/?gh_jid=8651130002",
+      "postedAt": "2026-09-01",
+      "firstSeenAt": "2026-09-11",
+      "lastSeenAt": "2026-09-11",
+      "status": "Active"
+    },
+    {
       "id": "job_6bfa7f",
       "slug": "senior-product-manager-mongodb-delhi-ncr-6bfa7f",
       "title": "Senior Product Manager",
@@ -1554,6 +1784,119 @@
       "status": "Active"
     },
     {
+      "id": "job_f30b11",
+      "slug": "group-product-manager-accelerate-inmobi-bengaluru-f30b11",
+      "title": "Group Product Manager - Accelerate",
+      "company": {
+        "id": "inmobi",
+        "name": "InMobi",
+        "logo": null,
+        "domain": "inmobi.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "AI",
+        "Consumer",
+        "Ecommerce"
+      ],
+      "skills": [
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "iOS",
+        "Personalization"
+      ],
+      "tags": [
+        "AI",
+        "Consumer",
+        "Ecommerce",
+        "Group Product Manager",
+        "Onsite",
+        "Growth",
+        "API",
+        "Platform"
+      ],
+      "description": "InMobi Advertising\n\nis a global technology leader helping marketers win the moments that matter. Our advertising platform reaches over 2 billion people across 150+ countries and turns real-time context into business outcomes, delivering results grounded in privacy-first principles. Trusted by 30,000+ brands and leading publishers, InMobi is where intelligence, creativity, and accountability converge. By combining lock screens, apps, TVs, and the open web with AI and machine learning, we deliver receptive attention, precise personalization, and measurable impact.\n\nThrough\n\nGlance AI,\n\nwe are shaping AI Commerce, reimagining the future of e-commerce with inspiration-led discovery and shopping. Designed to seamlessly integrate into everyday consumer technology, Glance AI transforms every screen into a gateway for instant, personal, and joyful discovery. Spanning diverse categories such as fashion, beauty, travel, accessories, home décor, pets, and beyond, Glance AI delivers deeply personalized shopping experiences. With rich first-party data and unparalleled consumer access, it harnesses InMobi’s global scale, insights, and targeting capabilities to create high impact, performance driven shopping journeys for brands worldwide.\n\nRecognized as a Great Place to Work, and by MIT Technology Review, Fast Company’s Top 10 Innovators, and more, InMobi is a workplace where bold ideas create global impact. Backed by investors including SoftBank, Kleiner Perkins, and Sherpalo Ventures, InM",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · InMobi",
+      "applyUrl": "https://job-boards.greenhouse.io/inmobi/jobs/8076327",
+      "postedAt": "2026-08-28",
+      "firstSeenAt": "2026-09-11",
+      "lastSeenAt": "2026-09-11",
+      "status": "Active"
+    },
+    {
+      "id": "job_e640b2",
+      "slug": "product-manager-accelerate-inmobi-bengaluru-e640b2",
+      "title": "Product Manager - Accelerate",
+      "company": {
+        "id": "inmobi",
+        "name": "InMobi",
+        "logo": null,
+        "domain": "inmobi.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": 8,
+      "domain": [
+        "Fintech",
+        "Enterprise",
+        "AI"
+      ],
+      "skills": [
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "Payments",
+        "Personalization",
+        "Marketplace",
+        "Demand",
+        "Stakeholder Management"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "AI",
+        "Senior Product Manager",
+        "Onsite",
+        "Growth",
+        "API",
+        "Platform"
+      ],
+      "description": "InMobi Advertising\n\nis a global technology leader helping marketers win the moments that matter. Our advertising platform reaches over 2 billion people across 150+ countries and turns real-time context into business outcomes, delivering results grounded in privacy-first principles. Trusted by 30,000+ brands and leading publishers, InMobi is where intelligence, creativity, and accountability converge. By combining lock screens, apps, TVs, and the open web with AI and machine learning, we deliver receptive attention, precise personalization, and measurable impact.\n\nThrough\n\nGlance AI,\n\nwe are shaping AI Commerce, reimagining the future of e-commerce with inspiration-led discovery and shopping. Designed to seamlessly integrate into everyday consumer technology, Glance AI transforms every screen into a gateway for instant, personal, and joyful discovery. Spanning diverse categories such as fashion, beauty, travel, accessories, home décor, pets, and beyond, Glance AI delivers deeply personalized shopping experiences. With rich first-party data and unparalleled consumer access, it harnesses InMobi’s global scale, insights, and targeting capabilities to create high impact, performance driven shopping journeys for brands worldwide.\n\nRecognized as a Great Place to Work, and by MIT Technology Review, Fast Company’s Top 10 Innovators, and more, InMobi is a workplace where bold ideas create global impact. Backed by investors including SoftBank, Kleiner Perkins, and Sherpalo Ventures, InM",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · InMobi",
+      "applyUrl": "https://job-boards.greenhouse.io/inmobi/jobs/8076340",
+      "postedAt": "2026-08-28",
+      "firstSeenAt": "2026-09-11",
+      "lastSeenAt": "2026-09-11",
+      "status": "Active"
+    },
+    {
       "id": "job_faba2a",
       "slug": "product-management-senior-product-manager-pi-agents-smb-paytm-delhi-ncr-faba2a",
       "title": "Product Management - Senior Product Manager - Pi Agents (SMB)",
@@ -1607,6 +1950,88 @@
       "applyUrl": "https://jobs.lever.co/paytm/9c74fdd9-36e1-4e42-839a-d52577bb3d70",
       "postedAt": "2026-08-27",
       "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
+      "status": "Active"
+    },
+    {
+      "id": "job_691f00",
+      "slug": "senior-product-manager-truecaller-bengaluru-691f00",
+      "title": "Senior Product Manager",
+      "company": {
+        "id": "truecaller",
+        "name": "Truecaller",
+        "logo": null,
+        "domain": "truecaller.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 4,
+      "experienceMax": null,
+      "domain": [
+        "Consumer",
+        "AI"
+      ],
+      "skills": [
+        "Growth",
+        "Monetization",
+        "Platform",
+        "Data",
+        "iOS",
+        "Supply",
+        "Demand",
+        "Segmentation",
+        "Compliance"
+      ],
+      "tags": [
+        "Consumer",
+        "AI",
+        "Senior Product Manager",
+        "Onsite",
+        "Growth",
+        "Monetization",
+        "Platform",
+        "Data"
+      ],
+      "description": "Join Truecaller – The place where innovation meets impact!\n\nTruecaller's mission is to build trust in communication by making it safer, smarter, and more efficient. Born in Sweden, trusted by the world, and here’s why we stand out:",
+      "responsibilities": [
+        "We are trusted by over 500 million active users every month across 190+ countries",
+        "We identify over 15 billion calls daily, helping users avoid spam and scams",
+        "We are powered by a team of 400+ employees from 45+ nationalities",
+        "We always look for people who take initiative, own their work, and keep raising the bar. An entrepreneurial mindset matters here, especially when it turns bold ideas into real actions. We stay collaborative and focused, always searching for smarter paths forward. If you want to make an impact and grow with a team that inspires millions, you’ll fit right in.",
+        "Truecaller's ads business reaches over 400 million users and is one of the largest in-app advertising platforms in its markets. This role owns the supply side of that business: the inventory, placements, ad formats, and user-facing ad experience where every ad opportunity begins and ends. From the moment an ad opportunity is created on a surface to the moment an ad is rendered, viewed, and clicked, this is your domain.",
+        "Supply is where revenue meets user experience. You will work with our core product teams to unlock new inventory and evolve existing surfaces, own the quality of every ad interaction, and build the signal foundation that makes our inventory more valuable to every demand source. It is a broad, high-ownership role for a PM who understands that great ad experiences and great monetization are built together, not traded against each other.",
+        "Own the supply roadmap",
+        ": inventory strategy, placements, and ad formats across our surfaces and markets, including how the portfolio differs between India and international markets.",
+        "Unlock new inventory",
+        ": partner with core product teams to identify and build new ad placements and rethink existing surfaces without degrading the product experience.",
+        "Own ad experience quality",
+        ": rendering, viewability, latency of display, and click quality, including systematically reducing unintended clicks while growing genuine engagement."
+      ],
+      "requirements": [
+        "Experience",
+        ": 4+ years in product management, with meaningful time building ad products or monetization surfaces at a consumer platform or publisher with a large advertising business.",
+        "Ad experience craft (must-have)",
+        ": deep understanding of ad formats, placements, and rendering, and a track record of improving monetization outcomes (CTR, viewability, fill) while protecting user experience and click quality.",
+        "Publisher-side fluency",
+        ": understanding of how inventory is packaged, priced, and represented to demand sources, and experience working with multiple demand channels (direct, programmatic, or mediated).",
+        "Signals and user understanding",
+        ": experience working with user signals, segmentation, and cohorting, and translating user understanding into inventory value. Familiarity with how context and signals travel in ad requests is a strong plus.",
+        "Programmatic exposure (plus)",
+        ": working knowledge of the programmatic ecosystem, bid requests, and supply-side representation. Not a requirement, but it accelerates you here.",
+        "Compliance and measurement awareness",
+        ": familiarity with privacy regulation as it affects ads (consent, data protection), and with measurement standards such as Open Measurement and viewability certification."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Truecaller",
+      "applyUrl": "https://job-boards.greenhouse.io/truecaller/jobs/8098108",
+      "postedAt": "2026-08-27",
+      "firstSeenAt": "2026-09-11",
       "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
@@ -3190,6 +3615,142 @@
       "status": "Active"
     },
     {
+      "id": "job_8cba0c",
+      "slug": "director-product-management-payments-fintech-zenoti-hyderabad-8cba0c",
+      "title": "Director - Product Management (Payments/Fintech)",
+      "company": {
+        "id": "zenoti",
+        "name": "Zenoti",
+        "logo": null,
+        "domain": "zenoti.com"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Director",
+      "experienceMin": 12,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "SaaS",
+        "Consumer"
+      ],
+      "skills": [
+        "Growth",
+        "Platform",
+        "Data",
+        "Mobile",
+        "iOS",
+        "Payments",
+        "Retention"
+      ],
+      "tags": [
+        "Fintech",
+        "SaaS",
+        "Consumer",
+        "Director",
+        "Onsite",
+        "Growth",
+        "Platform",
+        "Data"
+      ],
+      "description": "Zenoti provides an all-in-one, cloud-based software solution for the beauty and wellness industry. Our solution allows users to seamlessly manage every aspect of the business in a comprehensive mobile solution: online appointment bookings, POS, CRM, employee management, inventory management, built-in marketing programs and more. Zenoti helps clients streamline their systems and reduce costs, while simultaneously improving customer retention and spending. Our platform is engineered for reliability and scale and harnesses the power of enterprise-level technology for businesses of all sizes\n\nZenoti powers more than 30,000 salons, spas, medspas and fitness studios in over 50 countries. This includes a vast portfolio of global brands, such as European Wax Center, Hand & Stone, Massage Heights, Rush Hair & Beauty, Sono Bello, Profile by Sanford, Hair Cuttery, CorePower Yoga and TONI&GUY.\n\nOur recent accomplishments include surpassing a $1 billion unicorn valuation, being named Next Tech Titan by GeekWire, raising an $80 million investment from TPG, ranking as the 316th fastest-growing company in North America on Deloitte’s 2020 Technology Fast 500™. We are also proud to be recognized as a Great Place to Work CertifiedTM for 2021-2022 as this reaffirms our commitment to empowering people to feel good and find their greatness. To learn more about Zenoti visit: https://www.zenoti.com\n\nWhat skills and experiences do I need?",
+      "responsibilities": [
+        "Excellent communication and presentation skills, including presenting to customers and senior executives",
+        "Excellent problem-solving skills, and ability to come up recommendations using data",
+        "Good interpersonal skills, ability to work in teams with a results-oriented attitude",
+        "Can deal with ambiguity and break complex and vaguely defined problems into a clear and actionable set of steps",
+        "Proven ability to influence cross-functional teams",
+        "The ability to",
+        "think big",
+        ", but at the same time break things down into smaller components, and build high-level roadmaps from that.",
+        "A clear sense of ownership and accountability.",
+        "Obsess over building a clear, calm and beautiful product by collaborating with designers, developers and business leaders across the company.",
+        "Must have a good understanding of mobile, web and cloud technology space",
+        "Has 12+ years of work experience in a Product Manager role."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Zenoti",
+      "applyUrl": "https://job-boards.greenhouse.io/zenoti/jobs/7513859003",
+      "postedAt": "2026-07-22",
+      "firstSeenAt": "2026-09-11",
+      "lastSeenAt": "2026-09-11",
+      "status": "Active"
+    },
+    {
+      "id": "job_5d4dbd",
+      "slug": "lead-product-manager-market-billing-zenoti-hyderabad-5d4dbd",
+      "title": "Lead Product Manager (Market + Billing)",
+      "company": {
+        "id": "zenoti",
+        "name": "Zenoti",
+        "logo": null,
+        "domain": "zenoti.com"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Consumer",
+        "Enterprise"
+      ],
+      "skills": [
+        "Growth",
+        "Platform",
+        "Data",
+        "Mobile",
+        "iOS",
+        "Retention",
+        "Agile"
+      ],
+      "tags": [
+        "SaaS",
+        "Consumer",
+        "Enterprise",
+        "Lead Product Manager",
+        "Onsite",
+        "Growth",
+        "Platform",
+        "Data"
+      ],
+      "description": "Zenoti provides an all-in-one, cloud-based software solution for the beauty and wellness industry. Our solution allows users to seamlessly manage every aspect of the business in a comprehensive mobile solution: online appointment bookings, POS, CRM, employee management, inventory management, built-in marketing programs and more. Zenoti helps clients streamline their systems and reduce costs, while simultaneously improving customer retention and spending. Our platform is engineered for reliability and scale and harnesses the power of enterprise-level technology for businesses of all sizes\n\nZenoti powers more than 30,000 salons, spas, medspas and fitness studios in over 50 countries. This includes a vast portfolio of global brands, such as European Wax Center, Hand & Stone, Massage Heights, Rush Hair & Beauty, Sono Bello, Profile by Sanford, Hair Cuttery, CorePower Yoga and TONI&GUY.\n\nOur recent accomplishments include surpassing a $1 billion unicorn valuation, being named Next Tech Titan by GeekWire, raising an $80 million investment from TPG, ranking as the 316th fastest-growing company in North America on Deloitte’s 2020 Technology Fast 500™. We are also proud to be recognized as a Great Place to Work CertifiedTM for 2021-2022 as this reaffirms our commitment to empowering people to feel good and find their greatness. To learn more about Zenoti visit: https://www.zenoti.com\n\nWhat's the opportunity?\n\nAs a product manager you will be responsible for defining market requirement",
+      "responsibilities": [
+        "Excellent communication and presentation skills, including presenting to customers and senior executives",
+        "Excellent problem-solving skills, and ability to come up recommendations using data",
+        "Good interpersonal skills, ability to work in teams with a results-oriented attitude",
+        "Can deal with ambiguity and break complex and vaguely defined problems into a clear and actionable set of steps",
+        "Proven ability to influence cross-functional teams",
+        "Ability to strike the right balance between developing a high-level understanding of the business and market requirements, and developing detailed specs needed for execution",
+        "Must have a good understanding of mobile, web and cloud technology space",
+        "Has 8+ years of work experience in a Product Manager or Technical Product Manager role",
+        "Technical or engineering background required. MBA from a premier management institute desired.",
+        "Why Zenoti?",
+        "Be part of an innovative company that is revolutionizing the wellness and beauty industry.",
+        "Work with a dynamic and diverse team that values collaboration, creativity, and growth."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Zenoti",
+      "applyUrl": "https://job-boards.greenhouse.io/zenoti/jobs/7729931003",
+      "postedAt": "2026-07-22",
+      "firstSeenAt": "2026-09-11",
+      "lastSeenAt": "2026-09-11",
+      "status": "Active"
+    },
+    {
       "id": "job_3b5c63",
       "slug": "staff-product-manager-manhattan-wms-active-sci-the-tjx-companies-hyderabad-3b5c63",
       "title": "Staff Product Manager - Manhattan WMS/Active, SCI",
@@ -4429,6 +4990,68 @@
       "applyUrl": "https://jobs.ashbyhq.com/sarvam/6390e602-7b98-4700-baa9-ced5be8b1651",
       "postedAt": "2026-05-25",
       "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
+      "status": "Active"
+    },
+    {
+      "id": "job_5b44fc",
+      "slug": "senior-manager-product-management-ai-workflows-zenoti-hyderabad-5b44fc",
+      "title": "Senior Manager - Product Management (AI Workflows)",
+      "company": {
+        "id": "zenoti",
+        "name": "Zenoti",
+        "logo": null,
+        "domain": "zenoti.com"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "AI",
+        "SaaS",
+        "Consumer"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Analytics",
+        "Growth",
+        "Platform",
+        "Data",
+        "Mobile",
+        "iOS",
+        "B2B",
+        "Retention",
+        "Agile"
+      ],
+      "tags": [
+        "AI",
+        "SaaS",
+        "Consumer",
+        "Group Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Analytics",
+        "Growth"
+      ],
+      "description": "Zenoti provides an all-in-one, cloud-based software solution for the beauty and wellness industry. Our solution allows users to seamlessly manage every aspect of the business in a comprehensive mobile solution: online appointment bookings, POS, CRM, employee management, inventory management, built-in marketing programs and more. Zenoti helps clients streamline their systems and reduce costs, while simultaneously improving customer retention and spending. Our platform is engineered for reliability and scale and harnesses the power of enterprise-level technology for businesses of all sizes\n\nZenoti powers more than 30,000 salons, spas, medspas and fitness studios in over 50 countries. This includes a vast portfolio of global brands, such as European Wax Center, Hand & Stone, Massage Heights, Rush Hair & Beauty, Sono Bello, Profile by Sanford, Hair Cuttery, CorePower Yoga and TONI&GUY.\n\nOur recent accomplishments include surpassing a $1 billion unicorn valuation, being named Next Tech Titan by GeekWire, raising an $80 million investment from TPG, ranking as the 316th fastest-growing company in North America on Deloitte’s 2020 Technology Fast 500™. We are also proud to be recognized as a Great Place to Work CertifiedTM for 2021-2022 as this reaffirms our commitment to empowering people to feel good and find their greatness. To learn more about Zenoti visit: https://www.zenoti.com\n\nSenior Manager Product Management",
+      "responsibilities": [
+        "HyperConnect",
+        "AI-Powered Customer Engagement Platform",
+        "Location: Hyderabad, Telangana, India"
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Zenoti",
+      "applyUrl": "https://job-boards.greenhouse.io/zenoti/jobs/7729933003",
+      "postedAt": "2026-05-18",
+      "firstSeenAt": "2026-09-11",
       "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
@@ -6233,6 +6856,19 @@
       ]
     },
     {
+      "id": "druva",
+      "name": "Druva",
+      "logo": null,
+      "domain": "druva.com",
+      "website": "https://druva.com",
+      "industry": "Data Protection",
+      "companySize": "1000-5000",
+      "description": "Druva is a data protection company hiring product managers in India.",
+      "locations": [
+        "Pune"
+      ]
+    },
+    {
       "id": "ema",
       "name": "Ema",
       "logo": null,
@@ -6324,6 +6960,19 @@
       "industry": "Data",
       "companySize": "100-500",
       "description": "Hevo Data is a data company hiring product managers in India.",
+      "locations": [
+        "Bengaluru"
+      ]
+    },
+    {
+      "id": "inmobi",
+      "name": "InMobi",
+      "logo": null,
+      "domain": "inmobi.com",
+      "website": "https://inmobi.com",
+      "industry": "AdTech",
+      "companySize": "1000-5000",
+      "description": "InMobi is a adtech company hiring product managers in India.",
       "locations": [
         "Bengaluru"
       ]
@@ -6606,6 +7255,19 @@
       ]
     },
     {
+      "id": "truecaller",
+      "name": "Truecaller",
+      "logo": null,
+      "domain": "truecaller.com",
+      "website": "https://truecaller.com",
+      "industry": "Consumer Tech",
+      "companySize": "1000-5000",
+      "description": "Truecaller is a consumer tech company hiring product managers in India.",
+      "locations": [
+        "Bengaluru"
+      ]
+    },
+    {
       "id": "ukg",
       "name": "UKG",
       "logo": null,
@@ -6669,6 +7331,19 @@
       "description": null,
       "locations": [
         "Bengaluru"
+      ]
+    },
+    {
+      "id": "zenoti",
+      "name": "Zenoti",
+      "logo": null,
+      "domain": "zenoti.com",
+      "website": "https://zenoti.com",
+      "industry": "Vertical SaaS",
+      "companySize": "1000-5000",
+      "description": "Zenoti is a vertical saas company hiring product managers in India.",
+      "locations": [
+        "Hyderabad"
       ]
     }
   ]
