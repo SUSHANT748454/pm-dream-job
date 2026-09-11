@@ -2,7 +2,7 @@
 
 import { useRouter } from "next/navigation";
 import Link from "next/link";
-import { useMemo, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import {
   Asterisk,
   ArrowLeft,
@@ -32,11 +32,15 @@ import { trackEvent } from "@/lib/analytics";
 import { readNextPath } from "@/lib/next-path";
 import { writeResume, clearResume } from "@/lib/resume";
 import { parseResumeFile, ResumeParseError, ACCEPTED } from "@/lib/resume-parse";
+import { guessFromResume, type ResumeGuess } from "@/lib/resume-extract";
 import { cn } from "@/lib/utils";
 
+// Résumé first: parsing it lets the next two steps arrive pre-filled instead
+// of asking the visitor to retype what's already on the page they just
+// uploaded.
 const STEPS = [
-  { id: "basic", n: 1, title: "Basic details", sub: "Name, email, and country", optional: false },
-  { id: "resume", n: 2, title: "Your résumé", sub: "Kept on this device", optional: true },
+  { id: "resume", n: 1, title: "Your résumé", sub: "Kept on this device", optional: true },
+  { id: "basic", n: 2, title: "Basic details", sub: "Name, email, and country", optional: false },
   { id: "experience", n: 3, title: "Your experience", sub: "Level and current role", optional: false },
 ] as const;
 
@@ -52,8 +56,9 @@ type Draft = {
   currentDesignation: string;
 };
 
-function initialDraft(): Draft {
-  const p = readProfile();
+// Pure — takes the profile rather than reading localStorage itself, so it can
+// produce the SSR-identical "nothing yet" draft as well as the hydrated one.
+function initialDraft(p: SeekerProfile | null): Draft {
   return {
     fullName: p?.fullName ?? "",
     email: p?.email ?? "",
@@ -71,11 +76,24 @@ const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
 export function OnboardingWizard() {
   const router = useRouter();
-  const existing = useMemo(() => readProfile(), []);
+  // Both start at the SSR-equivalent "no profile yet" state and hydrate from
+  // localStorage in an effect — reading it during the initial render (the old
+  // code did, via useMemo/useState initializers) can disagree with the server
+  // render whenever a profile already exists in this browser, which throws a
+  // real hydration error (React #418), not just a cosmetic flash.
+  const [existing, setExisting] = useState<SeekerProfile | null>(null);
   const [step, setStep] = useState(0);
-  const [draft, setDraft] = useState<Draft>(initialDraft);
+  const [draft, setDraft] = useState<Draft>(() => initialDraft(null));
   const [touched, setTouched] = useState(false);
   const [touchedExp, setTouchedExp] = useState(false);
+
+  useEffect(() => {
+    /* eslint-disable react-hooks/set-state-in-effect -- deliberate client hydration from an existing local profile */
+    const p = readProfile();
+    setExisting(p);
+    if (p) setDraft(initialDraft(p));
+    /* eslint-enable react-hooks/set-state-in-effect */
+  }, []);
 
   const set = <K extends keyof Draft>(k: K, v: Draft[K]) =>
     setDraft((d) => ({ ...d, [k]: v }));
@@ -106,13 +124,14 @@ export function OnboardingWizard() {
 
   function next() {
     if (step === 0) {
-      setTouched(true);
-      if (!step1Valid) return;
-      persist();
+      // Résumé — optional, nothing to validate.
       setStep(1);
       return;
     }
     if (step === 1) {
+      setTouched(true);
+      if (!step1Valid) return;
+      persist();
       setStep(2);
       return;
     }
@@ -242,17 +261,17 @@ export function OnboardingWizard() {
             </p>
             <h2 className="mt-3 font-display text-[30px] leading-tight tracking-tight text-[#1b1a17]">
               {step === 0
-                ? "Tell us who you are"
+                ? "Add your résumé"
                 : step === 1
-                  ? "Add your résumé"
+                  ? "Tell us who you are"
                   : "A bit about your work"}
             </h2>
 
             <div className="mt-8">
-              {step === 0 && (
+              {step === 0 && <ResumeStep draft={draft} set={set} />}
+              {step === 1 && (
                 <BasicStep draft={draft} set={set} showErrors={touched} />
               )}
-              {step === 1 && <ResumeStep draft={draft} set={set} />}
               {step === 2 && (
                 <ExperienceStep draft={draft} set={set} showErrors={touchedExp} />
               )}
@@ -282,7 +301,7 @@ export function OnboardingWizard() {
                   type="button"
                   onClick={next}
                   disabled={
-                    (step === 0 && touched && !step1Valid) ||
+                    (step === 1 && touched && !step1Valid) ||
                     (step === 2 && touchedExp && !step3Valid)
                   }
                   className="inline-flex items-center gap-2 rounded-[10px] bg-[#c9812a] px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-[#b0701f] disabled:opacity-50"
@@ -423,6 +442,19 @@ function ResumeStep({ draft, set }: StepProps) {
   const [error, setError] = useState<string | null>(null);
   const [pasteOpen, setPasteOpen] = useState(false);
   const [pasteText, setPasteText] = useState("");
+  const [prefilled, setPrefilled] = useState<ResumeGuess | null>(null);
+
+  // Prefill the next two steps from the résumé — only fields still blank, so
+  // this never clobbers something the visitor already typed (e.g. re-uploading
+  // after editing their name).
+  function applyGuesses(text: string) {
+    const guess = guessFromResume(text);
+    if (guess.email && !draft.email) set("email", guess.email);
+    if (guess.phone && !draft.phone) set("phone", guess.phone);
+    if (guess.experienceYears && !draft.experienceYears)
+      set("experienceYears", guess.experienceYears);
+    if (guess.email || guess.phone || guess.experienceYears) setPrefilled(guess);
+  }
 
   async function onFile(file: File | undefined) {
     if (!file) return;
@@ -433,6 +465,7 @@ function ResumeStep({ draft, set }: StepProps) {
       writeResume({ text, fileName: file.name, source });
       set("resumeName", file.name);
       set("resumeSize", text.length);
+      applyGuesses(text);
       trackEvent({ name: "resume_parsed", props: { type: source, ok: true } });
     } catch (e) {
       setError(
@@ -455,6 +488,7 @@ function ResumeStep({ draft, set }: StepProps) {
     writeResume({ text, source: "paste" });
     set("resumeName", "Résumé (pasted)");
     set("resumeSize", text.length);
+    applyGuesses(text);
     trackEvent({ name: "resume_parsed", props: { type: "paste", ok: true } });
     setPasteOpen(false);
     setPasteText("");
@@ -465,33 +499,49 @@ function ResumeStep({ draft, set }: StepProps) {
     clearResume();
     set("resumeName", "");
     set("resumeSize", 0);
+    setPrefilled(null);
   }
 
   return (
     <div>
       {has ? (
-        <div className="flex items-center gap-3 rounded-[12px] border border-[#d8d3c6] bg-white p-4">
-          <span className="grid h-10 w-10 place-items-center rounded-lg bg-[#f0ede4] text-[#c9812a]">
-            <FileText className="h-5 w-5" />
-          </span>
-          <div className="min-w-0 flex-1">
-            <p className="truncate text-sm font-medium text-[#1b1a17]">
-              {draft.resumeName}
-            </p>
-            <p className="text-xs text-[#8a857a]">
-              {draft.resumeSize.toLocaleString()} characters · match scoring on ·
-              this device only
-            </p>
+        <>
+          <div className="flex items-center gap-3 rounded-[12px] border border-[#d8d3c6] bg-white p-4">
+            <span className="grid h-10 w-10 place-items-center rounded-lg bg-[#f0ede4] text-[#c9812a]">
+              <FileText className="h-5 w-5" />
+            </span>
+            <div className="min-w-0 flex-1">
+              <p className="truncate text-sm font-medium text-[#1b1a17]">
+                {draft.resumeName}
+              </p>
+              <p className="text-xs text-[#8a857a]">
+                {draft.resumeSize.toLocaleString()} characters · match scoring on
+                · this device only
+              </p>
+            </div>
+            <button
+              type="button"
+              onClick={remove}
+              className="rounded p-1 text-[#8a857a] hover:text-[#1b1a17]"
+              aria-label="Remove résumé"
+            >
+              <X className="h-4 w-4" />
+            </button>
           </div>
-          <button
-            type="button"
-            onClick={remove}
-            className="rounded p-1 text-[#8a857a] hover:text-[#1b1a17]"
-            aria-label="Remove résumé"
-          >
-            <X className="h-4 w-4" />
-          </button>
-        </div>
+          {prefilled && (
+            <p className="mt-3 text-xs leading-relaxed text-[#8a857a]">
+              We picked up your{" "}
+              {[
+                prefilled.email && "email",
+                prefilled.phone && "phone",
+                prefilled.experienceYears && "experience level",
+              ]
+                .filter(Boolean)
+                .join(", ")}{" "}
+              from it — check the next steps and fix anything that&apos;s off.
+            </p>
+          )}
+        </>
       ) : pasteOpen ? (
         <div>
           <textarea
