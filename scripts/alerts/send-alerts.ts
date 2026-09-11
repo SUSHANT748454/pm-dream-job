@@ -137,7 +137,13 @@ async function main() {
     .from("job_alerts")
     .select("*")
     .eq("enabled", true);
-  if (alertsErr) throw new Error(`fetch job_alerts: ${alertsErr.message}`);
+  if (alertsErr) {
+    // Most likely cause: supabase/schema.sql hasn't been (re-)run yet, so the
+    // table doesn't exist. Skip rather than fail the whole scheduled run —
+    // this isn't a bug in the script, it's a one-time setup step not done yet.
+    console.warn(`Job alerts: couldn't read job_alerts (${alertsErr.message}) — skipping this run.`);
+    return;
+  }
   if (!alerts || alerts.length === 0) {
     console.log("Job alerts: no enabled subscriptions.");
     return;
