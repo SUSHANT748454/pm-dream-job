@@ -1,10 +1,14 @@
 /**
  * Companies whose public job board (Greenhouse / Lever / Ashby) we read without
  * an API key. Every `slug` here returned at least one India-based Product
- * Manager role when last checked (2026-09-10). A slug that later breaks just
+ * Manager role when last checked (2026-09-11). A slug that later breaks just
  * 404s and is skipped — safe to extend.
  *
- * Re-check / discover new tokens with: node scripts/probe-tokens.mjs
+ * New candidates come from two places: manual research (verify a slug with
+ * `curl https://boards-api.greenhouse.io/v1/boards/<slug>/jobs?content=true`
+ * or the Lever/Ashby equivalents in src/lib for those two providers) and the
+ * public "suggest a company" form at /suggest-company, which lands in the
+ * Supabase `company_suggestions` table for review.
  */
 
 import type { Domain } from "../../src/types/job.ts";
@@ -48,6 +52,10 @@ export const SEED_COMPANIES: SeedCompany[] = [
   { name: "Karat", domain: "karat.com", ats: "greenhouse", slug: "karat", industry: "HR Tech", size: "500-1000", domains: ["SaaS", "Enterprise"] },
   { name: "Karya", domain: "karya.in", ats: "greenhouse", slug: "karya", industry: "AI", size: "50-100", domains: ["AI", "Consumer"] },
   { name: "Commvault", domain: "commvault.com", ats: "greenhouse", slug: "commvault", industry: "Enterprise", size: "1000-5000", domains: ["Enterprise", "SaaS"] },
+  { name: "Truecaller", domain: "truecaller.com", ats: "greenhouse", slug: "truecaller", industry: "Consumer Tech", size: "1000-5000", domains: ["Consumer", "AI"] },
+  { name: "Druva", domain: "druva.com", ats: "greenhouse", slug: "druva", industry: "Data Protection", size: "1000-5000", domains: ["SaaS", "Enterprise"] },
+  { name: "Zenoti", domain: "zenoti.com", ats: "greenhouse", slug: "zenoti", industry: "Vertical SaaS", size: "1000-5000", domains: ["SaaS", "Consumer"] },
+  { name: "InMobi", domain: "inmobi.com", ats: "greenhouse", slug: "inmobi", industry: "AdTech", size: "1000-5000", domains: ["Consumer", "AI"] },
 
   // ---------------- Lever ----------------
   { name: "Paytm", domain: "paytm.com", ats: "lever", slug: "paytm", industry: "Fintech", size: "5000+", domains: ["Fintech", "Consumer"] },

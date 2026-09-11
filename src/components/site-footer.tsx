@@ -24,6 +24,7 @@ const LINKS = [
     items: [
       { href: "/about", label: "How it works" },
       { href: "/about#data", label: "Where jobs come from" },
+      { href: "/suggest-company", label: "Suggest a company" },
     ],
   },
 ];

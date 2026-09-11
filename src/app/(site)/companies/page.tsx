@@ -1,4 +1,6 @@
 import type { Metadata } from "next";
+import Link from "next/link";
+import { ArrowRight } from "lucide-react";
 
 import { getCompanies, getCompanyOpenCounts } from "@/services/jobService";
 import { CompanyCard } from "@/components/company-card";
@@ -50,6 +52,17 @@ export default function CompaniesPage() {
           ))}
         </div>
       )}
+
+      <div className="mt-10 flex items-center justify-center">
+        <Link
+          href="/suggest-company"
+          className="inline-flex items-center gap-1.5 text-sm text-text-muted hover:text-text"
+        >
+          Don&apos;t see a company that&apos;s hiring PMs?
+          <span className="text-gold-soft">Suggest it</span>
+          <ArrowRight className="h-3.5 w-3.5" />
+        </Link>
+      </div>
     </div>
   );
 }

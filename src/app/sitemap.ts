@@ -19,6 +19,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE}/jobs`, priority: 0.9, changeFrequency: "hourly", lastModified },
     { url: `${BASE}/companies`, priority: 0.7, changeFrequency: "daily", lastModified },
     { url: `${BASE}/about`, priority: 0.3, changeFrequency: "monthly" },
+    { url: `${BASE}/suggest-company`, priority: 0.2, changeFrequency: "monthly" },
   ];
 
   const jobRoutes: MetadataRoute.Sitemap = getAllActiveJobSlugs().map((slug) => ({

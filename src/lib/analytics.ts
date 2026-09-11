@@ -28,6 +28,7 @@ export type AnalyticsEvent =
       props: { locations: number; levels: number; modes: number; domains: number };
     }
   | { name: "alert_removed"; props?: Record<string, never> }
+  | { name: "company_suggested"; props?: Record<string, never> }
   | {
       name: "onboarding_completed";
       props: { next: string; hasResume: boolean; level: string | null };

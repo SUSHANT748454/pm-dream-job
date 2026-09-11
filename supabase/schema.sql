@@ -134,3 +134,27 @@ create policy "own job alert" on public.job_alerts
 
 -- ...the weekly sender script uses the service_role key (bypasses RLS) to read
 -- every enabled row and stamp last_sent_at, so no separate policy is needed for it.
+
+--------------------------------------------------------------------------------
+-- COMPANY SUGGESTIONS ("don't see your company?" — public, no sign-in)
+--------------------------------------------------------------------------------
+
+create table if not exists public.company_suggestions (
+  id            uuid primary key default gen_random_uuid(),
+  company_name  text not null,
+  careers_url   text,
+  note          text,
+  submitted_by  text,
+  status        text not null default 'new', -- new | added | rejected | duplicate
+  created_at    timestamptz not null default now()
+);
+
+alter table public.company_suggestions enable row level security;
+
+-- Anyone can submit; nobody (not even the submitter) can read them back via
+-- the public key — that keeps it from being a scrapeable public list. Review
+-- happens in the Supabase dashboard (as the project owner) or a service-role
+-- script, both of which bypass RLS.
+drop policy if exists "anyone can suggest a company" on public.company_suggestions;
+create policy "anyone can suggest a company" on public.company_suggestions
+  for insert with check (true);
