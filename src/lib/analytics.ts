@@ -16,13 +16,17 @@ export type AnalyticsEvent =
   | { name: "job_card_clicked"; props: { jobId: string; slug: string; company: string } }
   | { name: "job_details_viewed"; props: { jobId: string; slug: string; company: string } }
   | { name: "apply_clicked"; props: { jobId: string; slug: string; company: string; source: string } }
-  | { name: "profile_wall_viewed"; props: { placement: string } }
   | { name: "profile_wall_cta_clicked"; props: { placement: string } }
   | { name: "resume_parsed"; props: { type: string; ok: boolean } }
   | { name: "ats_scored"; props: { band: string; score: number } }
   | { name: "sign_in_link_sent"; props?: Record<string, never> }
   | { name: "signed_in"; props?: Record<string, never> }
   | { name: "signed_out"; props?: Record<string, never> }
+  | {
+      name: "alert_saved";
+      props: { locations: number; levels: number; modes: number; domains: number };
+    }
+  | { name: "alert_removed"; props?: Record<string, never> }
   | {
       name: "onboarding_completed";
       props: { next: string; hasResume: boolean; level: string | null };

@@ -10,7 +10,6 @@ import { relativeDate } from "@/lib/utils";
 import { JobsBrowser } from "@/components/jobs-browser";
 import type { Facets } from "@/components/filters";
 import { TrackView } from "@/components/analytics/track-view";
-import { ProfileGate } from "@/components/profile-gate";
 
 export const metadata: Metadata = {
   title: "Product Manager jobs in India",
@@ -44,9 +43,7 @@ export default function JobsPage() {
           props: { results: jobs.length, hasQuery: false },
         }}
       />
-      <ProfileGate returnTo="/jobs">
-        <JobsBrowser jobs={jobs} facets={facets} updatedLabel={updatedLabel} />
-      </ProfileGate>
+      <JobsBrowser jobs={jobs} facets={facets} updatedLabel={updatedLabel} />
     </>
   );
 }

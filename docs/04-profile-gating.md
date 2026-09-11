@@ -1,55 +1,37 @@
-# Profile-first entry (Option A)
+# Profile gating — superseded
 
-_Date: 2026-09-10. Added after launch on <https://pm-dream-job.vercel.app>._
+_Original decision: 2026-09-10. Reversed: 2026-09-11._
 
-## Decision
+## What changed
 
-Visitors set up an on-device profile **before** they can use the board. The gate
-is deliberately partial so it doesn't wreck SEO or shared links:
+The original version of this doc described "Option A": `/jobs` and `/app`
+redirected anyone without a local profile to `/welcome`, and the homepage
+blurred its featured-jobs section behind a locked-preview card
+(`ProfileWall`) until a profile existed.
 
-| Surface | Behaviour without a profile |
-|---|---|
-| `/` landing | Hero CTA is **"Create your free profile"**. The "Fresh this week" + "Browse by" sections render blurred behind a glass card (`ProfileWall`). Stats and the companies strip stay visible. |
-| `/jobs` search | `ProfileGate` → client redirect to `/welcome?next=/jobs`. |
-| `/app` dashboard (+ tracker, questions, interview) | `ProfileGate` → client redirect to `/welcome?next=/app`. |
-| `/jobs/[slug]`, `/companies`, `/companies/[slug]` | **Stay public.** A slim dismissible `ProfileBanner` invites setup. These are the Google entry points and the links people share. |
-| `/about` | Untouched. |
+**That's been removed.** After a product review, browsing is free for
+everyone:
 
-"Profile" still means the same thing it always has: `localStorage` key
-`pmdj.profile.v1`, written by the `/welcome` wizard. No account, no server, no
-auth. The gate is 100% client-side.
+- `/jobs`, `/app` (and every sub-page — tracker, question bank, interview) —
+  open, no redirect, no profile required
+- Homepage — the featured-jobs section renders in full; a dismissible
+  `ProfileBanner` invites profile setup instead of blurring the content
+- `ProfileGate` and `ProfileWall` were deleted (`git log` has them if needed)
 
-## Why it's SEO-safe
+**Why:** gating the entire browsing experience taxed the wrong moment.
+Candidates browse promiscuously before they commit to anything — the value
+(fresh, filterable PM roles) should be visible before asking for identity.
+A profile is now purely an upsell for the things that genuinely need one:
+ATS match scoring (needs a résumé), the application tracker's cross-device
+sync (needs sign-in), and job alerts (needs sign-in — see
+`08-job-alerts.md`). Nothing else requires it.
 
-Every gated component returns its `children` during the **server render and the
-first (hydration) client render** — `hydrated` starts `false`. So the static
-HTML that ships (and anything a crawler sees before running JS) is the full
-page. The redirect/lock only happens after mount, for real humans. No hydration
-mismatch (same pattern as `useProfile`).
+## What's unchanged
 
-`sitemap.ts` drops the `/jobs` listing entry (kept: 96 job + 42 company URLs).
-`robots.ts` is unchanged — it still only disallows `/app` and `/welcome`.
-
-## Onboarding changes
-
-- The wizard reads `?next=<path>` (validated same-origin by `src/lib/next-path.ts`)
-  and returns the user there on finish. Default `/app`.
-- **Experience level (step 3) is now required** — it's what "tailored to your
-  level" depends on. Résumé (step 2) stays optional.
-- The "Skip for now → /jobs" escape hatch is removed. Back/Home still work.
-
-## New / changed files
-
-- `src/components/profile-gate.tsx` — redirect gate for `/jobs`, `/app`.
-- `src/components/profile-wall.tsx` — homepage blurred-preview lock.
-- `src/components/profile-banner.tsx` — slim nudge for public detail pages.
-- `src/components/hero-ctas.tsx` — profile-aware landing hero actions
-  (replaces `hero-profile-link.tsx`, deleted).
-- `src/lib/next-path.ts` — `?next=` validation.
-- Analytics: `profile_wall_viewed`, `profile_wall_cta_clicked`,
-  `onboarding_completed { next, hasResume, level }`.
-
-## Funnel to watch in Vercel Analytics
-
-`profile_wall_viewed` / `profile_wall_cta_clicked` → `onboarding_completed` →
-`jobs_page_viewed`. That's the wall→signup→activation rate.
+- `ProfileNudge`, `ProfileBanner`, `ResumePrompt`, `SyncNudge` — all still
+  live, all still contextual (dismissible, non-blocking)
+- The onboarding wizard at `/welcome` is untouched — same 3 steps, same
+  `?next=` redirect-back behavior, still reachable from the header's
+  "Create profile" button and every contextual nudge
+- `sitemap.ts` now includes `/jobs` again (it's public, so it's a useful
+  crawl target once more)

@@ -9,7 +9,8 @@
     "start": "next start",
     "lint": "eslint",
     "typecheck": "tsc --noEmit",
-    "ingest": "node scripts/ingest/index.ts"
+    "ingest": "node scripts/ingest/index.ts",
+    "alerts:send": "node scripts/alerts/send-alerts.ts"
   },
   "dependencies": {
     "@radix-ui/react-checkbox": "^1.3.11",

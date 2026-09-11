@@ -8,6 +8,7 @@ import {
   KanbanSquare,
   BookOpen,
   Mic,
+  BellRing,
   ArrowUpRight,
   PanelLeftClose,
   PanelLeft,
@@ -20,6 +21,7 @@ import { useProfile, firstName } from "@/lib/profile";
 const NAV = [
   { href: "/app", label: "Job Search", icon: Search, exact: true },
   { href: "/app/tracker", label: "Application Tracker", icon: KanbanSquare },
+  { href: "/app/alerts", label: "Job Alerts", icon: BellRing },
   { href: "/app/questions", label: "Question Bank", icon: BookOpen },
   { href: "/app/interview", label: "AI Mock Interview", icon: Mic, soon: true },
 ];

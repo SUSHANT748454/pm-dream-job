@@ -7,7 +7,7 @@ import { Badge } from "@/components/ui/badge";
 import { JobCard } from "@/components/job-card";
 import { TrackView } from "@/components/analytics/track-view";
 import { HeroCtas } from "@/components/hero-ctas";
-import { ProfileWall } from "@/components/profile-wall";
+import { ProfileBanner } from "@/components/profile-banner";
 
 export default function HomePage() {
   const stats = getStats();
@@ -60,7 +60,10 @@ export default function HomePage() {
         )}
       </section>
 
-      <ProfileWall>
+      <div className="container-page">
+        <ProfileBanner returnTo="/jobs" />
+      </div>
+
       {/* Featured jobs */}
       {featured.length > 0 && (
         <section className="container-page pb-16">
@@ -119,7 +122,6 @@ export default function HomePage() {
           </div>
         </div>
       </section>
-      </ProfileWall>
 
       {/* Companies strip */}
       {companies.length > 0 && (

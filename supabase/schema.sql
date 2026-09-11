@@ -104,3 +104,33 @@ create policy "own resume" on public.resumes
 drop policy if exists "own applications" on public.applications;
 create policy "own applications" on public.applications
   for all using (auth.uid() = user_id) with check (auth.uid() = user_id);
+
+--------------------------------------------------------------------------------
+-- JOB ALERTS (weekly digest email — requires sign-in, since it needs a
+-- durable identity + address to send to; everything else in this app works
+-- without an account)
+--------------------------------------------------------------------------------
+
+create table if not exists public.job_alerts (
+  user_id           uuid primary key references auth.users (id) on delete cascade,
+  email             text not null,
+  -- Empty array on any of these = "no filter on this dimension" (match all).
+  locations         text[] not null default '{}',
+  experience_levels text[] not null default '{}',
+  work_modes        text[] not null default '{}',
+  domains           text[] not null default '{}',
+  enabled           boolean not null default true,
+  last_sent_at      timestamptz,
+  created_at        timestamptz not null default now(),
+  updated_at        timestamptz not null default now()
+);
+
+alter table public.job_alerts enable row level security;
+
+-- Managed entirely by the signed-in owner from the client...
+drop policy if exists "own job alert" on public.job_alerts;
+create policy "own job alert" on public.job_alerts
+  for all using (auth.uid() = user_id) with check (auth.uid() = user_id);
+
+-- ...the weekly sender script uses the service_role key (bypasses RLS) to read
+-- every enabled row and stamp last_sent_at, so no separate policy is needed for it.

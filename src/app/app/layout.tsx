@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import type { ReactNode } from "react";
 
 import { AppSidebar, AppMobileBar } from "@/components/app/app-sidebar";
-import { ProfileGate } from "@/components/profile-gate";
 import { SyncNudge } from "@/components/auth/sync-nudge";
 
 export const metadata: Metadata = {
@@ -17,10 +16,8 @@ export default function AppLayout({ children }: { children: ReactNode }) {
       <div className="flex min-w-0 flex-1 flex-col">
         <AppMobileBar />
         <div className="min-w-0 flex-1">
-          <ProfileGate returnTo="/app">
-            <SyncNudge />
-            {children}
-          </ProfileGate>
+          <SyncNudge />
+          {children}
         </div>
       </div>
     </div>

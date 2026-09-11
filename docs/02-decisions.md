@@ -19,8 +19,11 @@ _Date: 2026-09-10. Updated after round 1 answers._
 | 11 | Repo | New GitHub repo on the connected account |
 | 12 | Hosting | Vercel |
 | 13 | Job detail URL | SEO slug, e.g. `/jobs/senior-product-manager-razorpay-bengaluru-a1b2c3` |
-| 14 | Profile-first entry (post-launch) | Homepage + `/jobs` + `/app` gated behind on-device profile setup; job/company detail pages stay public with a nudge. See `04-profile-gating.md`. |
+| 14 | Profile-first entry (post-launch, **superseded 09-11**) | ~~Homepage + `/jobs` + `/app` gated behind on-device profile setup~~ — reversed after a product review; browsing is free for everyone now. See `04-profile-gating.md`. |
 | 15 | ATS match score (post-launch) | Résumé parsed to text in-browser (pdfjs/mammoth, lazy) + paste fallback, stored on-device only (`pmdj.resume.v1`). Deterministic keyword/skills overlap → High (80+) / Medium (60–80) / Low (0–60) per job. No API. See `05-ats-match.md`. |
+| 16 | Supabase backend (post-launch) | Auth (email magic link) + optional cross-device sync for profile/résumé/tracker; jobs/companies mirrored for future server-side features. Everything degrades to local-only with zero config. See `docs/06-supabase.md`, `supabase/README.md`. |
+| 17 | Open browsing (post-launch, 09-11) | Reversed decision #14: `/jobs` and `/app` no longer require a profile. Only job alerts require sign-in — everything else works without an account. See `04-profile-gating.md`. |
+| 18 | Job alerts (post-launch, 09-11) | Weekly digest email, opt-in at `/app/alerts`, sent via Resend's HTTP API from a scheduled GitHub Action reading the Supabase jobs mirror. See `08-job-alerts.md`. |
 
 ## Data sourcing — proposed (needs your OK)
 
