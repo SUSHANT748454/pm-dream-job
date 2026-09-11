@@ -1,6 +1,72 @@
 {
-  "generatedAt": "2026-09-10T13:58:45.464Z",
+  "generatedAt": "2026-09-11T04:24:55.912Z",
   "jobs": [
+    {
+      "id": "job_2e80e6",
+      "slug": "product-manager-sbom-sonatype-hyderabad-2e80e6",
+      "title": "Product Manager - SBOM",
+      "company": {
+        "id": "sonatype",
+        "name": "Sonatype",
+        "logo": null,
+        "domain": null
+      },
+      "location": {
+        "city": "Hyderabad",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": null,
+      "domain": [
+        "Logistics",
+        "SaaS"
+      ],
+      "skills": [
+        "Product Strategy",
+        "API",
+        "Platform",
+        "Data",
+        "Supply",
+        "Compliance"
+      ],
+      "tags": [
+        "Logistics",
+        "SaaS",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "API",
+        "Platform",
+        "Data"
+      ],
+      "description": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise-grade SBOM management, and the leading open source dependency management platform. This empowers enterprises to create and maintain secure, quality, and innovative software at scale.\n\nAs founders of Nexus Repository and stewards of Maven Central, the world’s largest repository of Java open-source software, we are software pioneers, and our open-source expertise is unmatched. We empower innovation with an unparalleled commitment to build faster, safer software and harness AI and data intelligence to mitigate risk, maximize efficiencies, and drive powerful software development.\n\nMore than 2,000 organizations, including 70% of the Fortune 100 and 15 million software developers, rely on Sonatype to optimize their software supply chains.\n\nOur groundbreaking, full-spectrum platform empowers customers to rapidly create, deploy, and maintain innovative software at scale, all while aligning directly to their business needs. Trusted by more than 2,000 organizations—including 70% of the Fortune 100—and over 15 million software developers, Sonatype’s tools and guidance help deliver exceptional, secure software.\n\nFrom inventing modern artifact management with Nexus Repository to introducing the world’s only solution that halts malicious open-source malware in its tr",
+      "responsibilities": [
+        "Product Strategy & Leadership",
+        ": Own the product roadmap, execute the overall strategy, and manage the business case (including product profitability) for a core part of Sonatype’s security portfolio.",
+        "End-to-End Lifecycle Management:",
+        "Oversee everything from writing high-level requirements and planning launches to managing in-life products, including customer feedback and issue resolution.",
+        "Security & Domain Focus",
+        ": Define and deliver capabilities that help organizations identify and prevent open-source malware and supply chain attacks at scale.",
+        "Cross-Functional Collaboration:",
+        "Partner closely with engineering, data science, design, and marketing to translate vision into impactful outcomes.",
+        "Market & Customer Engagement",
+        ": Collaborate with customers and industry experts to deeply understand developer workflows and the evolving threat landscape.",
+        "Data-Driven Decision Making:",
+        "Leverage data and user feedback to drive product adoption, ensure user satisfaction, and deliver measurable security improvements in security."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "The Muse",
+      "applyUrl": "https://www.themuse.com/jobs/sonatype/product-manager-sbom",
+      "postedAt": "2026-09-10",
+      "firstSeenAt": "2026-09-11",
+      "lastSeenAt": "2026-09-11",
+      "status": "Active"
+    },
     {
       "id": "job_3c39b5",
       "slug": "associate-product-manager-spotdraft-bengaluru-3c39b5",
@@ -59,85 +125,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/spotdraft/e9146208-bd24-443b-b1d8-96aabd292538",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
-      "status": "Active"
-    },
-    {
-      "id": "job_e4eec1",
-      "slug": "principal-product-manager-sumo-logic-bengaluru-e4eec1",
-      "title": "Principal Product Manager",
-      "company": {
-        "id": "sumo-logic",
-        "name": "Sumo Logic",
-        "logo": null,
-        "domain": "sumologic.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Group Product Manager",
-      "experienceMin": 8,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Enterprise"
-      ],
-      "skills": [
-        "SQL",
-        "Analytics",
-        "Platform",
-        "Data",
-        "Demand"
-      ],
-      "tags": [
-        "SaaS",
-        "Enterprise",
-        "Group Product Manager",
-        "Onsite",
-        "SQL",
-        "Analytics",
-        "Platform",
-        "Data"
-      ],
-      "description": "",
-      "responsibilities": [
-        "Agentic Investigation & Reliability Experiences",
-        "Sumo Logic is hiring a Principal Product Manager to lead how engineers and operators investigate incidents, understand reliability risk, and act on their operational and security telemetry.",
-        "The observability category was built around collecting telemetry and giving people tools to navigate it: dashboards, queries, monitors, traces, and alerts. Customer expectations are now shifting. Teams don't just want more dashboards; they want help getting from a signal to a resolution, understanding what's broken, why, what's impacted, and what to do next. As AI agents move into production operations, this role owns how Sumo Logic brings intelligent, agent-assisted investigation and reliability workflows to customers, grounded in evidence, context, and enterprise governance.",
-        "This is a senior, high-ownership role. It requires genuine observability domain background. You should have lived in this space and understand how monitoring, troubleshooting, and reliability actually work, combined with the ambition to define a new category of experience on top of it.",
-        "What You Will Own",
-        "The current data experiences.",
-        "Log Search, Live Tail, query and query optimization, Metrics Search, Tracing, Dashboards, and the data-experience UI. This is a live, revenue-generating product with real customers, and keeping it strong is part of the job. You own its health, roadmap, and competitiveness today while steering it toward an AI-native future, focusing new investment where it strengthens investigation, speed, and value for both new and power users.",
-        "The reliability and alerting surface.",
-        "Monitors, Alerts, SLOs, Scheduled Searches, and the reliability workflows around them. You will own alerting accuracy, noise reduction, and operational health signals both as capabilities customers depend on today and as the foundation for more automated, agent-assisted detection and investigation.",
-        "The agentic investigation experience.",
-        "You will define how a user moves from a search, a monitor, a dashboard, or an alert to likely cause faster, with supporting evidence. This means productizing investigation workflows that reason across logs, metrics, traces, monitors, dashboards, and related context, and evolving them from reactive troubleshooting toward more proactive detection over time.",
-        "What You Will Be Doing"
-      ],
-      "requirements": [
-        "8+ years of product management experience with real observability or monitoring domain background. You have owned products in observability, monitoring, incident response, APM, or a closely adjacent operational-telemetry space. This is a hard requirement.",
-        "Deep, first-hand understanding of the observability surface area including logs, metrics, traces, dashboards, monitors, alerts, and SLOs, and of how engineers and operators actually investigate incidents and decide what to trust.",
-        "Proven ability to run a live, at-scale product, owning the roadmap, health, and competitiveness of shipping surfaces while driving a larger transformation.",
-        "A track record of owning broad, technically deep surfaces and setting direction that other teams build on.",
-        "Familiarity with how AI and agents are changing data interaction, including natural-language investigation, tools, guardrails, and human-in-the-loop action, or the ability to ramp quickly.",
-        "Strong technical instincts around query engines, time-series and trace data, and alerting systems, plus the judgment to know where an AI-assisted experience should replace a manual flow and where depth must stay.",
-        "Strong analytical skills and comfort using telemetry, dashboards, SQL, and usage data to understand adoption, friction, reliability, and cost.",
-        "Excellent communication across technical and business audiences, and the ability to write clear proposals, decision docs, PRDs, and acceptance criteria.",
-        "High ownership and drive to make progress across a large, ambiguous, fast-moving surface.",
-        "Must-Have Qualities",
-        "Runs today, builds tomorrow.",
-        "Keeps a live product healthy and competitive while reinventing it, and knows what to sustain and what to rebuild."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · Sumo Logic",
-      "applyUrl": "https://job-boards.greenhouse.io/sumologic/jobs/8098451",
-      "postedAt": "2026-09-08",
-      "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -215,7 +203,85 @@
       "applyUrl": "https://job-boards.greenhouse.io/sumologic/jobs/8089130",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
+      "status": "Active"
+    },
+    {
+      "id": "job_e4eec1",
+      "slug": "principal-product-manager-sumo-logic-bengaluru-e4eec1",
+      "title": "Principal Product Manager",
+      "company": {
+        "id": "sumo-logic",
+        "name": "Sumo Logic",
+        "logo": null,
+        "domain": "sumologic.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise"
+      ],
+      "skills": [
+        "SQL",
+        "Analytics",
+        "Platform",
+        "Data",
+        "Demand"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "Group Product Manager",
+        "Onsite",
+        "SQL",
+        "Analytics",
+        "Platform",
+        "Data"
+      ],
+      "description": "",
+      "responsibilities": [
+        "Agentic Investigation & Reliability Experiences",
+        "Sumo Logic is hiring a Principal Product Manager to lead how engineers and operators investigate incidents, understand reliability risk, and act on their operational and security telemetry.",
+        "The observability category was built around collecting telemetry and giving people tools to navigate it: dashboards, queries, monitors, traces, and alerts. Customer expectations are now shifting. Teams don't just want more dashboards; they want help getting from a signal to a resolution, understanding what's broken, why, what's impacted, and what to do next. As AI agents move into production operations, this role owns how Sumo Logic brings intelligent, agent-assisted investigation and reliability workflows to customers, grounded in evidence, context, and enterprise governance.",
+        "This is a senior, high-ownership role. It requires genuine observability domain background. You should have lived in this space and understand how monitoring, troubleshooting, and reliability actually work, combined with the ambition to define a new category of experience on top of it.",
+        "What You Will Own",
+        "The current data experiences.",
+        "Log Search, Live Tail, query and query optimization, Metrics Search, Tracing, Dashboards, and the data-experience UI. This is a live, revenue-generating product with real customers, and keeping it strong is part of the job. You own its health, roadmap, and competitiveness today while steering it toward an AI-native future, focusing new investment where it strengthens investigation, speed, and value for both new and power users.",
+        "The reliability and alerting surface.",
+        "Monitors, Alerts, SLOs, Scheduled Searches, and the reliability workflows around them. You will own alerting accuracy, noise reduction, and operational health signals both as capabilities customers depend on today and as the foundation for more automated, agent-assisted detection and investigation.",
+        "The agentic investigation experience.",
+        "You will define how a user moves from a search, a monitor, a dashboard, or an alert to likely cause faster, with supporting evidence. This means productizing investigation workflows that reason across logs, metrics, traces, monitors, dashboards, and related context, and evolving them from reactive troubleshooting toward more proactive detection over time.",
+        "What You Will Be Doing"
+      ],
+      "requirements": [
+        "8+ years of product management experience with real observability or monitoring domain background. You have owned products in observability, monitoring, incident response, APM, or a closely adjacent operational-telemetry space. This is a hard requirement.",
+        "Deep, first-hand understanding of the observability surface area including logs, metrics, traces, dashboards, monitors, alerts, and SLOs, and of how engineers and operators actually investigate incidents and decide what to trust.",
+        "Proven ability to run a live, at-scale product, owning the roadmap, health, and competitiveness of shipping surfaces while driving a larger transformation.",
+        "A track record of owning broad, technically deep surfaces and setting direction that other teams build on.",
+        "Familiarity with how AI and agents are changing data interaction, including natural-language investigation, tools, guardrails, and human-in-the-loop action, or the ability to ramp quickly.",
+        "Strong technical instincts around query engines, time-series and trace data, and alerting systems, plus the judgment to know where an AI-assisted experience should replace a manual flow and where depth must stay.",
+        "Strong analytical skills and comfort using telemetry, dashboards, SQL, and usage data to understand adoption, friction, reliability, and cost.",
+        "Excellent communication across technical and business audiences, and the ability to write clear proposals, decision docs, PRDs, and acceptance criteria.",
+        "High ownership and drive to make progress across a large, ambiguous, fast-moving surface.",
+        "Must-Have Qualities",
+        "Runs today, builds tomorrow.",
+        "Keeps a live product healthy and competitive while reinventing it, and knows what to sustain and what to rebuild."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Sumo Logic",
+      "applyUrl": "https://job-boards.greenhouse.io/sumologic/jobs/8098451",
+      "postedAt": "2026-09-08",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -282,7 +348,7 @@
       "applyUrl": "https://www.themuse.com/jobs/cornerstoneondemand/senior-product-manager-c42e85",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -352,7 +418,7 @@
       "applyUrl": "https://www.themuse.com/jobs/autodesk/senior-product-manager-fa4e12",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -401,7 +467,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/spotdraft/4c635c45-27c4-4e53-892d-da09156ef0e6",
       "postedAt": "2026-09-07",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -471,7 +537,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4715389005",
       "postedAt": "2026-09-07",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -541,7 +607,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729533005",
       "postedAt": "2026-09-07",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -599,7 +665,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/5dbd7403-b047-48e1-b433-574933914ff3",
       "postedAt": "2026-09-06",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -678,7 +744,7 @@
       "applyUrl": "https://www.themuse.com/jobs/broadridge/product-owner-reference-and-market-data",
       "postedAt": "2026-09-05",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -735,7 +801,7 @@
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=7570242",
       "postedAt": "2026-09-04",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -798,7 +864,7 @@
       "applyUrl": "https://www.themuse.com/jobs/appian/director-platform-engineering-product-management-e018fd",
       "postedAt": "2026-09-03",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -847,7 +913,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/5e3ae6dd-e4a3-4cfc-acb7-ae8b9d030cc1",
       "postedAt": "2026-09-03",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -911,7 +977,7 @@
       "applyUrl": "https://www.themuse.com/jobs/ukg/product-manager-ii-certinia-product-manager",
       "postedAt": "2026-09-03",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -969,7 +1035,7 @@
       "applyUrl": "https://www.rubrik.com/company/careers/departments/job.7976001?gh_jid=7976001",
       "postedAt": "2026-09-03",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -1032,7 +1098,7 @@
       "applyUrl": "https://www.themuse.com/jobs/appian/senior-technical-product-manager-apis-022399",
       "postedAt": "2026-09-03",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -1089,7 +1155,7 @@
       "applyUrl": "https://www.themuse.com/jobs/appian/senior-technical-product-manager-cloud-infrastructure-0fcc99",
       "postedAt": "2026-09-03",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -1146,7 +1212,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/31b1200e-0efe-43fc-8f6f-08a2559b31ab",
       "postedAt": "2026-09-02",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -1204,7 +1270,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/f24d29df-a4ad-4991-ae78-1c5c24c63c75",
       "postedAt": "2026-09-02",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -1259,7 +1325,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/1486e470-b4f5-43d9-9d2e-e121db0437ef",
       "postedAt": "2026-09-01",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -1343,7 +1409,7 @@
       "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8094528",
       "postedAt": "2026-09-01",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -1424,7 +1490,7 @@
       "applyUrl": "https://www.themuse.com/jobs/experian/senior-product-manager-behavioral-analytics-2c2db1",
       "postedAt": "2026-09-01",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -1484,7 +1550,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/commvault/jobs/5252738008",
       "postedAt": "2026-09-01",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -1541,7 +1607,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/9c74fdd9-36e1-4e42-839a-d52577bb3d70",
       "postedAt": "2026-08-27",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -1596,7 +1662,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/gleanwork/jobs/4726336005",
       "postedAt": "2026-08-26",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -1653,7 +1719,7 @@
       "applyUrl": "https://www.themuse.com/jobs/visa/technical-product-manager-ba480c",
       "postedAt": "2026-08-26",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -1710,7 +1776,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/8e70173d-43f1-4ca2-b41d-098f9ad36ee8",
       "postedAt": "2026-08-25",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -1761,7 +1827,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/sarvam/45986600-4da3-4e46-a204-2865392df169",
       "postedAt": "2026-08-25",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -1842,7 +1908,7 @@
       "applyUrl": "https://www.themuse.com/jobs/experian/senior-product-manager-digital-intelligence-57c7c1",
       "postedAt": "2026-08-25",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -1894,7 +1960,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/37613994-400b-466d-8cc8-55a3b92d6b57",
       "postedAt": "2026-08-24",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -1945,7 +2011,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/sarvam/c4099026-b194-4b16-8a12-c7ae1a9b51a0",
       "postedAt": "2026-08-24",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -2028,7 +2094,7 @@
       "applyUrl": "https://www.themuse.com/jobs/experian/senior-product-manager-47e317",
       "postedAt": "2026-08-22",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -2101,7 +2167,7 @@
       "applyUrl": "https://www.themuse.com/jobs/waters/empower-evaluation-lead-product-manager",
       "postedAt": "2026-08-21",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -2153,7 +2219,7 @@
       "applyUrl": "https://www.themuse.com/jobs/vanguard/product-manager-specialist-6f3d8c",
       "postedAt": "2026-08-21",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -2232,7 +2298,7 @@
       "applyUrl": "https://www.themuse.com/jobs/cargill/sr-digital-product-lead",
       "postedAt": "2026-08-18",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -2287,7 +2353,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/be484058-3628-4b82-9342-6d1864c2d4a0",
       "postedAt": "2026-08-14",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -2345,7 +2411,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/c173ccbe-d2ae-42f4-9cd5-72f69ff45a0f",
       "postedAt": "2026-08-14",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -2398,7 +2464,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/spotdraft/88fc1f00-e546-463a-8ba0-78bc89a95cc6",
       "postedAt": "2026-08-14",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -2450,7 +2516,7 @@
       "applyUrl": "https://jobs.lever.co/meesho/128cee5f-5e62-43f4-8339-6ead8b5498e7",
       "postedAt": "2026-08-12",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -2504,7 +2570,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/5648edd6-b73b-4156-96f5-343f4d851610",
       "postedAt": "2026-08-11",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -2558,7 +2624,7 @@
       "applyUrl": "https://jobs.lever.co/mindtickle/4365dc2a-87b1-4751-bd30-c90c70dea92c",
       "postedAt": "2026-08-10",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -2633,7 +2699,7 @@
       "applyUrl": "https://www.themuse.com/jobs/gevernova/technical-product-manager-integrated-business-planning-ibp",
       "postedAt": "2026-08-06",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -2713,7 +2779,7 @@
       "applyUrl": "https://careers.airbnb.com/positions/8091831?gh_jid=8091831",
       "postedAt": "2026-08-05",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -2771,7 +2837,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/6cee2f1c-6cae-4e46-9533-d62283f56734",
       "postedAt": "2026-07-31",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -2829,7 +2895,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/fec8e98b-d09b-4edb-b5a9-fe04aa079a3c",
       "postedAt": "2026-07-28",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -2910,7 +2976,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/smartsheet/jobs/7794964",
       "postedAt": "2026-07-27",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -2967,7 +3033,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/sarvam/adbc090f-3aad-4b12-af36-a2f4b55c017e",
       "postedAt": "2026-07-27",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -3043,7 +3109,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/smartsheet/jobs/8064552",
       "postedAt": "2026-07-27",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -3120,7 +3186,7 @@
       "applyUrl": "https://jobs.lever.co/wmg/2badd508-5d7d-4733-b357-f2eecf7cd1b6",
       "postedAt": "2026-07-24",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -3202,7 +3268,7 @@
       "postedAt": "2026-07-22",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
       "lastSeenAt": "2026-09-10",
-      "status": "Active"
+      "status": "Expired"
     },
     {
       "id": "job_e1ea60",
@@ -3283,7 +3349,7 @@
       "applyUrl": "https://www.themuse.com/jobs/experian/genai-product-lead-emap-24f9c0",
       "postedAt": "2026-07-21",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -3337,7 +3403,7 @@
       "applyUrl": "https://www.themuse.com/jobs/vanguard/technical-product-manager-specialist-414f9b",
       "postedAt": "2026-07-21",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -3407,7 +3473,7 @@
       "applyUrl": "https://www.themuse.com/jobs/schneiderelectric/senior-product-owner-ii-1d41ef",
       "postedAt": "2026-07-15",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -3461,7 +3527,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/e3f616a7-6e5d-4989-a9b5-3da729d9ba03",
       "postedAt": "2026-07-14",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -3540,7 +3606,7 @@
       "applyUrl": "https://jobs.lever.co/saviynt/53b6e38f-ed8d-4764-bc39-8671961ca8c7",
       "postedAt": "2026-07-13",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -3594,7 +3660,7 @@
       "applyUrl": "https://www.themuse.com/jobs/ukg/principal-product-manager-platform-infrastructure",
       "postedAt": "2026-07-12",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -3643,7 +3709,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/afab6a29-2a98-4f63-8b45-f4b0aaefc1b4",
       "postedAt": "2026-07-11",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -3708,7 +3774,7 @@
       "applyUrl": "https://www.themuse.com/jobs/skillz/product-manager-fcdc90",
       "postedAt": "2026-07-10",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -3772,7 +3838,7 @@
       "applyUrl": "https://www.themuse.com/jobs/skillz/product-manager-engagement-ebbb3b",
       "postedAt": "2026-07-10",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -3830,7 +3896,7 @@
       "applyUrl": "https://www.themuse.com/jobs/invoicecloudinc/product-manager-integrations",
       "postedAt": "2026-07-09",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -3885,7 +3951,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/gleanwork/jobs/4629292005",
       "postedAt": "2026-07-08",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -3955,7 +4021,7 @@
       "applyUrl": "https://www.themuse.com/jobs/broadridge/portfolio-product-manager",
       "postedAt": "2026-07-06",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -4019,7 +4085,7 @@
       "applyUrl": "https://www.coinbase.com/careers/positions/8031208?gh_jid=8031208",
       "postedAt": "2026-07-06",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -4088,7 +4154,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/karat/jobs/8589269002",
       "postedAt": "2026-06-30",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -4139,7 +4205,7 @@
       "applyUrl": "https://jobs.lever.co/meesho/d7924eb1-301e-4098-ab7b-f3a4c92c210a",
       "postedAt": "2026-06-29",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -4195,7 +4261,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/26a6a342-55db-4262-8e75-648bd8338fd0",
       "postedAt": "2026-06-23",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -4249,7 +4315,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/4a97658f-ac6f-4a86-b483-ae50dd5c7a46",
       "postedAt": "2026-06-19",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -4306,7 +4372,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/sarvam/929e2e12-7a2f-4e28-9d27-f220910b2125",
       "postedAt": "2026-05-25",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -4363,7 +4429,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/sarvam/6390e602-7b98-4700-baa9-ced5be8b1651",
       "postedAt": "2026-05-25",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -4417,7 +4483,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/gleanwork/jobs/4641940005",
       "postedAt": "2026-05-14",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -4471,7 +4537,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/sarvam/f462051e-ec76-45cf-96c5-e0192dd4dcc6",
       "postedAt": "2026-05-12",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -4528,7 +4594,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/karya/jobs/5205891008",
       "postedAt": "2026-05-04",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -4593,7 +4659,7 @@
       "applyUrl": "https://jobs.lever.co/hevodata/c665b22f-6336-4ec2-88d8-4165f51d5396",
       "postedAt": "2026-04-30",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -4647,7 +4713,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/bcd1320b-72a8-47e1-a062-15241381fdb3",
       "postedAt": "2026-04-17",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -4705,7 +4771,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/5cd87542-29fa-406e-b47c-c2b5a4056783",
       "postedAt": "2026-04-17",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -4756,7 +4822,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/sarvam/9e197c29-5164-42eb-8e74-4f691a794517",
       "postedAt": "2026-04-17",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -4822,7 +4888,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/b909105c-269c-4726-b0af-f07ff2b2dd36",
       "postedAt": "2026-04-10",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -4876,7 +4942,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/75992181-c0d0-44e7-805a-6dddfd0fe23b",
       "postedAt": "2026-04-04",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -4927,7 +4993,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/josys/6f88d5de-acdb-42c9-9c7b-da2a3c916b05",
       "postedAt": "2026-04-01",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -4985,7 +5051,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/3db438be-5917-4f31-96ca-f8e26f0ff5bc",
       "postedAt": "2025-12-30",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -5042,7 +5108,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/d73b511b-ae92-46f0-9aa1-ac10f2fbb84a",
       "postedAt": "2025-12-02",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -5121,7 +5187,7 @@
       "applyUrl": "https://jobs.lever.co/fampay/bc1060ed-d15a-4f62-a560-856cc344201e",
       "postedAt": "2025-11-07",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -5170,7 +5236,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/00b98697-9b57-442e-9778-fe159769d1ee",
       "postedAt": "2025-08-18",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -5220,7 +5286,7 @@
       "applyUrl": "https://www.themuse.com/jobs/salesforce/product-manager-territory-modeling-carving-manager",
       "postedAt": "2025-08-16",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -5297,7 +5363,7 @@
       "applyUrl": "https://www.themuse.com/jobs/mastercard/manager-product-manager-technical-1a8d41",
       "postedAt": "2025-04-12",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -5351,7 +5417,7 @@
       "applyUrl": "https://www.themuse.com/jobs/salesforce/senior-product-manager-service-cloud-28a324",
       "postedAt": "2025-04-09",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -5429,7 +5495,7 @@
       "applyUrl": "https://www.themuse.com/jobs/mastercard/manager-offer-product-manager-technical-cfd2e9",
       "postedAt": "2025-04-06",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -5506,7 +5572,7 @@
       "applyUrl": "https://www.themuse.com/jobs/gevernova/staff-technical-product-manager-bcc70e",
       "postedAt": "2025-04-05",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -5574,7 +5640,7 @@
       "applyUrl": "https://www.themuse.com/jobs/epamsystems/product-manager-i-e1ae69",
       "postedAt": "2025-03-19",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -5642,7 +5708,7 @@
       "applyUrl": "https://www.themuse.com/jobs/epamsystems/product-manager-i-3b64ca",
       "postedAt": "2025-03-19",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -5710,7 +5776,7 @@
       "applyUrl": "https://www.themuse.com/jobs/epamsystems/product-manager-i-84491e",
       "postedAt": "2025-03-19",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -5778,7 +5844,7 @@
       "applyUrl": "https://www.themuse.com/jobs/epamsystems/product-manager-i-b0037e",
       "postedAt": "2025-03-19",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -5846,7 +5912,7 @@
       "applyUrl": "https://www.themuse.com/jobs/epamsystems/product-manager-i-1982b0",
       "postedAt": "2025-03-19",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -5918,7 +5984,7 @@
       "applyUrl": "https://www.themuse.com/jobs/epamsystems/product-manager-financial-securities",
       "postedAt": "2025-01-10",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -5975,7 +6041,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/ema/74540ab2-9782-476f-ad0d-78cc2e7717ed",
       "postedAt": "2024-10-23",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     },
     {
@@ -6044,7 +6110,7 @@
       "applyUrl": "https://www.themuse.com/jobs/bluecore/product-manager",
       "postedAt": "2022-06-08",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-11",
       "status": "Active"
     }
   ],
@@ -6487,6 +6553,19 @@
       ]
     },
     {
+      "id": "sonatype",
+      "name": "Sonatype",
+      "logo": null,
+      "domain": null,
+      "website": null,
+      "industry": null,
+      "companySize": null,
+      "description": null,
+      "locations": [
+        "Hyderabad"
+      ]
+    },
+    {
       "id": "spotdraft",
       "name": "SpotDraft",
       "logo": null,
@@ -6522,21 +6601,8 @@
       "companySize": "1000-5000",
       "description": "Sumo Logic is a saas company hiring product managers in India.",
       "locations": [
-        "Bengaluru",
-        "Delhi NCR"
-      ]
-    },
-    {
-      "id": "the-tjx-companies",
-      "name": "The TJX Companies",
-      "logo": null,
-      "domain": null,
-      "website": null,
-      "industry": null,
-      "companySize": null,
-      "description": null,
-      "locations": [
-        "Hyderabad"
+        "Delhi NCR",
+        "Bengaluru"
       ]
     },
     {
