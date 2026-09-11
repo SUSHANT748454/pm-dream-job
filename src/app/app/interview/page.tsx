@@ -14,8 +14,8 @@ export default function InterviewPage() {
           Practice Interview
         </h1>
         <p className="mt-1 max-w-lg text-sm text-text-muted">
-          Timed, self-scored practice rounds from the question bank — no AI,
-          just structure. Answer out loud, then rate yourself against what
+          Timed practice rounds from the question bank — self-scored, or
+          scored by an AI interviewer. Answer out loud against what
           interviewers are actually listening for.
         </p>
 

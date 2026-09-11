@@ -19,17 +19,31 @@ export function HeroCtas() {
   return (
     <>
       <div className="flex flex-col items-center justify-center gap-3 sm:flex-row">
-        <Button asChild size="lg">
-          <Link href="/jobs">
-            Browse jobs
-            <ArrowRight className="h-4 w-4" />
-          </Link>
-        </Button>
-        <Button asChild size="lg" variant="outline">
-          <Link href={known ? "/app" : "/companies"}>
-            {known ? "Open your dashboard" : "Explore companies"}
-          </Link>
-        </Button>
+        {known ? (
+          <>
+            <Button asChild size="lg">
+              <Link href="/app">
+                Open your dashboard
+                <ArrowRight className="h-4 w-4" />
+              </Link>
+            </Button>
+            <Button asChild size="lg" variant="outline">
+              <Link href="/jobs">Browse jobs</Link>
+            </Button>
+          </>
+        ) : (
+          <>
+            <Button asChild size="lg">
+              <Link href="/jobs">
+                Browse jobs
+                <ArrowRight className="h-4 w-4" />
+              </Link>
+            </Button>
+            <Button asChild size="lg" variant="outline">
+              <Link href="/companies">Explore companies</Link>
+            </Button>
+          </>
+        )}
       </div>
       <div className="mt-6 flex justify-center">
         <span className="text-sm text-text-muted">

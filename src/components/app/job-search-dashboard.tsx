@@ -13,11 +13,12 @@ import {
   X,
 } from "lucide-react";
 
-import type { Job } from "@/types/job";
+import type { Job, JobSort } from "@/types/job";
 import {
   LOCATIONS,
   EXPERIENCE_LEVELS,
   WORK_MODES,
+  DOMAINS,
 } from "@/lib/filters";
 import { cn, relativeDate, formatSalary } from "@/lib/utils";
 import { trackEvent } from "@/lib/analytics";
@@ -28,6 +29,7 @@ import { resumeTerms, scoreJob, type MatchResult } from "@/lib/ats";
 import { MatchBadge } from "@/components/match-badge";
 import { MatchBreakdown } from "@/components/match-breakdown";
 import { ResumePrompt } from "@/components/resume-prompt";
+import { SortSelect } from "@/components/sort-select";
 import { Logo } from "@/components/ui/logo";
 import { Badge } from "@/components/ui/badge";
 import { Sparkline } from "@/components/app/sparkline";
@@ -64,7 +66,7 @@ export function JobSearchDashboard({
   const { resume } = useResume();
   const { profile } = useProfile();
   const [now] = React.useState(() => Date.now());
-  const [sortByMatch, setSortByMatch] = React.useState(false);
+  const [sort, setSort] = React.useState<JobSort>("recent");
   const rel = React.useCallback((iso: string) => relativeDate(iso, now), [now]);
 
   const matches = React.useMemo(() => {
@@ -81,7 +83,7 @@ export function JobSearchDashboard({
   React.useEffect(() => {
     if (autoMatchSortRef.current || !matches) return;
     autoMatchSortRef.current = true;
-    setSortByMatch(true);
+    setSort("match");
   }, [matches]);
 
   const [q, setQ] = React.useState("");
@@ -89,6 +91,7 @@ export function JobSearchDashboard({
   const [mode, setMode] = React.useState("");
   const [level, setLevel] = React.useState("");
   const [company, setCompany] = React.useState("");
+  const [domain, setDomain] = React.useState("");
   const [dateId, setDateId] = React.useState("all");
   const [mobileDetail, setMobileDetail] = React.useState(false);
   const [selectedSlug, setSelectedSlug] = React.useState<string | null>(null);
@@ -125,6 +128,7 @@ export function JobSearchDashboard({
       if (mode && j.workMode !== mode) return false;
       if (level && j.experienceLevel !== level) return false;
       if (company && j.company.name !== company) return false;
+      if (domain && !j.domain.includes(domain as Job["domain"][number])) return false;
       if (dateDays < 9999) {
         const age = Math.floor(
           (now - new Date(j.postedAt + "T00:00:00Z").getTime()) / 86_400_000,
@@ -147,15 +151,23 @@ export function JobSearchDashboard({
       }
       return true;
     });
-    if (matches && sortByMatch) {
-      return [...base].sort(
+    const sorted = [...base];
+    if (sort === "match" && matches)
+      sorted.sort(
         (a, b) =>
           (matches.get(b.id)?.score ?? 0) - (matches.get(a.id)?.score ?? 0) ||
           b.postedAt.localeCompare(a.postedAt),
       );
-    }
-    return base;
-  }, [jobs, q, city, mode, level, company, dateDays, now, matches, sortByMatch]);
+    else if (sort === "oldest") sorted.sort((a, b) => a.postedAt.localeCompare(b.postedAt));
+    else if (sort === "company")
+      sorted.sort(
+        (a, b) =>
+          a.company.name.localeCompare(b.company.name) ||
+          b.postedAt.localeCompare(a.postedAt),
+      );
+    else sorted.sort((a, b) => b.postedAt.localeCompare(a.postedAt));
+    return sorted;
+  }, [jobs, q, city, mode, level, company, domain, dateDays, now, matches, sort]);
 
   const selected =
     filtered.find((j) => j.slug === selectedSlug) ?? filtered[0] ?? null;
@@ -167,13 +179,15 @@ export function JobSearchDashboard({
   };
 
   const activeFilterCount =
-    [city, mode, level, company].filter(Boolean).length + (dateId !== "all" ? 1 : 0);
+    [city, mode, level, company, domain].filter(Boolean).length +
+    (dateId !== "all" ? 1 : 0);
 
   const clearFilters = () => {
     setCity("");
     setMode("");
     setLevel("");
     setCompany("");
+    setDomain("");
     setDateId("all");
   };
 
@@ -238,6 +252,7 @@ export function JobSearchDashboard({
           <FilterSelect label="City" value={city} onChange={setCity} options={[...LOCATIONS]} />
           <FilterSelect label="Work mode" value={mode} onChange={setMode} options={[...WORK_MODES]} />
           <FilterSelect label="Level" value={level} onChange={setLevel} options={[...EXPERIENCE_LEVELS]} />
+          <FilterSelect label="Domain" value={domain} onChange={setDomain} options={[...DOMAINS]} />
           <FilterSelect label="Company" value={company} onChange={setCompany} options={companies} />
           <FilterSelect
             label="Date posted"
@@ -256,27 +271,13 @@ export function JobSearchDashboard({
             </button>
           )}
 
-          {matches && (
-            <div className="ml-auto inline-flex rounded-lg border border-[var(--border-strong)] p-0.5 text-[12px]">
-              {(["recent", "match"] as const).map((k) => {
-                const on = (k === "match") === sortByMatch;
-                return (
-                  <button
-                    key={k}
-                    onClick={() => setSortByMatch(k === "match")}
-                    className={cn(
-                      "rounded-md px-2.5 py-1 transition-colors",
-                      on
-                        ? "bg-[var(--bg-elevated)] text-text"
-                        : "text-text-muted hover:text-text",
-                    )}
-                  >
-                    {k === "match" ? "Best match" : "Newest"}
-                  </button>
-                );
-              })}
-            </div>
-          )}
+          <div className="ml-auto">
+            <SortSelect
+              value={sort === "match" && !matches ? "recent" : sort}
+              onChange={setSort}
+              withMatch={Boolean(matches)}
+            />
+          </div>
         </div>
 
         {!resume && (

@@ -1,7 +1,8 @@
 "use client";
 
 import * as React from "react";
-import { Play, Check, Clock, Sparkles } from "lucide-react";
+import Link from "next/link";
+import { Play, Check, Clock, Sparkles, BookOpen } from "lucide-react";
 
 import { cn } from "@/lib/utils";
 import { trackEvent } from "@/lib/analytics";
@@ -35,11 +36,10 @@ function pickQuestion(category: string, avoidId?: string): Question {
 }
 
 /**
- * Real practice, not an AI transcript — this app's zero-cost-API rule rules
- * out an LLM-backed mock interview. Instead: a timed round against a real
- * question, then a self-scoring rubric against the same 5 dimensions
- * interviewers actually use. No AI, no cost, and it's something the Question
- * Bank alone can't give — a reason to actually rehearse out loud.
+ * Timed round against a real question, then a rubric across the same 5
+ * dimensions interviewers actually use — scored by the visitor (free, no
+ * account) or, via the mode toggle, by the AI interviewer (signed-in,
+ * capped, see ai-interview-session.tsx).
  */
 export function PracticeSession() {
   const { records, hydrated, add } = usePracticeHistory();
@@ -55,6 +55,23 @@ export function PracticeSession() {
     return () => {
       if (timerRef.current) clearInterval(timerRef.current);
     };
+  }, []);
+
+  // Arriving from a "Practice this live" link in the Question Bank —
+  // preselect its category, once, the same way the dashboard reads its
+  // ?job= param: after mount, so server and first client render still agree.
+  const categoryFromUrlRef = React.useRef(false);
+  React.useEffect(() => {
+    /* eslint-disable react-hooks/set-state-in-effect -- deliberate: reads the ?category= the visitor arrived with, once */
+    if (categoryFromUrlRef.current) return;
+    categoryFromUrlRef.current = true;
+    try {
+      const c = new URLSearchParams(window.location.search).get("category");
+      if (c && DATA.categories.includes(c)) setCategory(c);
+    } catch {
+      /* ignore */
+    }
+    /* eslint-enable react-hooks/set-state-in-effect */
   }, []);
 
   function start(fromId?: string) {
@@ -146,12 +163,20 @@ export function PracticeSession() {
             ))}
           </select>
         </div>
-        <button
-          onClick={() => start()}
-          className="mt-5 inline-flex h-10 items-center gap-2 rounded-[var(--radius)] bg-gold px-5 text-sm font-semibold text-[#1a1406] hover:bg-gold-soft"
-        >
-          <Play className="h-4 w-4" /> Start practising
-        </button>
+        <div className="mt-5 flex items-center gap-4">
+          <button
+            onClick={() => start()}
+            className="inline-flex h-10 items-center gap-2 rounded-[var(--radius)] bg-gold px-5 text-sm font-semibold text-[#1a1406] hover:bg-gold-soft"
+          >
+            <Play className="h-4 w-4" /> Start practising
+          </button>
+          <Link
+            href="/app/questions"
+            className="inline-flex items-center gap-1.5 text-sm text-text-muted hover:text-text"
+          >
+            <BookOpen className="h-3.5 w-3.5" /> Browse the Question Bank
+          </Link>
+        </div>
         {sessionAvg && (
           <p className="mt-4 text-xs text-text-faint">
             {sessionCount} question{sessionCount === 1 ? "" : "s"} practised so

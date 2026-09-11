@@ -1,15 +1,9 @@
 "use client";
 
-import * as React from "react";
 import { FileText, UploadCloud, Loader2, X, Check } from "lucide-react";
 
 import { useResume } from "@/lib/resume";
-import {
-  parseResumeFile,
-  ResumeParseError,
-  ACCEPTED,
-} from "@/lib/resume-parse";
-import { trackEvent } from "@/lib/analytics";
+import { useResumeUpload, type ParsedResume } from "@/lib/use-resume-upload";
 import { cn } from "@/lib/utils";
 
 /**
@@ -28,45 +22,25 @@ export function ResumePrompt({
   onDone?: () => void;
 }) {
   const { resume, hydrated, save, clear } = useResume();
-  const inputRef = React.useRef<HTMLInputElement>(null);
-  const [busy, setBusy] = React.useState(false);
-  const [error, setError] = React.useState<string | null>(null);
-  const [pasteOpen, setPasteOpen] = React.useState(false);
-  const [pasteText, setPasteText] = React.useState("");
 
-  async function handleFile(file: File | undefined) {
-    if (!file) return;
-    setBusy(true);
-    setError(null);
-    try {
-      const { text, source } = await parseResumeFile(file);
-      save({ text, fileName: file.name, source });
-      trackEvent({ name: "resume_parsed", props: { type: source, ok: true } });
-      onDone?.();
-    } catch (e) {
-      const msg =
-        e instanceof ResumeParseError
-          ? e.message
-          : "Couldn't read that file. Try a PDF, .docx, or paste the text.";
-      setError(msg);
-      trackEvent({ name: "resume_parsed", props: { type: "file", ok: false } });
-    } finally {
-      setBusy(false);
-    }
-  }
-
-  function handlePaste() {
-    const text = pasteText.trim();
-    if (text.length < 80) {
-      setError("That looks too short — paste the full résumé text.");
-      return;
-    }
-    save({ text, source: "paste" });
-    trackEvent({ name: "resume_parsed", props: { type: "paste", ok: true } });
-    setPasteOpen(false);
-    setPasteText("");
+  function onParsed(parsed: ParsedResume) {
+    save(parsed);
     onDone?.();
   }
+
+  const {
+    inputRef,
+    busy,
+    error,
+    setError,
+    pasteOpen,
+    setPasteOpen,
+    pasteText,
+    setPasteText,
+    handleFile,
+    handlePaste,
+    ACCEPTED,
+  } = useResumeUpload(onParsed);
 
   if (!hydrated) return <div className={cn("h-px", className)} />;
 

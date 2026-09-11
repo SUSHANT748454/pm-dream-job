@@ -1,7 +1,8 @@
 "use client";
 
 import * as React from "react";
-import { ChevronDown } from "lucide-react";
+import Link from "next/link";
+import { ChevronDown, Mic } from "lucide-react";
 
 import { cn } from "@/lib/utils";
 import questionsData from "@/data/questions.json";
@@ -43,6 +44,13 @@ export function QuestionBank() {
           {DATA.questions.length} common PM interview questions with a structured
           way to approach each one. Practise out loud, then read the approach.
         </p>
+        <Link
+          href="/app/interview"
+          className="mt-3 inline-flex items-center gap-1.5 text-[13px] font-medium text-gold-soft hover:text-gold"
+        >
+          <Mic className="h-3.5 w-3.5" />
+          Rehearse these out loud in Practice Interview
+        </Link>
       </header>
 
       <div className="mt-5 flex flex-wrap gap-2">
@@ -95,7 +103,7 @@ export function QuestionBank() {
                   <p className="mt-2 text-sm leading-relaxed text-text-muted">
                     {q.approach}
                   </p>
-                  <div className="mt-3 flex flex-wrap gap-1.5">
+                  <div className="mt-3 flex flex-wrap items-center gap-1.5">
                     {q.tags.map((t) => (
                       <span
                         key={t}
@@ -105,6 +113,13 @@ export function QuestionBank() {
                       </span>
                     ))}
                   </div>
+                  <Link
+                    href={`/app/interview?category=${encodeURIComponent(q.category)}`}
+                    className="mt-3 inline-flex items-center gap-1.5 text-[12px] font-medium text-gold-soft hover:text-gold"
+                  >
+                    <Mic className="h-3.5 w-3.5" />
+                    Practice this live
+                  </Link>
                 </div>
               )}
             </li>

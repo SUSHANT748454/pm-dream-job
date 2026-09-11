@@ -267,18 +267,22 @@ export function JobsBrowser({
         />
       </div>
 
+      {/* One top-of-funnel prompt at a time, never both stacked: the résumé
+          card is the stronger ask (it also unlocks level-based filtering),
+          so it takes priority over the profile nudge until it's satisfied. */}
       <div className="mt-4">
-        <ProfileNudge
-          levelFilterActive={state.selected.experienceLevel.length > 0}
-          onApplyLevel={applyLevel}
-        />
+        {!resume ? (
+          <ResumePrompt
+            title="Add your résumé to see match scores and filter by your level"
+            blurb="Parsed in your browser and kept on this device — the file is never uploaded. This also powers level-based filtering, so there's no separate profile step to get started."
+          />
+        ) : (
+          <ProfileNudge
+            levelFilterActive={state.selected.experienceLevel.length > 0}
+            onApplyLevel={applyLevel}
+          />
+        )}
       </div>
-
-      {!resume && (
-        <div className="mt-4">
-          <ResumePrompt />
-        </div>
-      )}
 
       <div className="mt-6 grid gap-10 lg:grid-cols-[16rem_1fr]">
         <FiltersSidebar

@@ -1,7 +1,8 @@
 "use client";
 
 import * as React from "react";
-import { Bot, Send, Lock, AlertTriangle, Loader2, ArrowLeft } from "lucide-react";
+import Link from "next/link";
+import { Bot, Send, Lock, AlertTriangle, Loader2, ArrowLeft, BookOpen } from "lucide-react";
 
 import { cn } from "@/lib/utils";
 import { useAuth } from "@/lib/auth";
@@ -220,10 +221,18 @@ export function AiInterviewSession({ onSwitchToSelf }: { onSwitchToSelf: () => v
             Back to self-practice
           </button>
         </div>
-        <p className="mt-4 text-xs text-text-faint">
-          {usage == null ? "…" : `${usage} of ${DAILY_AI_INTERVIEW_LIMIT} AI sessions used today`}
-          {atLimit && " — self-practice mode has no daily limit."}
-        </p>
+        <div className="mt-4 flex items-center justify-between gap-3">
+          <p className="text-xs text-text-faint">
+            {usage == null ? "…" : `${usage} of ${DAILY_AI_INTERVIEW_LIMIT} AI sessions used today`}
+            {atLimit && " — self-practice mode has no daily limit."}
+          </p>
+          <Link
+            href="/app/questions"
+            className="inline-flex shrink-0 items-center gap-1.5 text-xs text-text-muted hover:text-text"
+          >
+            <BookOpen className="h-3.5 w-3.5" /> Question Bank
+          </Link>
+        </div>
       </div>
     );
   }

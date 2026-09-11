@@ -27,13 +27,14 @@ export function AccountMenu({ className }: { className?: string }) {
       <>
         <button
           onClick={() => setDialogOpen(true)}
+          title="Sign in with a one-time email link to sync your profile, résumé and tracker across devices"
           className={cn(
             "hidden items-center gap-1.5 rounded-full border border-[var(--border-strong)] px-3 py-1.5 text-[13px] text-text-muted transition-colors hover:text-text sm:inline-flex",
             className,
           )}
         >
           <Cloud className="h-3.5 w-3.5" />
-          Sign in
+          Sync
         </button>
         <SignInDialog
           open={dialogOpen}

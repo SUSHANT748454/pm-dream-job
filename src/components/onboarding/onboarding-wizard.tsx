@@ -2,7 +2,7 @@
 
 import { useRouter } from "next/navigation";
 import Link from "next/link";
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useState } from "react";
 import {
   Asterisk,
   ArrowLeft,
@@ -31,7 +31,7 @@ import {
 import { trackEvent } from "@/lib/analytics";
 import { readNextPath } from "@/lib/next-path";
 import { writeResume, clearResume } from "@/lib/resume";
-import { parseResumeFile, ResumeParseError, ACCEPTED } from "@/lib/resume-parse";
+import { useResumeUpload, type ParsedResume } from "@/lib/use-resume-upload";
 import { guessFromResume, type ResumeGuess } from "@/lib/resume-extract";
 import { cn } from "@/lib/utils";
 
@@ -436,12 +436,7 @@ function BasicStep({
 }
 
 function ResumeStep({ draft, set }: StepProps) {
-  const inputRef = useRef<HTMLInputElement>(null);
   const has = Boolean(draft.resumeName);
-  const [busy, setBusy] = useState(false);
-  const [error, setError] = useState<string | null>(null);
-  const [pasteOpen, setPasteOpen] = useState(false);
-  const [pasteText, setPasteText] = useState("");
   const [prefilled, setPrefilled] = useState<ResumeGuess | null>(null);
 
   // Prefill the next two steps from the résumé — only fields still blank, so
@@ -456,44 +451,26 @@ function ResumeStep({ draft, set }: StepProps) {
     if (guess.email || guess.phone || guess.experienceYears) setPrefilled(guess);
   }
 
-  async function onFile(file: File | undefined) {
-    if (!file) return;
-    setBusy(true);
-    setError(null);
-    try {
-      const { text, source } = await parseResumeFile(file);
-      writeResume({ text, fileName: file.name, source });
-      set("resumeName", file.name);
-      set("resumeSize", text.length);
-      applyGuesses(text);
-      trackEvent({ name: "resume_parsed", props: { type: source, ok: true } });
-    } catch (e) {
-      setError(
-        e instanceof ResumeParseError
-          ? e.message
-          : "Couldn't read that file. Try a PDF, .docx, or paste the text.",
-      );
-      trackEvent({ name: "resume_parsed", props: { type: "file", ok: false } });
-    } finally {
-      setBusy(false);
-    }
+  function onParsed(parsed: ParsedResume) {
+    writeResume(parsed);
+    set("resumeName", parsed.fileName ?? "Résumé (pasted)");
+    set("resumeSize", parsed.text.length);
+    applyGuesses(parsed.text);
   }
 
-  function savePaste() {
-    const text = pasteText.trim();
-    if (text.length < 80) {
-      setError("That looks too short — paste the full résumé text.");
-      return;
-    }
-    writeResume({ text, source: "paste" });
-    set("resumeName", "Résumé (pasted)");
-    set("resumeSize", text.length);
-    applyGuesses(text);
-    trackEvent({ name: "resume_parsed", props: { type: "paste", ok: true } });
-    setPasteOpen(false);
-    setPasteText("");
-    setError(null);
-  }
+  const {
+    inputRef,
+    busy,
+    error,
+    setError,
+    pasteOpen,
+    setPasteOpen,
+    pasteText,
+    setPasteText,
+    handleFile: onFile,
+    handlePaste: savePaste,
+    ACCEPTED,
+  } = useResumeUpload(onParsed);
 
   function remove() {
     clearResume();
