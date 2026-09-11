@@ -16,6 +16,7 @@ export type AnalyticsEvent =
   | { name: "job_card_clicked"; props: { jobId: string; slug: string; company: string } }
   | { name: "job_details_viewed"; props: { jobId: string; slug: string; company: string } }
   | { name: "apply_clicked"; props: { jobId: string; slug: string; company: string; source: string } }
+  | { name: "apply_confirmed"; props: { jobId: string } }
   | { name: "profile_wall_cta_clicked"; props: { placement: string } }
   | { name: "resume_parsed"; props: { type: string; ok: boolean } }
   | { name: "ats_scored"; props: { band: string; score: number } }

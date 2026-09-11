@@ -21,7 +21,7 @@ import {
 } from "@/lib/filters";
 import { cn, relativeDate, formatSalary } from "@/lib/utils";
 import { trackEvent } from "@/lib/analytics";
-import { useTracker, STAGES, type Stage } from "@/lib/tracker";
+import { useTracker, recordApplyClick, STAGES, type Stage } from "@/lib/tracker";
 import { useResume } from "@/lib/resume";
 import { useProfile } from "@/lib/profile";
 import { resumeTerms, scoreJob, type MatchResult } from "@/lib/ats";
@@ -74,6 +74,15 @@ export function JobSearchDashboard({
     for (const j of jobs) m.set(j.id, scoreJob(terms, j, profile?.experienceYears));
     return m;
   }, [resume, jobs, profile?.experienceYears]);
+
+  // Once a résumé loads, default to "Best match" — once, so it doesn't fight a
+  // choice the visitor makes afterwards.
+  const autoMatchSortRef = React.useRef(false);
+  React.useEffect(() => {
+    if (autoMatchSortRef.current || !matches) return;
+    autoMatchSortRef.current = true;
+    setSortByMatch(true);
+  }, [matches]);
 
   const [q, setQ] = React.useState("");
   const [city, setCity] = React.useState("");
@@ -513,7 +522,7 @@ function DetailPane({
           href={job.applyUrl}
           target="_blank"
           rel="noopener noreferrer nofollow"
-          onClick={() =>
+          onClick={() => {
             trackEvent({
               name: "apply_clicked",
               props: {
@@ -522,8 +531,9 @@ function DetailPane({
                 company: job.company.name,
                 source: job.source,
               },
-            })
-          }
+            });
+            recordApplyClick(job);
+          }}
           className="inline-flex items-center gap-1.5 rounded-lg border border-[var(--border-strong)] bg-[var(--bg-card)] px-4 py-2 text-sm text-text hover:bg-[var(--bg-elevated)]"
         >
           View posting <ArrowUpRight className="h-4 w-4" />

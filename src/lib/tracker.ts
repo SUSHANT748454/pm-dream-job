@@ -91,6 +91,70 @@ export function snapshotFromJob(job: Job, stage: Stage): TrackedApplication {
   };
 }
 
+/* ---------- "Did you apply?" tab-return prompt ----------
+ * The Apply button opens the source posting in a new tab and has no way to
+ * know whether the visitor actually applied. So: remember the click, and when
+ * the visitor comes back to this tab, ask once. */
+
+const APPLY_CLICK_KEY = "pmdj.apply-click";
+const APPLY_WINDOW_MS = 30 * 60 * 1000;
+
+export interface ApplyClickInfo {
+  jobId: string;
+  slug: string;
+  title: string;
+  company: string;
+  companyId: string;
+  location: string;
+  applyUrl: string;
+  source: string;
+  ts: number;
+}
+
+/** Call when the Apply link is clicked. */
+export function recordApplyClick(job: Job): void {
+  try {
+    const info: ApplyClickInfo = {
+      jobId: job.id,
+      slug: job.slug,
+      title: job.title,
+      company: job.company.name,
+      companyId: job.company.id,
+      location: job.location.city,
+      applyUrl: job.applyUrl,
+      source: job.source,
+      ts: Date.now(),
+    };
+    sessionStorage.setItem(APPLY_CLICK_KEY, JSON.stringify(info));
+    sessionStorage.removeItem(`pmdj.apply-prompted.${job.id}`);
+  } catch {
+    /* ignore */
+  }
+}
+
+/**
+ * Call when the tab regains visibility. Returns the pending click once — a
+ * second call for the same job (without a fresh recordApplyClick) returns
+ * null, so the prompt never nags twice for one apply.
+ */
+export function readPendingApplyClick(): ApplyClickInfo | null {
+  try {
+    const raw = sessionStorage.getItem(APPLY_CLICK_KEY);
+    if (!raw) return null;
+    const info = JSON.parse(raw) as ApplyClickInfo;
+    if (Date.now() - info.ts > APPLY_WINDOW_MS) {
+      sessionStorage.removeItem(APPLY_CLICK_KEY);
+      return null;
+    }
+    const promptedKey = `pmdj.apply-prompted.${info.jobId}`;
+    if (sessionStorage.getItem(promptedKey)) return null;
+    sessionStorage.setItem(promptedKey, "1");
+    return info;
+  } catch {
+    return null;
+  }
+}
+
 /* ---------- Supabase mapping ---------- */
 
 function rowToApp(r: ApplicationRow): TrackedApplication {
@@ -238,6 +302,38 @@ export function useTracker() {
     [save],
   );
 
+  /** From the "did you apply?" prompt — doesn't need a full Job, just the click info. */
+  const markApplied = useCallback(
+    (info: ApplyClickInfo) => {
+      const cur = read();
+      const prev = cur[info.jobId];
+      const now = new Date().toISOString();
+      cur[info.jobId] = prev
+        ? {
+            ...prev,
+            stage: "applied",
+            updatedAt: now,
+            appliedAt: prev.appliedAt ?? now,
+          }
+        : {
+            jobId: info.jobId,
+            slug: info.slug,
+            title: info.title,
+            company: info.company,
+            companyId: info.companyId,
+            location: info.location,
+            applyUrl: info.applyUrl,
+            source: info.source,
+            stage: "applied",
+            addedAt: now,
+            updatedAt: now,
+            appliedAt: now,
+          };
+      save({ ...cur });
+    },
+    [save],
+  );
+
   const list = Object.values(map).sort((a, b) =>
     b.updatedAt.localeCompare(a.updatedAt),
   );
@@ -247,6 +343,7 @@ export function useTracker() {
     syncing,
     map,
     list,
+    markApplied,
     get: (jobId: string) => map[jobId],
     upsert,
     setStage,

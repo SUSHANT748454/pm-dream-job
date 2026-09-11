@@ -125,15 +125,31 @@ export function JobsBrowser({
     return map;
   }, [resume, jobs, profile?.experienceYears]);
 
+  const hasExplicitSortRef = React.useRef(false);
+  const autoMatchSortRef = React.useRef(false);
+
   React.useEffect(() => {
     // Hydrate filter state from the URL after mount (SSR renders the unfiltered
     // list, so server and first client render always agree — no boundary, no
     // useSearchParams, no hydration fragility).
+    hasExplicitSortRef.current = new URLSearchParams(window.location.search).has(
+      "sort",
+    );
     const apply = () => setState(readUrl());
     apply();
     window.addEventListener("popstate", apply);
     return () => window.removeEventListener("popstate", apply);
   }, []);
+
+  // Once a résumé loads (so match scores exist) and the visitor hasn't picked a
+  // sort themselves, default to "Best match" instead of "Most recent" — once,
+  // so it never fights a sort the visitor picks afterwards.
+  React.useEffect(() => {
+    if (autoMatchSortRef.current || !matchMap) return;
+    autoMatchSortRef.current = true;
+    if (hasExplicitSortRef.current) return;
+    setState((s) => (s.sort === DEFAULT_SORT ? { ...s, sort: "match" } : s));
+  }, [matchMap]);
 
   const update = React.useCallback(
     (next: State) => {

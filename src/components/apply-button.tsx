@@ -4,6 +4,7 @@ import { ArrowUpRight } from "lucide-react";
 
 import type { Job } from "@/types/job";
 import { trackEvent } from "@/lib/analytics";
+import { recordApplyClick } from "@/lib/tracker";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 
@@ -28,7 +29,7 @@ export function ApplyButton({
         href={job.applyUrl}
         target="_blank"
         rel="noopener noreferrer nofollow"
-        onClick={() =>
+        onClick={() => {
           trackEvent({
             name: "apply_clicked",
             props: {
@@ -37,8 +38,9 @@ export function ApplyButton({
               company: job.company.name,
               source: job.source,
             },
-          })
-        }
+          });
+          recordApplyClick(job);
+        }}
       >
         {label}
         <ArrowUpRight className="h-4 w-4" />
