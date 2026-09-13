@@ -52,4 +52,23 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add src/data/jobs.json
           git commit -m "chore(data): refresh jobs"
-          git push
+
+          # Retry the push. Two things make a single attempt too fragile for an
+          # unattended job: a transient GitHub write error (seen in the wild —
+          # "remote: fatal error in commit_refs" rejected a push here), and a
+          # plain race if a human pushes between our checkout and our push.
+          # Without a retry either one silently leaves the board stale until
+          # the next run, five hours later.
+          for attempt in 1 2 3; do
+            if git push; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Push attempt $attempt failed; rebasing on origin/main and retrying…"
+            sleep $((attempt * 10))
+            # Our commit only ever touches the generated jobs.json, so replaying
+            # it on top of whatever landed upstream is always the right move.
+            git pull --rebase --autostash origin main || true
+          done
+          echo "::error::Could not push refreshed jobs.json after 3 attempts."
+          exit 1
