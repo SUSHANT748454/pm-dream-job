@@ -18,6 +18,11 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    # A typical run is a few minutes. This is a backstop: without it a single
+    # hung source could sit here for GitHub's 6-hour default and — because the
+    # concurrency group above never cancels in progress — block every later
+    # refresh behind it.
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v5
 

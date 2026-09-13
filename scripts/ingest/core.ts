@@ -22,16 +22,36 @@ export interface RawJob {
  * Include the APM→Director ladder + "Product Owner".
  * Exclude program/project managers, product marketing, and pure design/eng.
  */
+// Title shapes that mean "product manager". The second line covers the
+// enterprise / Indian-org phrasings the first one misses — "Manager, Product",
+// "Senior Manager - Product", "AVP Product", "Director of Product",
+// "Product Head" — which are common on Workday boards and at Indian companies.
+// PM_EXCLUDE still runs first, so "Manager, Product Marketing" stays out.
 const PM_INCLUDE =
   /\b(product manager|product management|product owner|product lead|head of product|vp,? product|director,? product|group product manager|principal product manager|associate product manager|\bapm\b|\bgpm\b|chief product officer|\bcpo\b|product strategy)\b/i;
 
+// "Manager, Product …" only counts when Manager *starts* the title (optionally
+// after a seniority word). Without the anchor this swallows titles like
+// "Supply Chain Manager, Product Distribution Operations", which is not a PM
+// role — the noun before "Manager" is what decides.
+const PM_MANAGER_PRODUCT =
+  /^\s*(senior|sr\.?|lead|principal|group|associate|assistant|deputy|general)?\s*manager[\s,–—-]+product\b/i;
+
+const PM_INCLUDE_ALT =
+  /\b(director of product|vp of product|avp[\s,–—-]*product|product head|head,? product|chief product)\b/i;
+
+// Note the plural/gerund allowances: real listings say "Product Operation"
+// (singular) and "Product Engineering", which `product operations` and
+// `product engineer` alone both miss. "Product Analytics" / "Product
+// Distribution" are analytics and supply-chain roles that read as PM titles
+// because of the word order — the noun *after* "Product" is what decides.
 const PM_EXCLUDE =
-  /\b(product marketing|program manager|programme manager|project manager|technical program|delivery manager|engineering manager|design manager|product designer|product design|marketing manager|account manager|product specialist|product support|sales|product analyst intern|data scientist|software engineer|product engineer|product operations|product ops)\b/i;
+  /\b(product marketing|program manager|programme manager|project manager|technical program|delivery manager|engineering manager|design manager|product designer|product design|marketing manager|account manager|product specialist|product support|sales|product analyst intern|data scientist|software engineer|product engineer(ing)?|product operations?|product ops|product analytics|product distribution)\b/i;
 
 export function isProductManagerRole(title: string): boolean {
   if (!title) return false;
   if (PM_EXCLUDE.test(title)) return false;
-  return PM_INCLUDE.test(title);
+  return PM_INCLUDE.test(title) || PM_INCLUDE_ALT.test(title) || PM_MANAGER_PRODUCT.test(title);
 }
 
 export function shortHash(input: string): string {
@@ -94,6 +114,33 @@ export async function fetchJson<T>(
 
 export function sleep(ms: number): Promise<void> {
   return new Promise((r) => setTimeout(r, ms));
+}
+
+/**
+ * Run `fn` over `items` with at most `limit` in flight.
+ *
+ * Board fetches are the slow part of a refresh and each company is a different
+ * host, so there's nothing to be gained by doing them strictly one at a time —
+ * and plenty to lose, since the Workday adapter spends a request per job on top
+ * of its paging. Parallelism here is across hosts; the polite per-request
+ * sleeps inside each adapter still apply to that adapter's own host.
+ */
+export async function mapWithConcurrency<T, R>(
+  items: readonly T[],
+  limit: number,
+  fn: (item: T) => Promise<R>,
+): Promise<R[]> {
+  const results = new Array<R>(items.length);
+  let next = 0;
+  const workers = Array.from({ length: Math.min(limit, items.length) }, async () => {
+    for (;;) {
+      const i = next++;
+      if (i >= items.length) return;
+      results[i] = await fn(items[i]);
+    }
+  });
+  await Promise.all(workers);
+  return results;
 }
 
 export function isoDate(d: Date | string | number | null | undefined): string {

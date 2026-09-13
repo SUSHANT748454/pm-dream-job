@@ -1,6 +1,15 @@
 import { SEED_COMPANIES, type SeedCompany } from "./companies.ts";
 import { decodeEntities } from "./classify.ts";
-import { cleanTitle, fetchJson, isProductManagerRole, isoDate, sleep, type RawJob } from "./core.ts";
+import {
+  cleanTitle,
+  fetchJson,
+  isProductManagerRole,
+  isoDate,
+  mapWithConcurrency,
+  sleep,
+  type RawJob,
+} from "./core.ts";
+import { fromWorkday } from "./workday.ts";
 
 const INDIA_MUSE_LOCATIONS = [
   "Bengaluru, India",
@@ -174,8 +183,13 @@ interface LeverPosting {
 }
 
 async function fromLever(c: SeedCompany): Promise<RawJob[]> {
+  // Large boards (Paytm's runs to hundreds of roles) routinely blow past the
+  // 20s default and a timeout here reads as "no jobs", which expires every
+  // listing this company had.
   const data = await fetchJson<LeverPosting[]>(
     `https://api.lever.co/v0/postings/${c.slug}?mode=json`,
+    undefined,
+    45000,
   );
   const out: RawJob[] = [];
   for (const j of data ?? []) {
@@ -250,22 +264,28 @@ async function fromAshby(c: SeedCompany): Promise<RawJob[]> {
   return out;
 }
 
+/** How many company boards to fetch at once — see mapWithConcurrency. */
+const BOARD_CONCURRENCY = 6;
+
 export async function fromAtsBoards(): Promise<RawJob[]> {
-  const out: RawJob[] = [];
-  for (const c of SEED_COMPANIES) {
+  const batches = await mapWithConcurrency(SEED_COMPANIES, BOARD_CONCURRENCY, async (c) => {
     try {
       const jobs =
         c.ats === "greenhouse"
           ? await fromGreenhouse(c)
           : c.ats === "lever"
             ? await fromLever(c)
-            : await fromAshby(c);
+            : c.ats === "ashby"
+              ? await fromAshby(c)
+              : await fromWorkday(c);
       if (jobs.length) console.log(`  ${c.ats} · ${c.name}: ${jobs.length}`);
-      out.push(...jobs);
+      return jobs;
     } catch (err) {
+      // One broken board (renamed slug, tenant behind auth, timeout) must never
+      // fail the run — every other source still has to land.
       console.warn(`  ${c.ats} · ${c.name}: ${(err as Error).message}`);
+      return [] as RawJob[];
     }
-    await sleep(250);
-  }
-  return out;
+  });
+  return batches.flat();
 }

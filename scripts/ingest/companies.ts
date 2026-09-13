@@ -13,13 +13,18 @@
 
 import type { Domain } from "../../src/types/job.ts";
 
-export type Ats = "greenhouse" | "lever" | "ashby";
+export type Ats = "greenhouse" | "lever" | "ashby" | "workday";
 
 export interface SeedCompany {
   name: string;
   domain: string;
   ats: Ats;
+  /** Board slug — for Workday this is the tenant (e.g. "adobe"). */
   slug: string;
+  /** Workday only: the wd number in `{tenant}.wd{N}.myworkdayjobs.com`. */
+  wd?: number;
+  /** Workday only: the career-site path segment (e.g. "external_experienced"). */
+  site?: string;
   industry: string;
   size?: string;
   domains: Domain[];
@@ -56,6 +61,9 @@ export const SEED_COMPANIES: SeedCompany[] = [
   { name: "Druva", domain: "druva.com", ats: "greenhouse", slug: "druva", industry: "Data Protection", size: "1000-5000", domains: ["SaaS", "Enterprise"] },
   { name: "Zenoti", domain: "zenoti.com", ats: "greenhouse", slug: "zenoti", industry: "Vertical SaaS", size: "1000-5000", domains: ["SaaS", "Consumer"] },
   { name: "InMobi", domain: "inmobi.com", ats: "greenhouse", slug: "inmobi", industry: "AdTech", size: "1000-5000", domains: ["Consumer", "AI"] },
+  { name: "Okta", domain: "okta.com", ats: "greenhouse", slug: "okta", industry: "Security", size: "5000+", domains: ["Enterprise", "SaaS"] },
+  { name: "ZoomInfo", domain: "zoominfo.com", ats: "greenhouse", slug: "zoominfo", industry: "SaaS", size: "1000-5000", domains: ["SaaS", "Enterprise"] },
+  { name: "HighRadius", domain: "highradius.com", ats: "greenhouse", slug: "highradius", industry: "Fintech", size: "1000-5000", domains: ["Fintech", "SaaS", "Enterprise"] },
 
   // ---------------- Lever ----------------
   { name: "Paytm", domain: "paytm.com", ats: "lever", slug: "paytm", industry: "Fintech", size: "5000+", domains: ["Fintech", "Consumer"] },
@@ -75,4 +83,24 @@ export const SEED_COMPANIES: SeedCompany[] = [
   { name: "Vanta", domain: "vanta.com", ats: "ashby", slug: "vanta", industry: "Security", size: "500-1000", domains: ["SaaS", "Enterprise"] },
   { name: "Josys", domain: "josys.com", ats: "ashby", slug: "josys", industry: "SaaS", size: "500-1000", domains: ["SaaS", "Enterprise"] },
   { name: "Hex", domain: "hex.tech", ats: "ashby", slug: "hex", industry: "Data", size: "100-500", domains: ["SaaS", "AI", "Enterprise"] },
+
+  // ---------------- Workday ----------------
+  // Large enterprises + their India GCCs. `slug` is the Workday tenant; `wd` and
+  // `site` come from the career-site URL: {slug}.wd{wd}.myworkdayjobs.com/{site}.
+  // The first four were returning India PM roles when last checked (2026-09-13);
+  // the rest have verified-working endpoints and are kept so new postings get
+  // picked up automatically the week they appear.
+  { name: "Mastercard", domain: "mastercard.com", ats: "workday", slug: "mastercard", wd: 1, site: "CorporateCareers", industry: "Fintech", size: "5000+", domains: ["Fintech", "Enterprise"] },
+  { name: "eBay", domain: "ebay.com", ats: "workday", slug: "ebay", wd: 5, site: "apply", industry: "Ecommerce", size: "5000+", domains: ["Ecommerce", "Consumer"] },
+  { name: "Adobe", domain: "adobe.com", ats: "workday", slug: "adobe", wd: 5, site: "external_experienced", industry: "SaaS", size: "5000+", domains: ["SaaS", "Enterprise", "AI"] },
+  { name: "Philips", domain: "philips.com", ats: "workday", slug: "philips", wd: 3, site: "jobs-and-careers", industry: "Healthcare", size: "5000+", domains: ["Healthcare", "Enterprise"] },
+  { name: "Autodesk", domain: "autodesk.com", ats: "workday", slug: "autodesk", wd: 1, site: "Ext", industry: "SaaS", size: "5000+", domains: ["SaaS", "Enterprise"] },
+  { name: "Gartner", domain: "gartner.com", ats: "workday", slug: "gartner", wd: 5, site: "EXT", industry: "Research", size: "5000+", domains: ["Enterprise", "SaaS"] },
+  { name: "Medtronic", domain: "medtronic.com", ats: "workday", slug: "medtronic", wd: 1, site: "MedtronicCareers", industry: "Healthcare", size: "5000+", domains: ["Healthcare", "Enterprise"] },
+  { name: "NVIDIA", domain: "nvidia.com", ats: "workday", slug: "nvidia", wd: 5, site: "NVIDIAExternalCareerSite", industry: "AI", size: "5000+", domains: ["AI", "Enterprise"] },
+  { name: "Salesforce", domain: "salesforce.com", ats: "workday", slug: "salesforce", wd: 12, site: "External_Career_Site", industry: "SaaS", size: "5000+", domains: ["SaaS", "Enterprise"] },
+  { name: "PayPal", domain: "paypal.com", ats: "workday", slug: "paypal", wd: 1, site: "jobs", industry: "Fintech", size: "5000+", domains: ["Fintech", "Consumer"] },
+  { name: "Target", domain: "target.com", ats: "workday", slug: "target", wd: 5, site: "targetcareers", industry: "Ecommerce", size: "5000+", domains: ["Ecommerce", "Consumer"] },
+  { name: "Micron", domain: "micron.com", ats: "workday", slug: "micron", wd: 1, site: "External", industry: "Semiconductors", size: "5000+", domains: ["Enterprise"] },
+  { name: "Cadence", domain: "cadence.com", ats: "workday", slug: "cadence", wd: 1, site: "External_Careers", industry: "EDA", size: "5000+", domains: ["Enterprise", "SaaS"] },
 ];

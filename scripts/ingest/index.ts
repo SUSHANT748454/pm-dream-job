@@ -43,7 +43,7 @@ function daysBetween(fromIsoDate: string, toIsoDate: string): number {
   return Math.round((b - a) / 86_400_000);
 }
 
-const SOURCE_RANK: Record<string, number> = { Greenhouse: 3, Lever: 3, Ashby: 3, "The Muse": 2, Remotive: 1 };
+const SOURCE_RANK: Record<string, number> = { Greenhouse: 3, Lever: 3, Ashby: 3, Workday: 3, "The Muse": 2, Remotive: 1 };
 function rankOf(source: string): number {
   const head = source.split(" ")[0];
   return SOURCE_RANK[head] ?? 0;

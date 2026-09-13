@@ -1,6 +1,399 @@
 {
-  "generatedAt": "2026-09-13T02:23:10.591Z",
+  "generatedAt": "2026-09-13T09:22:52.418Z",
   "jobs": [
+    {
+      "id": "job_246f2c",
+      "slug": "director-product-management-integrations-okta-bengaluru-246f2c",
+      "title": "Director, Product Management - Integrations",
+      "company": {
+        "id": "okta",
+        "name": "Okta",
+        "logo": null,
+        "domain": "okta.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Director",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "Enterprise",
+        "SaaS",
+        "AI"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Growth",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "Onboarding",
+        "Scrum"
+      ],
+      "tags": [
+        "Enterprise",
+        "SaaS",
+        "AI",
+        "Director",
+        "Onsite",
+        "Product Strategy",
+        "Growth",
+        "Platform"
+      ],
+      "description": "Secure Every Identity, from AI to Human\n\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\n\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.\n\nSecure Every Identity, from AI to Human\n\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\n\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are, too, let's talk.",
+      "responsibilities": [
+        "We are looking for a driven, curious, and empathetic product management leader to push the envelope of Okta’s market footprint by growing our integration ecosystem. As Director of Product Management for Okta integration ecosystem, you will be responsible for product strategy, and managing a PM team dedicated to evolving the Okta built integrations across all the product lines. This is a high-impact role, and if you’re passionate about improving customer security and engaging with a vibrant community, we’re looking for you.",
+        "Work Location: Bengaluru, Karnataka, India",
+        "Work Mode: Hybrid (2-3 days Onsite per week)",
+        "Own the strategy and growth of Okta’s build integrations through product vision.",
+        "Connect with key partners and customers to distill down feature asks and pain points into true requirements that deliver broad customer value.",
+        "Develop roadmaps that make hard tradeoffs and prioritize the highest value work first.",
+        "Build compelling hypotheses and find ways to validate assumptions at low cost.",
+        "Collaborate with global cross-functional teams, including engineering, ISVs, tech partnerships, and marketing, to ensure the successful launch and adoption of ISV experience enhancements.",
+        "Work with development scrum teams (PM, UX, Dev) to deliver valuable new integration targeted features and product improvements to customers.",
+        "Conduct research and analysis to identify integration needs, and use this information to inform strategic vision, innovation, product decisions, prioritization and roadmap.",
+        "Define and communicate product requirements, including features, user experience, and technical specifications, to engineering teams.",
+        "Leverage product data to continually get smarter about how to improve our existing products, and work across the business to drive adoption and success"
+      ],
+      "requirements": [],
+      "preferred": [
+        "Experience with identity and access management (IAM) platforms and security products.",
+        "Experience across the product management lifecycle for enterprise products or services, partner considerations surfaced in the user experience in particular",
+        "Familiarity with Identity and Access management protocols and products",
+        "BS in Computer Science, Computer Engineering or equivalent experience that allows you to rationalize and influence technical design decisions.",
+        "Advanced degree in technical or business field, MBA helpful",
+        "P12154_3477804",
+        "#LI-Hybrid",
+        "The Okta Experience"
+      ],
+      "salary": null,
+      "source": "Greenhouse · Okta",
+      "applyUrl": "https://www.okta.com/company/careers/opportunity/8022237?gh_jid=8022237",
+      "postedAt": "2026-09-11",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-13",
+      "status": "Active"
+    },
+    {
+      "id": "job_f73725",
+      "slug": "people-technology-staff-product-manager-okta-bengaluru-f73725",
+      "title": "People Technology Staff Product Manager",
+      "company": {
+        "id": "okta",
+        "name": "Okta",
+        "logo": null,
+        "domain": "okta.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "AI",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "B2B",
+        "Onboarding",
+        "Stakeholder Management",
+        "Compliance"
+      ],
+      "tags": [
+        "SaaS",
+        "AI",
+        "Enterprise",
+        "Lead Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Growth",
+        "API"
+      ],
+      "description": "Secure Every Identity, from AI to Human\n\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\n\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.\n\nThe Enterprise Technology Team\n\nThe Enterprise Technology team builds and delivers the secure, scalable systems that power how our business runs. Our People Technology Team sits at the heart of this work, overseeing the full Hire-to-Retire technical ecosystem—including core applications like Workday, Greenhouse, and Cornerstone—and ensuring these platforms evolve alongside the company's growth. We partner closely with HR, Talent Acquisition, Talent Management, and Business Operations to bring data-driven, compliant, and innovative solutions to life.\n\nThe Opportunity\n\nReporting to the Director of People Technology, this role will serve as the Product Manager for Okta's People Technology portfolio, focused on Employee Growth & Talent. You will act as the strategic bridge between global People leaders and delivery teams. You will translate strategic product visions into high-velocity execution — shaping the what and why in partnership with Digital Solutions and",
+      "responsibilities": [
+        "Product Strategy & Roadmap Leadership:",
+        "Define the multi-year product vision and strategy for the Growth & Talent domain in close collaboration with functional and technical leadership. Translate that strategy into a prioritized, outcome-driven roadmap that articulates clear business value, return on investment (ROI), and measurable impact on talent operations and employee experience.",
+        "Talent Ecosystem Modernization:",
+        "Build data-driven business cases and functional strategies for major platform initiatives across the talent ecosystem (e.g., ATS, LMS, and custom Workday Extend applications), articulating clear ROI, operational efficiency gains, and improved employee and candidate experiences.",
+        "Delivery Lead Partnership:",
+        "Partner closely with the Growth & Talent Delivery Lead to translate business priorities and functional requirements into well-scoped epics and user stories, while maintaining clear alignment on trade-offs, velocity, and delivery milestones.",
+        "Functional & Technical Alignment:",
+        "Act as the voice of the business and end users within technical discussions, translating complex functional requirements into clear product specifications and acceptance criteria. Partner with the delivery team to evaluate technical trade-offs, balancing user experience, operational risk, and long-term scalability.",
+        "AI & Talent Automation Strategy:",
+        "Define the strategy and functional requirements for integrating AI across the talent lifecycle (sourcing, onboarding, learning, internal mobility)—evaluating build vs. buy solutions, designing human-in-the-loop workflows, and ensuring enterprise-grade privacy and ethical AI standards.",
+        "Global Stakeholder Management:",
+        "Drive cross-functional alignment across Digital Solutions, distributed executive stakeholders, business functional leads, and US-based product counterparts to ensure clear visibility, smooth change management, and high program adoption."
+      ],
+      "requirements": [
+        "8+ years of Product Management experience leading internal enterprise platforms, enterprise HR/Talent systems, or complex B2B SaaS products at global scale.",
+        "Deep Talent Tech Domain Expertise:",
+        "In-depth understanding of core Talent Acquisition, Learning & Development, and Performance/Talent Management processes, with hands-on familiarity with enterprise platforms such as Greenhouse, Cornerstone, and Workday Talent (or equivalent ATS/LMS/HCM ecosystems).",
+        "Strategic Business Case & ROI Sizing:",
+        "Proven ability to translate long-term business goals into multi-year product strategies, build data-backed investment cases, and measure the tangible ROI and operational impact of platform initiatives.",
+        "Technical Fluency & Cross-Functional Translation:",
+        "Demonstrated track record partnering with delivery teams on system integrations, data flows, and technical trade-offs—translating complex business requirements into clear functional specifications, acceptance criteria, and PRDs.",
+        "AI & Automation Acumen:",
+        "Functional understanding of enterprise AI applications, generative AI capabilities, and automated workflows, with an appreciation for human-in-the-loop design, ethical AI, and data privacy safeguards.",
+        "Autonomous Global Leadership:",
+        "Proven success operating with high autonomy across distributed time zones (US / APAC / EMEA), driving alignment and influencing senior business stakeholders and technical delivery teams asynchronously.",
+        "Education:"
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Okta",
+      "applyUrl": "https://www.okta.com/company/careers/opportunity/8188921?gh_jid=8188921",
+      "postedAt": "2026-09-11",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-13",
+      "status": "Active"
+    },
+    {
+      "id": "job_e503ad",
+      "slug": "senior-product-manager-philips-bengaluru-e503ad",
+      "title": "Senior Product Manager",
+      "company": {
+        "id": "philips",
+        "name": "Philips",
+        "logo": null,
+        "domain": "philips.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": 10,
+      "domain": [
+        "Healthcare",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Growth",
+        "Pricing",
+        "Demand",
+        "Segmentation"
+      ],
+      "tags": [
+        "Healthcare",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Growth",
+        "Pricing",
+        "Demand"
+      ],
+      "description": "Job Title\n\nSenior Product Manager\n\nJob Description\n\nSenior Product Manager\n\nYou will play a pivotal marketing role at Diagnostic X-Ray (DXR) and drive creation of solutions (integrated combination of products and services) from idea to market. You will be accountable for defining, launching and building profitable product solutions that transform healthcare. You will work directly with the different functions within the organization and maintains a balanced development scope. This will not only ensure the products/solutions are developed to the feature and price specifications that each target market segment demands but also will deliver a profitable and performing product in all its aspects.\n\nThe Product Manager owns the product lifecycle from concept phase through development and launch and eventually, end of life. You are required to have expertise in market segmentation, product strategy, competitive strategy, and product development.\n\nYour role:",
+      "responsibilities": [
+        "Join corporate core teams to drive implementation (plan, execute, track, and communicate) of strategic marketing initiatives at DXR.",
+        "Own your product and its performance during its complete lifecycle from concept phase throughout development and launch, till end of life.",
+        "Support and drive upstream marketing activities for the solution, including definition of the strategy and its enablers as well as its alignment with key markets globally.",
+        "Translate in-depth customer and market insights to support the product strategy: analyze the customers, markets, the competition, and the trends to create winning concepts, value propositions and clear product specifications to ensure delivering according to the customer’s needs and expectations.",
+        "Drive the development of business cases to prioritize investments",
+        "Interact with various disciplines including Research, R&D departments, internal and external design agencies, suppliers, industrialization, marketing management, marketing communication and international sales organizations.",
+        "Be a key core team member in product development and lifecycle management teams.",
+        "Drive the market readiness as part of PDLM. Ensure completion of appropriate deliverables (feature descriptions, value propositions, costing/pricing/quoting materials, etc.)",
+        "Follow a lean way of working and a continuous improvement mindset within the product management team.",
+        "You are a part of",
+        "The Diagnostic X-ray product management team of Philips Healthcare and become part of the global marketing department. You will be based in Pune and report into the Head of Product Management and be working in an international network of various stakeholders based across the globe. The team operates in an open, ‘can-do’ atmosphere. The team is characterized by a “self-starting” mentality.",
+        "In the team we focus on translating the customer voice in medical products, solutions and services. We manage a wide Radiography and Fluoroscopy portfolio targeting the global health market contributing directly to the growth of the business."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Philips",
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Senior-Product-Manager_582154-1",
+      "postedAt": "2026-09-11",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-13",
+      "status": "Active"
+    },
+    {
+      "id": "job_f21c98",
+      "slug": "senior-product-manager-data-platform-okta-bengaluru-f21c98",
+      "title": "Senior Product Manager, Data Platform",
+      "company": {
+        "id": "okta",
+        "name": "Okta",
+        "logo": null,
+        "domain": "okta.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 4,
+      "experienceMax": 5,
+      "domain": [
+        "SaaS",
+        "Enterprise",
+        "AI"
+      ],
+      "skills": [
+        "Analytics",
+        "User Research",
+        "Go-to-Market",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "Onboarding",
+        "Scrum"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "AI",
+        "Senior Product Manager",
+        "Onsite",
+        "Analytics",
+        "User Research",
+        "Go-to-Market"
+      ],
+      "description": "Secure Every Identity, from AI to Human\n\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\n\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.\n\nSenior Product Manager, Data Platform (India)\n\nCompany Overview\n\nOkta is The World’s Identity Company. We free everyone to safely use any technology—anywhere, on any device, for any app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth.",
+      "responsibilities": [
+        "As the Architect of Okta’s data-driven future, the Senior Product Manager for Data Platform orchestrates the evolution of our core data infrastructure, pipelines, and analytics capabilities. This role manages the critical tension between high-performance technical execution and the delivery of actionable business intelligence, translating high-volume identity event streams into strategic outcomes. You will serve as the essential bridge between our India-based engineering teams and a global suite of stakeholders, ensuring Okta's data remains a competitive differentiator and a cornerstone of trust for our customers.",
+        "Orchestrate",
+        "the long-term product vision and strategy for Okta’s data platform, ensuring infrastructure and analytics roadmaps align with the scale of the world’s identity traffic.",
+        "Architect",
+        "a robust API strategy and developer tooling framework to ensure data is seamlessly and securely consumed by services across the entire Okta ecosystem.",
+        "Collaborate",
+        "with India-based engineering and development scrum teams to deliver high-performance data pipeline enhancements and architectural improvements.",
+        "Distill",
+        "complex requirements from a diverse stakeholder group—including Product, Design, User Research, Marketing, Sales, and Go-To-Market teams—into precise technical specifications.",
+        "Analyze",
+        "large-scale product data and identity-centric orchestration logs to identify friction points and drive improvements in platform performance and user experience.",
+        "Validate"
+      ],
+      "requirements": [
+        "4-5+ years of Product Management experience",
+        "specifically within",
+        "enterprise-scale SaaS platforms",
+        "or core software infrastructure.",
+        "BS in Computer Science, Computer Engineering",
+        ", or equivalent technical experience that enables you to rationalize and influence complex architectural decisions.",
+        "Proven ability to produce solid, actionable plans",
+        "from incomplete, conflicting, or highly ambiguous inputs.",
+        "Exceptional communication and presentation skills",
+        ", with a track record of successfully collaborating across global functions and time zones.",
+        "Demonstrated business results from platform capabilities or products you have shipped at scale.",
+        "Experience with data orchestration, low-code/no-code data tools, or Integration Platform as a Service (iPaaS)."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Okta",
+      "applyUrl": "https://www.okta.com/company/careers/opportunity/8022961?gh_jid=8022961",
+      "postedAt": "2026-09-11",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-13",
+      "status": "Active"
+    },
+    {
+      "id": "job_0fec8a",
+      "slug": "senior-product-manager-product-platform-okta-bengaluru-0fec8a",
+      "title": "Senior Product Manager, Product Platform",
+      "company": {
+        "id": "okta",
+        "name": "Okta",
+        "logo": null,
+        "domain": "okta.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 4,
+      "experienceMax": 5,
+      "domain": [
+        "SaaS",
+        "Enterprise",
+        "AI"
+      ],
+      "skills": [
+        "Growth",
+        "Monetization",
+        "Pricing",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "Onboarding",
+        "Retention",
+        "Scrum"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "AI",
+        "Senior Product Manager",
+        "Onsite",
+        "Growth",
+        "Monetization",
+        "Pricing"
+      ],
+      "description": "Secure Every Identity, from AI to Human\n\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\n\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.\n\nSenior Product Manager, Product Platform\n\nCompany Overview\n\nOkta is The World’s Identity Company. We free everyone to safely use any technology - anywhere, on any device, for any app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth.",
+      "responsibilities": [
+        "This is a rare 0-to-1 opportunity to build a brand-new, high-visibility capability that touches every Okta customer: self-service visibility into subscription and license usage, delivered directly in the Admin Console. You’ll be responsible for building a modern, self-service experience that increases customer trust, unlocks new upsell and expansion motions, and sets the standard for how Okta communicates value to its largest accounts. You'll partner closely with Engineering, Field, Pricing & Packaging, and Product leadership to shape a capability with direct, measurable impact on customer retention and revenue growth.",
+        "Orchestrate",
+        "the long-term product vision and strategy for Okta's subscription usage and licensing visibility, ensuring the Admin Console roadmap scales with the breadth of Okta's customer base and product portfolio.",
+        "Architect",
+        "a self-service usage dashboard and reporting framework to ensure customers can seamlessly and securely track their subscription and license usage across the entire Okta ecosystem.",
+        "Collaborat",
+        "with India-based engineering and development scrum teams to deliver high-performance usage computation and reporting infrastructure improvements.",
+        "Distill",
+        "complex requirements from a diverse stakeholder group - including Field (AE/CSM), Pricing & Packaging, Support, Design, and Product teams - into precise technical specifications.",
+        "Analyze",
+        "large-scale subscription and usage data to identify friction points and drive improvements in customer trust and platform experience.",
+        "Validate"
+      ],
+      "requirements": [
+        "4-5+ years of Product Management experience",
+        "specifically within",
+        "enterprise-scale SaaS platforms",
+        "or core software infrastructure.",
+        "BS in Computer Science, Computer Engineering",
+        ", or equivalent technical experience that enables you to rationalize and influence complex architectural decisions.",
+        "Proven ability to produce solid, actionable plans",
+        "from incomplete, conflicting, or highly ambiguous inputs.",
+        "Exceptional communication and presentation skills",
+        ", with a track record of successfully collaborating across global functions and time zones.",
+        "Demonstrated business results from customer-facing platform capabilities shipped at scale.",
+        "Experience with subscription/licensing models, usage-based billing, or SaaS packaging and monetization."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Okta",
+      "applyUrl": "https://www.okta.com/company/careers/opportunity/8164066?gh_jid=8164066",
+      "postedAt": "2026-09-11",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-13",
+      "status": "Active"
+    },
     {
       "id": "job_2e80e6",
       "slug": "product-manager-sbom-sonatype-hyderabad-2e80e6",
@@ -160,6 +553,75 @@
       "status": "Active"
     },
     {
+      "id": "job_e06434",
+      "slug": "director-product-management-mastercard-pune-e06434",
+      "title": "Director, Product Management",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Pune",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Director",
+      "experienceMin": 5,
+      "experienceMax": 7,
+      "domain": [
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "Growth",
+        "Platform",
+        "Data",
+        "iOS",
+        "B2B",
+        "Payments",
+        "Agile",
+        "Scrum"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "Director",
+        "Onsite",
+        "Go-to-Market",
+        "Growth",
+        "Platform",
+        "Data"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nDirector, Product Management\n\nOur Purpose\n\nWe work to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. We cultivate a culture of inclusion (https://www.mastercard.us/en-us/vision/who-we-are/diversity-inclusion.html) for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team – one that makes better decisions, drives innovation, and delivers better business results.\n\nJob Title\n\nGlobal Product Manager, Virtual Card Platform\n\nOverview\n\nGlobal Business-to-Business (B2B) payment flows represent",
+      "responsibilities": [
+        "Work closely with engineering scrum teams to deliver products that meet business requirements",
+        "Drive development of new products in anticipation of or response to customer needs, market trends, and competitive opportunities",
+        "Engage directly with regional teams to support partners and customers on product roadmap, product implementation and demos",
+        "Generate and evaluate ideas to enhance Mastercard’s suite of product offerings and create a competitive advantage",
+        "Role:",
+        "This role requires the successful candidate to:",
+        "Translate product requirements into technical specifications, ensuring mutual understanding between business/customers and engineering to deliver high quality products",
+        "Interact successfully with Product, Technology and Operations support staff to meet the needs of our customers",
+        "Develop deep knowledge of payment processing and the overall commercial business",
+        "Validate technical delivery and ensure that delivered functionality complies with the product requirements and is fit-for-purpose",
+        "Curiosity to develop a long-term vision for virtual card and tokenized payments to capture market share",
+        "All About You:"
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Director--Product-Management_R-287820",
+      "postedAt": "2026-09-09",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-13",
+      "status": "Active"
+    },
+    {
       "id": "job_b057e5",
       "slug": "principle-product-manager-truecaller-bengaluru-b057e5",
       "title": "Principle Product Manager",
@@ -304,14 +766,14 @@
       "status": "Active"
     },
     {
-      "id": "job_29f119",
-      "slug": "principal-product-manager-sumo-logic-delhi-ncr-29f119",
-      "title": "Principal Product Manager",
+      "id": "job_76c06e",
+      "slug": "consumer-credit-analytics-global-product-manager-specialist-mastercard-delhi-ncr-76c06e",
+      "title": "Consumer Credit Analytics – Global Product Manager - Specialist",
       "company": {
-        "id": "sumo-logic",
-        "name": "Sumo Logic",
+        "id": "mastercard",
+        "name": "Mastercard",
         "logo": null,
-        "domain": "sumologic.com"
+        "domain": "mastercard.com"
       },
       "location": {
         "city": "Delhi NCR",
@@ -319,65 +781,269 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Group Product Manager",
-      "experienceMin": 8,
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
       "experienceMax": null,
       "domain": [
-        "SaaS",
+        "Fintech",
         "Enterprise"
       ],
       "skills": [
-        "SQL",
         "Analytics",
-        "Platform",
+        "Go-to-Market",
         "Data",
-        "Demand"
+        "Payments"
       ],
       "tags": [
-        "SaaS",
+        "Fintech",
         "Enterprise",
-        "Group Product Manager",
+        "Product Manager",
         "Onsite",
-        "SQL",
         "Analytics",
-        "Platform",
-        "Data"
+        "Go-to-Market",
+        "Data",
+        "Payments"
       ],
-      "description": "",
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nConsumer Credit Analytics – Global Product Manager",
       "responsibilities": [
-        "Agentic Investigation & Reliability Experiences",
-        "Sumo Logic is hiring a Principal Product Manager to lead how engineers and operators investigate incidents, understand reliability risk, and act on their operational and security telemetry.",
-        "The observability category was built around collecting telemetry and giving people tools to navigate it: dashboards, queries, monitors, traces, and alerts. Customer expectations are now shifting. Teams don't just want more dashboards; they want help getting from a signal to a resolution, understanding what's broken, why, what's impacted, and what to do next. As AI agents move into production operations, this role owns how Sumo Logic brings intelligent, agent-assisted investigation and reliability workflows to customers, grounded in evidence, context, and enterprise governance.",
-        "This is a senior, high-ownership role. It requires genuine observability domain background. You should have lived in this space and understand how monitoring, troubleshooting, and reliability actually work, combined with the ambition to define a new category of experience on top of it.",
-        "What You Will Own",
-        "The current data experiences.",
-        "Log Search, Live Tail, query and query optimization, Metrics Search, Tracing, Dashboards, and the data-experience UI. This is a live, revenue-generating product with real customers, and keeping it strong is part of the job. You own its health, roadmap, and competitiveness today while steering it toward an AI-native future, focusing new investment where it strengthens investigation, speed, and value for both new and power users.",
-        "The reliability and alerting surface.",
-        "Monitors, Alerts, SLOs, Scheduled Searches, and the reliability workflows around them. You will own alerting accuracy, noise reduction, and operational health signals both as capabilities customers depend on today and as the foundation for more automated, agent-assisted detection and investigation.",
-        "The agentic investigation experience.",
-        "You will define how a user moves from a search, a monitor, a dashboard, or an alert to likely cause faster, with supporting evidence. This means productizing investigation workflows that reason across logs, metrics, traces, monitors, dashboards, and related context, and evolving them from reactive troubleshooting toward more proactive detection over time.",
-        "What You Will Be Doing"
+        "Specialist",
+        "Overview",
+        "The Advanced Analytics group within Business & Market Insights drives Enterprise & Credit Risk solutions that are globally scalable and provide value to the various parts of the credit lifecycle value chain.",
+        "Developing relevant solutions that solve our customer’s Enterprise & Credit Risk problems while leveraging Mastercard assets is a key differentiator to grow revenue for our retail and commercial clients. To this end, developing and managing a suite of product solutions through internal and external partnerships, creative constructs, solid frameworks, and executable roadmaps are crucial drivers for commercialization and business impact. Have you ever used your MA card and it was declined for an unknown reason? We are working to improve that customer experience on a global scale.",
+        "As part of this role, you will work closely w/ Global & Regional product teams to ensure a seamless go-to-market",
+        "Role:",
+        "Collaborate and partner closely with the Consumer Credit Analytics team to support global product development and GTM efforts.",
+        "Leverage Mastercard data to quickly identify product performance challenges, creating proactive plans to drive usage and revenues. Use data-driven insights to ensure our customer are receiving the value from our services.",
+        "Demonstrate a commitment to continuous learning by leveraging the learning & development curriculum to augment existing knowledge, skills and experiences",
+        "Leverage the Mastercard product management framework to manage the delivery of ongoing innovation and enhancements to focus Products",
+        "All about you:",
+        "Exhibit ownership, agility, and a strong entrepreneurial mindset, taking initiative and driving results in a fast-paced, evolving market."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Consumer-Credit-Analytics---Global-Product-Manager---Specialist_R-280794-1",
+      "postedAt": "2026-09-08",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-13",
+      "status": "Active"
+    },
+    {
+      "id": "job_204311",
+      "slug": "lead-product-manager-technical-mastercard-pune-204311",
+      "title": "Lead Product Manager- Technical",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Pune",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Experimentation",
+        "Analytics",
+        "User Research",
+        "Go-to-Market",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Payments"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "Lead Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Experimentation",
+        "Analytics",
+        "User Research"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nLead Product Manager- Technical\n\nLead Product Manager-Technical – Agentic AI\n\n**********************************************\n\nOverview\n\n==================\n\nMastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.\n\nThe Services Business represents over a third of Mastercard revenues and is a key differentiator for Mastercard. Services use our unique and proprietary data, technology, insights and expertise to deliver solutions that meet the needs of our customers. Services is critical for the sustained, long-term growth of Mastercard.\n\nWithin the Services organization, this role sits within the",
+      "responsibilities": [
+        "====================================",
+        "Own strategy and roadmap for AI and agentic capabilities across Payment Performance Intelligence.",
+        "Translate a deep understanding of our customers into products and solutions that drive significant customer value",
+        "Balance the long-term direction of a product with today’s needs and constraints by fully understanding the technical, competitive, and commercial contexts of our products.",
+        "Partner closely with engineering, data science/AI, other platform/COE teams to ensure architecture quality, safety, evaluation, and observability.",
+        "Own PRDs, backlog prioritizations, story writing, dependencies, and release planning.",
+        "Partner with Customer Experience team to design intuitive, highly relevant features that are of maximum value to clients.",
+        "Ensure consistent alignment between business priorities and development objectives",
+        "Lead user research, discovery, and experimentation to validate use cases, accuracy, trust, and business impact.",
+        "Support go-to-market, and customer enablement through demos, query resolution, documentation, and training.",
+        "Build strong cross-functional and stakeholder alignment across global teams.",
+        "Mentor and develop junior product managers."
       ],
       "requirements": [
-        "8+ years of product management experience with real observability or monitoring domain background. You have owned products in observability, monitoring, incident response, APM, or a closely adjacent operational-telemetry space. This is a hard requirement.",
-        "Deep, first-hand understanding of the observability surface area including logs, metrics, traces, dashboards, monitors, alerts, and SLOs, and of how engineers and operators actually investigate incidents and decide what to trust.",
-        "Proven ability to run a live, at-scale product, owning the roadmap, health, and competitiveness of shipping surfaces while driving a larger transformation.",
-        "A track record of owning broad, technically deep surfaces and setting direction that other teams build on.",
-        "Familiarity with how AI and agents are changing data interaction, including natural-language investigation, tools, guardrails, and human-in-the-loop action, or the ability to ramp quickly.",
-        "Strong technical instincts around query engines, time-series and trace data, and alerting systems, plus the judgment to know where an AI-assisted experience should replace a manual flow and where depth must stay.",
-        "Strong analytical skills and comfort using telemetry, dashboards, SQL, and usage data to understand adoption, friction, reliability, and cost.",
-        "Excellent communication across technical and business audiences, and the ability to write clear proposals, decision docs, PRDs, and acceptance criteria.",
-        "High ownership and drive to make progress across a large, ambiguous, fast-moving surface.",
-        "Must-Have Qualities",
-        "Runs today, builds tomorrow.",
-        "Keeps a live product healthy and competitive while reinventing it, and knows what to sustain and what to rebuild."
+        "====================================",
+        "Knowledge of Product Development and Management principles",
+        "Strong ability to translate complex technical concepts into clear, actionable product requirements.",
+        "Proven track record collaborating in cross-functional teams to deliver outstanding products and features.",
+        "Designing, executing, and distilling user research to drive value for the customer.",
+        "Excellent execution, communication, and stakeholder management skills.",
+        "Bachelor's degree in computer science, Engineering, or equivalent experience.",
+        "Good to have : AI know how, specifically experience of working on Gen AI chatbot use cases support & delivery",
+        "Payments industry experience is a plus",
+        "Corporate Security Responsibility",
+        "All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:",
+        "Abide by Mastercard’s security policies and practices;"
       ],
       "preferred": [],
       "salary": null,
-      "source": "Greenhouse · Sumo Logic",
-      "applyUrl": "https://job-boards.greenhouse.io/sumologic/jobs/8089130",
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--Technical_R-289980",
       "postedAt": "2026-09-08",
-      "firstSeenAt": "2026-09-10",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-13",
+      "status": "Active"
+    },
+    {
+      "id": "job_38ea17",
+      "slug": "manager-product-development-prepaid-management-services-mastercard-pune-38ea17",
+      "title": "Manager, Product Development, Prepaid Management Services",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Pune",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Payments",
+        "Onboarding",
+        "Stakeholder Management",
+        "Agile"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "Growth",
+        "API",
+        "Platform"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nManager, Product Development, Prepaid Management Services\n\nOverview:\n\nMastercard is a global technology company in the payments industry. Our mission is to power an inclusive, digital economy by making transactions safe, simple, smart, and accessible. Through secure data, trusted networks, and strategic partnerships, we enable individuals, financial institutions, governments, and businesses to realise their full potential.\n\nMastercard Prepaid Management Services (MPMS) delivers end-to-end prepaid card solutions across travel, transit, foreign exchange, gifting, and buy-now-pay-later segments. As a fintech enabler, MPMS operates a scalable, modular platform that supports a global portfolio of prepaid programmes, combining innovation with operational excellence.\n\nRole Purpose:\n\nThe Manager, Product Development is responsible for driving the successful delivery of product roadmap initiatives from concept through to customer readiness, ensuring alignment with",
+      "responsibilities": [
+        "Drive the delivery of API product roadmap initiatives, from concept through implementation and customer readiness",
+        "Act as Product Owner for API capabilities, managing the product backlog, prioritization, and stakeholder alignment",
+        "Collaborate closely with Architecture, Engineering and cross-functional teams to ensure APIs are robust, scalable, and developer-friendly",
+        "Support end-to-end product integration and delivery within a SAFe Agile framework",
+        "Enable go-to-market readiness including developer enablement, documentation, onboarding, and internal training",
+        "Serve as a platform specialist, providing technical support to internal stakeholders and external clients",
+        "Essential Experience and Skills:",
+        "Strong experience in API-first product development or platform-based product management",
+        "Proven experience in product development, preferably within payments, fintech, or digital platforms",
+        "Ability to work effectively in a matrixed, global environment with diverse stakeholders",
+        "Strong analytical and problem-solving skills, with the ability to balance strategic thinking and execution",
+        "Excellent communication and stakeholder management skills, including the ability to influence without authority"
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Development--Prepaid-Management-Services_R-287539",
+      "postedAt": "2026-09-08",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-13",
+      "status": "Active"
+    },
+    {
+      "id": "job_f0b259",
+      "slug": "manager-product-management-resiliency-operations-stand-in-on-demand-decisioning-mastercard-f0b259",
+      "title": "Manager, Product Management – Resiliency Operations (Stand-In & On-Demand Decisioning)",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 7,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Analytics",
+        "Growth",
+        "Data",
+        "Payments",
+        "Demand",
+        "Stakeholder Management"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "Lead Product Manager",
+        "Onsite",
+        "Analytics",
+        "Growth",
+        "Data",
+        "Payments"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nManager, Product Management – Resiliency Operations (Stand-In & On-Demand Decisioning)\n\nManager, Product Management – Resiliency Operations (Stand-In & On-Demand Decisioning)\n\nIssuers face a myriad of authorization risks that come in many forms. Crisis events, such as cyberattacks or natural disasters, complex payment rails and systems, and evolving regulatory demands, like DORA all create disruption to the payment experience. The Mastercard Payment Resiliency team manages a suite of solutions to mitigate these risks. It is critical to ensure a frictionless cardholder experience and uphold the integrity of the Mastercard brand by providing on-behalf authorization decisioning, at any time, for any reason.\n\nAs Manager, Product Management",
+      "responsibilities": [
+        "Resiliency Operations, you will help deliver on our strategy of offering industry leading authorization solutions, promoting Stand-In and On-Demand Decisioning as critical Payment Resiliency solutions. You will collaborate with cross-functional teams to aid in the creation and enhancement of resiliency products, drive utilization through customer education, and ultimately support the improvement of customer performance and profitability.",
+        "We’re seeking a collaborative and results-oriented product professional who thrives in a dynamic, fast-paced environment. You are passionate about the cardholder experience, driving issuer change, and delivering impactful solutions. The role requires a highly analytical thinker who can connect data, market dynamics, customer needs, and business priorities to influence decisions and outcomes. As a natural leader and team player, you excel in building relationships and driving strategic outcomes with energy, creativity, and accountability.",
+        "Primary",
+        "Function as a Payment Resiliency Solutions SME in AP",
+        "Work closely with regional sales and account management teams to support the growth of Stand-In and On-Demand Decisioning",
+        "Partner with Advisors Consulting Services to drive Stand-In performance improvement and to define On-Demand Decisioning use case opportunities as part of ACS auth engagements",
+        "Collaborate closely with local Customer Success and Service Business Leads by providing SME guidance and recommendations in support of their efforts",
+        "Craft and present clear and compelling business cases to stakeholders to secure buy-in for product utilization",
+        "Transform complex data into compelling insights, shape business narratives, and identify opportunities to create value across a diverse set of stakeholders",
+        "Work with different teams to support Resiliency offerings because of direct customer feedback",
+        "Identify issues, risks, and dependencies to track product development",
+        "Conduct market research to identify industry trends and competitive analysis"
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Manager--Product-Management---Resiliency-Operations--Stand-In---On-Demand-Decisioning-_R-289205",
+      "postedAt": "2026-09-08",
+      "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-09-13",
       "status": "Active"
     },
@@ -460,6 +1126,159 @@
       "status": "Active"
     },
     {
+      "id": "job_29f119",
+      "slug": "principal-product-manager-sumo-logic-delhi-ncr-29f119",
+      "title": "Principal Product Manager",
+      "company": {
+        "id": "sumo-logic",
+        "name": "Sumo Logic",
+        "logo": null,
+        "domain": "sumologic.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise"
+      ],
+      "skills": [
+        "SQL",
+        "Analytics",
+        "Platform",
+        "Data",
+        "Demand"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "Group Product Manager",
+        "Onsite",
+        "SQL",
+        "Analytics",
+        "Platform",
+        "Data"
+      ],
+      "description": "",
+      "responsibilities": [
+        "Agentic Investigation & Reliability Experiences",
+        "Sumo Logic is hiring a Principal Product Manager to lead how engineers and operators investigate incidents, understand reliability risk, and act on their operational and security telemetry.",
+        "The observability category was built around collecting telemetry and giving people tools to navigate it: dashboards, queries, monitors, traces, and alerts. Customer expectations are now shifting. Teams don't just want more dashboards; they want help getting from a signal to a resolution, understanding what's broken, why, what's impacted, and what to do next. As AI agents move into production operations, this role owns how Sumo Logic brings intelligent, agent-assisted investigation and reliability workflows to customers, grounded in evidence, context, and enterprise governance.",
+        "This is a senior, high-ownership role. It requires genuine observability domain background. You should have lived in this space and understand how monitoring, troubleshooting, and reliability actually work, combined with the ambition to define a new category of experience on top of it.",
+        "What You Will Own",
+        "The current data experiences.",
+        "Log Search, Live Tail, query and query optimization, Metrics Search, Tracing, Dashboards, and the data-experience UI. This is a live, revenue-generating product with real customers, and keeping it strong is part of the job. You own its health, roadmap, and competitiveness today while steering it toward an AI-native future, focusing new investment where it strengthens investigation, speed, and value for both new and power users.",
+        "The reliability and alerting surface.",
+        "Monitors, Alerts, SLOs, Scheduled Searches, and the reliability workflows around them. You will own alerting accuracy, noise reduction, and operational health signals both as capabilities customers depend on today and as the foundation for more automated, agent-assisted detection and investigation.",
+        "The agentic investigation experience.",
+        "You will define how a user moves from a search, a monitor, a dashboard, or an alert to likely cause faster, with supporting evidence. This means productizing investigation workflows that reason across logs, metrics, traces, monitors, dashboards, and related context, and evolving them from reactive troubleshooting toward more proactive detection over time.",
+        "What You Will Be Doing"
+      ],
+      "requirements": [
+        "8+ years of product management experience with real observability or monitoring domain background. You have owned products in observability, monitoring, incident response, APM, or a closely adjacent operational-telemetry space. This is a hard requirement.",
+        "Deep, first-hand understanding of the observability surface area including logs, metrics, traces, dashboards, monitors, alerts, and SLOs, and of how engineers and operators actually investigate incidents and decide what to trust.",
+        "Proven ability to run a live, at-scale product, owning the roadmap, health, and competitiveness of shipping surfaces while driving a larger transformation.",
+        "A track record of owning broad, technically deep surfaces and setting direction that other teams build on.",
+        "Familiarity with how AI and agents are changing data interaction, including natural-language investigation, tools, guardrails, and human-in-the-loop action, or the ability to ramp quickly.",
+        "Strong technical instincts around query engines, time-series and trace data, and alerting systems, plus the judgment to know where an AI-assisted experience should replace a manual flow and where depth must stay.",
+        "Strong analytical skills and comfort using telemetry, dashboards, SQL, and usage data to understand adoption, friction, reliability, and cost.",
+        "Excellent communication across technical and business audiences, and the ability to write clear proposals, decision docs, PRDs, and acceptance criteria.",
+        "High ownership and drive to make progress across a large, ambiguous, fast-moving surface.",
+        "Must-Have Qualities",
+        "Runs today, builds tomorrow.",
+        "Keeps a live product healthy and competitive while reinventing it, and knows what to sustain and what to rebuild."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Sumo Logic",
+      "applyUrl": "https://job-boards.greenhouse.io/sumologic/jobs/8089130",
+      "postedAt": "2026-09-08",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-13",
+      "status": "Active"
+    },
+    {
+      "id": "job_7d3b1b",
+      "slug": "senior-product-manager-autodesk-bengaluru-7d3b1b",
+      "title": "Senior Product Manager",
+      "company": {
+        "id": "autodesk",
+        "name": "Autodesk",
+        "logo": null,
+        "domain": "autodesk.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Growth",
+        "Platform",
+        "Data",
+        "Onboarding",
+        "OKRs"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Growth",
+        "Platform",
+        "Data"
+      ],
+      "description": "Job Requisition ID #\n\n26WD99627\n\nPosition Overview\n\nAs a Senior Product Manager for Identity & Access management,\n\nyou'll lead the authentication services that power every Autodesk product—for humans, non-humans, agents & devices. You’re building the IAM platform that powers Autodesk’s secure growth across cloud, desktop, AI, and ecosystem workflows. You’ll enable product teams to deliver trusted experiences with adaptive authentication, policy-based access, non-person identities, and agentic workflows—protecting customer IP, reducing risk, and enabling secure collaboration for millions of users worldwide\n\nThis role offers rare career-defining opportunities: high visibility reporting to senior leadership, greenfield product development, and the chance to solve complex problems at the intersection of AI, automation, and platform infrastructure. You'll work in a hybrid environment partnering with engineering, design, and business stakeholders to discover and ship solutions that shape product strategy across Autodesk's entire portfolio. If you're energized by agency, love turning strategic challenges into elegant solutions, and want to build the playbook for how an iconic software company evolves for the AI era—this is your opportunity to make massive impact.",
+      "responsibilities": [
+        "Define product strategy, translating it into prioritized OKRs and a roadmap",
+        "Present and promote your product strategy across the company to many audiences, from technical to executive-level leadership",
+        "Collaborate across product teams, partner orgs, and key stakeholders to identify challenges and deliver effective solutions that are valuable, viable, feasible and work for Autodesk’s business",
+        "Track and optimize solutions post-launch to ensure they deliver the expected impact",
+        "Build empathy with product teams onboarding to Identity and Access Management (IAM) platform services, identifying friction in the process, and proposing solutions to simplify and streamline their integrations",
+        "Contribute to the product team a deep knowledge of our users and customers, and the data about how our customers engage with our products",
+        "Track industry trends and the competitive landscape",
+        "Influence product teams, senior leaders, and stakeholders through storytelling, incorporating qualitative and quantitative data to craft clear, compelling stories about who my product is for, what problems it solves for them, and why it's important to our business",
+        "Help develop product culture within the broader organization, including mentoring more junior product managers and driving process improvements",
+        "Minimum"
+      ],
+      "requirements": [
+        "Bachelor’s degree or equivalent practical experience",
+        "8+ years of product management experience with at least 3 years focused on platform and, ideally, Identity and Access Management (IAM)",
+        "Demonstrated understanding of the techniques and methods of modern product discovery and product delivery",
+        "Demonstrated use of AI tools to make you and your team more effective at product development",
+        "Applicants with 8+ years of product development experience in roles like engineering, developer advocacy, data analysis, customer support, experience design and/or data science are welcome to apply if part of that time was in a product management role",
+        "Demonstrated ability to figure out solutions to hard problems with many constraints, assess risks, and to lay out your argument in a well-structured, data-informed, written narrative",
+        "Diverse Perspectives",
+        "We know innovation thrives in product teams where diverse points of view come together to solve hard problems, and we seek people that bring diverse life experiences, diverse educational backgrounds, diverse cultures, and diverse work experiences. We look forward to learning how your perspective will bring something unique and valuable to our product teams.",
+        "#LI-KJ2",
+        "Learn More"
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Autodesk",
+      "applyUrl": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Product-Manager_26WD99627-1",
+      "postedAt": "2026-09-08",
+      "firstSeenAt": "2026-09-10T09:04:56.856Z",
+      "lastSeenAt": "2026-09-13",
+      "status": "Active"
+    },
+    {
       "id": "job_f4b2f0",
       "slug": "senior-product-manager-cornerstone-ondemand-pune-f4b2f0",
       "title": "Senior Product Manager",
@@ -527,72 +1346,59 @@
       "status": "Active"
     },
     {
-      "id": "job_7d3b1b",
-      "slug": "senior-product-manager-autodesk-bengaluru-7d3b1b",
-      "title": "Senior Product Manager",
+      "id": "job_bddb01",
+      "slug": "senior-specialist-product-manager-mastercard-pune-bddb01",
+      "title": "Senior Specialist Product Manager",
       "company": {
-        "id": "autodesk",
-        "name": "Autodesk",
+        "id": "mastercard",
+        "name": "Mastercard",
         "logo": null,
-        "domain": null
+        "domain": "mastercard.com"
       },
       "location": {
-        "city": "Bengaluru",
+        "city": "Pune",
         "country": "India"
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
       "experienceLevel": "Senior Product Manager",
-      "experienceMin": 8,
+      "experienceMin": 5,
       "experienceMax": null,
-      "domain": [],
+      "domain": [
+        "Fintech",
+        "Enterprise"
+      ],
       "skills": [
         "Product Strategy",
-        "Growth",
+        "Experimentation",
+        "User Research",
+        "API",
         "Platform",
         "Data",
-        "Onboarding",
-        "OKRs"
+        "Payments",
+        "Agile"
       ],
       "tags": [
+        "Fintech",
+        "Enterprise",
         "Senior Product Manager",
         "Onsite",
         "Product Strategy",
-        "Growth",
-        "Platform",
-        "Data"
+        "Experimentation",
+        "User Research",
+        "API"
       ],
-      "description": "Job Requisition ID #\n\n26WD99627\n\nPosition Overview\n\nAs a Senior Product Manager for Identity & Access management,you'll lead the authentication services that power every Autodesk product-for humans, non-humans, agents & devices. You're building the IAM platform that powers Autodesk's secure growth across cloud, desktop, AI, and ecosystem workflows. You'll enable product teams to deliver trusted experiences with adaptive authentication, policy-based access, non-person identities, and agentic workflows-protecting customer IP, reducing risk, and enabling secure collaboration for millions of users worldwide\n\nThis role offers rare career-defining opportunities: high visibility reporting to senior leadership, greenfield product development, and the chance to solve complex problems at the intersection of AI, automation, and platform infrastructure. You'll work in a hybrid environment partnering with engineering, design, and business stakeholders to discover and ship solutions that shape product strategy across Autodesk's entire portfolio. If you're energized by agency, love turning strategic challenges into elegant solutions, and want to build the playbook for how an iconic software company evolves for the AI era-this is your opportunity to make massive impact.",
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nSenior Specialist Product Manager\n\nSenior Product Manager, Business Experimentation & Optimization\n\nWho is Mastercard?\n\nMastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.\n\nOur decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.\n\nOverview\n\nThe Services team is a key differentiator for Mastercard, providing cutting-edge products and services that help our customers. Focused on thinking big and scaling",
       "responsibilities": [
-        "Define product strategy, translating it into prioritized OKRs and a roadmap",
-        "Present and promote your product strategy across the company to many audiences, from technical to executive-level leadership",
-        "Collaborate across product teams, partner orgs, and key stakeholders to identify challenges and deliver effective solutions that are valuable, viable, feasible and work for Autodesk's business",
-        "Track and optimize solutions post-launch to ensure they deliver the expected impact",
-        "Build empathy with product teams onboarding to Identity and Access Management (IAM) platform services, identifying friction in the process, and proposing solutions to simplify and streamline their integrations",
-        "Contribute to the product team a deep knowledge of our users and customers, and the data about how our customers engage with our products",
-        "Track industry trends and the competitive landscape",
-        "Influence product teams, senior leaders, and stakeholders through storytelling, incorporating qualitative and quantitative data to craft clear, compelling stories about who my product is for, what problems it solves for them, and why it's important to our business",
-        "Help develop product culture within the broader organization, including mentoring more junior product managers and driving process improvements",
-        "Minimum"
+        "Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines."
       ],
-      "requirements": [
-        "Bachelor's degree or equivalent practical experience",
-        "8+ years of product management experience with at least 3 years focused on platform and, ideally, Identity and Access Management (IAM)",
-        "Demonstrated understanding of the techniques and methods of modern product discovery and product delivery",
-        "Demonstrated use of AI tools to make you and your team more effective at product development",
-        "Applicants with 8+ years of product development experience in roles like engineering, developer advocacy, data analysis, customer support, experience design and/or data science are welcome to apply if part of that time was in a product management role",
-        "Demonstrated ability to figure out solutions to hard problems with many constraints, assess risks, and to lay out your argument in a well-structured, data-informed, written narrative",
-        "Diverse Perspectives",
-        "We know innovation thrives in product teams where diverse points of view come together to solve hard problems, and we seek people that bring diverse life experiences, diverse educational backgrounds, diverse cultures, and diverse work experiences. We look forward to learning how your perspective will bring something unique and valuable to our product teams.",
-        "#LI-KJ2",
-        "Learn More"
-      ],
+      "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "The Muse",
-      "applyUrl": "https://www.themuse.com/jobs/autodesk/senior-product-manager-fa4e12",
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Specialist-Product-Manager_R-290092",
       "postedAt": "2026-09-08",
-      "firstSeenAt": "2026-09-10T09:04:56.856Z",
+      "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-09-13",
       "status": "Active"
     },
@@ -661,66 +1467,55 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 4,
-      "experienceMax": 7,
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
       "domain": [
         "Fintech",
         "SaaS"
       ],
       "skills": [
-        "Product Strategy",
-        "Experimentation",
-        "Analytics",
-        "Growth",
-        "Monetization",
+        "Go-to-Market",
         "API",
         "Platform",
         "Data",
         "Payments",
-        "Fraud"
+        "Fraud",
+        "Onboarding"
       ],
       "tags": [
         "Fintech",
         "SaaS",
-        "Senior Product Manager",
+        "Product Manager",
         "Onsite",
-        "Product Strategy",
-        "Experimentation",
-        "Analytics",
-        "Growth"
+        "Go-to-Market",
+        "API",
+        "Platform",
+        "Data"
       ],
       "description": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we’ve since grown into a fintech powerhouse driving India’s digital payment revolution.\n\nRazorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow.\n\nFrom building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech\n\nAcross India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that’s redefining how money moves across Asia.\n\nToday, that ecosystem supports everyone from early-stage startups to some of India’s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently.\n\nOur scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like",
       "responsibilities": [
-        "As a PM2, you will independently own a product area or platform charter end-to-end — from strategy and roadmap to execution and business impact. You will operate with significant autonomy and drive initiatives across customer experience, platform scalability, automation, growth, and monetization. You will be expected to think beyond features and solve for systems, operational leverage, and long-term platform evolution.",
-        "What You will Do",
-        "Build Customer Empathy",
-        "Regularly engage with customers, internal stakeholders, and ecosystem partners to deeply understand pain points, workflows, and unmet needs through both qualitative and quantitative insights.",
-        "Drive Product Strategy",
-        "Define long-term product vision and quarterly roadmap aligned with business goals, customer outcomes, and platform scalability.",
-        "Build Scalable Products",
-        "Collaborate with engineering, design, analytics, and operations teams to build reliable, scalable, and high-impact products.",
-        "Lead Product Execution",
-        "Write high-quality product specifications, prioritize effectively, manage tradeoffs, and ensure timely execution across releases.",
-        "Own Metrics & Outcomes",
-        "Define success metrics, monitor business impact, and drive iterative improvements through experimentation and data analysis."
+        "Build Customer Empathy: PMs have to regularly meet and understand customer needs first-hand as well as stay on top of the customer pulse via secondary insights - both qualitative and quantitative.",
+        "Devise Strategy: Define both long-term strategy and quarterly roadmap to achieve the product vision and create impact.",
+        "Conceptualize new solutions: Product Conceptualization with a problem first, data-driven, and test & iterate approach. Ensures conceptualization from a platform and a long-term view. Ensures value-based prioritization of product initiatives.",
+        "Build products: Collaborate with Engineering and ecosystem players to build products that customers love. Produce high-quality product specifications and effectively prioritize and manage the scope of each product launch to deliver products and features on time.",
+        "Launch products: Draft and execute a go-to-market plan in conjunction with Product Marketing. Be the internal and external authority and advocate for your given area of focus.",
+        "Ecosystem collaboration: Self-starter to collaborate closely with ecosystem players to co-build products that don’t exist.",
+        "Mandatory"
       ],
       "requirements": [
-        "4–7 years of product management experience",
-        "Strong product execution and prioritization skills",
-        "Experience owning business metrics and customer outcomes",
-        "Strong analytical thinking and experimentation mindset",
-        "Ability to work across technical and business stakeholders",
-        "Systems thinking and platform orientation",
-        "Strong customer empathy balanced with business acumen",
-        "Ability to thrive in ambiguity and fast-paced environments",
+        "You understand technology, but love customer-first & business-first thinking.",
+        "You are comfortable working hands-on in a fast-paced start-up environment.",
+        "You are curious about metrics, execution processes, macro trends.",
+        "Problem-solving and detail orientation come naturally to you.",
+        "You have an analytical and data-driven approach in day-to-day work. Energetic self-starter with the ability to work independently in a fast-paced environment.",
         "Razorpay believes in and follows an equal employment opportunity policy that doesn't discriminate on gender, religion, sexual orientation, colour, nationality, age, etc. We welcome interests and applications from all groups and communities across the globe.",
         "Follow us on LinkedIn & Twitter"
       ],
       "preferred": [],
       "salary": null,
       "source": "Greenhouse · Razorpay",
-      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729519005",
+      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4715389005",
       "postedAt": "2026-09-07",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
       "lastSeenAt": "2026-09-13",
@@ -930,6 +1725,160 @@
       "applyUrl": "https://www.themuse.com/jobs/broadridge/product-owner-reference-and-market-data",
       "postedAt": "2026-09-05",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
+      "lastSeenAt": "2026-09-13",
+      "status": "Active"
+    },
+    {
+      "id": "job_aeae06",
+      "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
+      "title": "Senior Product Manager - SAP FICO",
+      "company": {
+        "id": "zoominfo",
+        "name": "ZoomInfo",
+        "logo": null,
+        "domain": "zoominfo.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "API",
+        "Platform",
+        "Data",
+        "Agile"
+      ],
+      "tags": [
+        "SaaS",
+        "Fintech",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "API",
+        "Platform"
+      ],
+      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
+      "responsibilities": [
+        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
+        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
+        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
+        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
+        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
+        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
+        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
+        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
+        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
+        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
+      ],
+      "requirements": [
+        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
+        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
+        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
+        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
+        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
+        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
+        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
+        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
+        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
+        "SAP Certification in Finance or a related SAP discipline.",
+        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
+        "Experience in high-tech, SaaS, software, or Finance transformation programs."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · ZoomInfo",
+      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
+      "postedAt": "2026-09-05",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-13",
+      "status": "Active"
+    },
+    {
+      "id": "job_a4f741",
+      "slug": "senior-product-manager-sap-fico-zoominfo-chennai-a4f741",
+      "title": "Senior Product Manager - SAP FICO",
+      "company": {
+        "id": "zoominfo",
+        "name": "ZoomInfo",
+        "logo": null,
+        "domain": "zoominfo.com"
+      },
+      "location": {
+        "city": "Chennai",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "API",
+        "Platform",
+        "Data",
+        "Agile"
+      ],
+      "tags": [
+        "SaaS",
+        "Fintech",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "API",
+        "Platform"
+      ],
+      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
+      "responsibilities": [
+        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
+        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
+        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
+        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
+        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
+        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
+        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
+        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
+        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
+        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
+      ],
+      "requirements": [
+        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
+        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
+        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
+        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
+        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
+        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
+        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
+        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
+        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
+        "SAP Certification in Finance or a related SAP discipline.",
+        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
+        "Experience in high-tech, SaaS, software, or Finance transformation programs."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · ZoomInfo",
+      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8733078002",
+      "postedAt": "2026-09-05",
+      "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-09-13",
       "status": "Active"
     },
@@ -1791,6 +2740,64 @@
       "applyUrl": "https://job-boards.greenhouse.io/commvault/jobs/5252738008",
       "postedAt": "2026-09-01",
       "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-13",
+      "status": "Active"
+    },
+    {
+      "id": "job_bcd48e",
+      "slug": "sr-product-manager-case-management-ebay-bengaluru-bcd48e",
+      "title": "Sr. Product Manager - Case Management",
+      "company": {
+        "id": "ebay",
+        "name": "eBay",
+        "logo": null,
+        "domain": "ebay.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 6,
+      "experienceMax": null,
+      "domain": [
+        "Ecommerce",
+        "Consumer",
+        "Enterprise"
+      ],
+      "skills": [
+        "User Research",
+        "API",
+        "Platform",
+        "Data",
+        "Compliance"
+      ],
+      "tags": [
+        "Ecommerce",
+        "Consumer",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "User Research",
+        "API",
+        "Platform"
+      ],
+      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nSr. Product Manager",
+      "responsibilities": [
+        "Case Management",
+        "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.",
+        "Our customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work - every day. We're in this together, sustaining the future of our customers, our company, and our planet.",
+        "Join a team of passionate problem solvers, innovators, and dreamers - and help us connect people and build communities to compose economic opportunity for all."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · eBay",
+      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Sr-Product-Manager---Case-Management_R0076320",
+      "postedAt": "2026-08-31",
+      "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-09-13",
       "status": "Active"
     },
@@ -2738,6 +3745,77 @@
       "status": "Active"
     },
     {
+      "id": "job_81db27",
+      "slug": "senior-product-manager-ii-ebay-bengaluru-81db27",
+      "title": "Senior Product Manager II",
+      "company": {
+        "id": "ebay",
+        "name": "eBay",
+        "logo": null,
+        "domain": "ebay.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 7,
+      "experienceMax": null,
+      "domain": [
+        "Ecommerce",
+        "Consumer",
+        "Fintech"
+      ],
+      "skills": [
+        "Analytics",
+        "Growth",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "Payments",
+        "Fraud",
+        "Marketplace",
+        "Agile",
+        "Scrum"
+      ],
+      "tags": [
+        "Ecommerce",
+        "Consumer",
+        "Fintech",
+        "Senior Product Manager",
+        "Onsite",
+        "Analytics",
+        "Growth",
+        "Platform"
+      ],
+      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nLocation\n\n: India\n\nAt eBay, we're more than a global eCommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of eCommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nWithin the risk & Compliance team our vision is “Deliver intuitive risk,",
+      "responsibilities": [
+        "Create Product Vision & Strategy. Lead the comprehensive vision and end-to-end execution of Risk Platform",
+        "Develop a compelling and iterative roadmap and launch plan that supports Risk business needs",
+        "Obsess the Customer & Overall Quality of Experiences. Demonstrate a relentless focus to listen to our users and feed their voice into our product development process",
+        "Communicate effectively with platform users to collect requirements and drive adoption of new capabilities. Be the voice of and evangelize the Risk Platform capabilities across the company",
+        "Collaborate with senior leaders across Risk management team to align platform visions and goals with other functions"
+      ],
+      "requirements": [
+        "Minimum of 7+ years of Product Management experience with expertise in one or more of following areas",
+        "Risk, Payments or e-Commerce",
+        "2+ years experience in core platform product management. Knowledge of Decision Platforms for Fraud Detection/Risk Management and/or Building Machine Learning Infrastructure is a huge plus.",
+        "Experience managing multiple complex, multi-phase strategic products in parallel with the ability to manage matrixed teams in a global context to successful delivery and excellence. Proven ability and in-market examples of defining a strategic vision for a new and innovative portfolio of products that drove significant impact for millions of end users at a global scale",
+        "Deep understanding of the product development lifecycle from planning through deployment; experience leveraging test and validation frameworks throughout the product lifecycle. Experience in Agile/Scrum methodologies and working in Agile teams is desirable",
+        "Strong, concise communicator and effective story-teller; experience using both analytics and qualitative research to express the vision and strategy of the product"
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · eBay",
+      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager-II_R0076068",
+      "postedAt": "2026-08-17",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-13",
+      "status": "Active"
+    },
+    {
       "id": "job_de2ff8",
       "slug": "product-management-product-manager-telco-paytm-delhi-ncr-de2ff8",
       "title": "Product Management - Product Manager - Telco",
@@ -2974,6 +4052,89 @@
       "status": "Active"
     },
     {
+      "id": "job_a076ab",
+      "slug": "sr-digital-product-manager-gartner-delhi-ncr-a076ab",
+      "title": "Sr Digital Product Manager",
+      "company": {
+        "id": "gartner",
+        "name": "Gartner",
+        "logo": null,
+        "domain": "gartner.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "Enterprise",
+        "SaaS",
+        "AI"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Experimentation",
+        "Analytics",
+        "API",
+        "Platform",
+        "Data",
+        "iOS",
+        "Stakeholder Management",
+        "Agile"
+      ],
+      "tags": [
+        "Enterprise",
+        "SaaS",
+        "AI",
+        "Lead Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Experimentation",
+        "Analytics"
+      ],
+      "description": "",
+      "responsibilities": [
+        "We're looking for a product manager to lead the ongoing evolution of AI Use Case Insights, one of Gartner's most widely used tools. The role focuses on helping clients discover, evaluate, and act on practical AI opportunities by delivering clear insights and intuitive workflows. You'll work closely with cross-functional teams to enhance the product experience, expand its capabilities, and ensure it continues to meet the needs of executives, strategy leaders, and technology decision makers.",
+        "What You Will Do",
+        "Lead the day-to-day execution of the product roadmap, translating business needs and user feedback into clear requirements and user stories.",
+        "Partner with Engineering, Design, Data Science, Research, Product Marketing, and Product Operations teams to deliver high-quality product enhancements.",
+        "Manage and prioritize the product backlog, balancing short-term improvements with longer-term strategic investments.",
+        "Work directly with clients and internal stakeholders to understand AI adoption challenges and identify opportunities to improve product experience.",
+        "Use product usage data, experimentation results, and customer feedback to guide prioritization and product decisions.",
+        "Support the development and launch of new AI-related workflows, insights, and recommendation experiences.",
+        "Collaborate with research and content teams to ensure the product reflects evolving AI market trends and client needs.",
+        "Track adoption, engagement, and business outcomes, and communicate results to stakeholders.",
+        "Contribute towards product planning activities and help shape the future direction of the AI Use Case Insights platform.",
+        "What You Will Need"
+      ],
+      "requirements": [
+        "Bachelor's degree required; MBA or relevant advanced degree is a plus.",
+        "Experience working on AI, analytics, insights, search, recommendation, or decision-support products is preferred.",
+        "Familiarity with Agile product development practices.",
+        "Strong stakeholder management and influencing skills.",
+        "#LI-MS7",
+        "Who are we?",
+        "At Gartner, Inc. (NYSE:IT), we guide the leaders who shape the world.",
+        "Our mission relies on expert analysis and bold ideas to deliver actionable, objective business and technology insights, helping enterprise leaders and their teams succeed with their mission-critical priorities.",
+        "Since our founding in 1979, we’ve grown to 20,000 associates globally who support over 13,000 client enterprises in ~90 countries and territories. We do important, interesting and substantive work that matters. That’s why we hire associates with the intellectual curiosity, energy and drive to want to make a difference. The bar is unapologetically high. So is the impact you can have here.",
+        "What makes Gartner a great place to work?",
+        "Our vast, virtually untapped market potential offers limitless opportunities – opportunities that may not even exist right now – for you to grow professionally and flourish personally. How far you go is driven by your passion and performance.",
+        "We hire remarkable people who collaborate and win as a team. Together, our singular, unifying goal is to deliver results for our clients."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Gartner",
+      "applyUrl": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Sr-Digital-Product-Manager_112982",
+      "postedAt": "2026-08-12",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-13",
+      "status": "Active"
+    },
+    {
       "id": "job_960192",
       "slug": "product-management-intern-telco-paytm-delhi-ncr-960192",
       "title": "Product Management - Intern - Telco.",
@@ -3028,6 +4189,59 @@
       "status": "Active"
     },
     {
+      "id": "job_beae8e",
+      "slug": "product-manager-assisted-service-ebay-bengaluru-beae8e",
+      "title": "Product Manager - Assisted Service",
+      "company": {
+        "id": "ebay",
+        "name": "eBay",
+        "logo": null,
+        "domain": "ebay.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
+      "experienceMax": null,
+      "domain": [
+        "Ecommerce",
+        "Consumer",
+        "AI"
+      ],
+      "skills": [
+        "Analytics",
+        "API",
+        "Platform",
+        "Data",
+        "Machine Learning"
+      ],
+      "tags": [
+        "Ecommerce",
+        "Consumer",
+        "AI",
+        "Product Manager",
+        "Onsite",
+        "Analytics",
+        "API",
+        "Platform"
+      ],
+      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nAt eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · eBay",
+      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Product-Manager---Assisted-Service_R0074176",
+      "postedAt": "2026-08-11",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-13",
+      "status": "Active"
+    },
+    {
       "id": "job_a01a00",
       "slug": "group-product-manager-manager-effectiveness-mindtickle-pune-a01a00",
       "title": "Group Product Manager (Manager Effectiveness)",
@@ -3078,6 +4292,67 @@
       "applyUrl": "https://jobs.lever.co/mindtickle/4365dc2a-87b1-4751-bd30-c90c70dea92c",
       "postedAt": "2026-08-10",
       "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-13",
+      "status": "Active"
+    },
+    {
+      "id": "job_81c502",
+      "slug": "principal-product-manager-dsp-advertising-adobe-bengaluru-81c502",
+      "title": "Principal Product Manager (DSP Advertising)",
+      "company": {
+        "id": "adobe",
+        "name": "Adobe",
+        "logo": null,
+        "domain": "adobe.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise",
+        "AI"
+      ],
+      "skills": [
+        "Growth",
+        "API",
+        "Platform",
+        "Data"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "AI",
+        "Group Product Manager",
+        "Onsite",
+        "Growth",
+        "API",
+        "Platform"
+      ],
+      "description": "Adobe Advertising's DSP powers programmatic advertising for the world's leading brands and agencies across Display, Video, Audio, and CTV. We're seeking a Principal Product Manager to own platform strategy across partner integrations, GenAI-powered creative, usability, and the agentic AI systems reshaping how customers troubleshoot and optimize campaigns.\n\nAs Principal PM, you'll set direction across multiple initiatives, mentor other PMs, and represent the platform to executives and customers. Focus areas may shift based on product priorities.\n\nWhat You'll Own\n\nPlatform Core & Integrations\n\n— Prioritize and lead partner integrations and oRTB protocol upgrades; own build-vs-partner tradeoffs and represent integration strategy to partners and standards bodies.\n\nAgentic AI & Intelligent Automation\n\n— Co-lead the platform's agentic product suite (troubleshooting and insights agents). Define what trustworthy agent behavior looks like for a high-stakes ad platform; partner with data science and engineering on architecture (async handling, session recovery); design guided UX for non-technical users; validate agent quality through structured betas.\n\nPlatform Usability\n\n— Identify and simplify time-consuming, non-intuitive workflows across a data-intensive platform.\n\nPrerequisites",
+      "responsibilities": [
+        "10+ years overall experience",
+        ", including 8+ years in Product Management, with time operating at senior/principal scope.",
+        "Deep programmatic advertising expertise — hands-on experience building DSP, SSP, or Exchange products, fluent in oRTB and bid-stream economics.",
+        "Agentic/AI product experience",
+        "— has shipped an LLM-powered or agentic feature, owning decisions on reliability, evaluation, guardrails, and AI-output UX.",
+        "Frontend-intensive product experience — designing intuitive workflows for data-heavy products.",
+        "Track record leading partner integrations, weighing customer value against implementation cost.",
+        "Strong executive and customer-facing communication."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Adobe",
+      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Principal-Product-Manager--DSP-Advertising-_R171043",
+      "postedAt": "2026-08-06",
+      "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-09-13",
       "status": "Active"
     },
@@ -3233,6 +4508,84 @@
       "applyUrl": "https://careers.airbnb.com/positions/8091831?gh_jid=8091831",
       "postedAt": "2026-08-05",
       "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-13",
+      "status": "Active"
+    },
+    {
+      "id": "job_780ac1",
+      "slug": "principal-it-product-management-analyst-medtronic-hyderabad-780ac1",
+      "title": "Principal IT Product Management Analyst",
+      "company": {
+        "id": "medtronic",
+        "name": "Medtronic",
+        "logo": null,
+        "domain": "medtronic.com"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Director",
+      "experienceMin": 12,
+      "experienceMax": null,
+      "domain": [
+        "Healthcare",
+        "Enterprise",
+        "Fintech"
+      ],
+      "skills": [
+        "SQL",
+        "Analytics",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Fraud",
+        "Agile",
+        "Compliance"
+      ],
+      "tags": [
+        "Healthcare",
+        "Enterprise",
+        "Fintech",
+        "Director",
+        "Onsite",
+        "SQL",
+        "Analytics",
+        "Growth"
+      ],
+      "description": "Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate pain, restore health, and extend life. Our 95,000 employees work across more than 150 countries to put patients first — developing innovative medical technologies that improve the lives of 72+ million patients each year. Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact.\n\nA Day in the Life\n\nThe Data Platform & Services (DPS) value stream is responsible for overseeing enterprise data assets across the organization. This includes the management of data and analytics platforms, governance of data solutions, ensuring data quality and timeliness, maintaining data interfaces, enabling seamless integration with external systems, and supporting advanced analytics capabilities.\n\nWithin this stream, the Enterprise Data Governance team plays a vital role by delivering metadata management services through the Enterprise Data Catalog (Atlan). These services empower business users to efficiently discover and access the data they need, and include capabilities such as metadata management, data lineage tracking, transformation logic transparency, and standardized business terminology.\n\nWe are looking for a seasoned and highly skilled Principal Product Analyst (PA) with deep expertise in metadata integration and data governance solutions, specifically utilizing Atlan. In this role, you will be",
+      "responsibilities": [
+        "Manage enterprise password vault and ensure consistent credential integrity across all systems.",
+        "Design, develop, and implement robust data integration solutions across systems and applications, using APIs, and integration tools such as Atlan.",
+        "Collaborate with stakeholders to gather, analyze, and document requirements for data integration and metadata management initiatives, ensuring alignment with business goals and technical specifications.",
+        "Integrate metadata management tools with relational databases, ELT pipelines, and BI platforms to support enterprise-wide data transparency and governance.",
+        "Maintain, manage, and communicate the technical roadmap for new connector deployments and ensure alignment with key stakeholders",
+        "Ensure catalog and governance coverage aligns to enterprise data governance policies",
+        "Identify, inform, and suggest new product functionality deployments and enablement for prioritization and implementation",
+        "Partner with data stewards to identify, define, and maintain critical business and technical metadata, and ensure comprehensive documentation.",
+        "Ensure comprehensive metadata availability in Atlan by reviewing data assets and verifying data lineage, with a focus on maintaining traceability, accuracy, and transparency of data movement across systems, including associated transformations and controls.",
+        "Leverage cloud technologies such as AWS S3 for scalable storage of metadata and architectural resources.",
+        "Develop and execute testing protocols to validate integration flows and data functionality, ensuring the quality and integrity of both data and metadata.",
+        "Monitor data integration pipelines, perform root cause analysis, and implement resolutions to technical and process-related issues."
+      ],
+      "requirements": [
+        "The above statements are intended to describe the general nature and level of work being performed by employees assigned to this position, but they are not an exhaustive list of all the required responsibilities and skills of this position.",
+        "Recruitment Fraud Alert",
+        "We are aware of phishing scams targeting job seekers. Please keep the following in mind:",
+        "Apply only through official Medtronic channels. All legitimate Medtronic recruiting communications come from approved Medtronic platforms and official @medtronic.com email addresses.",
+        "Medtronic will never ask for payment or sensitive personal information (such as bank account or Social Security details) during early stages of the hiring process. Any such requests are not legitimate.",
+        "If you receive a suspicious message claiming to be from Medtronic, do not respond, click links, or open attachments.",
+        "If you have any questions, concerns regarding the authenticity of a communication alleged to have been made by or on behalf of Medtronic, please contact us immediately at AskHR@medtronic.com."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Medtronic",
+      "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Principal-IT-Product-Management-Analyst_R62079-1",
+      "postedAt": "2026-07-31",
+      "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-09-13",
       "status": "Active"
     },
@@ -3563,6 +4916,93 @@
       "applyUrl": "https://job-boards.greenhouse.io/smartsheet/jobs/8064552",
       "postedAt": "2026-07-27",
       "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-13",
+      "status": "Active"
+    },
+    {
+      "id": "job_42f553",
+      "slug": "product-manager-adobe-express-imaging-experience-adobe-delhi-ncr-42f553",
+      "title": "Product Manager (Adobe Express - Imaging Experience)",
+      "company": {
+        "id": "adobe",
+        "name": "Adobe",
+        "logo": null,
+        "domain": "adobe.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 2,
+      "experienceMax": 6,
+      "domain": [
+        "AI",
+        "SaaS",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Experimentation",
+        "Analytics",
+        "Growth",
+        "Monetization",
+        "API",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "Mobile"
+      ],
+      "tags": [
+        "AI",
+        "SaaS",
+        "Enterprise",
+        "Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Experimentation",
+        "Analytics"
+      ],
+      "description": "Our Company\n\nChanging the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences. We’re passionate about empowering people to craft beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.\n\nWe’re on a mission to hire the very best and are committed to building exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!\n\nOur Opportunity\n\nAdobe Express is building the next generation of AI-powered creative experiences used by hundreds of millions of creators worldwide. Our Imaging team works where Computer Vision, Generative AI, the Adobe Firefly platform, and creative workflows meet. They help users transform ideas into polished content quickly.\n\nWe're looking for a Product Manager who is passionate about building intelligent creative experiences and bringing ground breaking AI capabilities to customers worldwide. You'll partner with world-class Engineering, Design, Applied Research, Data Science, and Adobe Firefly teams to build how millions of creators interact with AI every day.",
+      "responsibilities": [
+        "As a Product Manager on the AI Imaging team, you will:",
+        "Own one or more strategic product areas within Adobe Express Imaging, driving customer and business outcomes from initial idea to final release.",
+        "Drive product discovery through customer research, competitive analysis, product analytics, and experimentation.",
+        "Define product strategy for your product area, create clear product requirements, prioritize roadmaps, and deliver exceptional customer experiences.",
+        "Design and run experiments, define success metrics, and iterate rapidly using customer insights and data.",
+        "Partner closely with Engineering, Design, Applied Research, Adobe Firefly, and Imaging Platform teams to bring ground breaking AI capabilities into intuitive creative workflows.",
+        "Collaborate with Growth teams to improve activation, engagement, retention, and monetization across the customer journey.",
+        "Coordinate complex launches across multiple cross-functional teams while balancing customer value, technical feasibility, and business impact.",
+        "Continuously simplify creative workflows and find chances to define AI-powered editing faster, more intuitive, and more delightful.",
+        "What You'll Work On",
+        "Depending on business priorities, you'll contribute to initiatives such as:",
+        "AI-powered photo enhancement"
+      ],
+      "requirements": [
+        "Required",
+        "2-6 years of Product Management experience building and shipping consumer or SaaS products.",
+        "Strong product intuition with a deep customer-first perspective.",
+        "Experience partnering closely with Engineering, Design, Data Science, and cross-functional collaborators.",
+        "Strong analytical abilities with experience defining critical metrics, interpreting product analytics, and running experiments.",
+        "Experience building AI-powered customer experiences.",
+        "Excellent communication, collaboration, and collaborator management skills.",
+        "Demonstrated experience owning products from concept through launch with measurable customer or business impact."
+      ],
+      "preferred": [
+        "Familiarity with Generative AI, Computer Vision, LLMs, multimodal AI, or intelligent creative technologies.",
+        "Experience partnering with Applied Research or Machine Learning teams to translate AI capabilities into customer-facing products.",
+        "Understanding of AI product evaluation, experimentation frameworks, model quality, inference latency, and product trade-offs.",
+        "Experience building products used by millions of customers.",
+        "Why Adobe",
+        "Adobe is redefining digital creativity through AI-powered experiences that empower creators of every skill level. Join a team solving challenging product problems at global scale while working alongside world-class engineers, designers, researchers, and AI experts to invent the future of creativity."
+      ],
+      "salary": null,
+      "source": "Workday · Adobe",
+      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Product-Manager--Adobe-Express---Imaging-Experience-_R170777",
+      "postedAt": "2026-07-25",
+      "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-09-13",
       "status": "Active"
     },
@@ -3993,6 +5433,81 @@
       "applyUrl": "https://www.themuse.com/jobs/vanguard/technical-product-manager-specialist-414f9b",
       "postedAt": "2026-07-21",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
+      "lastSeenAt": "2026-09-13",
+      "status": "Active"
+    },
+    {
+      "id": "job_2ee50f",
+      "slug": "principal-product-manager-firefly-ui-image-video-adobe-delhi-ncr-2ee50f",
+      "title": "Principal Product Manager - Firefly UI (Image/Video)",
+      "company": {
+        "id": "adobe",
+        "name": "Adobe",
+        "logo": null,
+        "domain": "adobe.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": 8,
+      "experienceMax": 10,
+      "domain": [
+        "SaaS",
+        "Enterprise",
+        "AI"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "Demand"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "AI",
+        "Group Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "Growth",
+        "API"
+      ],
+      "description": "The Opportunity\n\nWe are seeking an experienced Senior Product Manager to join Firefly group. As part of our ambitious team, you will develop a business around Generative-AI surfaces for Adobe, driving innovation and crafting a flawless user experience. Experience working on AI-based products is highly desirable.\n\nRoadmap and Launch",
+      "responsibilities": [
+        "Engage with customers & stakeholders to understand workflows and difficulties, defining requirements",
+        "Build detailed product requirements and specifications",
+        "Plan capacity based on estimated demand and goals",
+        "Support launch phases including Private/Public Beta and GA",
+        "Collaborate with go-to-market teams to ensure efficient product launch initiatives",
+        "Research Partnership",
+        "Stay informed about AI, machine learning, and related industry trends",
+        "Develop relevant evaluation datasets for research models to ensure quality release",
+        "Connect with client product teams to influence individual product roadmaps",
+        "Analyze",
+        "Track critical metrics to measure performance, usage, and uptime"
+      ],
+      "requirements": [
+        "Bachelor's degree in Computer Science, Engineering, Business, or a similar area of study (Master's degree or equivalent experience preferred)",
+        "8-10 years of product management experience, preferably in a large technology company",
+        "Proven track record of developing Customer facing web surfaces, SaaS and APIs",
+        "Experience with image, video and audio editing products is a plus",
+        "Proficient in AI technologies and their application in product development",
+        "Excellent leadership, communication, and collaboration skills",
+        "Ability to thrive in a fast-paced, dynamic environment"
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Adobe",
+      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager_R167941",
+      "postedAt": "2026-07-17",
+      "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-09-13",
       "status": "Active"
     },
@@ -4545,6 +6060,72 @@
       "status": "Active"
     },
     {
+      "id": "job_b38975",
+      "slug": "senior-global-product-manager-respiratory-therapy-philips-pune-b38975",
+      "title": "Senior Global Product Manager (Respiratory Therapy)",
+      "company": {
+        "id": "philips",
+        "name": "Philips",
+        "logo": null,
+        "domain": "philips.com"
+      },
+      "location": {
+        "city": "Pune",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "Healthcare",
+        "Enterprise"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "Growth",
+        "Pricing",
+        "API",
+        "Demand",
+        "Stakeholder Management"
+      ],
+      "tags": [
+        "Healthcare",
+        "Enterprise",
+        "Group Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "Growth",
+        "Pricing",
+        "API"
+      ],
+      "description": "Job Title\n\nSenior Global Product Manager (Respiratory Therapy)\n\nJob Description\n\nSenior Global Product Manager (Respiratory Therapy)\n\nIn this role, you will lead partnership strategy and legacy portfolio lifecycle management within the Respiratory Therapies segment. You will drive the commercial success of products brought to market through strategic partnerships — owning go-to-market planning, business case development, and launch performance — while also ensuring the legacy portfolio continues to meet customer needs through service excellence and smart portfolio optimization. You will work closely with cross-functional product management, R&D, and commercial teams, and report to the Segment Leader, Respiratory Therapies. This role is based in Pune, India, co-located with our R&D and cross-functional execution teams.\n\nYour role:\n\nPartnership & Go-to-Market Strategy\n\n: Lead go-to-market planning for products developed through strategic partnerships, collaborating with regional market teams to align on pricing, volumes, positioning, and launch sequencing that maximize commercial impact.",
+      "responsibilities": [
+        "Business Case & Market Alignment",
+        ": Develop and own business cases for partnership-driven launches, securing alignment and sign-off with markets on investment, pricing strategy, and volume commitments to ensure mutual accountability and commercial readiness.",
+        "Launch Execution & Performance Management",
+        ": Support regional teams in executing local launch plans and own the performance management cadence post-launch — tracking adoption, identifying gaps, and driving corrective actions to deliver on committed targets.",
+        "Legacy Portfolio & Customer Support",
+        ": Serve as the product management lead for the legacy portfolio, ensuring ongoing customer-facing needs are met with a focus on service continuity, support readiness, and a positive end-of-life experience for customers and patients.",
+        "Portfolio Optimization",
+        ": Continuously evaluate the legacy portfolio to identify rationalization and pruning opportunities that simplify the offering, reduce complexity, and identify opportunities to shift focus to growth — while managing transitions in a way that protects customer trust and market position.",
+        "You're the right fit if:",
+        "You’ve acquired",
+        "10+ years of experience",
+        "in an international business environment in the field of product management, marketing, or related commercial/strategic role in medical devices or health technology"
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Philips",
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Senior-Global-Product-Manager--Respiratory-Therapy-_585968-1",
+      "postedAt": "2026-07-07",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-13",
+      "status": "Active"
+    },
+    {
       "id": "job_8be83e",
       "slug": "portfolio-product-manager-broadridge-bengaluru-8be83e",
       "title": "Portfolio / Product Manager",
@@ -4855,6 +6436,59 @@
       "status": "Active"
     },
     {
+      "id": "job_ec0788",
+      "slug": "senior-product-manager-highradius-hyderabad-ec0788",
+      "title": "Senior Product Manager",
+      "company": {
+        "id": "highradius",
+        "name": "HighRadius",
+        "logo": null,
+        "domain": "highradius.com"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 7,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "SaaS",
+        "AI"
+      ],
+      "skills": [
+        "API",
+        "Platform",
+        "Data",
+        "B2B",
+        "Payments"
+      ],
+      "tags": [
+        "Fintech",
+        "SaaS",
+        "AI",
+        "Senior Product Manager",
+        "Onsite",
+        "API",
+        "Platform",
+        "Data"
+      ],
+      "description": "About Us HighRadius provides a single Agentic AI platform for the Office of the CFO. It integrates 180+ agents that orchestrate end-to-end processes across Order-to-Cash, Close & Reconciliation, Consolidation & Reporting, Accounts Payable, B2B Payments, and Treasury. HighRadius guarantees operational KPI improvements by mapping them to specific agents on the platform. With a 3-6 month go-live period, HighRadius drives value creation at 1300+ enterprises such as 3M, Unilever, Bristol-Myers Squibb Company, Red Bull, Lufthansa, and more. HighRadius has been consistently recognized as a market",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · HighRadius",
+      "applyUrl": "https://www.highradius.com/about/careers-list/?gh_jid=7707536003",
+      "postedAt": "2026-06-23",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-13",
+      "status": "Active"
+    },
+    {
       "id": "job_30f664",
       "slug": "product-management-intern-insurance-paytm-delhi-ncr-30f664",
       "title": "Product Management Intern- Insurance",
@@ -5019,6 +6653,86 @@
       "applyUrl": "https://jobs.ashbyhq.com/sarvam/6390e602-7b98-4700-baa9-ced5be8b1651",
       "postedAt": "2026-05-25",
       "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-13",
+      "status": "Active"
+    },
+    {
+      "id": "job_4bcb61",
+      "slug": "product-manager-tax-platform-ebay-bengaluru-4bcb61",
+      "title": "Product Manager – Tax Platform",
+      "company": {
+        "id": "ebay",
+        "name": "eBay",
+        "logo": null,
+        "domain": "ebay.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
+      "experienceMax": null,
+      "domain": [
+        "Ecommerce",
+        "Consumer",
+        "Fintech"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "API",
+        "Platform",
+        "Data",
+        "iOS",
+        "Payments",
+        "Agile",
+        "Scrum",
+        "Compliance"
+      ],
+      "tags": [
+        "Ecommerce",
+        "Consumer",
+        "Fintech",
+        "Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "API",
+        "Platform"
+      ],
+      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nLooking for a company that inspires passion, courage and creativity, where you can be on the team shaping the future of global commerce? Want to shape how millions of people buy, sell, connect, and share around the world? If you’re interested in joining a purpose driven community that is dedicated to crafting an ambitious and inclusive work environment, join eBay – a company you can be proud to be with.\n\nBe challenged. Make an impact. Do cool things that matter.\n\neBay is looking for an experienced Product Manager",
+      "responsibilities": [
+        "Tax Platform to help design, shape, and drive product solutions for eBay's Payments Tax Platform. This person will drive Tax Platform product initiatives for eBay and spearhead initiatives that streamline, automate, and integrate tax operations driving process improvements and measurable impact.",
+        "Developing a platform to support multiple geographies carries with it many challenges. You will have previously developed global product tax strategies that enable and drive innovation and go-to-market efficiency, and understand the nuances of building out tax product functionality while maintaining operational flexibility and underlying tax compliance. A focus and passion for solving complex problems, a strong understanding of tax regulations, and a proven track record of delivering successful products. They will work closely with in-country and regional tax business leaders, legal, compliance, finance ,product and domain leads to identify and build core capabilities, improve utility of features common to multiple partners, and efficiently solve for local functionalities critical to market success. Additionally, they have a demonstrated ability to establish relationships and influence across the organization at all levels, as well as possess superior communication and presentation abilities.",
+        "Lead: Define tax product vision and roadmaps across technology components. Clearly set the product prioritization with a balance of near-term deliverables and longer-term investment in technology platforms.",
+        "Implement: As the Product Owner, co-lead the Agile scrum team with the engineering counterpart to complete the tax product roadmap with clear achievements.",
+        "Learn: Synthesize market changes and technology improvements into practical improvements for the tax platform.",
+        "Collaborate: Partner closely with internal and external customers to provide a global viewpoint and extend applications across use cases and geographies.",
+        "Define a compelling multi-year roadmap for tax technology product development, leveraging a deep understanding of tax objectives, operational pain points, and business needs",
+        "Communicate product updates and progress to stakeholders, including executives, team members, and customers",
+        "Act as a subject matter expert on tax regulations and provide guidance and support to other teams within the company."
+      ],
+      "requirements": [
+        "3+ years experience in product management or software development, preferably for eCommerce/payments products with a large user base. Tax expertise is a must.",
+        "Experience working with International markets and in developing products for multiple geographies.",
+        "Strong grounding in tax concepts (e.g. direct & indirect taxes, regional tax obligations), audits and regulatory frameworks (e.g. SOX)",
+        "Strong technical background to understand and contribute to the design of engineering and data architecture and infrastructure components.",
+        "Passion, and a consistent track record, for delivering experiences that delight users.",
+        "Solid financial and analytical abilities, experience in translating complex business issues into clear goals and product requirements.",
+        "Strong drive and curiosity to come up with new ideas, identify opportunities and create vision to drive the business forward.",
+        "Exceptional presentation and communication skills.",
+        "Ability to shift from developing and communicating a strategy to executing in a cross-functional, matrixed organization.",
+        "Create learning plans to identify and test the biggest hypotheses to drive your KPIs and success metrics.",
+        "Identify new opportunities based on customer and competitive research, industry trends, and best practices",
+        "Additional Details"
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · eBay",
+      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Product-Manager---Tax-Platform_R0072974",
+      "postedAt": "2026-05-19",
+      "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-09-13",
       "status": "Active"
     },
@@ -5899,7 +7613,7 @@
         "id": "salesforce",
         "name": "Salesforce",
         "logo": null,
-        "domain": null
+        "domain": "salesforce.com"
       },
       "location": {
         "city": "Hyderabad",
@@ -5949,7 +7663,7 @@
         "id": "mastercard",
         "name": "Mastercard",
         "logo": null,
-        "domain": null
+        "domain": "mastercard.com"
       },
       "location": {
         "city": "Pune",
@@ -6026,7 +7740,7 @@
         "id": "salesforce",
         "name": "Salesforce",
         "logo": null,
-        "domain": null
+        "domain": "salesforce.com"
       },
       "location": {
         "city": "Bengaluru",
@@ -6080,7 +7794,7 @@
         "id": "mastercard",
         "name": "Mastercard",
         "logo": null,
-        "domain": null
+        "domain": "mastercard.com"
       },
       "location": {
         "city": "Pune",
@@ -6768,6 +8482,20 @@
   ],
   "companies": [
     {
+      "id": "adobe",
+      "name": "Adobe",
+      "logo": null,
+      "domain": "adobe.com",
+      "website": "https://adobe.com",
+      "industry": "SaaS",
+      "companySize": "5000+",
+      "description": "Adobe is a saas company hiring product managers in India.",
+      "locations": [
+        "Bengaluru",
+        "Delhi NCR"
+      ]
+    },
+    {
       "id": "airbnb",
       "name": "Airbnb",
       "logo": null,
@@ -6797,11 +8525,11 @@
       "id": "autodesk",
       "name": "Autodesk",
       "logo": null,
-      "domain": null,
-      "website": null,
-      "industry": null,
-      "companySize": null,
-      "description": null,
+      "domain": "autodesk.com",
+      "website": "https://autodesk.com",
+      "industry": "SaaS",
+      "companySize": "5000+",
+      "description": "Autodesk is a saas company hiring product managers in India.",
       "locations": [
         "Bengaluru"
       ]
@@ -6898,6 +8626,19 @@
       ]
     },
     {
+      "id": "ebay",
+      "name": "eBay",
+      "logo": null,
+      "domain": "ebay.com",
+      "website": "https://ebay.com",
+      "industry": "Ecommerce",
+      "companySize": "5000+",
+      "description": "eBay is a ecommerce company hiring product managers in India.",
+      "locations": [
+        "Bengaluru"
+      ]
+    },
+    {
       "id": "ema",
       "name": "Ema",
       "logo": null,
@@ -6955,6 +8696,19 @@
       ]
     },
     {
+      "id": "gartner",
+      "name": "Gartner",
+      "logo": null,
+      "domain": "gartner.com",
+      "website": "https://gartner.com",
+      "industry": "Research",
+      "companySize": "5000+",
+      "description": "Gartner is a research company hiring product managers in India.",
+      "locations": [
+        "Delhi NCR"
+      ]
+    },
+    {
       "id": "ge-vernova",
       "name": "GE Vernova",
       "logo": null,
@@ -6991,6 +8745,19 @@
       "description": "Hevo Data is a data company hiring product managers in India.",
       "locations": [
         "Bengaluru"
+      ]
+    },
+    {
+      "id": "highradius",
+      "name": "HighRadius",
+      "logo": null,
+      "domain": "highradius.com",
+      "website": "https://highradius.com",
+      "industry": "Fintech",
+      "companySize": "1000-5000",
+      "description": "HighRadius is a fintech company hiring product managers in India.",
+      "locations": [
+        "Hyderabad"
       ]
     },
     {
@@ -7062,13 +8829,27 @@
       "id": "mastercard",
       "name": "Mastercard",
       "logo": null,
-      "domain": null,
-      "website": null,
-      "industry": null,
-      "companySize": null,
-      "description": null,
+      "domain": "mastercard.com",
+      "website": "https://mastercard.com",
+      "industry": "Fintech",
+      "companySize": "5000+",
+      "description": "Mastercard is a fintech company hiring product managers in India.",
       "locations": [
-        "Pune"
+        "Pune",
+        "Delhi NCR"
+      ]
+    },
+    {
+      "id": "medtronic",
+      "name": "Medtronic",
+      "logo": null,
+      "domain": "medtronic.com",
+      "website": "https://medtronic.com",
+      "industry": "Healthcare",
+      "companySize": "5000+",
+      "description": "Medtronic is a healthcare company hiring product managers in India.",
+      "locations": [
+        "Hyderabad"
       ]
     },
     {
@@ -7111,6 +8892,19 @@
       ]
     },
     {
+      "id": "okta",
+      "name": "Okta",
+      "logo": null,
+      "domain": "okta.com",
+      "website": "https://okta.com",
+      "industry": "Security",
+      "companySize": "5000+",
+      "description": "Okta is a security company hiring product managers in India.",
+      "locations": [
+        "Bengaluru"
+      ]
+    },
+    {
       "id": "paytm",
       "name": "Paytm",
       "logo": null,
@@ -7122,6 +8916,20 @@
       "locations": [
         "Bengaluru",
         "Delhi NCR"
+      ]
+    },
+    {
+      "id": "philips",
+      "name": "Philips",
+      "logo": null,
+      "domain": "philips.com",
+      "website": "https://philips.com",
+      "industry": "Healthcare",
+      "companySize": "5000+",
+      "description": "Philips is a healthcare company hiring product managers in India.",
+      "locations": [
+        "Bengaluru",
+        "Pune"
       ]
     },
     {
@@ -7154,11 +8962,11 @@
       "id": "salesforce",
       "name": "Salesforce",
       "logo": null,
-      "domain": null,
-      "website": null,
-      "industry": null,
-      "companySize": null,
-      "description": null,
+      "domain": "salesforce.com",
+      "website": "https://salesforce.com",
+      "industry": "SaaS",
+      "companySize": "5000+",
+      "description": "Salesforce is a saas company hiring product managers in India.",
       "locations": [
         "Hyderabad",
         "Bengaluru"
@@ -7266,8 +9074,8 @@
       "companySize": "1000-5000",
       "description": "Sumo Logic is a saas company hiring product managers in India.",
       "locations": [
-        "Delhi NCR",
-        "Bengaluru"
+        "Bengaluru",
+        "Delhi NCR"
       ]
     },
     {
@@ -7360,6 +9168,20 @@
       "description": "Zenoti is a vertical saas company hiring product managers in India.",
       "locations": [
         "Hyderabad"
+      ]
+    },
+    {
+      "id": "zoominfo",
+      "name": "ZoomInfo",
+      "logo": null,
+      "domain": "zoominfo.com",
+      "website": "https://zoominfo.com",
+      "industry": "SaaS",
+      "companySize": "1000-5000",
+      "description": "ZoomInfo is a saas company hiring product managers in India.",
+      "locations": [
+        "Bengaluru",
+        "Chennai"
       ]
     }
   ]
