@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T13:59:45.390Z",
+  "generatedAt": "2026-09-13T21:58:41.122Z",
   "jobs": [
     {
       "id": "job_246f2c",
@@ -853,39 +853,60 @@
         "Enterprise"
       ],
       "skills": [
+        "Product Strategy",
+        "Experimentation",
+        "Analytics",
+        "User Research",
+        "Go-to-Market",
+        "Growth",
+        "API",
         "Platform",
-        "Payments",
-        "Agile"
+        "Data",
+        "Payments"
       ],
       "tags": [
         "Fintech",
         "Enterprise",
         "Lead Product Manager",
         "Onsite",
-        "Platform",
-        "Payments",
-        "Agile"
+        "Product Strategy",
+        "Experimentation",
+        "Analytics",
+        "User Research"
       ],
-      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nLead Product Manager- Technical\n\nOverview",
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nLead Product Manager- Technical\n\nLead Product Manager-Technical – Agentic AI\n\n**********************************************\n\nOverview\n\n==================\n\nMastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.\n\nThe Services Business represents over a third of Mastercard revenues and is a key differentiator for Mastercard. Services use our unique and proprietary data, technology, insights and expertise to deliver solutions that meet the needs of our customers. Services is critical for the sustained, long-term growth of Mastercard.\n\nWithin the Services organization, this role sits within the",
       "responsibilities": [
-        "Mastercard Send is at the cornerstone of our vision of a World Beyond Cash. Our services facilitate the secure delivery of funds between senders and receivers, typically within seconds. We support multiple use cases – person-to-person, business to business, disbursements, remittances and merchant payments. With our technology and expertise we are making sending money safe, simple and fast.",
-        "The Lead Product Manager Technical",
-        "Mastercard Send, will lead initiatives and partners with cross-functional global stakeholders (Product, Operations & Technology, Service Management and Regional Mastercard Send Product Managers) to ensure that Mastercard offers competitive and innovative solutions to solve real market problems.",
-        "Manages the development of operational processes and procedures including process for new market deployments, customer implementations and platform management",
-        "Provides ongoing management and documentation of system / platform descriptions and functionality to ensure consistent usage",
-        "o Have you ever managed services that touch multiple products on a global scale?",
-        "o Are you motivated to be a part of driving a world beyond cash?",
-        "o Do you have experience in developing products and services and partnering with cross-functional stakeholders globally?",
-        "Role",
-        "Leads the development and management of platform capabilities for Send auth, clearing and billing. In particular support programs related to Send transaction, managing the product lifecycle including product design, creation of business and functional requirements, documentation, training, project management, and on-going product development",
-        "Consult as a Product Knowledge Leader for Send, Clearing & Bllling to effectively identify needs, recommend solutions, define requirements and develop / deliver the right products to solve market problems",
-        "Partner closely with regional leads, customers and internal stakeholders to develop and maintain the development roadmap to guide future investment and ensure strategic alignment"
+        "====================================",
+        "Own strategy and roadmap for AI and agentic capabilities across Payment Performance Intelligence.",
+        "Translate a deep understanding of our customers into products and solutions that drive significant customer value",
+        "Balance the long-term direction of a product with today’s needs and constraints by fully understanding the technical, competitive, and commercial contexts of our products.",
+        "Partner closely with engineering, data science/AI, other platform/COE teams to ensure architecture quality, safety, evaluation, and observability.",
+        "Own PRDs, backlog prioritizations, story writing, dependencies, and release planning.",
+        "Partner with Customer Experience team to design intuitive, highly relevant features that are of maximum value to clients.",
+        "Ensure consistent alignment between business priorities and development objectives",
+        "Lead user research, discovery, and experimentation to validate use cases, accuracy, trust, and business impact.",
+        "Support go-to-market, and customer enablement through demos, query resolution, documentation, and training.",
+        "Build strong cross-functional and stakeholder alignment across global teams.",
+        "Mentor and develop junior product managers."
       ],
-      "requirements": [],
+      "requirements": [
+        "====================================",
+        "Knowledge of Product Development and Management principles",
+        "Strong ability to translate complex technical concepts into clear, actionable product requirements.",
+        "Proven track record collaborating in cross-functional teams to deliver outstanding products and features.",
+        "Designing, executing, and distilling user research to drive value for the customer.",
+        "Excellent execution, communication, and stakeholder management skills.",
+        "Bachelor's degree in computer science, Engineering, or equivalent experience.",
+        "Good to have : AI know how, specifically experience of working on Gen AI chatbot use cases support & delivery",
+        "Payments industry experience is a plus",
+        "Corporate Security Responsibility",
+        "All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:",
+        "Abide by Mastercard’s security policies and practices;"
+      ],
       "preferred": [],
       "salary": null,
       "source": "Workday · Mastercard",
-      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--Technical_R-289421",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--Technical_R-289980",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-09-13",
