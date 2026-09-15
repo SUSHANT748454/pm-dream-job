@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T18:38:00.769Z",
+  "generatedAt": "2026-09-15T22:35:17.515Z",
   "jobs": [
     {
       "id": "job_52aefb",
@@ -58,6 +58,58 @@
       "salary": null,
       "source": "Workday · Philips",
       "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/AI-Product-Owner_587510-1",
+      "postedAt": "2026-09-15",
+      "firstSeenAt": "2026-09-15",
+      "lastSeenAt": "2026-09-15",
+      "status": "Active"
+    },
+    {
+      "id": "job_78c8cd",
+      "slug": "product-management-i-exp-3-5-years-paytm-delhi-ncr-78c8cd",
+      "title": "Product Management I Exp- 3-5 Years",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 4,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "API",
+        "Data",
+        "Mobile",
+        "Payments",
+        "Stakeholder Management"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "API",
+        "Data",
+        "Mobile",
+        "Payments"
+      ],
+      "description": "About Us Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm's mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. About the Role We are looking for a Product Manager with a strong technical foundation and proven ability to translate ambiguous business and client needs into clear, scalable product solutions. The role will involve working closely with clients,",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/a47fec38-e2c6-4359-b689-d730d849e82b",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-15",
       "lastSeenAt": "2026-09-15",
@@ -1616,55 +1668,66 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Product Manager",
-      "experienceMin": null,
-      "experienceMax": null,
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 4,
+      "experienceMax": 7,
       "domain": [
         "Fintech",
         "SaaS"
       ],
       "skills": [
-        "Go-to-Market",
+        "Product Strategy",
+        "Experimentation",
+        "Analytics",
+        "Growth",
+        "Monetization",
         "API",
         "Platform",
         "Data",
         "Payments",
-        "Fraud",
-        "Onboarding"
+        "Fraud"
       ],
       "tags": [
         "Fintech",
         "SaaS",
-        "Product Manager",
+        "Senior Product Manager",
         "Onsite",
-        "Go-to-Market",
-        "API",
-        "Platform",
-        "Data"
+        "Product Strategy",
+        "Experimentation",
+        "Analytics",
+        "Growth"
       ],
       "description": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we’ve since grown into a fintech powerhouse driving India’s digital payment revolution.\n\nRazorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow.\n\nFrom building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech\n\nAcross India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that’s redefining how money moves across Asia.\n\nToday, that ecosystem supports everyone from early-stage startups to some of India’s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently.\n\nOur scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like",
       "responsibilities": [
-        "Build Customer Empathy: PMs have to regularly meet and understand customer needs first-hand as well as stay on top of the customer pulse via secondary insights - both qualitative and quantitative.",
-        "Devise Strategy: Define both long-term strategy and quarterly roadmap to achieve the product vision and create impact.",
-        "Conceptualize new solutions: Product Conceptualization with a problem first, data-driven, and test & iterate approach. Ensures conceptualization from a platform and a long-term view. Ensures value-based prioritization of product initiatives.",
-        "Build products: Collaborate with Engineering and ecosystem players to build products that customers love. Produce high-quality product specifications and effectively prioritize and manage the scope of each product launch to deliver products and features on time.",
-        "Launch products: Draft and execute a go-to-market plan in conjunction with Product Marketing. Be the internal and external authority and advocate for your given area of focus.",
-        "Ecosystem collaboration: Self-starter to collaborate closely with ecosystem players to co-build products that don’t exist.",
-        "Mandatory"
+        "As a PM2, you will independently own a product area or platform charter end-to-end — from strategy and roadmap to execution and business impact. You will operate with significant autonomy and drive initiatives across customer experience, platform scalability, automation, growth, and monetization. You will be expected to think beyond features and solve for systems, operational leverage, and long-term platform evolution.",
+        "What You will Do",
+        "Build Customer Empathy",
+        "Regularly engage with customers, internal stakeholders, and ecosystem partners to deeply understand pain points, workflows, and unmet needs through both qualitative and quantitative insights.",
+        "Drive Product Strategy",
+        "Define long-term product vision and quarterly roadmap aligned with business goals, customer outcomes, and platform scalability.",
+        "Build Scalable Products",
+        "Collaborate with engineering, design, analytics, and operations teams to build reliable, scalable, and high-impact products.",
+        "Lead Product Execution",
+        "Write high-quality product specifications, prioritize effectively, manage tradeoffs, and ensure timely execution across releases.",
+        "Own Metrics & Outcomes",
+        "Define success metrics, monitor business impact, and drive iterative improvements through experimentation and data analysis."
       ],
       "requirements": [
-        "You understand technology, but love customer-first & business-first thinking.",
-        "You are comfortable working hands-on in a fast-paced start-up environment.",
-        "You are curious about metrics, execution processes, macro trends.",
-        "Problem-solving and detail orientation come naturally to you.",
-        "You have an analytical and data-driven approach in day-to-day work. Energetic self-starter with the ability to work independently in a fast-paced environment.",
+        "4–7 years of product management experience",
+        "Strong product execution and prioritization skills",
+        "Experience owning business metrics and customer outcomes",
+        "Strong analytical thinking and experimentation mindset",
+        "Ability to work across technical and business stakeholders",
+        "Systems thinking and platform orientation",
+        "Strong customer empathy balanced with business acumen",
+        "Ability to thrive in ambiguity and fast-paced environments",
         "Razorpay believes in and follows an equal employment opportunity policy that doesn't discriminate on gender, religion, sexual orientation, colour, nationality, age, etc. We welcome interests and applications from all groups and communities across the globe.",
         "Follow us on LinkedIn & Twitter"
       ],
       "preferred": [],
       "salary": null,
       "source": "Greenhouse · Razorpay",
-      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4715389005",
+      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729519005",
       "postedAt": "2026-09-07",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
       "lastSeenAt": "2026-09-15",
