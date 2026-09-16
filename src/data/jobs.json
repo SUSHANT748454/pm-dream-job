@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T18:35:15.400Z",
+  "generatedAt": "2026-09-16T22:30:56.780Z",
   "jobs": [
     {
       "id": "job_5b1056",
@@ -8205,8 +8205,8 @@
       "applyUrl": "https://www.themuse.com/jobs/salesforce/senior-product-manager-service-cloud-28a324",
       "postedAt": "2025-04-09",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-15",
-      "status": "Expired"
+      "lastSeenAt": "2026-09-16",
+      "status": "Active"
     },
     {
       "id": "job_8e7ca7",
@@ -9453,7 +9453,8 @@
       "companySize": "5000+",
       "description": "Salesforce is a saas company hiring product managers in India.",
       "locations": [
-        "Hyderabad"
+        "Hyderabad",
+        "Bengaluru"
       ]
     },
     {
