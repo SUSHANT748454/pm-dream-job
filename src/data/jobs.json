@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T14:34:07.251Z",
+  "generatedAt": "2026-09-17T18:42:51.502Z",
   "jobs": [
     {
       "id": "job_c82833",
@@ -10852,6 +10852,87 @@
       "status": "Active"
     },
     {
+      "id": "job_0fec8a",
+      "slug": "product-manager-product-platform-okta-bengaluru-0fec8a",
+      "title": "Product Manager, Product Platform",
+      "company": {
+        "id": "okta",
+        "name": "Okta",
+        "logo": null,
+        "domain": "okta.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise",
+        "AI"
+      ],
+      "skills": [
+        "Growth",
+        "Pricing",
+        "Platform",
+        "Machine Learning",
+        "Onboarding",
+        "Retention",
+        "Scrum"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "AI",
+        "Product Manager",
+        "Onsite",
+        "Growth",
+        "Pricing",
+        "Platform"
+      ],
+      "description": "Secure Every Identity, from AI to Human\n\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\n\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.\n\nProduct Manager, Product Platform (India)\n\nCompany Overview\n\nOkta is The World’s Identity Company. We free everyone to safely use any technology - anywhere, on any device, for any app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth.",
+      "responsibilities": [
+        "This is a rare 0-to-1 opportunity to build a brand-new, high-visibility capability that touches every Okta customer: backup and recovery to strengthen the resilience of our system. You’ll be responsible for building a modern, self-service experience that allows IT Admins to recover back their accidentally or maliciously deleted identity objects. You'll partner closely with Engineering, Field, Pricing & Packaging, and Product leadership to shape a capability with direct, measurable impact on customer retention and revenue growth.",
+        "Contribute to",
+        "the long-term product vision and strategy for Okta's resilience strategy, ensuring the backup and recovery roadmap scales with the breadth of Okta's customer base and product portfolio.",
+        "Design",
+        "a self-service recovery center to ensure customers can seamlessly and securely track their deletions and changes and revert back across the entire Okta ecosystem.",
+        "Collaborat",
+        "with India-based engineering and development scrum teams to deliver high-performance, scalable backup and recovery solution",
+        "Distill",
+        "complex requirements from a diverse stakeholder group - including Field (AE/CSM), Pricing & Packaging, Support, Design, and Product teams - into precise technical specifications.",
+        "Analyze",
+        "how large-scale enterprise customer’s resilience needs to identify friction points and drive improvements in customer trust and platform experience.",
+        "Validate"
+      ],
+      "requirements": [
+        "3+ years of Product Management experience",
+        "specifically within",
+        "enterprise-scale SaaS platforms",
+        "or core software infrastructure.",
+        "BS in Computer Science, Computer Engineering",
+        ", or equivalent technical experience that enables you to rationalize and influence complex architectural decisions.",
+        "Proven ability to produce solid, actionable plans",
+        "from incomplete, conflicting, or highly ambiguous inputs.",
+        "Exceptional communication and presentation skills",
+        ", with a track record of successfully collaborating across global functions and time zones.",
+        "Demonstrated business results from customer-facing platform capabilities shipped at scale.",
+        "Experience with Backup or recovery tools"
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Okta",
+      "applyUrl": "https://www.okta.com/company/careers/opportunity/8210924?gh_jid=8210924",
+      "postedAt": "2026-09-11",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-17",
+      "status": "Active"
+    },
+    {
       "id": "job_e22607",
       "slug": "product-owner-incubyte-india-e22607",
       "title": "Product Owner",
@@ -11151,71 +11232,6 @@
       "status": "Active"
     },
     {
-      "id": "job_e503ad",
-      "slug": "senior-product-manager-philips-bengaluru-e503ad",
-      "title": "Senior Product Manager",
-      "company": {
-        "id": "philips",
-        "name": "Philips",
-        "logo": null,
-        "domain": "philips.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 5,
-      "experienceMax": 10,
-      "domain": [
-        "Healthcare",
-        "Enterprise"
-      ],
-      "skills": [
-        "Product Strategy",
-        "Growth",
-        "Pricing",
-        "Demand",
-        "Segmentation"
-      ],
-      "tags": [
-        "Healthcare",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Product Strategy",
-        "Growth",
-        "Pricing",
-        "Demand"
-      ],
-      "description": "Job Title\n\nSenior Product Manager\n\nJob Description\n\nSenior Product Manager\n\nYou will play a pivotal marketing role at Diagnostic X-Ray (DXR) and drive creation of solutions (integrated combination of products and services) from idea to market. You will be accountable for defining, launching and building profitable product solutions that transform healthcare. You will work directly with the different functions within the organization and maintains a balanced development scope. This will not only ensure the products/solutions are developed to the feature and price specifications that each target market segment demands but also will deliver a profitable and performing product in all its aspects.\n\nThe Product Manager owns the product lifecycle from concept phase through development and launch and eventually, end of life. You are required to have expertise in market segmentation, product strategy, competitive strategy, and product development.\n\nYour role:",
-      "responsibilities": [
-        "Join corporate core teams to drive implementation (plan, execute, track, and communicate) of strategic marketing initiatives at DXR.",
-        "Own your product and its performance during its complete lifecycle from concept phase throughout development and launch, till end of life.",
-        "Support and drive upstream marketing activities for the solution, including definition of the strategy and its enablers as well as its alignment with key markets globally.",
-        "Translate in-depth customer and market insights to support the product strategy: analyze the customers, markets, the competition, and the trends to create winning concepts, value propositions and clear product specifications to ensure delivering according to the customer’s needs and expectations.",
-        "Drive the development of business cases to prioritize investments",
-        "Interact with various disciplines including Research, R&D departments, internal and external design agencies, suppliers, industrialization, marketing management, marketing communication and international sales organizations.",
-        "Be a key core team member in product development and lifecycle management teams.",
-        "Drive the market readiness as part of PDLM. Ensure completion of appropriate deliverables (feature descriptions, value propositions, costing/pricing/quoting materials, etc.)",
-        "Follow a lean way of working and a continuous improvement mindset within the product management team.",
-        "You are a part of",
-        "The Diagnostic X-ray product management team of Philips Healthcare and become part of the global marketing department. You will be based in Pune and report into the Head of Product Management and be working in an international network of various stakeholders based across the globe. The team operates in an open, ‘can-do’ atmosphere. The team is characterized by a “self-starting” mentality.",
-        "In the team we focus on translating the customer voice in medical products, solutions and services. We manage a wide Radiography and Fluoroscopy portfolio targeting the global health market contributing directly to the growth of the business."
-      ],
-      "requirements": [],
-      "preferred": [],
-      "salary": null,
-      "source": "Workday · Philips",
-      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Senior-Product-Manager_582154-1",
-      "postedAt": "2026-09-11",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-17",
-      "status": "Active"
-    },
-    {
       "id": "job_578432",
       "slug": "senior-product-manager-nanonets-bengaluru-578432",
       "title": "Senior Product Manager",
@@ -11322,6 +11338,71 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-at-incommon-4463982126",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "status": "Active"
+    },
+    {
+      "id": "job_e503ad",
+      "slug": "senior-product-manager-philips-bengaluru-e503ad",
+      "title": "Senior Product Manager",
+      "company": {
+        "id": "philips",
+        "name": "Philips",
+        "logo": null,
+        "domain": "philips.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": 10,
+      "domain": [
+        "Healthcare",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Growth",
+        "Pricing",
+        "Demand",
+        "Segmentation"
+      ],
+      "tags": [
+        "Healthcare",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Growth",
+        "Pricing",
+        "Demand"
+      ],
+      "description": "Job Title\n\nSenior Product Manager\n\nJob Description\n\nSenior Product Manager\n\nYou will play a pivotal marketing role at Diagnostic X-Ray (DXR) and drive creation of solutions (integrated combination of products and services) from idea to market. You will be accountable for defining, launching and building profitable product solutions that transform healthcare. You will work directly with the different functions within the organization and maintains a balanced development scope. This will not only ensure the products/solutions are developed to the feature and price specifications that each target market segment demands but also will deliver a profitable and performing product in all its aspects.\n\nThe Product Manager owns the product lifecycle from concept phase through development and launch and eventually, end of life. You are required to have expertise in market segmentation, product strategy, competitive strategy, and product development.\n\nYour role:",
+      "responsibilities": [
+        "Join corporate core teams to drive implementation (plan, execute, track, and communicate) of strategic marketing initiatives at DXR.",
+        "Own your product and its performance during its complete lifecycle from concept phase throughout development and launch, till end of life.",
+        "Support and drive upstream marketing activities for the solution, including definition of the strategy and its enablers as well as its alignment with key markets globally.",
+        "Translate in-depth customer and market insights to support the product strategy: analyze the customers, markets, the competition, and the trends to create winning concepts, value propositions and clear product specifications to ensure delivering according to the customer’s needs and expectations.",
+        "Drive the development of business cases to prioritize investments",
+        "Interact with various disciplines including Research, R&D departments, internal and external design agencies, suppliers, industrialization, marketing management, marketing communication and international sales organizations.",
+        "Be a key core team member in product development and lifecycle management teams.",
+        "Drive the market readiness as part of PDLM. Ensure completion of appropriate deliverables (feature descriptions, value propositions, costing/pricing/quoting materials, etc.)",
+        "Follow a lean way of working and a continuous improvement mindset within the product management team.",
+        "You are a part of",
+        "The Diagnostic X-ray product management team of Philips Healthcare and become part of the global marketing department. You will be based in Pune and report into the Head of Product Management and be working in an international network of various stakeholders based across the globe. The team operates in an open, ‘can-do’ atmosphere. The team is characterized by a “self-starting” mentality.",
+        "In the team we focus on translating the customer voice in medical products, solutions and services. We manage a wide Radiography and Fluoroscopy portfolio targeting the global health market contributing directly to the growth of the business."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Philips",
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Senior-Product-Manager_582154-1",
+      "postedAt": "2026-09-11",
+      "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-09-17",
       "status": "Active"
     },
@@ -11536,89 +11617,6 @@
       "salary": null,
       "source": "Greenhouse · Okta",
       "applyUrl": "https://www.okta.com/company/careers/opportunity/8022961?gh_jid=8022961",
-      "postedAt": "2026-09-11",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-17",
-      "status": "Active"
-    },
-    {
-      "id": "job_0fec8a",
-      "slug": "senior-product-manager-product-platform-okta-bengaluru-0fec8a",
-      "title": "Senior Product Manager, Product Platform",
-      "company": {
-        "id": "okta",
-        "name": "Okta",
-        "logo": null,
-        "domain": "okta.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 4,
-      "experienceMax": 5,
-      "domain": [
-        "SaaS",
-        "Enterprise",
-        "AI"
-      ],
-      "skills": [
-        "Growth",
-        "Monetization",
-        "Pricing",
-        "Platform",
-        "Data",
-        "Machine Learning",
-        "Onboarding",
-        "Retention",
-        "Scrum"
-      ],
-      "tags": [
-        "SaaS",
-        "Enterprise",
-        "AI",
-        "Senior Product Manager",
-        "Onsite",
-        "Growth",
-        "Monetization",
-        "Pricing"
-      ],
-      "description": "Secure Every Identity, from AI to Human\n\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\n\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.\n\nSenior Product Manager, Product Platform\n\nCompany Overview\n\nOkta is The World’s Identity Company. We free everyone to safely use any technology - anywhere, on any device, for any app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth.",
-      "responsibilities": [
-        "This is a rare 0-to-1 opportunity to build a brand-new, high-visibility capability that touches every Okta customer: self-service visibility into subscription and license usage, delivered directly in the Admin Console. You’ll be responsible for building a modern, self-service experience that increases customer trust, unlocks new upsell and expansion motions, and sets the standard for how Okta communicates value to its largest accounts. You'll partner closely with Engineering, Field, Pricing & Packaging, and Product leadership to shape a capability with direct, measurable impact on customer retention and revenue growth.",
-        "Orchestrate",
-        "the long-term product vision and strategy for Okta's subscription usage and licensing visibility, ensuring the Admin Console roadmap scales with the breadth of Okta's customer base and product portfolio.",
-        "Architect",
-        "a self-service usage dashboard and reporting framework to ensure customers can seamlessly and securely track their subscription and license usage across the entire Okta ecosystem.",
-        "Collaborat",
-        "with India-based engineering and development scrum teams to deliver high-performance usage computation and reporting infrastructure improvements.",
-        "Distill",
-        "complex requirements from a diverse stakeholder group - including Field (AE/CSM), Pricing & Packaging, Support, Design, and Product teams - into precise technical specifications.",
-        "Analyze",
-        "large-scale subscription and usage data to identify friction points and drive improvements in customer trust and platform experience.",
-        "Validate"
-      ],
-      "requirements": [
-        "4-5+ years of Product Management experience",
-        "specifically within",
-        "enterprise-scale SaaS platforms",
-        "or core software infrastructure.",
-        "BS in Computer Science, Computer Engineering",
-        ", or equivalent technical experience that enables you to rationalize and influence complex architectural decisions.",
-        "Proven ability to produce solid, actionable plans",
-        "from incomplete, conflicting, or highly ambiguous inputs.",
-        "Exceptional communication and presentation skills",
-        ", with a track record of successfully collaborating across global functions and time zones.",
-        "Demonstrated business results from customer-facing platform capabilities shipped at scale.",
-        "Experience with subscription/licensing models, usage-based billing, or SaaS packaging and monetization."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · Okta",
-      "applyUrl": "https://www.okta.com/company/careers/opportunity/8164066?gh_jid=8164066",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-09-17",
