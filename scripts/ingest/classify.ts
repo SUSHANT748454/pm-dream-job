@@ -90,10 +90,14 @@ export function resolveLocation(
 }
 
 const LEVEL_RULES: [RegExp, ExperienceLevel][] = [
-  [/\b(director|head of product|vp product|vice president)\b/i, "Director"],
+  // Executive titles belong in the top tier. Without the chief/CPO/"VP of"/AVP
+  // forms these fell through to the default and a Chief Product Officer was
+  // badged "Product Manager" — job boards surface far more of them than
+  // company career pages do.
+  [/\b(director|head of product|head,? product|product head|vp,? (of )?product|vice president|chief product officer|cpo|avp)\b/i, "Director"],
   [/\b(group product manager|gpm|principal product manager)\b/i, "Group Product Manager"],
   [/\b(lead product manager|product lead|staff product manager)\b/i, "Lead Product Manager"],
-  [/\b(senior product manager|sr\.? product manager|senior pm|sr\.? pm)\b/i, "Senior Product Manager"],
+  [/\b(senior product manager|sr\.? product manager|senior product mgr|sr\.? product mgr|senior pm|sr\.? pm)\b/i, "Senior Product Manager"],
   [/\b(associate product manager|apm|product analyst|associate pm)\b/i, "APM"],
 ];
 

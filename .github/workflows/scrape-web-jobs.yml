@@ -1,0 +1,86 @@
+name: Scrape web jobs
+
+# Pulls Product Management roles from LinkedIn, Naukri and Indeed (via Apify)
+# every third day, and on demand from the dashboard's admin "Sources" panel.
+#
+# It writes a snapshot (data/web-jobs.json) and then runs the regular ingest
+# straight away, so new roles go live on this run instead of waiting for the
+# next 5-hourly refresh. After that, every refresh re-reads the snapshot for
+# free — the paid scrape itself only happens here.
+#
+# Needs the APIFY_TOKEN repo secret; without it the scrape step skips cleanly.
+
+on:
+  schedule:
+    # 01:30 UTC = 07:00 IST, on days 1, 4, 7 … 28, 31. `*/3` restarts each
+    # month, so month boundaries run a day or two early — harmless.
+    - cron: "30 1 */3 * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  # Same group as refresh-jobs.yml. Both rewrite src/data/jobs.json, so they
+  # must never run at the same time — one waits for the other.
+  group: refresh-jobs
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    # Each Actor run is capped at 15 minutes and there are three of them, run
+    # one after another; this is a backstop above that.
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Scrape the web via Apify
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+        run: node scripts/scrape/index.ts
+
+      - name: Merge into jobs.json
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: node scripts/ingest/index.ts
+
+      - name: Commit changes
+        run: |
+          # `git add` fails on paths that don't exist yet (no token → no snapshot).
+          EXISTING=""
+          for f in data/web-jobs.json src/data/web-jobs-meta.json src/data/jobs.json; do
+            if [ -e "$f" ]; then EXISTING="$EXISTING $f"; fi
+          done
+          # --porcelain lists both modified and brand-new (untracked) files.
+          if [ -z "$EXISTING" ] || [ -z "$(git status --porcelain -- $EXISTING)" ]; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git config user.name "pm-dream-job-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add $EXISTING
+          git commit -m "chore(data): scrape web jobs"
+
+          # Same retry as refresh-jobs.yml: a transient GitHub write error or a
+          # race with a human push shouldn't throw away a paid scrape.
+          for attempt in 1 2 3; do
+            if git push; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Push attempt $attempt failed; rebasing on origin/main and retrying…"
+            sleep $((attempt * 10))
+            git pull --rebase --autostash origin main || true
+          done
+          echo "::error::Could not push the scraped jobs after 3 attempts."
+          exit 1

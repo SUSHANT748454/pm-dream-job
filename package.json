@@ -10,6 +10,7 @@
     "lint": "eslint",
     "typecheck": "tsc --noEmit",
     "ingest": "node scripts/ingest/index.ts",
+    "scrape": "node scripts/scrape/index.ts",
     "alerts:send": "node scripts/alerts/send-alerts.ts"
   },
   "dependencies": {

@@ -23,7 +23,7 @@ import {
   type RawJob,
 } from "./core.ts";
 import { SEED_COMPANIES } from "./companies.ts";
-import { fromAtsBoards, fromRemotive, fromTheMuse } from "./sources.ts";
+import { fromAtsBoards, fromRemotive, fromTheMuse, fromWebSnapshot } from "./sources.ts";
 import { syncToSupabase } from "./supabase-sink.ts";
 import type {
   Company,
@@ -43,7 +43,20 @@ function daysBetween(fromIsoDate: string, toIsoDate: string): number {
   return Math.round((b - a) / 86_400_000);
 }
 
-const SOURCE_RANK: Record<string, number> = { Greenhouse: 3, Lever: 3, Ashby: 3, Workday: 3, "The Muse": 2, Remotive: 1 };
+// When the same role arrives from several places, the company's own board wins
+// over any job board re-listing it.
+const SOURCE_RANK: Record<string, number> = {
+  Greenhouse: 3,
+  Lever: 3,
+  Ashby: 3,
+  Workday: 3,
+  "The Muse": 2,
+  LinkedIn: 2,
+  Naukri: 2,
+  Indeed: 1,
+  Foundit: 1,
+  Remotive: 1,
+};
 function rankOf(source: string): number {
   const head = source.split(" ")[0];
   return SOURCE_RANK[head] ?? 0;
@@ -188,15 +201,18 @@ async function main() {
   const existingById = new Map(existing.jobs.map((j) => [j.id, j]));
 
   console.log("\nFetching sources…");
-  const [muse, remotive, ats] = await Promise.all([
+  const [muse, remotive, ats, web] = await Promise.all([
     fromTheMuse().catch((e) => (console.warn("themuse failed", e), [] as RawJob[])),
     fromRemotive().catch((e) => (console.warn("remotive failed", e), [] as RawJob[])),
     fromAtsBoards().catch((e) => (console.warn("ats failed", e), [] as RawJob[])),
+    fromWebSnapshot().catch((e) => (console.warn("web snapshot failed", e), [] as RawJob[])),
   ]);
-  console.log(`\n  The Muse: ${muse.length} · Remotive: ${remotive.length} · ATS boards: ${ats.length}`);
+  console.log(
+    `\n  The Muse: ${muse.length} · Remotive: ${remotive.length} · ATS boards: ${ats.length} · Web scrape: ${web.length}`,
+  );
 
   const normalized: Job[] = [];
-  for (const raw of [...ats, ...muse, ...remotive]) {
+  for (const raw of [...ats, ...muse, ...web, ...remotive]) {
     if (!raw.applyUrl) continue;
     const job = normalize(raw, now);
     if (job) normalized.push(job);

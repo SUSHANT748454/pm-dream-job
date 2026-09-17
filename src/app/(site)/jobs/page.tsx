@@ -27,7 +27,12 @@ function buildFacets(): Facets {
 }
 
 export default function JobsPage() {
-  const jobs = getActiveJobList();
+  // Every job here is serialised into the page for client-side filtering, so
+  // don't ship what the listing never uses: cards don't render descriptions and
+  // ATS scoring doesn't read them (src/lib/ats.ts). The requirement lines stay —
+  // scoring does read those, and trimming them would make a card's match badge
+  // disagree with the same job's detail page.
+  const jobs = getActiveJobList().map((j) => ({ ...j, description: "" }));
   const facets = buildFacets();
   const generatedAt = getGeneratedAt();
   const updatedLabel =

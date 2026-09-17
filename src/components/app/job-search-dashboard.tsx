@@ -34,6 +34,7 @@ import { Logo } from "@/components/ui/logo";
 import { Badge } from "@/components/ui/badge";
 import { Sparkline } from "@/components/app/sparkline";
 import { RefreshCountdown } from "@/components/app/refresh-countdown";
+import { AdminRefreshPanel } from "@/components/app/admin-refresh-panel";
 
 type Stats = {
   total: number;
@@ -221,7 +222,10 @@ export function JobSearchDashboard({
               and track what you apply to.
             </p>
           </div>
-          <RefreshCountdown />
+          <div className="flex flex-wrap items-center gap-2">
+            <AdminRefreshPanel />
+            <RefreshCountdown />
+          </div>
         </div>
 
         {/* Stat cards */}
@@ -502,7 +506,7 @@ function DetailPane({
             {job.company.domain ? (
               <span className="text-text-faint"> · {job.company.domain}</span>
             ) : null}
-            <span className="text-text-faint"> · via {job.source.replace(/^(Greenhouse|Lever|Ashby) · .+$/, (m) => m.split(" · ")[0])}</span>
+            <span className="text-text-faint"> · via {job.source.replace(/^(Greenhouse|Lever|Ashby|Workday) · .+$/, (m) => m.split(" · ")[0])}</span>
           </p>
           <h2 className="mt-1 font-display text-[22px] leading-tight tracking-tight text-text">
             {job.title}

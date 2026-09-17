@@ -1,3 +1,7 @@
+import { readFile } from "node:fs/promises";
+import { fileURLToPath } from "node:url";
+import path from "node:path";
+
 import { SEED_COMPANIES, type SeedCompany } from "./companies.ts";
 import { decodeEntities } from "./classify.ts";
 import {
@@ -10,6 +14,35 @@ import {
   type RawJob,
 } from "./core.ts";
 import { fromWorkday } from "./workday.ts";
+
+const WEB_SNAPSHOT_FILE = path.join(path.dirname(fileURLToPath(import.meta.url)), "../../data/web-jobs.json");
+
+/**
+ * Ignore a snapshot older than this. The scrape runs every 3 days; past ~3
+ * missed runs (token removed, Apify down, workflow disabled) its listings are
+ * stale enough that showing them would do more harm than dropping them.
+ */
+const WEB_SNAPSHOT_MAX_AGE_DAYS = 10;
+
+/**
+ * Jobs from the web scrape (scripts/scrape) — read from its snapshot rather
+ * than fetched, so this costs nothing and runs on every 5-hourly refresh.
+ * Re-reading it each run is what keeps these jobs "seen" between scrapes.
+ */
+export async function fromWebSnapshot(): Promise<RawJob[]> {
+  let snapshot: { fetchedAt?: string | null; jobs?: RawJob[] };
+  try {
+    snapshot = JSON.parse(await readFile(WEB_SNAPSHOT_FILE, "utf8"));
+  } catch {
+    return []; // no scrape has run yet
+  }
+  const ageDays = snapshot.fetchedAt ? (Date.now() - Date.parse(snapshot.fetchedAt)) / 86_400_000 : Infinity;
+  if (!(ageDays <= WEB_SNAPSHOT_MAX_AGE_DAYS)) {
+    console.warn(`  web snapshot is ${Number.isFinite(ageDays) ? `${ageDays.toFixed(1)} days` : "undated"} old — ignoring it`);
+    return [];
+  }
+  return snapshot.jobs ?? [];
+}
 
 const INDIA_MUSE_LOCATIONS = [
   "Bengaluru, India",

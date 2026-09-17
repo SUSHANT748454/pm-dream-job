@@ -28,7 +28,7 @@ export interface RawJob {
 // "Product Head" — which are common on Workday boards and at Indian companies.
 // PM_EXCLUDE still runs first, so "Manager, Product Marketing" stays out.
 const PM_INCLUDE =
-  /\b(product manager|product management|product owner|product lead|head of product|vp,? product|director,? product|group product manager|principal product manager|associate product manager|\bapm\b|\bgpm\b|chief product officer|\bcpo\b|product strategy)\b/i;
+  /\b(product manager|product mgr|product management|product owner|product lead|head of product|vp,? product|director,? product|group product manager|principal product manager|associate product manager|\bapm\b|\bgpm\b|chief product officer|\bcpo\b|product strategy)\b/i;
 
 // "Manager, Product …" only counts when Manager *starts* the title (optionally
 // after a seniority word). Without the anchor this swallows titles like
