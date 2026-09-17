@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T07:04:21.596Z",
+  "generatedAt": "2026-09-17T09:45:32.226Z",
   "jobs": [
     {
       "id": "job_c82833",
@@ -7394,7 +7394,7 @@
         "A/B Testing",
         "Experimentation"
       ],
-      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology Role description About the Role UPI is the backbone of India's digital payments revolution — and Paytm is one of its largest participants, processing hundreds of millions of transactions every month. We are looking for a Product Manager to join",
+      "description": "About Paytm Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. About the Role UPI is the backbone of India's digital payments revolution — and Paytm is one of its largest participants, processing hundreds of millions of transactions every month. We are looking for a Product Manager to join our UPI team and",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -15782,6 +15782,64 @@
       "status": "Active"
     },
     {
+      "id": "job_b21ebf",
+      "slug": "product-management-risk-product-experience-5-8-yrs-paytm-bengaluru-b21ebf",
+      "title": "Product Management - Risk Product | Experience : 5-8 yrs",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Consumer",
+        "AI"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Experimentation",
+        "Analytics",
+        "Growth",
+        "Data",
+        "Machine Learning",
+        "Mobile",
+        "Payments",
+        "Fraud",
+        "Demand"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "AI",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Experimentation",
+        "Analytics"
+      ],
+      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology.  About the Team: The Credit Risk Product Team is at the core of our lending operations, ensuring that our risk assessment models are efficient, scalable, and compliant with regulatory frameworks. The team collaborates closely with data",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/5dbd7403-b047-48e1-b433-574933914ff3",
+      "postedAt": "2026-09-06",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "status": "Active"
+    },
+    {
       "id": "job_abb4e4",
       "slug": "product-management-senior-product-manager-risk-paytm-bengaluru-abb4e4",
       "title": "Product Management - Senior Product Manager - Risk",
@@ -16217,6 +16275,7 @@
       ],
       "skills": [
         "Data",
+        "Mobile",
         "Payments",
         "Demand"
       ],
@@ -16226,10 +16285,11 @@
         "Senior Product Manager",
         "Onsite",
         "Data",
+        "Mobile",
         "Payments",
         "Demand"
       ],
-      "description": "About Paytm Paytm is a pioneer of digital payments in India, serving over 450 million consumers and 45 million merchants across payments, financial services, and commerce. Over the years, Paytm has built deep in-house capabilities across technology, data, and operations to operate at scale with high reliability. About the team: Headquartered in Noida, India, Paytm Insurance Broking Private Limited (PIBPL), a wholly  owned subsidiary of One97 Communications (OCL) is an online insurance market place, that  offers insurance products across all leading insurance companies, with products across",
+      "description": "About Paytm Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. About the team: Headquartered in Noida, India, Paytm Insurance Broking Private Limited (PIBPL), a wholly  owned subsidiary of One97 Communications (OCL) is an online insurance market place, that  offers insurance products across all leading",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -16480,6 +16540,64 @@
       "applyUrl": "https://www.themuse.com/jobs/appian/senior-technical-product-manager-cloud-infrastructure-0fcc99",
       "postedAt": "2026-09-03",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
+      "lastSeenAt": "2026-09-17",
+      "status": "Active"
+    },
+    {
+      "id": "job_40cc26",
+      "slug": "product-management-lending-product-experience-4-8-yrs-paytm-delhi-ncr-40cc26",
+      "title": "Product Management - Lending Product | Experience : 4 -8 yrs",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Consumer",
+        "Ecommerce"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Experimentation",
+        "Analytics",
+        "Data",
+        "Mobile",
+        "Payments",
+        "Stakeholder Management",
+        "Agile",
+        "Scrum",
+        "Compliance"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Ecommerce",
+        "Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Experimentation",
+        "Analytics"
+      ],
+      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology Role Overview We are looking for a Senior Product Manager (SPM) who can own products end-to-end — from identifying customer and business problems to defining the product strategy, shipping high-quality experiences, and measuring outcomes. The",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/f24d29df-a4ad-4991-ae78-1c5c24c63c75",
+      "postedAt": "2026-09-02",
+      "firstSeenAt": "2026-09-17",
       "lastSeenAt": "2026-09-17",
       "status": "Active"
     },
@@ -17184,6 +17302,63 @@
       "applyUrl": "https://job-boards.greenhouse.io/truecaller/jobs/8184594",
       "postedAt": "2026-08-27",
       "firstSeenAt": "2026-09-11",
+      "lastSeenAt": "2026-09-17",
+      "status": "Active"
+    },
+    {
+      "id": "job_8ca708",
+      "slug": "product-management-pi-agents-smb-experience-5-yrs-paytm-delhi-ncr-8ca708",
+      "title": "Product Management - Pi Agents - SMB (Experience : 5+ yrs)",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 4,
+      "experienceMax": 6,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Experimentation",
+        "SQL",
+        "Analytics",
+        "Growth",
+        "Data",
+        "Mobile",
+        "B2C",
+        "Payments",
+        "Onboarding",
+        "Retention"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "Experimentation",
+        "SQL",
+        "Analytics",
+        "Growth"
+      ],
+      "description": "About Us:  Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm's mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. About the team: Pi Agents At Pi Agents, we are creating AI agents for businesses. We are building agents that help businesses of all sizes with their day to day challenges, across the full lifecycle: Acquiring, Servicing, Retaining, Upselling,",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/9c74fdd9-36e1-4e42-839a-d52577bb3d70",
+      "postedAt": "2026-08-27",
+      "firstSeenAt": "2026-09-17",
       "lastSeenAt": "2026-09-17",
       "status": "Active"
     },
@@ -20005,6 +20180,57 @@
       "status": "Active"
     },
     {
+      "id": "job_a67863",
+      "slug": "product-management-paytm-insurance-i-exp-3-6-years-paytm-delhi-ncr-a67863",
+      "title": "Product Management - Paytm Insurance I Exp- 3- 6 Years",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
+      "experienceMax": 6,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Data",
+        "Mobile",
+        "Payments",
+        "Demand"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Product Manager",
+        "Onsite",
+        "Data",
+        "Mobile",
+        "Payments",
+        "Demand"
+      ],
+      "description": "About Paytm Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. About the team: Headquartered in Noida, India, Paytm Insurance Broking Private Limited (PIBPL), a wholly  owned subsidiary of One97 Communications (OCL) is an online insurance market place, that  offers insurance products across all leading",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/afab6a29-2a98-4f63-8b45-f4b0aaefc1b4",
+      "postedAt": "2026-07-11",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "status": "Active"
+    },
+    {
       "id": "job_cf4687",
       "slug": "product-manager-skillz-bengaluru-cf4687",
       "title": "Product Manager",
@@ -20568,8 +20794,8 @@
     },
     {
       "id": "job_e2262b",
-      "slug": "product-management-senior-product-manager-data-product-ppsl-paytm-bengaluru-e2262b",
-      "title": "Product Management - Senior Product Manager (Data Product) - PPSL",
+      "slug": "product-management-senior-product-manager-ppsl-paytm-bengaluru-e2262b",
+      "title": "Product Management - Senior Product Manager - PPSL",
       "company": {
         "id": "paytm",
         "name": "Paytm",
@@ -20610,7 +20836,7 @@
         "Growth",
         "Platform"
       ],
-      "description": "About Us:  Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. About the Team: We are the Central Data and AI Product team, responsible for building and managing the analytical products and datasets that power decision-making across Paytm. We’re rebuilding how analytics gets done at the company. As a",
+      "description": "About Us: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. About the Team: We are the Central Data and AI Product team, responsible for building and managing the analytical products and datasets that power decision-making across Paytm. We’re rebuilding how analytics gets done at the company. As a central",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -21604,6 +21830,121 @@
       "applyUrl": "https://jobs.lever.co/paytm/3db438be-5917-4f31-96ca-f8e26f0ff5bc",
       "postedAt": "2025-12-30",
       "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-17",
+      "status": "Active"
+    },
+    {
+      "id": "job_3632d3",
+      "slug": "product-management-product-manager-agent-paytm-bengaluru-3632d3",
+      "title": "Product Management - Product Manager - Agent",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
+      "experienceMax": 6,
+      "domain": [
+        "Fintech",
+        "Consumer",
+        "AI"
+      ],
+      "skills": [
+        "Analytics",
+        "Wireframing",
+        "Growth",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "Mobile",
+        "Payments",
+        "Demand",
+        "Amplitude"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "AI",
+        "Product Manager",
+        "Onsite",
+        "Analytics",
+        "Wireframing",
+        "Growth"
+      ],
+      "description": "About Paytm:  Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. Skills that will help you succeed in this role",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/3db438be-5917-4f31-96ca-f8e26f0ff5bc",
+      "postedAt": "2025-12-30",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "status": "Active"
+    },
+    {
+      "id": "job_481cb8",
+      "slug": "product-management-paytm-money-experience-4-yrs-paytm-bengaluru-481cb8",
+      "title": "Product Management - Paytm Money (Experience : 4+ yrs)",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 4,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Analytics",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Mobile",
+        "B2C",
+        "Payments",
+        "Retention",
+        "Stakeholder Management"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "Analytics",
+        "Growth",
+        "API",
+        "Platform"
+      ],
+      "description": "About Us:Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology.",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/d73b511b-ae92-46f0-9aa1-ac10f2fbb84a",
+      "postedAt": "2025-12-02",
+      "firstSeenAt": "2026-09-17",
       "lastSeenAt": "2026-09-17",
       "status": "Active"
     },
