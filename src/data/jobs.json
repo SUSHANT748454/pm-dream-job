@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T09:45:32.226Z",
+  "generatedAt": "2026-09-17T14:34:07.251Z",
   "jobs": [
     {
       "id": "job_c82833",
@@ -15032,7 +15032,7 @@
     {
       "id": "job_204311",
       "slug": "lead-product-manager-technical-mastercard-pune-204311",
-      "title": "Lead Product Manager- Technical",
+      "title": "Lead Product Manager - Technical",
       "company": {
         "id": "mastercard",
         "name": "Mastercard",
@@ -15053,39 +15053,45 @@
         "Enterprise"
       ],
       "skills": [
+        "Product Strategy",
+        "API",
         "Platform",
+        "Data",
         "Payments",
-        "Agile"
+        "Stakeholder Management",
+        "Agile",
+        "Scrum"
       ],
       "tags": [
         "Fintech",
         "Enterprise",
         "Lead Product Manager",
         "Onsite",
+        "Product Strategy",
+        "API",
         "Platform",
-        "Payments",
-        "Agile"
+        "Data"
       ],
-      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nLead Product Manager- Technical\n\nOverview",
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nLead Product Manager",
       "responsibilities": [
-        "Mastercard Send is at the cornerstone of our vision of a World Beyond Cash. Our services facilitate the secure delivery of funds between senders and receivers, typically within seconds. We support multiple use cases – person-to-person, business to business, disbursements, remittances and merchant payments. With our technology and expertise we are making sending money safe, simple and fast.",
-        "The Lead Product Manager Technical",
-        "Mastercard Send, will lead initiatives and partners with cross-functional global stakeholders (Product, Operations & Technology, Service Management and Regional Mastercard Send Product Managers) to ensure that Mastercard offers competitive and innovative solutions to solve real market problems.",
-        "Manages the development of operational processes and procedures including process for new market deployments, customer implementations and platform management",
-        "Provides ongoing management and documentation of system / platform descriptions and functionality to ensure consistent usage",
-        "o Have you ever managed services that touch multiple products on a global scale?",
-        "o Are you motivated to be a part of driving a world beyond cash?",
-        "o Do you have experience in developing products and services and partnering with cross-functional stakeholders globally?",
+        "Technical",
+        "Who is Mastercard?",
+        "Mastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.",
+        "Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.",
+        "Overview",
+        "The Mastercard Dispute Lifecycle team in Pune have an exciting opportunity for a Lead Product Management",
+        "Technical to help further enhance and modernize our Dispute management platform.",
+        "The ideal candidate will quickly develop a deep technical understanding of the applications and systems they support, demonstrating a willingness to dive in, challenge assumptions, and ask thoughtful, probing questions to ensure plans are executed effectively and efficiently.",
+        "They will bring a strong interest in Payments domain, along with proven technical leadership, and the ability to think creatively applying innovative, out-of-the-box approaches to solve complex problems",
         "Role",
-        "Leads the development and management of platform capabilities for Send auth, clearing and billing. In particular support programs related to Send transaction, managing the product lifecycle including product design, creation of business and functional requirements, documentation, training, project management, and on-going product development",
-        "Consult as a Product Knowledge Leader for Send, Clearing & Bllling to effectively identify needs, recommend solutions, define requirements and develop / deliver the right products to solve market problems",
-        "Partner closely with regional leads, customers and internal stakeholders to develop and maintain the development roadmap to guide future investment and ensure strategic alignment"
+        "Customer obsession: Champion a deep understanding of customer needs, the broader ecosystem, and key market dynamics, and embed these insights into product decisions",
+        "Systems analysis & design: Develop an in-depth understanding of the product platform and its surrounding ecosystem; produce high-quality functional artifacts for Engineering, including data flows, sequence diagrams, APIs, and interface specifications"
       ],
       "requirements": [],
       "preferred": [],
       "salary": null,
       "source": "Workday · Mastercard",
-      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--Technical_R-289421",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager---Technical_R-289009",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-09-17",
@@ -16559,43 +16565,39 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Product Manager",
-      "experienceMin": null,
-      "experienceMax": null,
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 4,
+      "experienceMax": 8,
       "domain": [
         "Fintech",
-        "Consumer",
-        "Ecommerce"
+        "Consumer"
       ],
       "skills": [
-        "Product Strategy",
-        "Experimentation",
-        "Analytics",
+        "Platform",
         "Data",
         "Mobile",
         "Payments",
-        "Stakeholder Management",
+        "Demand",
         "Agile",
-        "Scrum",
-        "Compliance"
+        "Scrum"
       ],
       "tags": [
         "Fintech",
         "Consumer",
-        "Ecommerce",
-        "Product Manager",
+        "Senior Product Manager",
         "Onsite",
-        "Product Strategy",
-        "Experimentation",
-        "Analytics"
+        "Platform",
+        "Data",
+        "Mobile",
+        "Payments"
       ],
-      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology Role Overview We are looking for a Senior Product Manager (SPM) who can own products end-to-end — from identifying customer and business problems to defining the product strategy, shipping high-quality experiences, and measuring outcomes. The",
+      "description": "About Us: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. About the team: We are an end to end tech enabled credit platform providing seamless credit access to customers. Our capabilities extend from fully digitized customer on-boarding, seamless in-app to real times offers for We partner with financial",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
       "salary": null,
       "source": "Lever · Paytm",
-      "applyUrl": "https://jobs.lever.co/paytm/f24d29df-a4ad-4991-ae78-1c5c24c63c75",
+      "applyUrl": "https://jobs.lever.co/paytm/75992181-c0d0-44e7-805a-6dddfd0fe23b",
       "postedAt": "2026-09-02",
       "firstSeenAt": "2026-09-17",
       "lastSeenAt": "2026-09-17",
@@ -17307,8 +17309,8 @@
     },
     {
       "id": "job_8ca708",
-      "slug": "product-management-pi-agents-smb-experience-5-yrs-paytm-delhi-ncr-8ca708",
-      "title": "Product Management - Pi Agents - SMB (Experience : 5+ yrs)",
+      "slug": "product-management-pi-agents-smb-experience-5-9-yrs-paytm-delhi-ncr-8ca708",
+      "title": "Product Management - Pi Agents - SMB (Experience : 5-9 yrs)",
       "company": {
         "id": "paytm",
         "name": "Paytm",
@@ -17321,9 +17323,9 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 4,
-      "experienceMax": 6,
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
       "domain": [
         "Fintech",
         "Consumer"
@@ -17343,7 +17345,7 @@
       "tags": [
         "Fintech",
         "Consumer",
-        "Senior Product Manager",
+        "Product Manager",
         "Onsite",
         "Experimentation",
         "SQL",
@@ -18952,6 +18954,64 @@
       "status": "Active"
     },
     {
+      "id": "job_4de014",
+      "slug": "product-management-ads-product-experience-3-8-yrs-paytm-bengaluru-4de014",
+      "title": "Product Management - Ads Product | Experience : 3-8 yrs",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
+      "experienceMax": 8,
+      "domain": [
+        "Fintech",
+        "Consumer",
+        "Ecommerce"
+      ],
+      "skills": [
+        "Experimentation",
+        "Monetization",
+        "Pricing",
+        "API",
+        "Platform",
+        "Data",
+        "Mobile",
+        "B2B",
+        "Payments",
+        "Fraud"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Ecommerce",
+        "Product Manager",
+        "Onsite",
+        "Experimentation",
+        "Monetization",
+        "Pricing"
+      ],
+      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology.  About the Role Paytm Ads is building the next generation of advertising infrastructure by combining high-intent first-party commerce data, AI-driven decisioning, and a scalable programmatic ecosystem. As a PMII / SPM, you will own key",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/6cee2f1c-6cae-4e46-9533-d62283f56734",
+      "postedAt": "2026-07-31",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "status": "Active"
+    },
+    {
       "id": "job_253bbe",
       "slug": "product-management-senior-product-manager-ads-paytm-bengaluru-253bbe",
       "title": "Product Management - Senior Product Manager - Ads",
@@ -19006,6 +19066,64 @@
       "applyUrl": "https://jobs.lever.co/paytm/6cee2f1c-6cae-4e46-9533-d62283f56734",
       "postedAt": "2026-07-31",
       "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-17",
+      "status": "Active"
+    },
+    {
+      "id": "job_1b3f8b",
+      "slug": "product-management-upi-product-experience-6-9-yrs-paytm-delhi-ncr-1b3f8b",
+      "title": "Product Management - UPI Product | Experience : 6-9 yrs",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Consumer",
+        "AI"
+      ],
+      "skills": [
+        "Experimentation",
+        "SQL",
+        "Analytics",
+        "Growth",
+        "Platform",
+        "Data",
+        "Mobile",
+        "Payments",
+        "Fraud",
+        "Onboarding"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "AI",
+        "Product Manager",
+        "Onsite",
+        "Experimentation",
+        "SQL",
+        "Analytics"
+      ],
+      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology About the Role",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/fec8e98b-d09b-4edb-b5a9-fe04aa079a3c",
+      "postedAt": "2026-07-28",
+      "firstSeenAt": "2026-09-17",
       "lastSeenAt": "2026-09-17",
       "status": "Active"
     },
@@ -19283,8 +19401,8 @@
     },
     {
       "id": "job_42f553",
-      "slug": "product-manager-adobe-express-imaging-experience-adobe-delhi-ncr-42f553",
-      "title": "Product Manager (Adobe Express - Imaging Experience)",
+      "slug": "product-manager-adobe-delhi-ncr-42f553",
+      "title": "Product Manager",
       "company": {
         "id": "adobe",
         "name": "Adobe",
@@ -20793,6 +20911,62 @@
       "status": "Active"
     },
     {
+      "id": "job_c83d3b",
+      "slug": "product-management-data-product-experience-5-8-yrs-paytm-bengaluru-c83d3b",
+      "title": "Product Management - Data Product | Experience : 5-8 yrs",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "SQL",
+        "Analytics",
+        "Growth",
+        "Platform",
+        "Data",
+        "Mobile",
+        "Payments",
+        "Demand",
+        "Compliance"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "SQL",
+        "Analytics",
+        "Growth",
+        "Platform"
+      ],
+      "description": "About Us: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. About the Team: We are the Central Data and AI Product team, responsible for building and managing the analytical products and datasets that power decision-making across Paytm. We’re rebuilding how analytics gets done at the company. As a central",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/26a6a342-55db-4262-8e75-648bd8338fd0",
+      "postedAt": "2026-06-23",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "status": "Active"
+    },
+    {
       "id": "job_e2262b",
       "slug": "product-management-senior-product-manager-ppsl-paytm-bengaluru-e2262b",
       "title": "Product Management - Senior Product Manager - PPSL",
@@ -21893,8 +22067,8 @@
     },
     {
       "id": "job_481cb8",
-      "slug": "product-management-paytm-money-experience-4-yrs-paytm-bengaluru-481cb8",
-      "title": "Product Management - Paytm Money (Experience : 4+ yrs)",
+      "slug": "product-management-paytm-money-experience-4-9-yrs-paytm-bengaluru-481cb8",
+      "title": "Product Management - Paytm Money (Experience : 4-9 yrs)",
       "company": {
         "id": "paytm",
         "name": "Paytm",
@@ -21909,7 +22083,7 @@
       "employmentType": "Full Time",
       "experienceLevel": "Senior Product Manager",
       "experienceMin": 4,
-      "experienceMax": null,
+      "experienceMax": 9,
       "domain": [
         "Fintech",
         "Consumer"
