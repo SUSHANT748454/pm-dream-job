@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T02:42:20.994Z",
+  "generatedAt": "2026-09-17T06:57:35.318Z",
   "jobs": [
     {
       "id": "job_5b1056",
@@ -3284,6 +3284,89 @@
       "status": "Expired"
     },
     {
+      "id": "job_691f00",
+      "slug": "principal-product-manager-truecaller-bengaluru-691f00",
+      "title": "Principal Product Manager",
+      "company": {
+        "id": "truecaller",
+        "name": "Truecaller",
+        "logo": null,
+        "domain": "truecaller.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": 8,
+      "experienceMax": 10,
+      "domain": [
+        "Consumer",
+        "AI"
+      ],
+      "skills": [
+        "Analytics",
+        "Go-to-Market",
+        "Growth",
+        "Monetization",
+        "Pricing",
+        "API",
+        "Data",
+        "Mobile",
+        "iOS",
+        "Android"
+      ],
+      "tags": [
+        "Consumer",
+        "AI",
+        "Group Product Manager",
+        "Onsite",
+        "Analytics",
+        "Go-to-Market",
+        "Growth",
+        "Monetization"
+      ],
+      "description": "Join Truecaller – The place where innovation meets impact!\n\nTruecaller's mission is to build trust in communication by making it safer, smarter, and more efficient. Born in Sweden, trusted by the world, and here’s why we stand out:",
+      "responsibilities": [
+        "We are trusted by over 450 million active users every month across 190+ countries",
+        "We identify over 15 billion calls daily, helping users avoid spam and scams",
+        "We are powered by a team of 450+ employees from 45+ nationalities.",
+        "We always look for people who take initiative, own their work, and keep raising the bar. An entrepreneurial mindset matters here, especially when it turns bold ideas into real actions. We stay collaborative and focused, always searching for smarter paths forward. If you want to make an impact and grow with a team that inspires millions, you’ll fit right in.",
+        "As Principal Product Manager, you will own and shape the strategy, define KPIs and be responsible for the roadmap delivery of products built under the portfolio of Business Messaging. You will play a key role in the 10-100 journey for a product line that has scaled to become the most anchored offering in Truecaller’s suite of enterprise products.",
+        "You will develop and drive the overall product vision, strategy, and roadmap for everything within the Business Messaging solutions portfolio, ensuring alignment with the company's strategic goals, objectives with strong skills in modern AI tooling.",
+        "You will deliver high-quality products in-time, to meet important business revenue goals that excite our investors and customers.",
+        "You will conduct market research and competitive analysis to identify new opportunities, trends, and customer needs in the business communications space.",
+        "You collaborate with cross-functional teams, product & engineering, analytics as well as marketing and sales, to ensure seamless product development and go-to-market processes.",
+        "You will develop a deep understanding of our customers and their needs, acting as the voice of the customer within the organization and with leadership.",
+        "Drive and coach teams to develop problem statements and form hypotheses of new feature(s)/feature areas.",
+        "Create clarity for the team by communicating the business priorities and vision and helping them incorporate that into their plans."
+      ],
+      "requirements": [
+        "8-10 years of overall work experience with at least 5-7 years in product management.",
+        "Worked at either a CPaaS, CCaaS or UCaaS ecosystem in building communication solutions or solutions for contact centre management for businesses in India or globally.",
+        "Past experience building consumer mobile applications at scale will be a huge plus.",
+        "Sound technical knowledge of APIs and workflow management.",
+        "Sound understanding of monetization and an ability to build pricing strategies.",
+        "You know how to work with partners as well as end customers to identify problems and build a roadmap that reflects strategic as well as business priorities.",
+        "You have the ability to influence multiple cross-functional teams without authority to get the job done - sales, customer success and more.",
+        "Exceptional analytical, strategic, and problem-solving skills, with a data-driven approach to decision-making.",
+        "Excellent interpersonal and communication skills, with the ability to effectively communicate complex concepts to a diverse range of stakeholders.",
+        "Get stuff done mindset - small team, audacious goals and flawless execution.",
+        "Passionate about creating great user experiences both for businesses and consumers.",
+        "Proven track record of product management for mobile devices and/or applications."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Truecaller",
+      "applyUrl": "https://job-boards.greenhouse.io/truecaller/jobs/8184594",
+      "postedAt": "2026-08-27",
+      "firstSeenAt": "2026-09-11",
+      "lastSeenAt": "2026-09-17",
+      "status": "Active"
+    },
+    {
       "id": "job_faba2a",
       "slug": "product-management-senior-product-manager-pi-agents-smb-paytm-delhi-ncr-faba2a",
       "title": "Product Management - Senior Product Manager - Pi Agents (SMB)",
@@ -3337,88 +3420,6 @@
       "applyUrl": "https://jobs.lever.co/paytm/9c74fdd9-36e1-4e42-839a-d52577bb3d70",
       "postedAt": "2026-08-27",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-17",
-      "status": "Active"
-    },
-    {
-      "id": "job_691f00",
-      "slug": "senior-product-manager-truecaller-bengaluru-691f00",
-      "title": "Senior Product Manager",
-      "company": {
-        "id": "truecaller",
-        "name": "Truecaller",
-        "logo": null,
-        "domain": "truecaller.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 4,
-      "experienceMax": null,
-      "domain": [
-        "Consumer",
-        "AI"
-      ],
-      "skills": [
-        "Growth",
-        "Monetization",
-        "Platform",
-        "Data",
-        "iOS",
-        "Supply",
-        "Demand",
-        "Segmentation",
-        "Compliance"
-      ],
-      "tags": [
-        "Consumer",
-        "AI",
-        "Senior Product Manager",
-        "Onsite",
-        "Growth",
-        "Monetization",
-        "Platform",
-        "Data"
-      ],
-      "description": "Join Truecaller – The place where innovation meets impact!\n\nTruecaller's mission is to build trust in communication by making it safer, smarter, and more efficient. Born in Sweden, trusted by the world, and here’s why we stand out:",
-      "responsibilities": [
-        "We are trusted by over 500 million active users every month across 190+ countries",
-        "We identify over 15 billion calls daily, helping users avoid spam and scams",
-        "We are powered by a team of 400+ employees from 45+ nationalities",
-        "We always look for people who take initiative, own their work, and keep raising the bar. An entrepreneurial mindset matters here, especially when it turns bold ideas into real actions. We stay collaborative and focused, always searching for smarter paths forward. If you want to make an impact and grow with a team that inspires millions, you’ll fit right in.",
-        "Truecaller's ads business reaches over 400 million users and is one of the largest in-app advertising platforms in its markets. This role owns the supply side of that business: the inventory, placements, ad formats, and user-facing ad experience where every ad opportunity begins and ends. From the moment an ad opportunity is created on a surface to the moment an ad is rendered, viewed, and clicked, this is your domain.",
-        "Supply is where revenue meets user experience. You will work with our core product teams to unlock new inventory and evolve existing surfaces, own the quality of every ad interaction, and build the signal foundation that makes our inventory more valuable to every demand source. It is a broad, high-ownership role for a PM who understands that great ad experiences and great monetization are built together, not traded against each other.",
-        "Own the supply roadmap",
-        ": inventory strategy, placements, and ad formats across our surfaces and markets, including how the portfolio differs between India and international markets.",
-        "Unlock new inventory",
-        ": partner with core product teams to identify and build new ad placements and rethink existing surfaces without degrading the product experience.",
-        "Own ad experience quality",
-        ": rendering, viewability, latency of display, and click quality, including systematically reducing unintended clicks while growing genuine engagement."
-      ],
-      "requirements": [
-        "Experience",
-        ": 4+ years in product management, with meaningful time building ad products or monetization surfaces at a consumer platform or publisher with a large advertising business.",
-        "Ad experience craft (must-have)",
-        ": deep understanding of ad formats, placements, and rendering, and a track record of improving monetization outcomes (CTR, viewability, fill) while protecting user experience and click quality.",
-        "Publisher-side fluency",
-        ": understanding of how inventory is packaged, priced, and represented to demand sources, and experience working with multiple demand channels (direct, programmatic, or mediated).",
-        "Signals and user understanding",
-        ": experience working with user signals, segmentation, and cohorting, and translating user understanding into inventory value. Familiarity with how context and signals travel in ad requests is a strong plus.",
-        "Programmatic exposure (plus)",
-        ": working knowledge of the programmatic ecosystem, bid requests, and supply-side representation. Not a requirement, but it accelerates you here.",
-        "Compliance and measurement awareness",
-        ": familiarity with privacy regulation as it affects ads (consent, data protection), and with measurement standards such as Open Measurement and viewability certification."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · Truecaller",
-      "applyUrl": "https://job-boards.greenhouse.io/truecaller/jobs/8098108",
-      "postedAt": "2026-08-27",
-      "firstSeenAt": "2026-09-11",
       "lastSeenAt": "2026-09-17",
       "status": "Active"
     },
