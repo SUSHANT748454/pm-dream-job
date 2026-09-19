@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T17:37:44.199Z",
+  "generatedAt": "2026-09-19T21:59:27.512Z",
   "jobs": [
     {
       "id": "job_456288",
@@ -7292,6 +7292,76 @@
       "status": "Active"
     },
     {
+      "id": "job_2d68a4",
+      "slug": "sr-product-manager-crowdstrike-pune-2d68a4",
+      "title": "Sr. Product Manager",
+      "company": {
+        "id": "crowdstrike",
+        "name": "CrowdStrike",
+        "logo": null,
+        "domain": "crowdstrike.com"
+      },
+      "location": {
+        "city": "Pune",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "Logistics"
+      ],
+      "skills": [
+        "Experimentation",
+        "Platform",
+        "Data",
+        "Supply"
+      ],
+      "tags": [
+        "Logistics",
+        "Senior Product Manager",
+        "Onsite",
+        "Experimentation",
+        "Platform",
+        "Data",
+        "Supply"
+      ],
+      "description": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. We work on large scale distributed systems, processing almost 3 trillion events per day and this traffic is growing daily. Our customers span all industries, and they count on CrowdStrike to keep their businesses running, their communities safe and their lives moving forward. We're proud to work for a mission-driven company leveraging AI to transform the way we work. CrowdStrikers drive their careers through flexibility and autonomy while also being expected to contribute to a culture of responsible AI adoption, experimentation, and innovation. We use an AI-first mindset as a force multiplier to proactively and continuously accelerate execution, build expertise, uncover insights, and solve complex problems. We’re always looking to add talented CrowdStrikers to the team who have limitless passion, a relentless focus on innovation and a fanatical commitment to our customers, our community and each other. Ready to join a mission that matters? The future of cybersecurity starts with you.\n\nAs a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn't changed — we're here to stop breaches, and we've",
+      "responsibilities": [
+        "The Exposure Management product team is seeking an experienced, technical Product Manager who is collaborative and excited about building great products. In this role, you will bring deep knowledge of vulnerability management to help expand CrowdStrike's exposure and risk data model across a growing portfolio of proactive security capabilities — vulnerability management, external attack surface management, cloud security, container security, supply chain security, and code security.",
+        "You will work closely with engineering, data science, product marketing, sales, support, and other product managers across the Exposure Management portfolio. You will apply product management best practices to deliver significant new features and enhancements that extend visibility, prioritization, and remediation across the full software and infrastructure lifecycle. The successful candidate will have the ability to interface and influence cross-functional teams throughout the company.",
+        "Define and maintain strategy and product roadmap for CrowdStrike's Exposure Management team in concert with other PMs and stakeholders",
+        "Act as the product leader for major initiatives that expand the platform's exposure vulnerability detection capabilities, integrations, and risk scoring across vulnerability, cloud, container, and code security domains.",
+        "Partner with engineering to prioritize and ship features that improve vulnerability detection, prioritization, and remediation workflows",
+        "Engage with sales and support to champion recent releases and guide future product direction",
+        "Conduct competitive analyses and maintain current information regarding competitive activity in vulnerability management and cloud-native security markets",
+        "Work on a team of high-performing product professionals in a highly collaborative environment"
+      ],
+      "requirements": [
+        "10+ years of product management experience with strong domain expertise in Vulnerability Management",
+        "Strong domain experience with cloud technologies (AWS, Azure, GCP) and cloud security concepts, including cloud workload protection and infrastructure-as-code (IaC) security",
+        "Working knowledge of DevSecOps and shift-left security practices across the software development lifecycle",
+        "BS degree in an applicable field; Master's preferred",
+        "Track record of planning short- and long-term technology direction in a collaborative fashion, gaining consensus and buy-in from key stakeholders",
+        "Excellent communication skills, both verbal and written, with the ability to properly translate and articulate positioning and technology",
+        "Proven experience utilizing AI technologies to enhance decision-making, streamline workflows and processes, improve efficiency and drive business outcomes."
+      ],
+      "preferred": [
+        "Practitioner experience in vulnerability management or a related security discipline",
+        "Experience with container security, cloud workload security, and supply chain security",
+        "Experience with code security, including secrets scanning and software composition analysis"
+      ],
+      "salary": null,
+      "source": "LinkedIn",
+      "applyUrl": "https://in.linkedin.com/jobs/view/sr-product-manager-at-crowdstrike-4466294340",
+      "postedAt": "2026-09-17",
+      "firstSeenAt": "2026-09-19",
+      "lastSeenAt": "2026-09-19",
+      "status": "Active"
+    },
+    {
       "id": "job_2f8a66",
       "slug": "sr-product-manager-cdk-global-pune-2f8a66",
       "title": "Sr. Product Manager",
@@ -7374,76 +7444,6 @@
       "salary": null,
       "source": "LinkedIn",
       "applyUrl": "https://in.linkedin.com/jobs/view/sr-product-manager-at-cdk-global-4468392846",
-      "postedAt": "2026-09-17",
-      "firstSeenAt": "2026-09-19",
-      "lastSeenAt": "2026-09-19",
-      "status": "Active"
-    },
-    {
-      "id": "job_2d68a4",
-      "slug": "sr-product-manager-crowdstrike-pune-2d68a4",
-      "title": "Sr. Product Manager",
-      "company": {
-        "id": "crowdstrike",
-        "name": "CrowdStrike",
-        "logo": null,
-        "domain": "crowdstrike.com"
-      },
-      "location": {
-        "city": "Pune",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 10,
-      "experienceMax": null,
-      "domain": [
-        "Logistics"
-      ],
-      "skills": [
-        "Experimentation",
-        "Platform",
-        "Data",
-        "Supply"
-      ],
-      "tags": [
-        "Logistics",
-        "Senior Product Manager",
-        "Onsite",
-        "Experimentation",
-        "Platform",
-        "Data",
-        "Supply"
-      ],
-      "description": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. We work on large scale distributed systems, processing almost 3 trillion events per day and this traffic is growing daily. Our customers span all industries, and they count on CrowdStrike to keep their businesses running, their communities safe and their lives moving forward. We're proud to work for a mission-driven company leveraging AI to transform the way we work. CrowdStrikers drive their careers through flexibility and autonomy while also being expected to contribute to a culture of responsible AI adoption, experimentation, and innovation. We use an AI-first mindset as a force multiplier to proactively and continuously accelerate execution, build expertise, uncover insights, and solve complex problems. We’re always looking to add talented CrowdStrikers to the team who have limitless passion, a relentless focus on innovation and a fanatical commitment to our customers, our community and each other. Ready to join a mission that matters? The future of cybersecurity starts with you.\n\nAs a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn't changed — we're here to stop breaches, and we've",
-      "responsibilities": [
-        "The Exposure Management product team is seeking an experienced, technical Product Manager who is collaborative and excited about building great products. In this role, you will bring deep knowledge of vulnerability management to help expand CrowdStrike's exposure and risk data model across a growing portfolio of proactive security capabilities — vulnerability management, external attack surface management, cloud security, container security, supply chain security, and code security.",
-        "You will work closely with engineering, data science, product marketing, sales, support, and other product managers across the Exposure Management portfolio. You will apply product management best practices to deliver significant new features and enhancements that extend visibility, prioritization, and remediation across the full software and infrastructure lifecycle. The successful candidate will have the ability to interface and influence cross-functional teams throughout the company.",
-        "Define and maintain strategy and product roadmap for CrowdStrike's Exposure Management team in concert with other PMs and stakeholders",
-        "Act as the product leader for major initiatives that expand the platform's exposure vulnerability detection capabilities, integrations, and risk scoring across vulnerability, cloud, container, and code security domains.",
-        "Partner with engineering to prioritize and ship features that improve vulnerability detection, prioritization, and remediation workflows",
-        "Engage with sales and support to champion recent releases and guide future product direction",
-        "Conduct competitive analyses and maintain current information regarding competitive activity in vulnerability management and cloud-native security markets",
-        "Work on a team of high-performing product professionals in a highly collaborative environment"
-      ],
-      "requirements": [
-        "10+ years of product management experience with strong domain expertise in Vulnerability Management",
-        "Strong domain experience with cloud technologies (AWS, Azure, GCP) and cloud security concepts, including cloud workload protection and infrastructure-as-code (IaC) security",
-        "Working knowledge of DevSecOps and shift-left security practices across the software development lifecycle",
-        "BS degree in an applicable field; Master's preferred",
-        "Track record of planning short- and long-term technology direction in a collaborative fashion, gaining consensus and buy-in from key stakeholders",
-        "Excellent communication skills, both verbal and written, with the ability to properly translate and articulate positioning and technology",
-        "Proven experience utilizing AI technologies to enhance decision-making, streamline workflows and processes, improve efficiency and drive business outcomes."
-      ],
-      "preferred": [
-        "Practitioner experience in vulnerability management or a related security discipline",
-        "Experience with container security, cloud workload security, and supply chain security",
-        "Experience with code security, including secrets scanning and software composition analysis"
-      ],
-      "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/sr-product-manager-at-crowdstrike-4466294340",
       "postedAt": "2026-09-17",
       "firstSeenAt": "2026-09-19",
       "lastSeenAt": "2026-09-19",
@@ -23245,83 +23245,6 @@
       "status": "Active"
     },
     {
-      "id": "job_aeae06",
-      "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
-      "title": "Senior Product Manager - SAP FICO",
-      "company": {
-        "id": "zoominfo",
-        "name": "ZoomInfo",
-        "logo": null,
-        "domain": "zoominfo.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 10,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Fintech",
-        "Enterprise"
-      ],
-      "skills": [
-        "Go-to-Market",
-        "API",
-        "Platform",
-        "Data",
-        "Agile"
-      ],
-      "tags": [
-        "SaaS",
-        "Fintech",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Go-to-Market",
-        "API",
-        "Platform"
-      ],
-      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
-      "responsibilities": [
-        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
-        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
-        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
-        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
-        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
-        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
-        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
-        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
-        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
-        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
-      ],
-      "requirements": [
-        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
-        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
-        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
-        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
-        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
-        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
-        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
-        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
-        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
-        "SAP Certification in Finance or a related SAP discipline.",
-        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
-        "Experience in high-tech, SaaS, software, or Finance transformation programs."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · ZoomInfo",
-      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
-      "postedAt": "2026-09-05",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-19",
-      "status": "Active"
-    },
-    {
       "id": "job_a4f741",
       "slug": "senior-product-manager-sap-fico-zoominfo-chennai-a4f741",
       "title": "Senior Product Manager - SAP FICO",
@@ -23393,6 +23316,83 @@
       "salary": null,
       "source": "Greenhouse · ZoomInfo",
       "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8733078002",
+      "postedAt": "2026-09-05",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-19",
+      "status": "Active"
+    },
+    {
+      "id": "job_aeae06",
+      "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
+      "title": "Senior Product Manager - SAP FICO",
+      "company": {
+        "id": "zoominfo",
+        "name": "ZoomInfo",
+        "logo": null,
+        "domain": "zoominfo.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "API",
+        "Platform",
+        "Data",
+        "Agile"
+      ],
+      "tags": [
+        "SaaS",
+        "Fintech",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "API",
+        "Platform"
+      ],
+      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
+      "responsibilities": [
+        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
+        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
+        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
+        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
+        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
+        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
+        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
+        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
+        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
+        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
+      ],
+      "requirements": [
+        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
+        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
+        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
+        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
+        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
+        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
+        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
+        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
+        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
+        "SAP Certification in Finance or a related SAP discipline.",
+        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
+        "Experience in high-tech, SaaS, software, or Finance transformation programs."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · ZoomInfo",
+      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
       "postedAt": "2026-09-05",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-09-19",
@@ -35141,8 +35141,8 @@
       "companySize": "1000-5000",
       "description": "ZoomInfo is a saas company hiring product managers in India.",
       "locations": [
-        "Bengaluru",
-        "Chennai"
+        "Chennai",
+        "Bengaluru"
       ]
     },
     {
