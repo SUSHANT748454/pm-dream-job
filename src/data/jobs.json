@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T06:07:20.647Z",
+  "generatedAt": "2026-09-19T09:06:02.279Z",
   "jobs": [
     {
       "id": "job_456288",
@@ -8016,6 +8016,7 @@
       "experienceMax": null,
       "domain": [
         "Fintech",
+        "Enterprise",
         "AI"
       ],
       "skills": [
@@ -8032,21 +8033,34 @@
       ],
       "tags": [
         "Fintech",
+        "Enterprise",
         "AI",
         "Director",
         "Onsite",
         "Product Strategy",
         "Experimentation",
-        "Analytics",
-        "Growth"
+        "Analytics"
       ],
-      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle And Summary\n\nDirector Product Management – Technical , AI transformation\n\nDirector Product Management – Technical – AI Transformation\n\nOverview\n\nMastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.\n\nThe Services Business represents over a third of Mastercard revenues and is a key differentiator for Mastercard. Services use our unique and proprietary data, technology, insights and expertise to deliver solutions that meet the needs of our customers. Services is critical for the sustained, long-term growth of Mastercard.\n\nWithin the Services organization, this role sits within the Business & Markets Insights",
-      "responsibilities": [],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nDirector Product Management – Technical , AI transformation\n\nDirector Product Management – Technical – AI Transformation\n\nOverview\n\nMastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.\n\nThe Services Business represents over a third of Mastercard revenues and is a key differentiator for Mastercard. Services use our unique and proprietary data, technology, insights and expertise to deliver solutions that meet the needs of our customers. Services is critical for the sustained, long-term growth of Mastercard.\n\nWithin the Services organization, this role sits within the Business & Markets Insights",
+      "responsibilities": [
+        "Define and own the AI product strategy, roadmap, and investment priorities for Payment Performance Intelligence.",
+        "Identify high-value use cases for GenAI, chatbots, agentic services, predictive insights, and self-service analytics.",
+        "Translate customer needs, market trends, and business objectives into scalable product capabilities and clear technical requirements.",
+        "Partner with Data Science, Engineering, Platform, Commercial, Risk, Legal, Security, and Compliance teams to deliver AI products from discovery through launch.",
+        "Drive prioritization decisions based on customer value, strategic fit, commercial impact, technical feasibility, and responsible AI considerations.",
+        "Establish measurable success metrics and ensure product outcomes are repeatable, scalable, and aligned to business goals.",
+        "Influence senior stakeholders, communicate roadmap progress, and build alignment on risks, opportunities, and investment decisions.",
+        "Coach product teams and help build organizational capability in AI product management, experimentation, and continuous learning.",
+        "All About You",
+        "Extensive experience in agile product management for analytics, data insights, AI-enabled, or financial services products.",
+        "Strong understanding of AI product strategy, GenAI use cases, data monetization, predictive insights, and self-service analytics.",
+        "Proven ability to convert customer problems and market opportunities into product vision, business cases, roadmaps, and measurable outcomes."
+      ],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/director-product-management-%E2%80%93-technical-ai-transformation-at-mastercard-4466203655",
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Director-Product-Management---Technical---AI-transformation_R-290799-1",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-16",
       "lastSeenAt": "2026-09-19",
@@ -15349,27 +15363,42 @@
       "workMode": "Onsite",
       "employmentType": "Full Time",
       "experienceLevel": "Product Manager",
-      "experienceMin": null,
+      "experienceMin": 3,
       "experienceMax": null,
       "domain": [
-        "Healthcare"
+        "Healthcare",
+        "Enterprise"
       ],
-      "skills": [],
+      "skills": [
+        "Go-to-Market"
+      ],
       "tags": [
         "Healthcare",
+        "Enterprise",
         "Product Manager",
-        "Onsite"
+        "Onsite",
+        "Go-to-Market"
       ],
-      "description": "Bachelor s degree in Engineering or related fields\n\nMaster s degree preferred",
-      "responsibilities": [],
+      "description": "Job Title\n\nProduct Manager, Radiology Informatics\n\nJob Description\n\nProduct Manager, Radiology Informatics\n\nThe Product Manager will define and drive the strategy, roadmap and implementation of serviceability and supportability solutions for Vue PACS, helping increase deployment and upgrade stability, improve end-to-end visibility of system health, and enable proactive monitoring.\n\nYour role:",
+      "responsibilities": [
+        "You will be part of The Radiology Informatics (RI) team",
+        "Define detailed requirements for product, solution and service development, using customer insights, market trends and strategic marketing priorities to optimize value and support long-term business objectives.",
+        "Lead the strategy, roadmap and implementation of serviceability and supportability solutions for Vue PACS, with a focus on improving deployment and upgrade velocity, stability, support tools, system health visibility and proactive monitoring.",
+        "Develop detailed product, software and lifecycle specifications aligned with portfolio marketing strategy and customer needs.",
+        "Build business cases and value propositions to justify investment decisions, with accountability for business case development, commercial impact, installed base considerations and technical simplicity.",
+        "Partner with commercial, SSD, regional Centers of Excellence, regulatory, quality, R&D and cross-functional stakeholders to guide channel strategies, go-to-market plans, claims roadmaps, testing protocols and lifecycle execution.",
+        "Stay close to the market from the Genoa location and work with commercial and SSD leaders to shape and execute the serviceability and supportability strategy.",
+        "You're the right fit if:",
+        "3+years of experience in Product Management or Product Implementation and Support Leadership.",
+        "Bachelor’s degree in Engineering or related fields. Master’s degree preferred.",
+        "Experience in leading/implanting serviceability, supportability, observability tools, support tools, proactive monitoring and system health visibility.",
+        "Experience developing product, software and lifecycle specifications, business cases, claims roadmaps, go-to-market plans and product performance insights."
+      ],
       "requirements": [],
-      "preferred": [
-        "Preferred: Experience in the healthcare industry,ideally within healthcare technology,medical devices,or health informatics.",
-        "Doing meaningful work should come with fair,transparent rewards"
-      ],
+      "preferred": [],
       "salary": null,
-      "source": "Naukri",
-      "applyUrl": "https://www.naukri.com/job-listings-product-manager-radiology-informatics-philips-india-limited-bengaluru-3-to-8-years-150926505374",
+      "source": "Workday · Philips",
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Product-Manager--Radiology-Informatics_587067",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-14",
       "lastSeenAt": "2026-09-19",
@@ -22300,21 +22329,50 @@
       "experienceLevel": "Lead Product Manager",
       "experienceMin": null,
       "experienceMax": null,
-      "domain": [],
-      "skills": [],
-      "tags": [
-        "Lead Product Manager",
-        "Onsite"
+      "domain": [
+        "Fintech",
+        "Enterprise"
       ],
-      "description": "Continuous improvement: Measure outcomes,evaluate existing practices and metrics,and drive ongoing optimization across processes,roles,and delivery execution. All About You .",
+      "skills": [
+        "Product Strategy",
+        "API",
+        "Platform",
+        "Data",
+        "Payments",
+        "Stakeholder Management",
+        "Agile",
+        "Scrum"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "Lead Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "API",
+        "Platform",
+        "Data"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nLead Product Manager",
       "responsibilities": [
-        "Proven product experience: Several years of product management or new product development experience delivering high-quality products,with the ability to clearly articulate business context and customer use cases"
+        "Technical",
+        "Who is Mastercard?",
+        "Mastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.",
+        "Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.",
+        "Overview",
+        "The Mastercard Dispute Lifecycle team in Pune have an exciting opportunity for a Lead Product Management",
+        "Technical to help further enhance and modernize our Dispute management platform.",
+        "The ideal candidate will quickly develop a deep technical understanding of the applications and systems they support, demonstrating a willingness to dive in, challenge assumptions, and ask thoughtful, probing questions to ensure plans are executed effectively and efficiently.",
+        "They will bring a strong interest in Payments domain, along with proven technical leadership, and the ability to think creatively applying innovative, out-of-the-box approaches to solve complex problems",
+        "Role",
+        "Customer obsession: Champion a deep understanding of customer needs, the broader ecosystem, and key market dynamics, and embed these insights into product decisions",
+        "Systems analysis & design: Develop an in-depth understanding of the product platform and its surrounding ecosystem; produce high-quality functional artifacts for Engineering, including data flows, sequence diagrams, APIs, and interface specifications"
       ],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "Naukri",
-      "applyUrl": "https://www.naukri.com/job-listings-lead-product-manager-technical-mastercard-pune-9-to-13-years-170926502471",
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager---Technical_R-289009",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-09-19",
@@ -22612,6 +22670,81 @@
       "status": "Active"
     },
     {
+      "id": "job_7d3b1b",
+      "slug": "senior-product-manager-autodesk-bengaluru-7d3b1b",
+      "title": "Senior Product Manager",
+      "company": {
+        "id": "autodesk",
+        "name": "Autodesk",
+        "logo": null,
+        "domain": "autodesk.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Growth",
+        "Platform",
+        "Data",
+        "Onboarding",
+        "OKRs"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Growth",
+        "Platform",
+        "Data"
+      ],
+      "description": "Job Requisition ID #\n\n26WD99627\n\nPosition Overview\n\nAs a Senior Product Manager for Identity & Access management,\n\nyou'll lead the authentication services that power every Autodesk product—for humans, non-humans, agents & devices. You’re building the IAM platform that powers Autodesk’s secure growth across cloud, desktop, AI, and ecosystem workflows. You’ll enable product teams to deliver trusted experiences with adaptive authentication, policy-based access, non-person identities, and agentic workflows—protecting customer IP, reducing risk, and enabling secure collaboration for millions of users worldwide\n\nThis role offers rare career-defining opportunities: high visibility reporting to senior leadership, greenfield product development, and the chance to solve complex problems at the intersection of AI, automation, and platform infrastructure. You'll work in a hybrid environment partnering with engineering, design, and business stakeholders to discover and ship solutions that shape product strategy across Autodesk's entire portfolio. If you're energized by agency, love turning strategic challenges into elegant solutions, and want to build the playbook for how an iconic software company evolves for the AI era—this is your opportunity to make massive impact.",
+      "responsibilities": [
+        "Define product strategy, translating it into prioritized OKRs and a roadmap",
+        "Present and promote your product strategy across the company to many audiences, from technical to executive-level leadership",
+        "Collaborate across product teams, partner orgs, and key stakeholders to identify challenges and deliver effective solutions that are valuable, viable, feasible and work for Autodesk’s business",
+        "Track and optimize solutions post-launch to ensure they deliver the expected impact",
+        "Build empathy with product teams onboarding to Identity and Access Management (IAM) platform services, identifying friction in the process, and proposing solutions to simplify and streamline their integrations",
+        "Contribute to the product team a deep knowledge of our users and customers, and the data about how our customers engage with our products",
+        "Track industry trends and the competitive landscape",
+        "Influence product teams, senior leaders, and stakeholders through storytelling, incorporating qualitative and quantitative data to craft clear, compelling stories about who my product is for, what problems it solves for them, and why it's important to our business",
+        "Help develop product culture within the broader organization, including mentoring more junior product managers and driving process improvements",
+        "Minimum"
+      ],
+      "requirements": [
+        "Bachelor’s degree or equivalent practical experience",
+        "8+ years of product management experience with at least 3 years focused on platform and, ideally, Identity and Access Management (IAM)",
+        "Demonstrated understanding of the techniques and methods of modern product discovery and product delivery",
+        "Demonstrated use of AI tools to make you and your team more effective at product development",
+        "Applicants with 8+ years of product development experience in roles like engineering, developer advocacy, data analysis, customer support, experience design and/or data science are welcome to apply if part of that time was in a product management role",
+        "Demonstrated ability to figure out solutions to hard problems with many constraints, assess risks, and to lay out your argument in a well-structured, data-informed, written narrative",
+        "Diverse Perspectives",
+        "We know innovation thrives in product teams where diverse points of view come together to solve hard problems, and we seek people that bring diverse life experiences, diverse educational backgrounds, diverse cultures, and diverse work experiences. We look forward to learning how your perspective will bring something unique and valuable to our product teams.",
+        "#LI-KJ2",
+        "Learn More"
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Autodesk",
+      "applyUrl": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Product-Manager_26WD99627-1",
+      "postedAt": "2026-09-08",
+      "firstSeenAt": "2026-09-10T09:04:56.856Z",
+      "lastSeenAt": "2026-09-19",
+      "status": "Active"
+    },
+    {
       "id": "job_f4b2f0",
       "slug": "senior-product-manager-cornerstone-ondemand-pune-f4b2f0",
       "title": "Senior Product Manager",
@@ -22673,76 +22806,6 @@
       "salary": null,
       "source": "The Muse",
       "applyUrl": "https://www.themuse.com/jobs/cornerstoneondemand/senior-product-manager-c42e85",
-      "postedAt": "2026-09-08",
-      "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-19",
-      "status": "Active"
-    },
-    {
-      "id": "job_7d3b1b",
-      "slug": "senior-product-manager-autodesk-bengaluru-7d3b1b",
-      "title": "Senior Product Manager",
-      "company": {
-        "id": "autodesk",
-        "name": "Autodesk",
-        "logo": null,
-        "domain": "autodesk.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 8,
-      "experienceMax": null,
-      "domain": [],
-      "skills": [
-        "Product Strategy",
-        "Growth",
-        "Platform",
-        "Data",
-        "Onboarding",
-        "OKRs"
-      ],
-      "tags": [
-        "Senior Product Manager",
-        "Onsite",
-        "Product Strategy",
-        "Growth",
-        "Platform",
-        "Data"
-      ],
-      "description": "Job Requisition ID #\n\n26WD99627\n\nPosition Overview\n\nAs a Senior Product Manager for Identity & Access management,you'll lead the authentication services that power every Autodesk product-for humans, non-humans, agents & devices. You're building the IAM platform that powers Autodesk's secure growth across cloud, desktop, AI, and ecosystem workflows. You'll enable product teams to deliver trusted experiences with adaptive authentication, policy-based access, non-person identities, and agentic workflows-protecting customer IP, reducing risk, and enabling secure collaboration for millions of users worldwide\n\nThis role offers rare career-defining opportunities: high visibility reporting to senior leadership, greenfield product development, and the chance to solve complex problems at the intersection of AI, automation, and platform infrastructure. You'll work in a hybrid environment partnering with engineering, design, and business stakeholders to discover and ship solutions that shape product strategy across Autodesk's entire portfolio. If you're energized by agency, love turning strategic challenges into elegant solutions, and want to build the playbook for how an iconic software company evolves for the AI era-this is your opportunity to make massive impact.",
-      "responsibilities": [
-        "Define product strategy, translating it into prioritized OKRs and a roadmap",
-        "Present and promote your product strategy across the company to many audiences, from technical to executive-level leadership",
-        "Collaborate across product teams, partner orgs, and key stakeholders to identify challenges and deliver effective solutions that are valuable, viable, feasible and work for Autodesk's business",
-        "Track and optimize solutions post-launch to ensure they deliver the expected impact",
-        "Build empathy with product teams onboarding to Identity and Access Management (IAM) platform services, identifying friction in the process, and proposing solutions to simplify and streamline their integrations",
-        "Contribute to the product team a deep knowledge of our users and customers, and the data about how our customers engage with our products",
-        "Track industry trends and the competitive landscape",
-        "Influence product teams, senior leaders, and stakeholders through storytelling, incorporating qualitative and quantitative data to craft clear, compelling stories about who my product is for, what problems it solves for them, and why it's important to our business",
-        "Help develop product culture within the broader organization, including mentoring more junior product managers and driving process improvements",
-        "Minimum"
-      ],
-      "requirements": [
-        "Bachelor's degree or equivalent practical experience",
-        "8+ years of product management experience with at least 3 years focused on platform and, ideally, Identity and Access Management (IAM)",
-        "Demonstrated understanding of the techniques and methods of modern product discovery and product delivery",
-        "Demonstrated use of AI tools to make you and your team more effective at product development",
-        "Applicants with 8+ years of product development experience in roles like engineering, developer advocacy, data analysis, customer support, experience design and/or data science are welcome to apply if part of that time was in a product management role",
-        "Demonstrated ability to figure out solutions to hard problems with many constraints, assess risks, and to lay out your argument in a well-structured, data-informed, written narrative",
-        "Diverse Perspectives",
-        "We know innovation thrives in product teams where diverse points of view come together to solve hard problems, and we seek people that bring diverse life experiences, diverse educational backgrounds, diverse cultures, and diverse work experiences. We look forward to learning how your perspective will bring something unique and valuable to our product teams.",
-        "#LI-KJ2",
-        "Learn More"
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "The Muse",
-      "applyUrl": "https://www.themuse.com/jobs/autodesk/senior-product-manager-fa4e12",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
       "lastSeenAt": "2026-09-19",
@@ -23182,83 +23245,6 @@
       "status": "Active"
     },
     {
-      "id": "job_aeae06",
-      "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
-      "title": "Senior Product Manager - SAP FICO",
-      "company": {
-        "id": "zoominfo",
-        "name": "ZoomInfo",
-        "logo": null,
-        "domain": "zoominfo.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 10,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Fintech",
-        "Enterprise"
-      ],
-      "skills": [
-        "Go-to-Market",
-        "API",
-        "Platform",
-        "Data",
-        "Agile"
-      ],
-      "tags": [
-        "SaaS",
-        "Fintech",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Go-to-Market",
-        "API",
-        "Platform"
-      ],
-      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
-      "responsibilities": [
-        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
-        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
-        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
-        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
-        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
-        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
-        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
-        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
-        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
-        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
-      ],
-      "requirements": [
-        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
-        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
-        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
-        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
-        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
-        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
-        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
-        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
-        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
-        "SAP Certification in Finance or a related SAP discipline.",
-        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
-        "Experience in high-tech, SaaS, software, or Finance transformation programs."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · ZoomInfo",
-      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
-      "postedAt": "2026-09-05",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-19",
-      "status": "Active"
-    },
-    {
       "id": "job_a4f741",
       "slug": "senior-product-manager-sap-fico-zoominfo-chennai-a4f741",
       "title": "Senior Product Manager - SAP FICO",
@@ -23330,6 +23316,83 @@
       "salary": null,
       "source": "Greenhouse · ZoomInfo",
       "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8733078002",
+      "postedAt": "2026-09-05",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-19",
+      "status": "Active"
+    },
+    {
+      "id": "job_aeae06",
+      "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
+      "title": "Senior Product Manager - SAP FICO",
+      "company": {
+        "id": "zoominfo",
+        "name": "ZoomInfo",
+        "logo": null,
+        "domain": "zoominfo.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "API",
+        "Platform",
+        "Data",
+        "Agile"
+      ],
+      "tags": [
+        "SaaS",
+        "Fintech",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "API",
+        "Platform"
+      ],
+      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
+      "responsibilities": [
+        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
+        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
+        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
+        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
+        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
+        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
+        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
+        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
+        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
+        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
+      ],
+      "requirements": [
+        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
+        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
+        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
+        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
+        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
+        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
+        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
+        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
+        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
+        "SAP Certification in Finance or a related SAP discipline.",
+        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
+        "Experience in high-tech, SaaS, software, or Finance transformation programs."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · ZoomInfo",
+      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
       "postedAt": "2026-09-05",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-09-19",
@@ -35078,8 +35141,8 @@
       "companySize": "1000-5000",
       "description": "ZoomInfo is a saas company hiring product managers in India.",
       "locations": [
-        "Bengaluru",
-        "Chennai"
+        "Chennai",
+        "Bengaluru"
       ]
     },
     {
