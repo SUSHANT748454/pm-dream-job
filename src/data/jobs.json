@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T22:07:32.481Z",
+  "generatedAt": "2026-09-19T02:28:53.470Z",
   "jobs": [
     {
       "id": "job_7d8345",
@@ -79,7 +79,71 @@
       "applyUrl": "https://www.themuse.com/jobs/jpmorganchase/product-manager-email-client-apps-services",
       "postedAt": "2026-09-18",
       "firstSeenAt": "2026-09-18",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
+      "status": "Active"
+    },
+    {
+      "id": "job_00a96b",
+      "slug": "senior-product-manager-atlassian-bengaluru-00a96b",
+      "title": "Senior Product Manager",
+      "company": {
+        "id": "atlassian",
+        "name": "Atlassian",
+        "logo": null,
+        "domain": null
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Remote",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": null,
+      "domain": [
+        "Ecommerce",
+        "SaaS"
+      ],
+      "skills": [
+        "Platform",
+        "Data",
+        "Fraud",
+        "Onboarding",
+        "Marketplace"
+      ],
+      "tags": [
+        "Ecommerce",
+        "SaaS",
+        "Senior Product Manager",
+        "Remote",
+        "Platform",
+        "Data",
+        "Fraud",
+        "Onboarding"
+      ],
+      "description": "Working at Atlassian\n\nAtlassians can choose where they work whether in an office, from home, or a combination of the two. That way, Atlassians have more control over supporting their family, personal goals, and other priorities. We can hire people in any country where we have a legal entity.",
+      "responsibilities": [
+        "A healthy developer ecosystem is key to Atlassian's long-term success. In brief: Happy customers extend our product family to satisfy millions of custom use cases. The Atlassian Ecosystem team is creating possibilities for thousands of developers - from champions that tailor our products to their teams' needs, to popular SaaS companies integrating with Atlassian, to marketplace partners building their careers and significant businesses on Atlassian.",
+        "As a Product Manager on Forge you evolve our extensibility platform to make it easier to extend and integrate the Atlassian Cloud. You could work on lowering the bar to app creation with our next-gen developer platform, Forge, from new developer awareness, onboarding, guides and reference materials, through to app management. Partnering closely with various product teams including Jira, Confluence, Bitbucket, Loom and Trello, you could drive support for to empower the diverse use cases our cloud developer community is solving for. Most of all, you will impact millions of users and thousands of partners for decades to come.",
+        "It's great, but not required, if you have:",
+        "Experience shipping tools for developers. You have experienced problems with developer onboarding in the past and want to solve your own problem",
+        "At Atlassian, we strive to design equitable, explainable, and competitive compensation programs. We follow consistent hiring practices and account for each candidate's skills, knowledge, and experience when setting base pay within the range.",
+        "This role may also be eligible for benefits, bonuses, commissions, and equity.",
+        "5+ years of product management experience",
+        "Strong technical background to understand and prioritise the needs of developers and can shape the vision for a strong technology platform - you're a PM by trade, but love geeking out over great technical ideas from time to time",
+        "You think strategically, but do not shy away from getting down in the weeds to help team make day-to-day decisions to move product forward",
+        "Be able to paint a compelling vision to inspire cross-functional teams and external audiences",
+        "A track record of building relationships and influencing without authority at all levels of the organisation"
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "The Muse",
+      "applyUrl": "https://www.themuse.com/jobs/atlassian/senior-product-manager-40a497",
+      "postedAt": "2026-09-18",
+      "firstSeenAt": "2026-09-19",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -128,7 +192,7 @@
       "applyUrl": "https://www.themuse.com/jobs/appian/senior-technical-product-manager-modernization",
       "postedAt": "2026-09-18",
       "firstSeenAt": "2026-09-18",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -213,7 +277,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-assoc-product-manager-cdk-global-llc-hyderabad-4-to-9-years-140926502011",
       "postedAt": "2026-09-17",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -298,7 +362,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-associate-product-manager-cdk-global-llc-hyderabad-4-to-9-years-140926502017",
       "postedAt": "2026-09-17",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -345,7 +409,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-associate-product-manager-qaf-digital-platforms-nagpur-0-to-1-years-170926908980",
       "postedAt": "2026-09-17",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -404,7 +468,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/director-of-product-management-at-commerceiq-4467186231",
       "postedAt": "2026-09-17",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -451,7 +515,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-navrang-nx-bengaluru-1-to-2-years-170926909077",
       "postedAt": "2026-09-17",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -496,7 +560,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-zenmak-nutrigencies-and-health-coimbatore-0-to-3-years-170926913109",
       "postedAt": "2026-09-17",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -561,7 +625,7 @@
       "applyUrl": "https://www.themuse.com/jobs/jpmorganchase/product-manager-associate-972b50",
       "postedAt": "2026-09-17",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -623,7 +687,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-ops-tech-apollo-hospitals-hyderabad-5-to-7-years-270626002329",
       "postedAt": "2026-09-17",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -682,7 +746,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-at-greenlight-4468366579",
       "postedAt": "2026-09-17",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -724,7 +788,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-summer-2026-intern-product-manager-salesforce-bengaluru-2-to-3-years-110926500246",
       "postedAt": "2026-09-17",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -767,7 +831,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-ai-technical-product-manager-au-financiers-india-limited-mumbai-5-to-6-years-160926504489",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -840,7 +904,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-ai-analytics-product-manager-ford-motor-private-limited-chennai-14-to-15-years-160926933066",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -877,7 +941,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-assistant-product-manager-vitaliz-biosciences-thiruvananthapuram-3-to-5-years-160926935533",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -957,7 +1021,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/associate-product-manager-full-time-remote-at-goodads-ai-4467120224",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -1032,7 +1096,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/cloudkeeper-product-manager-cloud-infrastructure-at-cloudkeeper-4467934193",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -1075,7 +1139,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-digital-product-manager-pepsico-global-business-services-india-llp-hyderabad-gurugram-7-to-12-years-160926940124",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -1115,7 +1179,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-digital-product-manager-p-g-hyderabad-3-to-6-years-170926000293",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -1191,7 +1255,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/director-of-product-at-neysa-4467976409",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -1262,7 +1326,7 @@
       "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Director-Product-Management---Technical---AI-transformation_R-290799-1",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-16",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -1332,7 +1396,7 @@
       "applyUrl": "https://click.appcast.io/t/4egMzW7yMaQqeuW5VLx8t3fAIEuvlqhqhmX5GWaNHRg=",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -1411,7 +1475,7 @@
       "applyUrl": "https://careers.cisco.com/global/en/job/2023232",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -1454,7 +1518,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/group-product-manager-at-flexiple-4468218912",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -1494,7 +1558,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-group-product-manager-himalaya-healthcare-ltd-bengaluru-8-to-12-years-160926503586",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -1534,7 +1598,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-lead-product-manager-wells-fargo-international-solutions-private-ltd-bengaluru-5-to-10-years-160926933137",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -1600,7 +1664,7 @@
       "applyUrl": "https://click.appcast.io/t/1n4EZ3XXHXjYrHLFvPVN_QlqS6aRTjIlw7snUYKLiyQ=",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -1658,7 +1722,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/lead-product-owner-at-delta-technology-hub-4466851923",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -1737,7 +1801,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/principal-product-manager-apac-direct-payments-at-wise-4466845288",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -1817,7 +1881,7 @@
       "applyUrl": "https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2390084&lang=en",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -1878,7 +1942,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-head-%E2%80%93-mobile-accessories-at-damson-technologies-4465507924",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -1955,7 +2019,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-remote-at-cimpress-india-4465735895",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -2023,7 +2087,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-at-refold-ai-4465962857",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -2088,7 +2152,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-at-anupam-finserv-4465992567",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -2141,7 +2205,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-at-teamified-4467930233",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -2178,7 +2242,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-tensorgo-technologies-hyderabad-3-to-5-years-160926933756",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -2269,7 +2333,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-neuroglia-health-bengaluru-3-to-7-years-240626014523",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -2334,7 +2398,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-xllent-corporate-services-pvt-ltd-bengaluru-4-to-7-years-160926934747",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -2371,7 +2435,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-randomtrees-ahmedabad-8-to-13-years-160926037520",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -2507,7 +2571,7 @@
       "applyUrl": "https://JPMorganChase.contacthr.com/153599884",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -2568,7 +2632,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-backing-services-at-tekit-software-solutions-pvt-ltd-india-usa-4468225352",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -2624,7 +2688,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-emerging-asset-financing-at-idfc-first-bank-4448558393",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -2664,7 +2728,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-finance-accounting-myclassboard-com-hyderabad-4-to-8-years-160926502202",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -2712,7 +2776,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-financial-services-maximus-infoware-india-pvt-ltd-mumbai-5-to-10-years-160926501371",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -2749,7 +2813,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-hr-tech-people-operations-myclassboard-com-hyderabad-4-to-8-years-160926502207",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -2789,7 +2853,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-lms-learning-myclassboard-com-hyderabad-4-to-8-years-160926502206",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -2849,7 +2913,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-vision-ai-inovartech-hyderabad-7-to-12-years-160926504616",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -2886,7 +2950,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-iii-te-connectivity-india-private-limited-bengaluru-5-to-8-years-160926939989",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -2940,7 +3004,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-intern-at-slice-4455706866",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -3005,7 +3069,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-tractor-farm-machinery-at-idfc-first-bank-4448560213",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -3065,7 +3129,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-mgr-seller-ai-iss-seller-ai-at-amazon-4459362113",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -3138,7 +3202,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-owner-at-zywave-4392081414",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -3197,7 +3261,7 @@
       "applyUrl": "https://lbg.wd3.myworkdayjobs.com/en-US/Lloyds_Technology_Centre/job/Hyderabad-Knowledge-Park-Tower-2/Product-Owner_161346",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -3271,7 +3335,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-digital-product-manager-at-optum-india-4468254200",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -3324,7 +3388,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-at-pluang-4465995579",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -3393,7 +3457,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-at-microsoft-4467992660",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -3430,7 +3494,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-blackline-bengaluru-5-to-8-years-160926502150",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -3475,7 +3539,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-outreach-hyderabad-7-to-12-years-160926501993",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -3536,7 +3600,7 @@
       "applyUrl": "https://jobs.lever.co/greenlight/4f00e356-b5b1-4708-b1ff-cc86c5124cb3",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -3600,7 +3664,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-ai-at-ge-vernova-4468263027",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -3647,7 +3711,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-data-ai-governance-sabre-holdings-bengaluru-5-to-10-years-160926502006",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -3718,7 +3782,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-digital-experience-at-sabre-4457901651",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -3755,7 +3819,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-financial-consolidations-blackline-bengaluru-6-to-10-years-160926502153",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -3809,7 +3873,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-engagement-manager-hexacorp-technical-services-pune-8-to-12-years-160926046449",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -3849,7 +3913,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-software-product-manager-clusterwareai-aeries-technology-group-bengaluru-5-to-10-years-160926503339",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -3919,7 +3983,7 @@
       "applyUrl": "https://careers.mccormick.com/job/GURGAON-Sr-Data-Product-Manager-%2C-Global-SAP-Analytics-122001/1430467600/",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -3976,7 +4040,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/sr-product-manager-%E2%80%93-network-services-at-tekit-software-solutions-pvt-ltd-india-usa-4467996608",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -4016,7 +4080,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-state-product-manager-ikf-finance-hyderabad-10-to-12-years-250626045198",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -4091,7 +4155,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-tax-product-manager-tmf-services-india-private-limited-pune-7-to-9-years-160926503967",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -4164,7 +4228,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-technical-product-manager-genpact-noida-11-to-21-years-020926015055",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -4208,7 +4272,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-technical-product-manager-unico-connect-private-limited-mumbai-5-to-8-years-160926934967",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -4275,7 +4339,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-technical-product-manager-strategy-roadmap-unico-connect-private-limited-mumbai-3-to-5-years-160926935157",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -4322,7 +4386,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-ai-product-manager-ey-bengaluru-4-to-8-years-140826032564",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -4386,7 +4450,7 @@
       "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/AI-Product-Owner_587510-1",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-15",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -4431,7 +4495,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/assistant-manager-product-delivery-at-idfy-4458229316",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -4474,7 +4538,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-associate-product-manager-tequity-bengaluru-2-to-5-years-150926505873",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -4516,7 +4580,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-associate-product-manager-ognam-technology-services-pvt-ltd-pune-5-to-10-years-150926904877",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -4594,7 +4658,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/digital-product-manager-at-amgen-4458765918",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -4680,7 +4744,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/director-product-management-at-shell-recharge-solutions-4466175580",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -4726,7 +4790,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-fareportal-hiring-for-product-manager-b2b-travel-fareportal-pune-4-to-8-years-150926021187",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -4786,7 +4850,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/global-product-lead-device-strategy-marketing-at-novo-nordisk-4465543717",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -4823,7 +4887,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-group-product-manager-msn-group-hyderabad-8-to-13-years-110825002605",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -4879,7 +4943,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/group-product-manager-commerce-at-highlevel-4465570441",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -4934,7 +4998,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/group-product-manager-customer-acquisition-at-pearl-4467732238",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -5013,7 +5077,7 @@
       "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556998872?utm_source=indeed&domain=microsoft.com",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -5061,7 +5125,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/principal-product-manager-prisma-airs-bangalore-at-palo-alto-networks-4465914881",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -5101,7 +5165,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-executive-asst-product-manager-svizera-health-remedies-pvt-ltd-mumbai-govandi-2-to-5-years-150926912488",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -5204,7 +5268,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-management-intern-at-onified-ai-4460445798",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -5289,7 +5353,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-at-newfold-digital-4460483717",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -5350,7 +5414,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-at-travclan-4465510031",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -5415,7 +5479,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-at-flexing-it%C2%AE-4467751549",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -5463,7 +5527,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-thyrocare-bengaluru-2-to-5-years-070926007466",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -5516,7 +5580,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-soul-ai-mumbai-5-to-9-years-150926923154",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -5553,7 +5617,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-ais-technolabs-pvt-ltd-ahmedabad-1-to-6-years-150926504948",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -5602,7 +5666,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-spice-money-noida-2-to-5-years-150926032953",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -5639,7 +5703,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-tequity-bengaluru-4-to-9-years-150926505245",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -5682,7 +5746,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-cloutflow-bengaluru-4-to-9-years-150926505239",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -5749,7 +5813,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-genai-agentic-ai-at-indegene-4466500679",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -5811,7 +5875,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-global-trade-solutions-at-hsbc-4466570239",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -5851,7 +5915,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-hr-technology-cornerstone-ondemand-enterprise-indiaprivate-limited-hyderabad-4-to-9-years-150926935165",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -5899,7 +5963,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-pharma-marketing-msn-group-hyderabad-3-to-8-years-230426011364",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -5957,7 +6021,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-product-development-at-freecharge-4465536028",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -5994,7 +6058,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-shopify-app-portfolio-seventh-triangle-consulting-noida-2-to-4-years-150926504857",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -6036,7 +6100,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-freelancer-soul-ai-bengaluru-4-to-8-years-150926923179",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -6076,7 +6140,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-hospitality-domain-sciative-solutions-navi-mumbai-vashi-5-to-8-years-150926910922",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -6121,7 +6185,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-mutual-fund-amc-angel-one-mumbai-4-to-8-years-100726011400",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -6161,7 +6225,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-digital-solutions-beumer-gurugram-5-to-7-years-150926015855",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -6206,7 +6270,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-i-product-owner-ust-thiruvananthapuram-12-to-16-years-150926504762",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -6263,7 +6327,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-ii-at-cvent-4440660649",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -6314,7 +6378,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-website-app-platforms-nexon-omniverse-limited-mumbai-4-to-7-years-150926012187",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -6369,7 +6433,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-ai-data-insight-products-at-jaggaer-4466530916",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -6442,7 +6506,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-owner-at-hireflex-4465628966",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -6499,7 +6563,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-at-freshworks-4455582387",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -6567,7 +6631,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-at-blackbaud-india-4446916541",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -6607,7 +6671,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-optum-global-solutions-india-private-limited-hyderabad-11-to-16-years-150926934899",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -6650,7 +6714,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-cornerstone-ondemand-enterprise-indiaprivate-limited-hyderabad-pune-6-to-8-years-150926935155",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -6690,7 +6754,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-ognam-technology-services-pvt-ltd-pune-6-to-11-years-150926904947",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -6756,7 +6820,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-cisco-wireless-at-cisco-4448146910",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -6803,7 +6867,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-it-cyber-risk-diligent-bengaluru-4-to-7-years-150926003374",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -6864,7 +6928,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-i-at-nielsen-4465561043",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -6939,7 +7003,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-owner-at-veryon-4465512691",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -6982,7 +7046,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-sr-product-manager-indiagold-gurugram-6-to-8-years-150926505196",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -7044,7 +7108,7 @@
       "applyUrl": "https://www.amazon.jobs/jobs/10547114/sr-product-manager-amazon-pharmacy?cmpid=DA_INAD200785B",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -7084,7 +7148,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-sr-product-manager-group-product-manager-svizera-health-remedies-pvt-ltd-mumbai-8-to-10-years-150926912493",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -7126,7 +7190,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-tech-s-and-t-cloud-dev-product-manager-ngto-senior-gdsf02-ernst-young-noida-8-to-12-years-150926505007",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -7173,7 +7237,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-technical-product-manager-k4-infotech-chennai-10-to-15-years-150926020193",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -7210,7 +7274,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-zr-324-technical-product-manager-priority-technology-holdings-chandigarh-5-to-10-years-150926505818",
       "postedAt": "2026-09-15",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -7260,7 +7324,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-agentic-product-manager-backbase-hyderabad-3-to-4-years-140926501020",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -7300,7 +7364,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-associate-product-manager-specialist-visco-information-technology-services-private-limi-ted-hyderabad-4-to-7-years-140926919614",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -7340,7 +7404,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-cmk-encryption-platform-product-manager-atlassian-bengaluru-2-to-8-years-140926503790",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -7402,7 +7466,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/director-product-management-at-commerceiq-4465728618",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -7462,7 +7526,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/head-f-m-d-of-product-management-and-development-substation-grid-monitoring-at-siemens-energy-4465734777",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -7540,7 +7604,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/it-product-manager-online-travel-technology-at-ethics-infotech-4467402005",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -7598,7 +7662,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/4ee74e43-4001-457f-9ad8-f574689991d5",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-14",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -7654,7 +7718,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-management-manager-at-athenahealth-4397795734",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -7694,7 +7758,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-optimiser-crm-mumbai-delhi-ncr-bengaluru-4-to-8-years-140926905226",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -7731,7 +7795,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-medipharma-konnect-ahmedabad-4-to-5-years-140926906005",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -7771,7 +7835,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-ownpath-bengaluru-3-to-8-years-140926503866",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -7811,7 +7875,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-techblocks-consulting-pvt-ltd-hyderabad-6-to-11-years-140926916115",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -7851,7 +7915,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-cor-edge-noida-3-to-8-years-140926503827",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -7893,7 +7957,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-exposure-management-prevalent-ai-india-private-limited-kochi-7-to-12-years-140926500065",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -7957,7 +8021,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-financial-inclusion-at-idfc-first-bank-4447690828",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -7994,7 +8058,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-agri-biologicals-kan-biosys-private-limited-pune-5-to-10-years-140926912456",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -8049,7 +8113,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-%E2%80%94-wearables-fitness-apps-at-pebble-4464761452",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -8089,7 +8153,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-ai-digital-transformation-bennett-university-mumbai-4-to-8-years-140926014147",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -8129,7 +8193,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-senior-product-manager-ai-marketsandmarkets-pune-6-to-11-years-140926013009",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -8199,7 +8263,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-airx-at-google-4456872373",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -8236,7 +8300,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-gut-health-animal-nutrition-dsm-shared-services-india-private-limited-mumbai-hyderabad-2-to-7-years-140926916345",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -8293,7 +8357,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/%C2%A0-product-manager-patient-messaging%C2%A0-at-athenahealth-4462477048",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -8351,7 +8415,7 @@
       "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Product-Manager--Radiology-Informatics_587067",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-14",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -8391,7 +8455,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-group-product-manager-medipharma-konnect-mumbai-ahmedabad-4-to-7-years-140926906009",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -8438,7 +8502,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-mango-sciences-india-llp-bengaluru-7-to-12-years-140926906135",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -8497,7 +8561,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-clear-water-analytics-mumbai-7-to-12-years-140926501829",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -8566,7 +8630,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-atica-global-pune-4-to-5-years-140926502716",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -8612,7 +8676,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-computer-data-and-analytics-platform-devrev-bengaluru-8-to-13-years-140926501924",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -8649,7 +8713,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-managed-security-services-arctic-wolf-networks-bengaluru-6-to-11-years-140926501875",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -8715,7 +8779,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-platform-arctic-wolf-networks-bengaluru-2-to-5-years-140926502878",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -8783,7 +8847,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-data-commons-infrastructure-at-google-4456857788",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -8823,7 +8887,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-tax-equinix-india-professional-services-private-limited-bengaluru-8-to-13-years-140926913858",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -8897,7 +8961,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-technical-product-manager-at-optum-india-4467213313",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -8934,7 +8998,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-staff-product-manager-freshworks-bengaluru-10-to-15-years-140926503733",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -8977,7 +9041,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-technical-product-manager-optum-global-solutions-india-private-limited-hyderabad-0-to-5-years-140926919576",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -9022,7 +9086,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-technical-product-manager-priority-idc-chandigarh-5-to-8-years-140926020121",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -9080,7 +9144,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-technical-product-manager-japanese-english-cs-trust-safety-mercari-india-bengaluru-3-to-8-years-140926501906",
       "postedAt": "2026-09-14",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -9160,7 +9224,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/head-of-product-and-engineering-director-at-citi-4456653392",
       "postedAt": "2026-09-13",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -9200,7 +9264,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-cloudkeeper-noida-5-to-10-years-130926004703",
       "postedAt": "2026-09-13",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -9259,7 +9323,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-tech-iii-finance-automation-at-amazon-4466752151",
       "postedAt": "2026-09-13",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -9335,7 +9399,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-owner-at-kroll-4417629634",
       "postedAt": "2026-09-13",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -9390,7 +9454,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-at-blinkrx-4456686604",
       "postedAt": "2026-09-13",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -9471,7 +9535,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/technical-product-manager-platform-at-tracelink-4435695227",
       "postedAt": "2026-09-13",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -9544,7 +9608,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/digital-product-management-director-business-lending-commercial-lending-business-banking-or-related-financial-products-at-wells-fargo-4466470810",
       "postedAt": "2026-09-12",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -9584,7 +9648,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/expert-opportunity-product-manager-tech-%2480-hr-up-to-%241-600-week-at-ethos-4439593975",
       "postedAt": "2026-09-12",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -9665,7 +9729,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/lead-product-manager-aiops-at-s-p-global-4438913058",
       "postedAt": "2026-09-12",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -9714,7 +9778,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-at-valiance-solutions-4454516367",
       "postedAt": "2026-09-12",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -9751,7 +9815,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-digital-twin-with-ai-for-manufacturing-hcltech-chennai-bengaluru-6-to-11-years-120926012644",
       "postedAt": "2026-09-12",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -9804,7 +9868,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-consumer-at-noon-4466717105",
       "postedAt": "2026-09-12",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -9852,7 +9916,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/scrum-master-product-owner-at-wirelesscar-4465192354",
       "postedAt": "2026-09-12",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -9894,7 +9958,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-state-product-manager-tractor-loans-sk-finance-jaipur-10-to-20-years-120926015481",
       "postedAt": "2026-09-12",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -9940,7 +10004,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/ap-tablets-product-manager-commercial-at-lenovo-4451189337",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -9984,7 +10048,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-associate-product-manager-flam-bengaluru-1-to-3-years-110926503144",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -10028,7 +10092,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-associate-product-manager-product-manager-fastrr-shiprocket-gurugram-1-to-3-years-110926503982",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -10097,7 +10161,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/associate-product-owner-at-tiaa-4456244148",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -10211,7 +10275,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-group-product-manager-icpa-health-products-mumbai-suburban-mumbai-all-areas-5-to-10-years-110926018694",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -10251,7 +10315,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-group-product-manager-rheumat-ortho-ipca-mumbai-suburban-8-to-10-years-110926910056",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -10329,7 +10393,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-manger-technical-product-manager-optum-global-solutions-india-private-limited-hyderabad-8-to-13-years-110926909099",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -10413,7 +10477,7 @@
       "applyUrl": "https://www.okta.com/company/careers/opportunity/8188921?gh_jid=8188921",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -10470,7 +10534,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-at-servify-4440678998",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -10515,7 +10579,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-lava-international-noida-3-to-6-years-110926008658",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -10552,7 +10616,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-global-garner-sales-services-pvt-ltd-ahmedabad-2-to-4-years-110926502536",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -10610,7 +10674,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-express-tradecom-raipur-5-to-8-years-110926017267",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -10656,7 +10720,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-rupstech-private-limited-bengaluru-2-to-7-years-110926501323",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -10703,7 +10767,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-kingdom-of-chess-udaipur-3-to-7-years-110926011265",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -10740,7 +10804,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-icpa-health-products-mumbai-suburban-mumbai-all-areas-4-to-8-years-110926018055",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -10805,7 +10869,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-ac-at-tiger-analytics-4464895003",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -10844,7 +10908,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-specialist-valves-flowserve-corporation-bengaluru-5-to-10-years-110926503537",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -10929,7 +10993,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-%E2%80%93-dex-automations-at-teamviewer-4466080012",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -10969,7 +11033,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-pharma-industry-apeejay-stya-group-gurugram-6-to-11-years-240725024480",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -11006,7 +11070,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-sr-product-manager-urosciences-ipca-mumbai-suburban-4-to-6-years-110926910055",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -11043,7 +11107,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-customer-experience-operations-eclerx-navi-mumbai-mumbai-all-areas-7-to-12-years-110926024267",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -11124,7 +11188,7 @@
       "applyUrl": "https://www.okta.com/company/careers/opportunity/8210924?gh_jid=8210924",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -11194,7 +11258,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-owner-at-incubyte-4464208170",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -11246,7 +11310,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-owner-at-ontic-4435658981",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -11298,7 +11362,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-owner-business-analyst-hybrid-at-rx-global-4464876954",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -11353,7 +11417,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-strategy-manager-at-indusind-bank-4463978748",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -11423,7 +11487,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-senior-manager-bi-reporting-and-product-management-pepsico-global-business-services-india-llp-hyderabad-10-to-15-years-110926908962",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -11488,7 +11552,7 @@
       "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Senior-Product-Manager_582154-1",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -11541,7 +11605,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-at-nanonets-4466061875",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -11598,7 +11662,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-at-incommon-4463982126",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -11673,7 +11737,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-exposure-management-at-arctic-wolf-4464879109",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -11730,7 +11794,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-personalisation-ai-at-jiosaavn-4466088528",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -11814,7 +11878,7 @@
       "applyUrl": "https://www.okta.com/company/careers/opportunity/8022961?gh_jid=8022961",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -11854,7 +11918,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-sr-product-manager-comviva-technologies-limited-gurugram-3-to-5-years-110926503042",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -11916,7 +11980,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-sr-product-manager-mihup-ai-bengaluru-8-to-15-years-110926502844",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -11959,7 +12023,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-sr-product-manager-ii-nielsen-sports-bengaluru-5-to-10-years-110926503987",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -11999,7 +12063,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-sr-product-manager-mobilytix-design-studio-comviva-technologies-limited-gurugram-8-to-13-years-110926503339",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -12049,7 +12113,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-sr-technical-product-manager-i-curriculum-associates-bengaluru-10-to-15-years-110926503606",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -12091,7 +12155,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-staff-product-manager-netapp-bengaluru-10-to-16-years-110926011841",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -12144,7 +12208,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/technical-product-manager-at-lucidity-4456495017",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -12199,7 +12263,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-technical-product-manager-ramxora-private-limited-treez-enterprise-group-bengaluru-2-to-3-years-110926017909",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -12236,7 +12300,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-technical-product-manager-fujitsu-consulting-india-pvt-ltd-bengaluru-15-to-20-years-110926909067",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -12305,7 +12369,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-technical-product-manager-ai-platform-interoperability-saiharmony-solutions-india-private-limited-bengaluru-8-to-12-years-110926918947",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -12376,7 +12440,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/technical-product-manager-m-f-d-for-api-management-%40-btp-integration-suite-at-sap-4444551687",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -12452,7 +12516,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-technical-product-manager-finance-transformation-ai-supervity-hyderabad-mumbai-all-areas-2-to-7-years-110926007337",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -12498,7 +12562,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-tracxn-associate-product-manager-tracxn-bengaluru-0-to-3-years-110926003185",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -12547,7 +12611,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-tracxn-product-manager-tracxn-bengaluru-5-to-8-years-110926003216",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -12595,7 +12659,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/associate-business-product-management-at-emeritus-4453511745",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -12632,7 +12696,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-associate-product-manager-bizdata-bengaluru-14-to-19-years-100926503059",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -12669,7 +12733,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-associate-product-manager-ai-product-development-bizdata-bengaluru-1-to-4-years-100926503296",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -12724,7 +12788,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/associate-product-manager-interns-at-kumaran-systems-4456461470",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -12770,7 +12834,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-data-ai-product-manager-finance-dsm-shared-services-india-private-limited-hyderabad-5-to-9-years-100926911090",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -12810,7 +12874,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-global-product-manager-adjacencies-te-connectivity-india-private-limited-bengaluru-5-to-10-years-100926911012",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -12850,7 +12914,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-group-product-manager-milmet-sun-pharma-mumbai-10-to-15-years-100926019268",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -12908,7 +12972,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/hybrid-scrum-master-product-owner-at-kaufman-rossin-4456727852",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -12945,7 +13009,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-lead-product-manager-gameberry-labs-bengaluru-7-to-9-years-100926502959",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -13015,7 +13079,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/lead-product-manager-lodging-distribution-at-sabre-4434327390",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -13090,7 +13154,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/lead-technical-product-manager-iit-iim-preferred-product-management-at-wolters-kluwer-4428032508",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -13127,7 +13191,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/manager-product-development-technology-digital-product-owner-at-exl-4446740104",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -13197,7 +13261,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-at-comviva-4465632401",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -13250,7 +13314,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-at-jiohotstar-4463455126",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -13302,7 +13366,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-omaza-bengaluru-4-to-8-years-100926012782",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -13339,7 +13403,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-expleo-pune-12-to-20-years-100926022857",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -13402,7 +13466,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-instaweb-labs-pvt-ltd-mumbai-malad-1-to-5-years-100926917287",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -13451,7 +13515,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-olx-gurugram-4-to-6-years-280726004258",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -13524,7 +13588,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-dishtv-noida-9-to-10-years-100926024801",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -13566,7 +13630,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-everest-industri-ltd-mumbai-0-to-4-years-100926504930",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -13603,7 +13667,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-priceline-com-mumbai-4-to-6-years-100926503102",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -13645,7 +13709,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-ensemble-health-partners-company-hyderabad-8-to-13-years-030626010469",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -13688,7 +13752,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-gtm-narayana-health-nh-bengaluru-3-to-8-years-100926028343",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -13743,7 +13807,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-lending-cheq-digital-bengaluru-2-to-5-years-100926020205",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -13809,7 +13873,7 @@
       "applyUrl": "https://www.themuse.com/jobs/sonatype/product-manager-sbom",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-11",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -13890,7 +13954,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-agentic-ai-at-innefu-labs-4464182547",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -13932,7 +13996,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-ii-f5-networks-innovation-private-limited-hyderabad-bengaluru-3-to-8-years-100926909893",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -13975,7 +14039,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-ai-platform-infosys-limited-bengaluru-8-to-13-years-100926915240",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -14028,7 +14092,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-credit-syndication-at-idfc-first-bank-4464528532",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -14075,7 +14139,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-new-initiatives-acheron-software-consultancy-hyderabad-10-to-15-years-300726030352",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -14152,7 +14216,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-retail-fx-remittances-at-idfc-first-bank-4464530327",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -14195,7 +14259,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-sciative-solutions-product-manager-ai-saas-ive-we-price-right-navi-mumbai-3-to-6-years-100926917192",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -14276,7 +14340,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-director-product-management-at-teradata-4464521171",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -14319,7 +14383,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-capgemini-technology-services-india-limited-bengaluru-9-to-14-years-100926913794",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -14361,7 +14425,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-icici-lombard-mumbai-0-to-0-years-100926029294",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -14406,7 +14470,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-saas-applications-protection-commvault-systems-india-private-limited-bengaluru-8-to-12-years-100926933872",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -14457,7 +14521,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-mobilytix-design-studio-at-comviva-4465627461",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -14497,7 +14561,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-software-product-manager-cti-md-india-eli-lilly-and-company-bengaluru-6-to-11-years-100926503070",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -14561,7 +14625,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/solution-architect-and-product-owner-at-ey-4453875355",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -14601,7 +14665,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-sr-product-manager-geeksoft-consulting-pvt-ltd-hyderabad-6-to-11-years-100926503651",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -14654,7 +14718,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/sr-product-manager-industry-4-0-at-welspun-world-4464504364",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -14691,7 +14755,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-sr-product-manager-ot-cloud-technologies-ge-vernova-consulting-chennai-7-to-11-years-100926503256",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -14737,7 +14801,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-sr-product-manager-ii-alation-chennai-5-to-10-years-100926502043",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -14774,7 +14838,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-sr-product-manager-ii-identity-access-management-appian-corporation-chennai-8-to-13-years-100926502713",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -14816,7 +14880,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-sr-technical-product-manager-sterling-information-resources-i-pvt-ltd-bengaluru-5-to-10-years-100926501816",
       "postedAt": "2026-09-10",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -14908,7 +14972,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/inmobi/jobs/6918622",
       "postedAt": "2026-09-09",
       "firstSeenAt": "2026-09-11",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -15102,7 +15166,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-technical-product-manager-qentelli-hyderabad-10-to-20-years-250826016804",
       "postedAt": "2026-09-09",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -15155,7 +15219,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/spotdraft/e9146208-bd24-443b-b1d8-96aabd292538",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -15287,7 +15351,7 @@
       "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager---Technical_R-289009",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -15500,7 +15564,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/sumologic/jobs/8098451",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -15578,7 +15642,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/sumologic/jobs/8089130",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -15653,7 +15717,7 @@
       "applyUrl": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Product-Manager_26WD99627-1",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -15720,7 +15784,7 @@
       "applyUrl": "https://www.themuse.com/jobs/cornerstoneondemand/senior-product-manager-c42e85",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -15777,7 +15841,7 @@
       "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Specialist-Product-Manager_R-290356",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -15826,7 +15890,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/spotdraft/4c635c45-27c4-4e53-892d-da09156ef0e6",
       "postedAt": "2026-09-07",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -15977,7 +16041,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729533005",
       "postedAt": "2026-09-07",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -16035,7 +16099,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/5dbd7403-b047-48e1-b433-574933914ff3",
       "postedAt": "2026-09-06",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -16172,7 +16236,7 @@
       "applyUrl": "https://www.themuse.com/jobs/broadridge/product-owner-reference-and-market-data",
       "postedAt": "2026-09-05",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -16249,7 +16313,7 @@
       "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
       "postedAt": "2026-09-05",
       "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -16326,7 +16390,7 @@
       "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8733078002",
       "postedAt": "2026-09-05",
       "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -16446,7 +16510,7 @@
       "applyUrl": "https://www.themuse.com/jobs/appian/director-platform-engineering-product-management-e018fd",
       "postedAt": "2026-09-03",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -16497,7 +16561,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/5e3ae6dd-e4a3-4cfc-acb7-ae8b9d030cc1",
       "postedAt": "2026-09-03",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -16561,7 +16625,7 @@
       "applyUrl": "https://www.themuse.com/jobs/ukg/product-manager-ii-certinia-product-manager",
       "postedAt": "2026-09-03",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -16619,7 +16683,7 @@
       "applyUrl": "https://www.rubrik.com/company/careers/departments/job.7976001?gh_jid=7976001",
       "postedAt": "2026-09-03",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -16740,7 +16804,7 @@
       "postedAt": "2026-09-03",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
       "lastSeenAt": "2026-09-18",
-      "status": "Active"
+      "status": "Expired"
     },
     {
       "id": "job_40cc26",
@@ -16793,7 +16857,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/75992181-c0d0-44e7-805a-6dddfd0fe23b",
       "postedAt": "2026-09-02",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -17018,7 +17082,7 @@
       "applyUrl": "https://www.druva.com/why-druva/explore/careers/jobs/8651130002/?gh_jid=8651130002",
       "postedAt": "2026-09-01",
       "firstSeenAt": "2026-09-11",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -17102,7 +17166,7 @@
       "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8094528",
       "postedAt": "2026-09-01",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -17183,7 +17247,7 @@
       "applyUrl": "https://www.themuse.com/jobs/experian/senior-product-manager-behavioral-analytics-2c2db1",
       "postedAt": "2026-09-01",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -17243,7 +17307,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/commvault/jobs/5252738008",
       "postedAt": "2026-09-01",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -17301,7 +17365,7 @@
       "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Sr-Product-Manager---Case-Management_R0076320",
       "postedAt": "2026-08-31",
       "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -17497,7 +17561,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/truecaller/jobs/8184594",
       "postedAt": "2026-08-27",
       "firstSeenAt": "2026-09-11",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -17554,7 +17618,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/9c74fdd9-36e1-4e42-839a-d52577bb3d70",
       "postedAt": "2026-08-27",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -17666,7 +17730,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/gleanwork/jobs/4726336005",
       "postedAt": "2026-08-26",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -17723,7 +17787,7 @@
       "applyUrl": "https://www.themuse.com/jobs/visa/technical-product-manager-ba480c",
       "postedAt": "2026-08-26",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -17831,7 +17895,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/sarvam/45986600-4da3-4e46-a204-2865392df169",
       "postedAt": "2026-08-25",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -17898,7 +17962,7 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-%E2%80%93-digital-intelligence-at-experian-4458168697",
       "postedAt": "2026-08-25",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -18001,7 +18065,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/sarvam/c4099026-b194-4b16-8a12-c7ae1a9b51a0",
       "postedAt": "2026-08-24",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -18041,7 +18105,7 @@
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-experian-plc-mumbai-3-to-7-years-110926502771",
       "postedAt": "2026-08-22",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -18114,7 +18178,7 @@
       "applyUrl": "https://www.themuse.com/jobs/waters/empower-evaluation-lead-product-manager",
       "postedAt": "2026-08-21",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -18166,7 +18230,7 @@
       "applyUrl": "https://www.themuse.com/jobs/vanguard/product-manager-specialist-6f3d8c",
       "postedAt": "2026-08-21",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -18298,7 +18362,7 @@
       "applyUrl": "https://www.themuse.com/jobs/cargill/sr-digital-product-lead",
       "postedAt": "2026-08-18",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -18369,7 +18433,7 @@
       "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager-II_R0076068",
       "postedAt": "2026-08-17",
       "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -18535,7 +18599,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/spotdraft/88fc1f00-e546-463a-8ba0-78bc89a95cc6",
       "postedAt": "2026-08-14",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -18605,7 +18669,7 @@
       "applyUrl": "https://jobs.lever.co/meesho/2f1dba8f-bc99-4490-8200-d2cd7f92f544",
       "postedAt": "2026-08-12",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -18688,7 +18752,7 @@
       "applyUrl": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Sr-Digital-Product-Manager_112982",
       "postedAt": "2026-08-12",
       "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -18795,7 +18859,7 @@
       "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Product-Manager---Assisted-Service_R0074176",
       "postedAt": "2026-08-11",
       "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -18849,7 +18913,7 @@
       "applyUrl": "https://jobs.lever.co/mindtickle/4365dc2a-87b1-4751-bd30-c90c70dea92c",
       "postedAt": "2026-08-10",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -18910,7 +18974,7 @@
       "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Principal-Product-Manager--DSP-Advertising-_R171043",
       "postedAt": "2026-08-06",
       "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -18985,7 +19049,7 @@
       "applyUrl": "https://www.themuse.com/jobs/gevernova/technical-product-manager-integrated-business-planning-ibp",
       "postedAt": "2026-08-06",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -19065,7 +19129,7 @@
       "applyUrl": "https://careers.airbnb.com/positions/8091831?gh_jid=8091831",
       "postedAt": "2026-08-05",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -19201,7 +19265,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/6cee2f1c-6cae-4e46-9533-d62283f56734",
       "postedAt": "2026-07-31",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -19317,7 +19381,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/fec8e98b-d09b-4edb-b5a9-fe04aa079a3c",
       "postedAt": "2026-07-28",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -19456,7 +19520,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/smartsheet/jobs/7794964",
       "postedAt": "2026-07-27",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -19513,7 +19577,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/sarvam/adbc090f-3aad-4b12-af36-a2f4b55c017e",
       "postedAt": "2026-07-27",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -19589,7 +19653,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/smartsheet/jobs/8064552",
       "postedAt": "2026-07-27",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -19676,7 +19740,7 @@
       "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Product-Manager--Adobe-Express---Imaging-Experience-_R170777",
       "postedAt": "2026-07-25",
       "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -19753,7 +19817,7 @@
       "applyUrl": "https://jobs.lever.co/wmg/2badd508-5d7d-4733-b357-f2eecf7cd1b6",
       "postedAt": "2026-07-24",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -19821,7 +19885,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/zenoti/jobs/7513859003",
       "postedAt": "2026-07-22",
       "firstSeenAt": "2026-09-11",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -19889,7 +19953,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/zenoti/jobs/7729931003",
       "postedAt": "2026-07-22",
       "firstSeenAt": "2026-09-11",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -20052,7 +20116,7 @@
       "applyUrl": "https://www.themuse.com/jobs/experian/genai-product-lead-emap-24f9c0",
       "postedAt": "2026-07-21",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -20181,7 +20245,7 @@
       "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager_R167941",
       "postedAt": "2026-07-17",
       "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -20251,7 +20315,7 @@
       "applyUrl": "https://www.themuse.com/jobs/schneiderelectric/senior-product-owner-ii-1d41ef",
       "postedAt": "2026-07-15",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -20384,7 +20448,7 @@
       "applyUrl": "https://jobs.lever.co/saviynt/53b6e38f-ed8d-4764-bc39-8671961ca8c7",
       "postedAt": "2026-07-13",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -20439,7 +20503,7 @@
       "postedAt": "2026-07-12",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
       "lastSeenAt": "2026-09-18",
-      "status": "Active"
+      "status": "Expired"
     },
     {
       "id": "job_f44ff2",
@@ -20538,7 +20602,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/afab6a29-2a98-4f63-8b45-f4b0aaefc1b4",
       "postedAt": "2026-07-11",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -20603,7 +20667,7 @@
       "applyUrl": "https://www.themuse.com/jobs/skillz/product-manager-fcdc90",
       "postedAt": "2026-07-10",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -20667,7 +20731,7 @@
       "applyUrl": "https://www.themuse.com/jobs/skillz/product-manager-engagement-ebbb3b",
       "postedAt": "2026-07-10",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -20725,7 +20789,7 @@
       "applyUrl": "https://www.themuse.com/jobs/invoicecloudinc/product-manager-integrations",
       "postedAt": "2026-07-09",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -20780,7 +20844,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/gleanwork/jobs/4629292005",
       "postedAt": "2026-07-08",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -20846,7 +20910,7 @@
       "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Senior-Global-Product-Manager--Respiratory-Therapy-_585968-1",
       "postedAt": "2026-07-07",
       "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -20916,7 +20980,7 @@
       "applyUrl": "https://www.themuse.com/jobs/broadridge/portfolio-product-manager",
       "postedAt": "2026-07-06",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -20980,7 +21044,7 @@
       "applyUrl": "https://www.coinbase.com/careers/positions/8031208?gh_jid=8031208",
       "postedAt": "2026-07-06",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -21049,7 +21113,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/karat/jobs/8589269002",
       "postedAt": "2026-06-30",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -21100,7 +21164,7 @@
       "applyUrl": "https://jobs.lever.co/meesho/d7924eb1-301e-4098-ab7b-f3a4c92c210a",
       "postedAt": "2026-06-29",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -21156,7 +21220,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/26a6a342-55db-4262-8e75-648bd8338fd0",
       "postedAt": "2026-06-23",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -21265,7 +21329,7 @@
       "applyUrl": "https://www.highradius.com/about/careers-list/?gh_jid=7707536003",
       "postedAt": "2026-06-23",
       "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -21376,7 +21440,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/sarvam/929e2e12-7a2f-4e28-9d27-f220910b2125",
       "postedAt": "2026-05-25",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -21433,7 +21497,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/sarvam/6390e602-7b98-4700-baa9-ced5be8b1651",
       "postedAt": "2026-05-25",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -21514,7 +21578,7 @@
       "postedAt": "2026-05-19",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-09-18",
-      "status": "Active"
+      "status": "Expired"
     },
     {
       "id": "job_5b44fc",
@@ -21575,7 +21639,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/zenoti/jobs/7729933003",
       "postedAt": "2026-05-18",
       "firstSeenAt": "2026-09-11",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -21629,7 +21693,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/gleanwork/jobs/4641940005",
       "postedAt": "2026-05-14",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -21683,7 +21747,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/sarvam/f462051e-ec76-45cf-96c5-e0192dd4dcc6",
       "postedAt": "2026-05-12",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -21741,7 +21805,7 @@
       "postedAt": "2026-05-04",
       "firstSeenAt": "2026-09-10",
       "lastSeenAt": "2026-09-18",
-      "status": "Active"
+      "status": "Expired"
     },
     {
       "id": "job_ea78ab",
@@ -21805,7 +21869,7 @@
       "applyUrl": "https://jobs.lever.co/hevodata/c665b22f-6336-4ec2-88d8-4165f51d5396",
       "postedAt": "2026-04-30",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -21968,7 +22032,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/sarvam/9e197c29-5164-42eb-8e74-4f691a794517",
       "postedAt": "2026-04-17",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -22139,7 +22203,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/josys/6f88d5de-acdb-42c9-9c7b-da2a3c916b05",
       "postedAt": "2026-04-01",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -22312,7 +22376,7 @@
       "applyUrl": "https://jobs.lever.co/paytm/d73b511b-ae92-46f0-9aa1-ac10f2fbb84a",
       "postedAt": "2025-12-02",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -22448,7 +22512,7 @@
       "applyUrl": "https://jobs.lever.co/fampay/bc1060ed-d15a-4f62-a560-856cc344201e",
       "postedAt": "2025-11-07",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -22547,7 +22611,7 @@
       "applyUrl": "https://www.themuse.com/jobs/salesforce/product-manager-territory-modeling-carving-manager",
       "postedAt": "2025-08-16",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -22624,7 +22688,7 @@
       "applyUrl": "https://www.themuse.com/jobs/mastercard/manager-product-manager-technical-1a8d41",
       "postedAt": "2025-04-12",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -22756,7 +22820,7 @@
       "applyUrl": "https://www.themuse.com/jobs/mastercard/manager-offer-product-manager-technical-cfd2e9",
       "postedAt": "2025-04-06",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -22833,7 +22897,7 @@
       "applyUrl": "https://www.themuse.com/jobs/gevernova/staff-technical-product-manager-bcc70e",
       "postedAt": "2025-04-05",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -22901,7 +22965,7 @@
       "applyUrl": "https://www.themuse.com/jobs/epamsystems/product-manager-i-e1ae69",
       "postedAt": "2025-03-19",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -22969,7 +23033,7 @@
       "applyUrl": "https://www.themuse.com/jobs/epamsystems/product-manager-i-3b64ca",
       "postedAt": "2025-03-19",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -23037,7 +23101,7 @@
       "applyUrl": "https://www.themuse.com/jobs/epamsystems/product-manager-i-84491e",
       "postedAt": "2025-03-19",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -23105,7 +23169,7 @@
       "applyUrl": "https://www.themuse.com/jobs/epamsystems/product-manager-i-b0037e",
       "postedAt": "2025-03-19",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -23173,7 +23237,7 @@
       "applyUrl": "https://www.themuse.com/jobs/epamsystems/product-manager-i-1982b0",
       "postedAt": "2025-03-19",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -23245,7 +23309,7 @@
       "applyUrl": "https://www.themuse.com/jobs/epamsystems/product-manager-financial-securities",
       "postedAt": "2025-01-10",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -23353,7 +23417,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/ema/74540ab2-9782-476f-ad0d-78cc2e7717ed",
       "postedAt": "2024-10-23",
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     },
     {
@@ -23422,7 +23486,7 @@
       "applyUrl": "https://www.themuse.com/jobs/bluecore/product-manager",
       "postedAt": "2022-06-08",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-19",
       "status": "Active"
     }
   ],
@@ -25145,19 +25209,6 @@
       ]
     },
     {
-      "id": "karya",
-      "name": "Karya",
-      "logo": null,
-      "domain": "karya.in",
-      "website": "https://karya.in",
-      "industry": "AI",
-      "companySize": "50-100",
-      "description": "Karya is a ai company hiring product managers in India.",
-      "locations": [
-        "Bengaluru"
-      ]
-    },
-    {
       "id": "kaufman-rossin",
       "name": "Kaufman Rossin",
       "logo": null,
@@ -26582,8 +26633,7 @@
       "companySize": null,
       "description": null,
       "locations": [
-        "Bengaluru",
-        "Delhi NCR"
+        "Bengaluru"
       ]
     },
     {
