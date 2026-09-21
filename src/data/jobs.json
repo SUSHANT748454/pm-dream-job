@@ -1,6 +1,127 @@
 {
-  "generatedAt": "2026-09-21T04:31:17.682Z",
+  "generatedAt": "2026-09-21T10:19:54.772Z",
   "jobs": [
+    {
+      "id": "job_cb35d4",
+      "slug": "manager-product-development-emv-and-payment-technology-mastercard-pune-cb35d4",
+      "title": "Manager, Product Development - EMV and Payment Technology",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Pune",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": 9,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Data",
+        "Mobile",
+        "Payments",
+        "Compliance"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "Group Product Manager",
+        "Onsite",
+        "Data",
+        "Mobile",
+        "Payments",
+        "Compliance"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nManager, Product Development",
+      "responsibilities": [
+        "EMV and Payment Technology",
+        "Overview",
+        "Mastercard delivers robust, high quality, and fully approved technology products that enable issuers, acquirers, and partners to bring secure and innovative payment solutions to market.",
+        "Within the Chip Engineering organization, the Product Approval Team plays a critical role in ensuring that these products—ranging from cardholder and acceptance devices to Wallet UIs, mobile applications, and back end systems—meet Mastercard standards and are delivered on time.",
+        "This role provides the opportunity to work globally across a wide spectrum of products, including device-based solutions, wearables, mobile payment applications, cloud based payment systems, transit solutions, and backend services.",
+        "________________________________________",
+        "Major",
+        "Operational Management",
+        "Lead and manage operations related to Mobile Payment Applications, Wallet UI, Wearables, and Back-End Server Approvals.",
+        "Ensure full compliance with Mastercard testing, branding, approval processes, and operational rules.",
+        "Oversee the execution of global approval processes and associated requirements for:",
+        "o Wallet UI and Wearables"
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Development---EMV-and-Payment-Technology_R-288503",
+      "postedAt": "2026-09-21",
+      "firstSeenAt": "2026-09-21",
+      "lastSeenAt": "2026-09-21",
+      "status": "Active"
+    },
+    {
+      "id": "job_4fea58",
+      "slug": "product-manager-target-bengaluru-4fea58",
+      "title": "Product Manager",
+      "company": {
+        "id": "target",
+        "name": "Target",
+        "logo": null,
+        "domain": "target.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 2,
+      "experienceMax": null,
+      "domain": [
+        "Logistics",
+        "Ecommerce",
+        "Consumer"
+      ],
+      "skills": [
+        "Growth",
+        "API",
+        "Data",
+        "Mobile",
+        "iOS",
+        "Supply",
+        "Agile",
+        "Scrum",
+        "OKRs"
+      ],
+      "tags": [
+        "Logistics",
+        "Ecommerce",
+        "Consumer",
+        "Product Manager",
+        "Onsite",
+        "Growth",
+        "API",
+        "Data"
+      ],
+      "description": "About us: Working at Target means helping all families discover the joy of everyday life. We bring that vision to life through our values and culture. Learn more about Target here. Working at Target means the opportunity to help all families discover the joy of everyday life. Caring for our communities is woven into who we are, and we invest in the places we collectively live, work and play. We prioritize relationships, fuel and develop talent by creating growth opportunities, and succeed as one Target team. At our core, our purpose is ingrained in who we are, what we value, and how we work.",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Target",
+      "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Product-Manager_R0000452373-1",
+      "postedAt": "2026-09-21",
+      "firstSeenAt": "2026-09-21",
+      "lastSeenAt": "2026-09-21",
+      "status": "Active"
+    },
     {
       "id": "job_201eb6",
       "slug": "product-manager-network-services-spadtek-solutions-bengaluru-201eb6",
@@ -44224,14 +44345,14 @@
       "id": "mastercard",
       "name": "Mastercard",
       "logo": null,
-      "domain": "mstr.cd",
-      "website": "https://mstr.cd",
+      "domain": "mastercard.com",
+      "website": "https://mastercard.com",
       "industry": "Fintech",
       "companySize": "5000+",
       "description": "Mastercard is a fintech company hiring product managers in India.",
       "locations": [
-        "India",
-        "Pune"
+        "Pune",
+        "India"
       ]
     },
     {
