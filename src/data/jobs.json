@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T10:19:54.772Z",
+  "generatedAt": "2026-09-21T19:49:42.094Z",
   "jobs": [
     {
       "id": "job_cb35d4",
@@ -178,6 +178,73 @@
       "salary": null,
       "source": "LinkedIn",
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-%E2%80%93-network-services-at-spadtek-solutions-4468486897",
+      "postedAt": "2026-09-21",
+      "firstSeenAt": "2026-09-21",
+      "lastSeenAt": "2026-09-21",
+      "status": "Active"
+    },
+    {
+      "id": "job_2016aa",
+      "slug": "product-manager-g-b-digital-products-phdsi-philips-bengaluru-2016aa",
+      "title": "Product Manager, G&B Digital Products, PHDSI",
+      "company": {
+        "id": "philips",
+        "name": "Philips",
+        "logo": null,
+        "domain": "philips.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "Healthcare",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Go-to-Market",
+        "Platform",
+        "Data",
+        "Mobile",
+        "Stakeholder Management",
+        "Compliance"
+      ],
+      "tags": [
+        "Healthcare",
+        "Enterprise",
+        "Group Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Go-to-Market",
+        "Platform",
+        "Data"
+      ],
+      "description": "Job Title\n\nProduct Manager, G&B Digital Products, PHDSI\n\nJob Description\n\nJob title:\n\nProduct Manager\n\nG&B Digital Products, PHDSI\n\nYour role:\n\nThe Product Manager will be responsible for driving the product management activities for digital propositions within Grooming & Beauty, with an initial focus on the Lumea program. The role will work closely with Business, R&D, Digital, UX, Data/AI, Marketing, Regions and Platform teams to ensure strong product definition, roadmap alignment, business value realization and successful delivery of digital experiences.\n\nThe role requires a strong balance of business understanding, digital product thinking, stakeholder management and execution focus.",
+      "responsibilities": [
+        "Own and drive Product Management activities for assigned G&B digital propositions, ensuring alignment with business strategy, consumer needs, market priorities and portfolio direction.",
+        "Define and maintain the product roadmap, including value proposition, feature priorities, release scope, claims, business case inputs and market readiness needs.",
+        "Translate business and consumer needs into clear product requirements, working closely with Product Owners, UX, architects, engineering teams, data/AI teams and marketing stakeholders.",
+        "Ensure strong connection between upstream product strategy and downstream execution across app, cloud, data, AI and connected propositions.",
+        "Drive prioritization of features and capabilities based on consumer value, business impact, technical feasibility, regulatory needs, cost, performance and delivery timelines.",
+        "Support development and realization of the business case, including value creation, adoption, engagement, proposition performance and contribution to business outcomes.",
+        "Lead cross-functional alignment across Business, PHDSI, R&D, UX, Marketing, Regions, Quality, Regulatory and Platform teams to ensure effective decision-making and execution.",
+        "Contribute to claims strategy and evidence planning for digital propositions, in collaboration with business, consumer insights, clinical, regulatory and technical stakeholders where applicable.",
+        "Support launch readiness and go-to-market preparation by ensuring feature descriptions, proposition messaging, claims, training inputs, support materials and regional launch needs are available on time.",
+        "Track product performance after launch using relevant KPIs such as adoption, engagement, consumer feedback, funnel performance, service impact and business value.",
+        "Identify opportunities to strengthen platform reuse, digital infrastructure alignment and common capabilities across G&B, while allowing for category-specific differentiation where needed.",
+        "Ensure adherence to Philips product development, quality, privacy, security, regulatory and lifecycle management processes."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Philips",
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Product-Manager--G-B-Digital-Products--PHDSI_587103",
       "postedAt": "2026-09-21",
       "firstSeenAt": "2026-09-21",
       "lastSeenAt": "2026-09-21",
@@ -33383,81 +33450,6 @@
       "status": "Active"
     },
     {
-      "id": "job_7d3b1b",
-      "slug": "senior-product-manager-autodesk-bengaluru-7d3b1b",
-      "title": "Senior Product Manager",
-      "company": {
-        "id": "autodesk",
-        "name": "Autodesk",
-        "logo": null,
-        "domain": "autodesk.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 8,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Enterprise"
-      ],
-      "skills": [
-        "Product Strategy",
-        "Growth",
-        "Platform",
-        "Data",
-        "Onboarding",
-        "OKRs"
-      ],
-      "tags": [
-        "SaaS",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Product Strategy",
-        "Growth",
-        "Platform",
-        "Data"
-      ],
-      "description": "Job Requisition ID #\n\n26WD99627\n\nPosition Overview\n\nAs a Senior Product Manager for Identity & Access management,\n\nyou'll lead the authentication services that power every Autodesk product—for humans, non-humans, agents & devices. You’re building the IAM platform that powers Autodesk’s secure growth across cloud, desktop, AI, and ecosystem workflows. You’ll enable product teams to deliver trusted experiences with adaptive authentication, policy-based access, non-person identities, and agentic workflows—protecting customer IP, reducing risk, and enabling secure collaboration for millions of users worldwide\n\nThis role offers rare career-defining opportunities: high visibility reporting to senior leadership, greenfield product development, and the chance to solve complex problems at the intersection of AI, automation, and platform infrastructure. You'll work in a hybrid environment partnering with engineering, design, and business stakeholders to discover and ship solutions that shape product strategy across Autodesk's entire portfolio. If you're energized by agency, love turning strategic challenges into elegant solutions, and want to build the playbook for how an iconic software company evolves for the AI era—this is your opportunity to make massive impact.",
-      "responsibilities": [
-        "Define product strategy, translating it into prioritized OKRs and a roadmap",
-        "Present and promote your product strategy across the company to many audiences, from technical to executive-level leadership",
-        "Collaborate across product teams, partner orgs, and key stakeholders to identify challenges and deliver effective solutions that are valuable, viable, feasible and work for Autodesk’s business",
-        "Track and optimize solutions post-launch to ensure they deliver the expected impact",
-        "Build empathy with product teams onboarding to Identity and Access Management (IAM) platform services, identifying friction in the process, and proposing solutions to simplify and streamline their integrations",
-        "Contribute to the product team a deep knowledge of our users and customers, and the data about how our customers engage with our products",
-        "Track industry trends and the competitive landscape",
-        "Influence product teams, senior leaders, and stakeholders through storytelling, incorporating qualitative and quantitative data to craft clear, compelling stories about who my product is for, what problems it solves for them, and why it's important to our business",
-        "Help develop product culture within the broader organization, including mentoring more junior product managers and driving process improvements",
-        "Minimum"
-      ],
-      "requirements": [
-        "Bachelor’s degree or equivalent practical experience",
-        "8+ years of product management experience with at least 3 years focused on platform and, ideally, Identity and Access Management (IAM)",
-        "Demonstrated understanding of the techniques and methods of modern product discovery and product delivery",
-        "Demonstrated use of AI tools to make you and your team more effective at product development",
-        "Applicants with 8+ years of product development experience in roles like engineering, developer advocacy, data analysis, customer support, experience design and/or data science are welcome to apply if part of that time was in a product management role",
-        "Demonstrated ability to figure out solutions to hard problems with many constraints, assess risks, and to lay out your argument in a well-structured, data-informed, written narrative",
-        "Diverse Perspectives",
-        "We know innovation thrives in product teams where diverse points of view come together to solve hard problems, and we seek people that bring diverse life experiences, diverse educational backgrounds, diverse cultures, and diverse work experiences. We look forward to learning how your perspective will bring something unique and valuable to our product teams.",
-        "#LI-KJ2",
-        "Learn More"
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Workday · Autodesk",
-      "applyUrl": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Product-Manager_26WD99627-1",
-      "postedAt": "2026-09-08",
-      "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-21",
-      "status": "Active"
-    },
-    {
       "id": "job_f4b2f0",
       "slug": "senior-product-manager-cornerstone-ondemand-pune-f4b2f0",
       "title": "Senior Product Manager",
@@ -33519,6 +33511,76 @@
       "salary": null,
       "source": "The Muse",
       "applyUrl": "https://www.themuse.com/jobs/cornerstoneondemand/senior-product-manager-c42e85",
+      "postedAt": "2026-09-08",
+      "firstSeenAt": "2026-09-10T09:04:56.856Z",
+      "lastSeenAt": "2026-09-21",
+      "status": "Active"
+    },
+    {
+      "id": "job_7d3b1b",
+      "slug": "senior-product-manager-autodesk-bengaluru-7d3b1b",
+      "title": "Senior Product Manager",
+      "company": {
+        "id": "autodesk",
+        "name": "Autodesk",
+        "logo": null,
+        "domain": "autodesk.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [],
+      "skills": [
+        "Product Strategy",
+        "Growth",
+        "Platform",
+        "Data",
+        "Onboarding",
+        "OKRs"
+      ],
+      "tags": [
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Growth",
+        "Platform",
+        "Data"
+      ],
+      "description": "Job Requisition ID #\n\n26WD99627\n\nPosition Overview\n\nAs a Senior Product Manager for Identity & Access management,you'll lead the authentication services that power every Autodesk product-for humans, non-humans, agents & devices. You're building the IAM platform that powers Autodesk's secure growth across cloud, desktop, AI, and ecosystem workflows. You'll enable product teams to deliver trusted experiences with adaptive authentication, policy-based access, non-person identities, and agentic workflows-protecting customer IP, reducing risk, and enabling secure collaboration for millions of users worldwide\n\nThis role offers rare career-defining opportunities: high visibility reporting to senior leadership, greenfield product development, and the chance to solve complex problems at the intersection of AI, automation, and platform infrastructure. You'll work in a hybrid environment partnering with engineering, design, and business stakeholders to discover and ship solutions that shape product strategy across Autodesk's entire portfolio. If you're energized by agency, love turning strategic challenges into elegant solutions, and want to build the playbook for how an iconic software company evolves for the AI era-this is your opportunity to make massive impact.",
+      "responsibilities": [
+        "Define product strategy, translating it into prioritized OKRs and a roadmap",
+        "Present and promote your product strategy across the company to many audiences, from technical to executive-level leadership",
+        "Collaborate across product teams, partner orgs, and key stakeholders to identify challenges and deliver effective solutions that are valuable, viable, feasible and work for Autodesk's business",
+        "Track and optimize solutions post-launch to ensure they deliver the expected impact",
+        "Build empathy with product teams onboarding to Identity and Access Management (IAM) platform services, identifying friction in the process, and proposing solutions to simplify and streamline their integrations",
+        "Contribute to the product team a deep knowledge of our users and customers, and the data about how our customers engage with our products",
+        "Track industry trends and the competitive landscape",
+        "Influence product teams, senior leaders, and stakeholders through storytelling, incorporating qualitative and quantitative data to craft clear, compelling stories about who my product is for, what problems it solves for them, and why it's important to our business",
+        "Help develop product culture within the broader organization, including mentoring more junior product managers and driving process improvements",
+        "Minimum"
+      ],
+      "requirements": [
+        "Bachelor's degree or equivalent practical experience",
+        "8+ years of product management experience with at least 3 years focused on platform and, ideally, Identity and Access Management (IAM)",
+        "Demonstrated understanding of the techniques and methods of modern product discovery and product delivery",
+        "Demonstrated use of AI tools to make you and your team more effective at product development",
+        "Applicants with 8+ years of product development experience in roles like engineering, developer advocacy, data analysis, customer support, experience design and/or data science are welcome to apply if part of that time was in a product management role",
+        "Demonstrated ability to figure out solutions to hard problems with many constraints, assess risks, and to lay out your argument in a well-structured, data-informed, written narrative",
+        "Diverse Perspectives",
+        "We know innovation thrives in product teams where diverse points of view come together to solve hard problems, and we seek people that bring diverse life experiences, diverse educational backgrounds, diverse cultures, and diverse work experiences. We look forward to learning how your perspective will bring something unique and valuable to our product teams.",
+        "#LI-KJ2",
+        "Learn More"
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "The Muse",
+      "applyUrl": "https://www.themuse.com/jobs/autodesk/senior-product-manager-fa4e12",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
       "lastSeenAt": "2026-09-21",
