@@ -31,6 +31,43 @@ const normTitle = (s: string) =>
     .trim();
 
 /**
+ * How long a scraped role stays listed after the searches stop returning it.
+ * Most boards keep a posting up ~30 days; 21 keeps the board fresh without
+ * dropping roles that are almost certainly still open.
+ */
+export const RETAIN_DAYS = 21;
+
+/**
+ * Roles from the previous snapshot that this scrape didn't return but that are
+ * still recent enough to keep listing.
+ *
+ * Missing from a new scrape does NOT mean closed: each search is capped (the
+ * top 250–300 from the last 7 days), so a role posted 8+ days ago can never
+ * come back in results. Treating absence as closure silently dropped 119
+ * still-open roles — Google, JioSaavn, TeamViewer — two days after they
+ * appeared. So age out by posting date instead.
+ *
+ * Only for sources that succeeded this run; a failed source's jobs are
+ * carried over wholesale by the caller.
+ */
+export function retainFromPrevious(
+  previous: readonly RawJob[],
+  fresh: readonly RawJob[],
+  succeededSources: ReadonlySet<string>,
+  now = Date.now(),
+): RawJob[] {
+  const seen = new Set(fresh.map((j) => roleKey(j)));
+  return previous.filter((j) => {
+    if (!succeededSources.has(j.source) || seen.has(roleKey(j))) return false;
+    const posted = j.postedAt ? Date.parse(j.postedAt) : NaN;
+    return Number.isFinite(posted) && (now - posted) / 86_400_000 <= RETAIN_DAYS;
+  });
+}
+
+/** Identity of a role across scrapes and across boards: company + title. */
+export const roleKey = (j: RawJob) => `${normCompany(j.companyName)}::${normTitle(j.sourceTitle)}`;
+
+/**
  * Collapse reposts and cap per company. The same role routinely appears on
  * several boards, and some posters list one role once per city — one sample
  * had "Product Manager" at a single company five times in 25 results.
@@ -56,7 +93,7 @@ export function dedupeAndCap(jobs: RawJob[], sourcePriority: readonly string[]):
 
   const byRole = new Map<string, RawJob>();
   for (const j of jobs) {
-    const key = `${normCompany(j.companyName)}::${normTitle(j.sourceTitle)}`;
+    const key = roleKey(j);
     const cur = byRole.get(key);
     if (!cur || better(j, cur)) byRole.set(key, j);
   }

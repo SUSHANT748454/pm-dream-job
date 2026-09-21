@@ -34,7 +34,6 @@ export const SEED_COMPANIES: SeedCompany[] = [
   // ---------------- Greenhouse ----------------
   { name: "Razorpay", domain: "razorpay.com", ats: "greenhouse", slug: "razorpaysoftwareprivatelimited", industry: "Fintech", size: "1000-5000", domains: ["Fintech", "SaaS"] },
   { name: "Groww", domain: "groww.in", ats: "greenhouse", slug: "groww", industry: "Fintech", size: "1000-5000", domains: ["Fintech", "Consumer"] },
-  { name: "Postman", domain: "postman.com", ats: "greenhouse", slug: "postman", industry: "Developer Tools", size: "1000-5000", domains: ["SaaS", "Enterprise", "AI"] },
   { name: "slice", domain: "sliceit.com", ats: "greenhouse", slug: "slice", industry: "Fintech", size: "1000-5000", domains: ["Fintech", "Consumer"] },
   { name: "Porter", domain: "porter.in", ats: "greenhouse", slug: "porter", industry: "Logistics", size: "1000-5000", domains: ["Logistics", "Consumer"] },
   { name: "BlueStone", domain: "bluestone.com", ats: "greenhouse", slug: "bluestone", industry: "Ecommerce", size: "1000-5000", domains: ["Ecommerce", "Consumer"] },

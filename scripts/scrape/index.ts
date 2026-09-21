@@ -4,7 +4,7 @@ import path from "node:path";
 
 import type { RawJob } from "../ingest/core.ts";
 import { datasetItems, runActor } from "./apify.ts";
-import { dedupeAndCap, isKeeper } from "./quality.ts";
+import { dedupeAndCap, isKeeper, retainFromPrevious } from "./quality.ts";
 import { WEB_SOURCES } from "./sources.ts";
 
 /**
@@ -130,8 +130,12 @@ async function main() {
     }
   }
 
+  const succeeded = new Set(reports.filter((r) => r.status === "ok").map((r) => r.label));
+  const retained = retainFromPrevious(previous?.jobs ?? [], collected, succeeded);
+  if (retained.length) console.log(`  + ${retained.length} still-recent roles kept from the previous scrape`);
+
   const jobs = dedupeAndCap(
-    collected,
+    [...collected, ...retained],
     WEB_SOURCES.map((s) => s.label),
   );
   const snapshot: WebSnapshot = { fetchedAt: startedAt, sources: reports, jobs };
@@ -144,7 +148,7 @@ async function main() {
     "utf8",
   );
 
-  console.log(`\nDone. ${collected.length} collected → ${jobs.length} after de-duplication.\n`);
+  console.log(`\nDone. ${collected.length} collected + ${retained.length} kept → ${jobs.length} after de-duplication.\n`);
 
   // Red check only when the scrape is genuinely broken — every enabled source
   // failed with nothing to fall back on. Partial failures are logged, not fatal.
