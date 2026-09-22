@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T14:16:42.149Z",
+  "generatedAt": "2026-09-22T18:26:24.668Z",
   "jobs": [
     {
       "id": "job_f618f3",
@@ -38955,6 +38955,57 @@
       "status": "Active"
     },
     {
+      "id": "job_bd0f7b",
+      "slug": "product-management-paytm-insurance-i-exp-6-to-8-years-paytm-delhi-ncr-bd0f7b",
+      "title": "Product Management - Paytm Insurance I Exp - 6 to 8 Years",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 6,
+      "experienceMax": 8,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Data",
+        "Mobile",
+        "Payments",
+        "Demand"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "Data",
+        "Mobile",
+        "Payments",
+        "Demand"
+      ],
+      "description": "About Paytm Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. About the team: Headquartered in Noida, India, Paytm Insurance Broking Private Limited (PIBPL), a wholly  owned subsidiary of One97 Communications (OCL) is an online insurance market place, that  offers insurance products across all leading",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/5e3ae6dd-e4a3-4cfc-acb7-ae8b9d030cc1",
+      "postedAt": "2026-09-03",
+      "firstSeenAt": "2026-09-22",
+      "lastSeenAt": "2026-09-22",
+      "status": "Active"
+    },
+    {
       "id": "job_114e7b",
       "slug": "product-management-paytm-insurance-i-exp-6-8-years-paytm-delhi-ncr-114e7b",
       "title": "Product Management- Paytm Insurance I Exp- 6-8 Years",
@@ -43046,6 +43097,57 @@
       "firstSeenAt": "2026-09-10",
       "lastSeenAt": "2026-09-17",
       "status": "Expired"
+    },
+    {
+      "id": "job_1df515",
+      "slug": "product-management-paytm-insurance-i-exp-3-to-6-years-paytm-delhi-ncr-1df515",
+      "title": "Product Management - Paytm Insurance I Exp - 3 to 6 Years",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
+      "experienceMax": 6,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Data",
+        "Mobile",
+        "Payments",
+        "Demand"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Product Manager",
+        "Onsite",
+        "Data",
+        "Mobile",
+        "Payments",
+        "Demand"
+      ],
+      "description": "About Paytm Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. About the team: Headquartered in Noida, India, Paytm Insurance Broking Private Limited (PIBPL), a wholly  owned subsidiary of One97 Communications (OCL) is an online insurance market place, that  offers insurance products across all leading",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/afab6a29-2a98-4f63-8b45-f4b0aaefc1b4",
+      "postedAt": "2026-07-11",
+      "firstSeenAt": "2026-09-22",
+      "lastSeenAt": "2026-09-22",
+      "status": "Active"
     },
     {
       "id": "job_a67863",
