@@ -1,6 +1,310 @@
 {
-  "generatedAt": "2026-09-23T02:39:10.277Z",
+  "generatedAt": "2026-09-23T09:39:58.649Z",
   "jobs": [
+    {
+      "id": "job_247d6d",
+      "slug": "director-product-manager-disputes-mastercard-pune-247d6d",
+      "title": "Director, Product Manager –Disputes",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Pune",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Director",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "AI",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Experimentation",
+        "Analytics",
+        "API",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "Payments",
+        "Fraud",
+        "Agile"
+      ],
+      "tags": [
+        "Fintech",
+        "AI",
+        "Enterprise",
+        "Director",
+        "Onsite",
+        "Product Strategy",
+        "Experimentation",
+        "Analytics"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nDirector, Product Manager –Disputes\n\nLocation: Pune, India\n\nLevel: Director\n\nJob Family: Product Management\n\nWho is Mastercard?\n\nMastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. We leverage data, technology, partnerships, and innovation to help individuals, financial institutions, governments, and businesses realize their greatest potential.\n\nOverview\n\nThe Disputes Solutions team is seeking a Director, Product Owner to help define and execute Mastercard's vision for the future of dispute management. This leader will own strategic areas of Mastercard's next-generation disputes platform and be responsible for shaping the capabilities, experiences, and operating model that will power the future of dispute resolution across the global payments ecosystem.\n\nBased in Dublin, this role",
+      "responsibilities": [
+        "Define and own strategic platform domains within Mastercard's next-generation disputes ecosystem, establishing long-term vision, objectives, and measurable business outcomes.",
+        "Translate corporate and product strategy into prioritized roadmaps that align customer needs, market opportunities, regulatory requirements, and technology investments.",
+        "Partner with executive leadership to shape the future direction of Mastercard's disputes modernization strategy.",
+        "Lead complex product discovery efforts, validating customer problems and defining innovative solutions that deliver measurable value.",
+        "Drive product strategy and execution across multiple agile pods, ensuring alignment to roadmap commitments and strategic objectives.",
+        "Own and prioritize large-scale product backlogs spanning multiple teams, products, and delivery streams.",
+        "Establish product requirements, business capabilities, success metrics, and investment priorities for critical platform initiatives.",
+        "Serve as the primary product authority for assigned platform domains, making high-impact prioritization and tradeoff decisions.",
+        "Drive the adoption of AI technologies throughout the product lifecycle, including intelligent dispute processing, workflow automation, customer support experiences, predictive insights, and operational optimization.",
+        "Champion AI-enabled product development practices and identify opportunities to leverage generative AI and advanced analytics to improve both customer outcomes and delivery efficiency.",
+        "Partner closely with Engineering, Architecture, Data Science, Design, and Operations leadership to ensure scalable and sustainable platform evolution.",
+        "Collaborate directly with customers, partners, and regional stakeholders to understand emerging needs, market trends, and competitive opportunities."
+      ],
+      "requirements": [
+        "Demonstrate deep expertise in product strategy, product ownership, and platform development.",
+        "Possess a proven ability to define and execute product visions that span multiple products, teams, and stakeholder groups.",
+        "Have exceptional leadership skills and the ability to influence outcomes across large, matrixed organizations.",
+        "Be highly skilled at translating ambiguous business challenges into clear product strategies and actionable roadmaps.",
+        "Demonstrate strong commercial acumen and the ability to evaluate investment opportunities against customer and business outcomes.",
+        "Have extensive experience partnering with technology organizations to deliver complex enterprise-scale solutions.",
+        "Be comfortable managing competing priorities while making strategic decisions that balance short-term delivery with long-term platform objectives.",
+        "Possess exceptional communication and storytelling skills with experience engaging executive audiences.",
+        "Have a passion for innovation and emerging technologies, particularly artificial intelligence and automation.",
+        "Demonstrate a customer-first mindset and a track record of using customer insights to shape strategic decisions.",
+        "Bring strong analytical and problem-solving capabilities and use data to inform prioritization and product investment decisions.",
+        "Thrive in highly collaborative, agile, and fast-paced environments."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Director--Product-Manager--Disputes_R-288064",
+      "postedAt": "2026-09-23",
+      "firstSeenAt": "2026-09-23",
+      "lastSeenAt": "2026-09-23",
+      "status": "Active"
+    },
+    {
+      "id": "job_650e17",
+      "slug": "manager-product-management-mastercard-delhi-ncr-650e17",
+      "title": "Manager, Product Management",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 4,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "Pricing",
+        "API",
+        "Data",
+        "Payments"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "Pricing",
+        "API",
+        "Data"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nManager, Product Management\n\nManager, Product Management – Operational Intelligence Commercialisation\n\nOverview\n\nThis Manager role in Product Management will support the commercialisation and sales expansion of Operational Intelligence products across one of the five global regions. The role will focus on driving product adoption, identifying customer pain points, supporting sales enablement, and contributing to the development of commercialization strategies. The individual will work closely with regional ACS teams and the Global Product Management team to ensure alignment between product capabilities and market needs.\n\nKey",
+      "responsibilities": [
+        "Collaborate with ACS teams to support product commercialisation efforts and drive customer engagement",
+        "Assist in identifying short-term and long-term whitespace opportunities and new use cases based on customer feedback and market trends",
+        "Support internal and external partnership initiatives to accelerate go-to-market efforts",
+        "Contribute to pricing strategy discussions and help quantify product value for customers",
+        "Monitor product adoption and usage metrics, and support initiatives to improve customer engagement",
+        "Assist in developing KPIs and tools to track commercialization success",
+        "Contribute to the creation of region-specific commercial constructs and go-to-market strategies",
+        "Develop customer value narratives and case studies to support sales conversations",
+        "Partner with regional teams to create and deliver sales training materials",
+        "Build strong working relationships across cross-functional teams to support commercialization goals",
+        "All About You",
+        "4+ years of consulting experience with a focus on go-to-market, pricing, and commercialisation in technology or data-driven solutions; experience in payments or financial services is preferred"
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Manager--Product-Management_R-290813",
+      "postedAt": "2026-09-23",
+      "firstSeenAt": "2026-09-23",
+      "lastSeenAt": "2026-09-23",
+      "status": "Active"
+    },
+    {
+      "id": "job_c422ca",
+      "slug": "product-manager-igt-s-philips-bengaluru-c422ca",
+      "title": "Product Manager IGT-S",
+      "company": {
+        "id": "philips",
+        "name": "Philips",
+        "logo": null,
+        "domain": "philips.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "Healthcare",
+        "AI",
+        "Enterprise"
+      ],
+      "skills": [
+        "Analytics",
+        "Data"
+      ],
+      "tags": [
+        "Healthcare",
+        "AI",
+        "Enterprise",
+        "Lead Product Manager",
+        "Onsite",
+        "Analytics",
+        "Data"
+      ],
+      "description": "Job Title\n\nProduct Manager IGT-S\n\nJob Description\n\nProd\n\nuct Manager IGT-S\n\nAs Product Manager, you will support product planning, development, and lifecycle management activities while applying strong AI expertise to enhance customer insight generation, requirements development, data-driven decision-making, and product management practices. You will work in a global, multidisciplinary environment within Philips Healthcare, helping to deliver innovative solutions that create value for customers and patients.\n\nYour Role:\n\nAs Product Manager, you will work closely with cross-functional teams to translate customer, market, and business needs into product requirements and roadmap recommendations. A strong background in Artificial Intelligence is essential, as you will be expected to leverage AI technologies and AI-driven approaches to improve product management effectiveness, uncover actionable insights, streamline decision-making, and drive innovation across all phases of product development and lifecycle management.",
+      "responsibilities": [
+        "Support product roadmap development, business case creation, and PDLM planning activities using customer, market, and data-driven insights, including AI-enabled analysis tools.",
+        "Contribute to product development and PDLM activities from concept through launch, sustaining engineering, and lifecycle management while leveraging AI-enabled approaches to improve efficiency and decision-making.",
+        "Gather, analyze, and synthesize customer, clinical, market, and field insights into actionable product requirements using modern analytics and AI-assisted tools.",
+        "Work closely with R&D, Architecture, Clinical, Service, RA, Quality, and commercial teams to deliver successful products and support PDLM execution.",
+        "Support product lifecycle activities, including feature enhancements, compatibility management, obsolescence planning, and customer-driven improvements.",
+        "Monitor product adoption, customer satisfaction, product quality, and business performance to identify improvement opportunities.",
+        "Drive data-informed decision-making using modern analytics, AI-powered insights, and digital tools.",
+        "Leverage AI technologies and productivity tools to improve product discovery, customer insight generation, requirements definition, evidence generation, and overall product management effectiveness.",
+        "Evaluate emerging technology trends, including AI, to identify opportunities to enhance products, workflows, and customer value.",
+        "Influence stakeholders across multiple functions and geographies to support product objectives and business priorities.",
+        "You are a part of",
+        "Image Guided Therapy Systems (IGT-S) is a global leader in image-guided solutions that enable minimally invasive diagnosis and treatment across multiple clinical domains. The IGT-S organization is responsible for the global marketing, development, and manufacturing of innovative systems, software, and services that help clinicians perform complex procedures with greater precision, efficiency, and confidence."
+      ],
+      "requirements": [],
+      "preferred": [
+        "Experience applying AI to improve productivity, innovation, or business processes.",
+        "Experience with Microsoft Copilot and other AI-enabled productivity tools.",
+        "Experience working within Product Development Lifecycle Management (PDLM) processes",
+        "Experience supporting global product launches and post-market product lifecycle activities.",
+        "Knowledge of medical device regulations and quality processes.",
+        "How we work together:",
+        "We believe that we are better together than apart. For our office-based teams, this means working in-person at least 3 days per week.",
+        "Onsite roles require full-time presence in the company’s facilities."
+      ],
+      "salary": null,
+      "source": "Workday · Philips",
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Product-Manager-IGT-S_587766",
+      "postedAt": "2026-09-23",
+      "firstSeenAt": "2026-09-23",
+      "lastSeenAt": "2026-09-23",
+      "status": "Active"
+    },
+    {
+      "id": "job_71fa12",
+      "slug": "sr-specialist-product-management-mastercard-pune-71fa12",
+      "title": "Sr. Specialist, Product Management",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Pune",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Enterprise",
+        "SaaS"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Analytics",
+        "Go-to-Market",
+        "API",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "iOS",
+        "Payments",
+        "Fraud"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "SaaS",
+        "Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Analytics",
+        "Go-to-Market"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nSr. Specialist, Product Management\n\nWho is Mastercard?\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. We support a wide range of digital payment choices, making transactions secure, simple, smart, and accessible. Our technology, innovation, partnerships, and networks combine to deliver products and services that help individuals, businesses, and governments realize their greatest potential.\n\nOverview\n\nThe Disputes Solutions team is looking for a Senior Specialist, Product Owner to help shape and deliver Mastercard's next-generation disputes platform. This individual will play a critical role in defining product requirements, driving feature development, and ensuring the platform can successfully support both global capabilities and regional market needs across Mastercard's worldwide network.\n\nBased in Pune, this role will be embedded within a cross-functional product and engineering organization, partnering",
+      "responsibilities": [
+        "Own requirements and roadmap execution for key areas of Mastercard's next-generation disputes platform.",
+        "Partner with global and regional stakeholders to gather, analyze, prioritize, and document customer, operational, regulatory, and business requirements.",
+        "Help define platform capabilities that balance global standardization with the flexibility needed to support localized market requirements.",
+        "Translate business needs into clearly defined epics, features, user stories, acceptance criteria, and measurable outcomes.",
+        "Serve as Product Owner for an agile development pod, maintaining and prioritizing the product backlog to maximize customer and business value.",
+        "Collaborate closely with Engineering and Architecture teams to ensure solutions align with platform strategy, extensibility, scalability, and regional deployment needs.",
+        "Partner with Product Management leadership to support the evolution of a globally consistent disputes platform while enabling regional market customization where appropriate.",
+        "Help drive adoption of AI-powered capabilities by identifying opportunities to improve operational efficiency, automate workflows, enhance decision-making, and improve customer experiences.",
+        "Work with Data Science, Analytics, and Engineering teams to define intelligent automation, case management, and decision-support capabilities.",
+        "Facilitate discovery workshops and stakeholder engagement sessions to uncover emerging market requirements and platform enhancement opportunities.",
+        "Leverage customer feedback, operational analytics, market insights, and regional input to inform prioritization and roadmap decisions.",
+        "Support release planning, testing, go-to-market readiness, and implementation activities across global and regional deployments."
+      ],
+      "requirements": [
+        "Be passionate about building products that solve meaningful customer and business problems.",
+        "Demonstrate strong product ownership and backlog management capabilities.",
+        "Have experience translating complex business requirements into scalable product solutions.",
+        "Possess strong stakeholder management skills and the ability to collaborate across global and regional teams.",
+        "Be comfortable working with stakeholders across multiple geographies, time zones, and business functions.",
+        "Have excellent communication skills and the ability to engage both technical and non-technical audiences.",
+        "Demonstrate strong analytical and problem-solving capabilities using both qualitative and quantitative insights.",
+        "Be capable of balancing global platform objectives with local market needs and customer requirements.",
+        "Have experience working in agile product development environments.",
+        "Be comfortable navigating ambiguity and driving clarity in rapidly evolving environments.",
+        "Demonstrate curiosity and enthusiasm for leveraging AI and emerging technologies to improve customer experiences and operational outcomes.",
+        "Experience building enterprise SaaS, platform, fintech, banking, or payments products."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Sr-Specialist--Product-Management_R-288316",
+      "postedAt": "2026-09-23",
+      "firstSeenAt": "2026-09-23",
+      "lastSeenAt": "2026-09-23",
+      "status": "Active"
+    },
     {
       "id": "job_f618f3",
       "slug": "associate-product-manager-goibibo-delhi-ncr-f618f3",
@@ -214,8 +518,8 @@
       "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Manager--Product-Experience-Design_R-288208",
       "postedAt": "2026-09-22",
       "firstSeenAt": "2026-09-22",
-      "lastSeenAt": "2026-09-22",
-      "status": "Expired"
+      "lastSeenAt": "2026-09-23",
+      "status": "Active"
     },
     {
       "id": "job_1aff58",
@@ -37909,84 +38213,6 @@
       "status": "Expired"
     },
     {
-      "id": "job_e4eec1",
-      "slug": "principal-product-manager-sumo-logic-bengaluru-e4eec1",
-      "title": "Principal Product Manager",
-      "company": {
-        "id": "sumo-logic",
-        "name": "Sumo Logic",
-        "logo": null,
-        "domain": "sumologic.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Group Product Manager",
-      "experienceMin": 8,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Enterprise"
-      ],
-      "skills": [
-        "SQL",
-        "Analytics",
-        "Platform",
-        "Data",
-        "Demand"
-      ],
-      "tags": [
-        "SaaS",
-        "Enterprise",
-        "Group Product Manager",
-        "Onsite",
-        "SQL",
-        "Analytics",
-        "Platform",
-        "Data"
-      ],
-      "description": "",
-      "responsibilities": [
-        "Agentic Investigation & Reliability Experiences",
-        "Sumo Logic is hiring a Principal Product Manager to lead how engineers and operators investigate incidents, understand reliability risk, and act on their operational and security telemetry.",
-        "The observability category was built around collecting telemetry and giving people tools to navigate it: dashboards, queries, monitors, traces, and alerts. Customer expectations are now shifting. Teams don't just want more dashboards; they want help getting from a signal to a resolution, understanding what's broken, why, what's impacted, and what to do next. As AI agents move into production operations, this role owns how Sumo Logic brings intelligent, agent-assisted investigation and reliability workflows to customers, grounded in evidence, context, and enterprise governance.",
-        "This is a senior, high-ownership role. It requires genuine observability domain background. You should have lived in this space and understand how monitoring, troubleshooting, and reliability actually work, combined with the ambition to define a new category of experience on top of it.",
-        "What You Will Own",
-        "The current data experiences.",
-        "Log Search, Live Tail, query and query optimization, Metrics Search, Tracing, Dashboards, and the data-experience UI. This is a live, revenue-generating product with real customers, and keeping it strong is part of the job. You own its health, roadmap, and competitiveness today while steering it toward an AI-native future, focusing new investment where it strengthens investigation, speed, and value for both new and power users.",
-        "The reliability and alerting surface.",
-        "Monitors, Alerts, SLOs, Scheduled Searches, and the reliability workflows around them. You will own alerting accuracy, noise reduction, and operational health signals both as capabilities customers depend on today and as the foundation for more automated, agent-assisted detection and investigation.",
-        "The agentic investigation experience.",
-        "You will define how a user moves from a search, a monitor, a dashboard, or an alert to likely cause faster, with supporting evidence. This means productizing investigation workflows that reason across logs, metrics, traces, monitors, dashboards, and related context, and evolving them from reactive troubleshooting toward more proactive detection over time.",
-        "What You Will Be Doing"
-      ],
-      "requirements": [
-        "8+ years of product management experience with real observability or monitoring domain background. You have owned products in observability, monitoring, incident response, APM, or a closely adjacent operational-telemetry space. This is a hard requirement.",
-        "Deep, first-hand understanding of the observability surface area including logs, metrics, traces, dashboards, monitors, alerts, and SLOs, and of how engineers and operators actually investigate incidents and decide what to trust.",
-        "Proven ability to run a live, at-scale product, owning the roadmap, health, and competitiveness of shipping surfaces while driving a larger transformation.",
-        "A track record of owning broad, technically deep surfaces and setting direction that other teams build on.",
-        "Familiarity with how AI and agents are changing data interaction, including natural-language investigation, tools, guardrails, and human-in-the-loop action, or the ability to ramp quickly.",
-        "Strong technical instincts around query engines, time-series and trace data, and alerting systems, plus the judgment to know where an AI-assisted experience should replace a manual flow and where depth must stay.",
-        "Strong analytical skills and comfort using telemetry, dashboards, SQL, and usage data to understand adoption, friction, reliability, and cost.",
-        "Excellent communication across technical and business audiences, and the ability to write clear proposals, decision docs, PRDs, and acceptance criteria.",
-        "High ownership and drive to make progress across a large, ambiguous, fast-moving surface.",
-        "Must-Have Qualities",
-        "Runs today, builds tomorrow.",
-        "Keeps a live product healthy and competitive while reinventing it, and knows what to sustain and what to rebuild."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · Sumo Logic",
-      "applyUrl": "https://job-boards.greenhouse.io/sumologic/jobs/8098451",
-      "postedAt": "2026-09-08",
-      "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-23",
-      "status": "Active"
-    },
-    {
       "id": "job_29f119",
       "slug": "principal-product-manager-sumo-logic-delhi-ncr-29f119",
       "title": "Principal Product Manager",
@@ -38059,6 +38285,84 @@
       "salary": null,
       "source": "Greenhouse · Sumo Logic",
       "applyUrl": "https://job-boards.greenhouse.io/sumologic/jobs/8089130",
+      "postedAt": "2026-09-08",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-23",
+      "status": "Active"
+    },
+    {
+      "id": "job_e4eec1",
+      "slug": "principal-product-manager-sumo-logic-bengaluru-e4eec1",
+      "title": "Principal Product Manager",
+      "company": {
+        "id": "sumo-logic",
+        "name": "Sumo Logic",
+        "logo": null,
+        "domain": "sumologic.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise"
+      ],
+      "skills": [
+        "SQL",
+        "Analytics",
+        "Platform",
+        "Data",
+        "Demand"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "Group Product Manager",
+        "Onsite",
+        "SQL",
+        "Analytics",
+        "Platform",
+        "Data"
+      ],
+      "description": "",
+      "responsibilities": [
+        "Agentic Investigation & Reliability Experiences",
+        "Sumo Logic is hiring a Principal Product Manager to lead how engineers and operators investigate incidents, understand reliability risk, and act on their operational and security telemetry.",
+        "The observability category was built around collecting telemetry and giving people tools to navigate it: dashboards, queries, monitors, traces, and alerts. Customer expectations are now shifting. Teams don't just want more dashboards; they want help getting from a signal to a resolution, understanding what's broken, why, what's impacted, and what to do next. As AI agents move into production operations, this role owns how Sumo Logic brings intelligent, agent-assisted investigation and reliability workflows to customers, grounded in evidence, context, and enterprise governance.",
+        "This is a senior, high-ownership role. It requires genuine observability domain background. You should have lived in this space and understand how monitoring, troubleshooting, and reliability actually work, combined with the ambition to define a new category of experience on top of it.",
+        "What You Will Own",
+        "The current data experiences.",
+        "Log Search, Live Tail, query and query optimization, Metrics Search, Tracing, Dashboards, and the data-experience UI. This is a live, revenue-generating product with real customers, and keeping it strong is part of the job. You own its health, roadmap, and competitiveness today while steering it toward an AI-native future, focusing new investment where it strengthens investigation, speed, and value for both new and power users.",
+        "The reliability and alerting surface.",
+        "Monitors, Alerts, SLOs, Scheduled Searches, and the reliability workflows around them. You will own alerting accuracy, noise reduction, and operational health signals both as capabilities customers depend on today and as the foundation for more automated, agent-assisted detection and investigation.",
+        "The agentic investigation experience.",
+        "You will define how a user moves from a search, a monitor, a dashboard, or an alert to likely cause faster, with supporting evidence. This means productizing investigation workflows that reason across logs, metrics, traces, monitors, dashboards, and related context, and evolving them from reactive troubleshooting toward more proactive detection over time.",
+        "What You Will Be Doing"
+      ],
+      "requirements": [
+        "8+ years of product management experience with real observability or monitoring domain background. You have owned products in observability, monitoring, incident response, APM, or a closely adjacent operational-telemetry space. This is a hard requirement.",
+        "Deep, first-hand understanding of the observability surface area including logs, metrics, traces, dashboards, monitors, alerts, and SLOs, and of how engineers and operators actually investigate incidents and decide what to trust.",
+        "Proven ability to run a live, at-scale product, owning the roadmap, health, and competitiveness of shipping surfaces while driving a larger transformation.",
+        "A track record of owning broad, technically deep surfaces and setting direction that other teams build on.",
+        "Familiarity with how AI and agents are changing data interaction, including natural-language investigation, tools, guardrails, and human-in-the-loop action, or the ability to ramp quickly.",
+        "Strong technical instincts around query engines, time-series and trace data, and alerting systems, plus the judgment to know where an AI-assisted experience should replace a manual flow and where depth must stay.",
+        "Strong analytical skills and comfort using telemetry, dashboards, SQL, and usage data to understand adoption, friction, reliability, and cost.",
+        "Excellent communication across technical and business audiences, and the ability to write clear proposals, decision docs, PRDs, and acceptance criteria.",
+        "High ownership and drive to make progress across a large, ambiguous, fast-moving surface.",
+        "Must-Have Qualities",
+        "Runs today, builds tomorrow.",
+        "Keeps a live product healthy and competitive while reinventing it, and knows what to sustain and what to rebuild."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Sumo Logic",
+      "applyUrl": "https://job-boards.greenhouse.io/sumologic/jobs/8098451",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-10",
       "lastSeenAt": "2026-09-23",
@@ -49533,7 +49837,8 @@
       "companySize": "5000+",
       "description": "Mastercard is a fintech company hiring product managers in India.",
       "locations": [
-        "Pune"
+        "Pune",
+        "Delhi NCR"
       ]
     },
     {
@@ -51459,8 +51764,8 @@
       "companySize": "1000-5000",
       "description": "Sumo Logic is a saas company hiring product managers in India.",
       "locations": [
-        "Bengaluru",
-        "Delhi NCR"
+        "Delhi NCR",
+        "Bengaluru"
       ]
     },
     {
