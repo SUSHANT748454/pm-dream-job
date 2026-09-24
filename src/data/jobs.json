@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T18:46:00.414Z",
+  "generatedAt": "2026-09-24T22:52:55.834Z",
   "jobs": [
     {
       "id": "job_cb2078",
@@ -126,6 +126,68 @@
       "status": "Active"
     },
     {
+      "id": "job_536baa",
+      "slug": "product-lead-ai-broadridge-bengaluru-536baa",
+      "title": "Product Lead - AI",
+      "company": {
+        "id": "broadridge",
+        "name": "Broadridge",
+        "logo": null,
+        "domain": null
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "AI",
+        "Logistics"
+      ],
+      "skills": [
+        "Growth",
+        "Demand",
+        "Compliance"
+      ],
+      "tags": [
+        "AI",
+        "Logistics",
+        "Lead Product Manager",
+        "Onsite",
+        "Growth",
+        "Demand",
+        "Compliance"
+      ],
+      "description": "At Broadridge, we've built a culture where the highest goal is to empower others to accomplish more. If you're passionate about developing your career, while helping others along the way, come join the Broadridge team.\n\nKey",
+      "responsibilities": [
+        "Oversight",
+        "& Best Practices:",
+        "Optimize product management processes, employing AI where possible and proactively identify areas for standardization and improved efficiency (e.g. Service Descriptions), document and implement.",
+        "Roadmap Support",
+        ": Oversee process for product managers in developing and managing roadmaps; coordinating feedback for process improvements, and preparing client and senior management-ready roadmap views near on-demand.",
+        "Governance Coordination",
+        ": Support execution of annual",
+        "Wealth Investment Governance Board",
+        "by defining and coordinating PM driven templates, supporting content creation, execute logistics and run of show and following up on actions.",
+        "Strategic Support",
+        ": Opportunity to contribute to ad hoc strategic client or internal projects and initiatives as directed by Senior Management, such as documentation and coordination across product for Strat Planning, Growth Day and Client Sales Opportunities.",
+        "Assist teams in utilizing BR AI tools to capture valuable product insights that support their strategies and client adoption. Contributing to and supporting the Wealth AI task force, and ideating on new innovations to support the COE and managing reporting and metrics."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "The Muse",
+      "applyUrl": "https://www.themuse.com/jobs/broadridge/product-lead-ai",
+      "postedAt": "2026-09-24",
+      "firstSeenAt": "2026-09-24",
+      "lastSeenAt": "2026-09-24",
+      "status": "Active"
+    },
+    {
       "id": "job_61a2e2",
       "slug": "product-manager-sr-product-manager-mulesoft-salesforce-bengaluru-61a2e2",
       "title": "Product Manager / Sr. Product Manager - Mulesoft",
@@ -178,6 +240,75 @@
       "salary": null,
       "source": "Workday · Salesforce",
       "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Product-Manager---Commerce-Platform--Hyderabad-_JR321301",
+      "postedAt": "2026-09-24",
+      "firstSeenAt": "2026-09-24",
+      "lastSeenAt": "2026-09-24",
+      "status": "Active"
+    },
+    {
+      "id": "job_6759dd",
+      "slug": "senior-product-manager-recruiter-experience-karat-bengaluru-6759dd",
+      "title": "Senior Product Manager - Recruiter Experience",
+      "company": {
+        "id": "karat",
+        "name": "Karat",
+        "logo": null,
+        "domain": "karat.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Remote",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise",
+        "Ecommerce"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Analytics",
+        "Go-to-Market",
+        "Platform",
+        "Data",
+        "B2B",
+        "B2C",
+        "Marketplace"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "Ecommerce",
+        "Senior Product Manager",
+        "Remote",
+        "Product Strategy",
+        "Analytics",
+        "Go-to-Market"
+      ],
+      "description": "We're\n\nKarat\n\n, the world's largest interviewing company.\n\nKarat is transforming organizations around the world. We provide a powerful system for technical leaders at companies like PayPal, Atlassian, and Citi who want to take control of how they hire top engineers, elevate their teams and contractors, and stay ahead. At the core of Karat’s system are live, expert-led interviews, analytics designed to give leaders maximum visibility, and the most robust interview performance dataset in the world.\n\nCome join our\n\nProduct\n\nteam\n\nOur Product team is committed to driving forward Karat’s mission to make interviews predictive, fair, and enjoyable. We are focused on providing deeper value to engineering and talent leaders, hiring managers, recruiters, candidates, and Interview Engineers.\n\nWhat you will do\n\nAs Senior Product Manager, you will own the product vision, strategy, and execution for recruiter experience within the Karat Platform. You'll build experiences that give recruiters clearer visibility into their pipeline, faster ways to act on it, and less manual overhead — including exciting new ground in how strong candidates get matched to the right opportunity, not just the role they originally applied for. You'll collaborate across engineering, content, design, and go-to-market teams to deliver high-impact solutions for our recruiting customers.\n\nThis position requires a schedule that overlaps with U.S. business hours.",
+      "responsibilities": [
+        "Product Strategy & Innovation:",
+        "Define the roadmap for the recruiter-facing workflow and analytics experience; identify where better tooling, automation, and insight can save recruiters time and improve their day-to-day decision-making; explore new ways to surface and route strong candidates toward better-fit opportunities, both within a single hiring pipeline and across the broader set of roles we help fill.",
+        "Product Development & Execution:",
+        "Prioritize features based on customer needs and business objectives; partner with engineering, content, and UX teams to deliver high-quality, enterprise-ready solutions, including integrations with customers' existing recruiting systems",
+        "Analytics & Insights:",
+        "Design and refine the dashboards and reporting recruiters rely on to manage their workload; analyze usage data to understand where recruiters get stuck or drop out of a workflow; run experiments to test new ways of surfacing insight, reducing manual effort, and improving match quality between candidates and opportunities",
+        "Market & Customer Focus:",
+        "Track performance metrics and identify improvement opportunities; partner with Go-to-Market teams on expansion strategies; build compelling business cases for new offerings, including entirely new ways of connecting candidates to opportunity.",
+        "The experience you will bring",
+        "5+ years of product management experience across B2B and B2C offerings, ideally with exposure to recruiting, HR tech, or matching/marketplace-style products",
+        "Genuine passion for and track record of building B2B SaaS applications — comfortable running customer discovery calls and QBRs and translating enterprise feedback directly into product decisions",
+        "Demonstrated experience designing analytics, dashboards, or workflow tools that measurably improved how a professional user did their job"
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Karat",
+      "applyUrl": "https://job-boards.greenhouse.io/karat/jobs/8843016002",
       "postedAt": "2026-09-24",
       "firstSeenAt": "2026-09-24",
       "lastSeenAt": "2026-09-24",
