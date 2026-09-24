@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-09-24T02:28:47.437Z",
+  "generatedAt": "2026-09-24T09:39:25.484Z",
   "jobs": [
+    {
+      "id": "job_cb2078",
+      "slug": "director-of-product-management-target-bengaluru-cb2078",
+      "title": "Director of Product Management",
+      "company": {
+        "id": "target",
+        "name": "Target",
+        "logo": null,
+        "domain": "target.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Director",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "Ecommerce",
+        "Consumer"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Experimentation",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "iOS",
+        "Stakeholder Management"
+      ],
+      "tags": [
+        "Ecommerce",
+        "Consumer",
+        "Director",
+        "Onsite",
+        "Product Strategy",
+        "Experimentation",
+        "Growth",
+        "API"
+      ],
+      "description": "Director, Product Management – Core Data and Decision Intelligence\n\nTarget in India | L7",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Target",
+      "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-of-Product-Management_R0000449194",
+      "postedAt": "2026-09-24",
+      "firstSeenAt": "2026-09-24",
+      "lastSeenAt": "2026-09-24",
+      "status": "Active"
+    },
     {
       "id": "job_247d6d",
       "slug": "director-product-manager-disputes-mastercard-pune-247d6d",
@@ -38187,6 +38242,75 @@
       "status": "Expired"
     },
     {
+      "id": "job_204311",
+      "slug": "lead-product-manager-technical-mastercard-pune-204311",
+      "title": "Lead Product Manager- Technical",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Pune",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Enterprise",
+        "Ecommerce"
+      ],
+      "skills": [
+        "SQL",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Payments",
+        "Agile",
+        "Scrum"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "Ecommerce",
+        "Lead Product Manager",
+        "Onsite",
+        "SQL",
+        "Growth",
+        "API"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nLead Product Manager- Technical\n\nLead Product Manager",
+      "responsibilities": [
+        "Technical",
+        "Who is Mastercard?",
+        "Mastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.",
+        "Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.",
+        "Job Description Summary",
+        "Providing Innovative, Secure, and Reliable Switching Solutions is the lifeblood of Mastercard Core Products, we are currently seeking a passionate, collaborative, and experienced Lead, Product Manager Technical to join the Switching Solutions Team.",
+        "Are you a collaborator capable of communicating effectively with Business and IT stakeholders across all organizational levels?",
+        "Are you an innovator who embraces, adopts, and studies the latest technology to solve challenging business problems?",
+        "Are you a leader who inspires the team to think “out of the box” and effectively communicates across all levels of the organization?",
+        "If this describes you, Mastercard wants to talk to you about joining our Squad.",
+        "Overview",
+        "Responsible for developing inspiring platform/product visions, derived from business needs, market opportunities, and technology trends"
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--Technical_R-291501",
+      "postedAt": "2026-09-08",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-24",
+      "status": "Active"
+    },
+    {
       "id": "job_38ea17",
       "slug": "manager-product-development-prepaid-management-services-mastercard-pune-38ea17",
       "title": "Manager, Product Development, Prepaid Management Services",
@@ -38646,50 +38770,6 @@
       "salary": null,
       "source": "Naukri",
       "applyUrl": "https://www.naukri.com/job-listings-specialist-product-manager-mastercard-pune-5-to-10-years-210926502445",
-      "postedAt": "2026-09-08",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-24",
-      "status": "Active"
-    },
-    {
-      "id": "job_204311",
-      "slug": "sr-product-manager-technical-mastercard-pune-204311",
-      "title": "Sr Product Manager - Technical",
-      "company": {
-        "id": "mastercard",
-        "name": "Mastercard",
-        "logo": null,
-        "domain": "mastercard.com"
-      },
-      "location": {
-        "city": "Pune",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 3,
-      "experienceMax": 5,
-      "domain": [],
-      "skills": [
-        "API",
-        "Platform",
-        "B2B"
-      ],
-      "tags": [
-        "Senior Product Manager",
-        "Onsite",
-        "API",
-        "Platform",
-        "B2B"
-      ],
-      "description": "Treat APIs as long lived platform products while ensuring the Priceless.com website evolves as a high quality consumer experience\n\n3-5 years previous experience working with both product / dev and front end teams . Nice to Have: - Exposure to B2B partner integrations",
-      "responsibilities": [],
-      "requirements": [],
-      "preferred": [],
-      "salary": null,
-      "source": "Naukri",
-      "applyUrl": "https://www.naukri.com/job-listings-sr-product-manager-technical-mastercard-pune-3-to-5-years-100926504032",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-09-24",
