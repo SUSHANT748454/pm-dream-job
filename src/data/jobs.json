@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T09:39:25.484Z",
+  "generatedAt": "2026-09-24T14:33:11.060Z",
   "jobs": [
     {
       "id": "job_cb2078",
@@ -51,6 +51,64 @@
       "salary": null,
       "source": "Workday · Target",
       "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-of-Product-Management_R0000449194",
+      "postedAt": "2026-09-24",
+      "firstSeenAt": "2026-09-24",
+      "lastSeenAt": "2026-09-24",
+      "status": "Active"
+    },
+    {
+      "id": "job_61a2e2",
+      "slug": "product-manager-sr-product-manager-mulesoft-salesforce-bengaluru-61a2e2",
+      "title": "Product Manager / Sr. Product Manager - Mulesoft",
+      "company": {
+        "id": "salesforce",
+        "name": "Salesforce",
+        "logo": null,
+        "domain": "salesforce.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise",
+        "AI"
+      ],
+      "skills": [
+        "SQL",
+        "User Research",
+        "Go-to-Market",
+        "Growth",
+        "Monetization",
+        "Pricing",
+        "API",
+        "Platform",
+        "Data",
+        "iOS"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "AI",
+        "Senior Product Manager",
+        "Onsite",
+        "SQL",
+        "User Research",
+        "Go-to-Market"
+      ],
+      "description": "To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.\n\nJob Category\n\nProduct\n\nJob Details",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Salesforce",
+      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Product-Manager---Commerce-Platform--Hyderabad-_JR321301",
       "postedAt": "2026-09-24",
       "firstSeenAt": "2026-09-24",
       "lastSeenAt": "2026-09-24",
@@ -34094,87 +34152,6 @@
       "status": "Active"
     },
     {
-      "id": "job_0fec8a",
-      "slug": "product-manager-product-platform-okta-bengaluru-0fec8a",
-      "title": "Product Manager, Product Platform",
-      "company": {
-        "id": "okta",
-        "name": "Okta",
-        "logo": null,
-        "domain": "okta.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Product Manager",
-      "experienceMin": 3,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Enterprise",
-        "AI"
-      ],
-      "skills": [
-        "Growth",
-        "Pricing",
-        "Platform",
-        "Machine Learning",
-        "Onboarding",
-        "Retention",
-        "Scrum"
-      ],
-      "tags": [
-        "SaaS",
-        "Enterprise",
-        "AI",
-        "Product Manager",
-        "Onsite",
-        "Growth",
-        "Pricing",
-        "Platform"
-      ],
-      "description": "Secure Every Identity, from AI to Human\n\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\n\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.\n\nProduct Manager, Product Platform (India)\n\nCompany Overview\n\nOkta is The World’s Identity Company. We free everyone to safely use any technology - anywhere, on any device, for any app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth.",
-      "responsibilities": [
-        "This is a rare 0-to-1 opportunity to build a brand-new, high-visibility capability that touches every Okta customer: backup and recovery to strengthen the resilience of our system. You’ll be responsible for building a modern, self-service experience that allows IT Admins to recover back their accidentally or maliciously deleted identity objects. You'll partner closely with Engineering, Field, Pricing & Packaging, and Product leadership to shape a capability with direct, measurable impact on customer retention and revenue growth.",
-        "Contribute to",
-        "the long-term product vision and strategy for Okta's resilience strategy, ensuring the backup and recovery roadmap scales with the breadth of Okta's customer base and product portfolio.",
-        "Design",
-        "a self-service recovery center to ensure customers can seamlessly and securely track their deletions and changes and revert back across the entire Okta ecosystem.",
-        "Collaborat",
-        "with India-based engineering and development scrum teams to deliver high-performance, scalable backup and recovery solution",
-        "Distill",
-        "complex requirements from a diverse stakeholder group - including Field (AE/CSM), Pricing & Packaging, Support, Design, and Product teams - into precise technical specifications.",
-        "Analyze",
-        "how large-scale enterprise customer’s resilience needs to identify friction points and drive improvements in customer trust and platform experience.",
-        "Validate"
-      ],
-      "requirements": [
-        "3+ years of Product Management experience",
-        "specifically within",
-        "enterprise-scale SaaS platforms",
-        "or core software infrastructure.",
-        "BS in Computer Science, Computer Engineering",
-        ", or equivalent technical experience that enables you to rationalize and influence complex architectural decisions.",
-        "Proven ability to produce solid, actionable plans",
-        "from incomplete, conflicting, or highly ambiguous inputs.",
-        "Exceptional communication and presentation skills",
-        ", with a track record of successfully collaborating across global functions and time zones.",
-        "Demonstrated business results from customer-facing platform capabilities shipped at scale.",
-        "Experience with Backup or recovery tools"
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · Okta",
-      "applyUrl": "https://www.okta.com/company/careers/opportunity/8210924?gh_jid=8210924",
-      "postedAt": "2026-09-11",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-24",
-      "status": "Active"
-    },
-    {
       "id": "job_e22607",
       "slug": "product-owner-incubyte-india-e22607",
       "title": "Product Owner",
@@ -34797,6 +34774,50 @@
       "workMode": "Onsite",
       "employmentType": "Full Time",
       "experienceLevel": "Senior Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [],
+      "skills": [
+        "Platform",
+        "Data",
+        "Onboarding"
+      ],
+      "tags": [
+        "Senior Product Manager",
+        "Onsite",
+        "Platform",
+        "Data",
+        "Onboarding"
+      ],
+      "description": "Experience with data orchestration,low-code / no-code data tools,or Integration Platform as a Service (iPaaS).\n\nYour journey begins with an immersive,in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one. . Okta is an Equal Opportunity Employer\n\nRequired",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Naukri",
+      "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-data-platform-okta-identity-india-private-limited-bengaluru-6-to-10-years-160926940165",
+      "postedAt": "2026-09-11",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-24",
+      "status": "Active"
+    },
+    {
+      "id": "job_0fec8a",
+      "slug": "senior-product-manager-product-platform-okta-bengaluru-0fec8a",
+      "title": "Senior Product Manager, Product Platform",
+      "company": {
+        "id": "okta",
+        "name": "Okta",
+        "logo": null,
+        "domain": "okta.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
       "experienceMin": 4,
       "experienceMax": 5,
       "domain": [
@@ -34805,15 +34826,14 @@
         "AI"
       ],
       "skills": [
-        "Analytics",
-        "User Research",
-        "Go-to-Market",
         "Growth",
-        "API",
+        "Monetization",
+        "Pricing",
         "Platform",
         "Data",
         "Machine Learning",
         "Onboarding",
+        "Retention",
         "Scrum"
       ],
       "tags": [
@@ -34822,23 +34842,23 @@
         "AI",
         "Senior Product Manager",
         "Onsite",
-        "Analytics",
-        "User Research",
-        "Go-to-Market"
+        "Growth",
+        "Monetization",
+        "Pricing"
       ],
-      "description": "Secure Every Identity, from AI to Human\n\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\n\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.\n\nSenior Product Manager, Data Platform (India)\n\nCompany Overview\n\nOkta is The World’s Identity Company. We free everyone to safely use any technology—anywhere, on any device, for any app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth.",
+      "description": "Secure Every Identity, from AI to Human\n\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\n\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.\n\nSenior Product Manager, Product Platform\n\nCompany Overview\n\nOkta is The World’s Identity Company. We free everyone to safely use any technology - anywhere, on any device, for any app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth.",
       "responsibilities": [
-        "As the Architect of Okta’s data-driven future, the Senior Product Manager for Data Platform orchestrates the evolution of our core data infrastructure, pipelines, and analytics capabilities. This role manages the critical tension between high-performance technical execution and the delivery of actionable business intelligence, translating high-volume identity event streams into strategic outcomes. You will serve as the essential bridge between our India-based engineering teams and a global suite of stakeholders, ensuring Okta's data remains a competitive differentiator and a cornerstone of trust for our customers.",
+        "This is a rare 0-to-1 opportunity to build a brand-new, high-visibility capability that touches every Okta customer: self-service visibility into subscription and license usage, delivered directly in the Admin Console. You’ll be responsible for building a modern, self-service experience that increases customer trust, unlocks new upsell and expansion motions, and sets the standard for how Okta communicates value to its largest accounts. You'll partner closely with Engineering, Field, Pricing & Packaging, and Product leadership to shape a capability with direct, measurable impact on customer retention and revenue growth.",
         "Orchestrate",
-        "the long-term product vision and strategy for Okta’s data platform, ensuring infrastructure and analytics roadmaps align with the scale of the world’s identity traffic.",
+        "the long-term product vision and strategy for Okta's subscription usage and licensing visibility, ensuring the Admin Console roadmap scales with the breadth of Okta's customer base and product portfolio.",
         "Architect",
-        "a robust API strategy and developer tooling framework to ensure data is seamlessly and securely consumed by services across the entire Okta ecosystem.",
-        "Collaborate",
-        "with India-based engineering and development scrum teams to deliver high-performance data pipeline enhancements and architectural improvements.",
+        "a self-service usage dashboard and reporting framework to ensure customers can seamlessly and securely track their subscription and license usage across the entire Okta ecosystem.",
+        "Collaborat",
+        "with India-based engineering and development scrum teams to deliver high-performance usage computation and reporting infrastructure improvements.",
         "Distill",
-        "complex requirements from a diverse stakeholder group—including Product, Design, User Research, Marketing, Sales, and Go-To-Market teams—into precise technical specifications.",
+        "complex requirements from a diverse stakeholder group - including Field (AE/CSM), Pricing & Packaging, Support, Design, and Product teams - into precise technical specifications.",
         "Analyze",
-        "large-scale product data and identity-centric orchestration logs to identify friction points and drive improvements in platform performance and user experience.",
+        "large-scale subscription and usage data to identify friction points and drive improvements in customer trust and platform experience.",
         "Validate"
       ],
       "requirements": [
@@ -34852,13 +34872,13 @@
         "from incomplete, conflicting, or highly ambiguous inputs.",
         "Exceptional communication and presentation skills",
         ", with a track record of successfully collaborating across global functions and time zones.",
-        "Demonstrated business results from platform capabilities or products you have shipped at scale.",
-        "Experience with data orchestration, low-code/no-code data tools, or Integration Platform as a Service (iPaaS)."
+        "Demonstrated business results from customer-facing platform capabilities shipped at scale.",
+        "Experience with subscription/licensing models, usage-based billing, or SaaS packaging and monetization."
       ],
       "preferred": [],
       "salary": null,
       "source": "Greenhouse · Okta",
-      "applyUrl": "https://www.okta.com/company/careers/opportunity/8022961?gh_jid=8022961",
+      "applyUrl": "https://www.okta.com/company/careers/opportunity/8164066?gh_jid=8164066",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-09-24",
@@ -39152,83 +39172,6 @@
       "status": "Active"
     },
     {
-      "id": "job_aeae06",
-      "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
-      "title": "Senior Product Manager - SAP FICO",
-      "company": {
-        "id": "zoominfo",
-        "name": "ZoomInfo",
-        "logo": null,
-        "domain": "zoominfo.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 10,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Fintech",
-        "Enterprise"
-      ],
-      "skills": [
-        "Go-to-Market",
-        "API",
-        "Platform",
-        "Data",
-        "Agile"
-      ],
-      "tags": [
-        "SaaS",
-        "Fintech",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Go-to-Market",
-        "API",
-        "Platform"
-      ],
-      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
-      "responsibilities": [
-        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
-        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
-        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
-        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
-        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
-        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
-        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
-        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
-        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
-        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
-      ],
-      "requirements": [
-        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
-        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
-        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
-        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
-        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
-        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
-        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
-        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
-        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
-        "SAP Certification in Finance or a related SAP discipline.",
-        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
-        "Experience in high-tech, SaaS, software, or Finance transformation programs."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · ZoomInfo",
-      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
-      "postedAt": "2026-09-05",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-24",
-      "status": "Active"
-    },
-    {
       "id": "job_a4f741",
       "slug": "senior-product-manager-sap-fico-zoominfo-chennai-a4f741",
       "title": "Senior Product Manager - SAP FICO",
@@ -39300,6 +39243,83 @@
       "salary": null,
       "source": "Greenhouse · ZoomInfo",
       "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8733078002",
+      "postedAt": "2026-09-05",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-24",
+      "status": "Active"
+    },
+    {
+      "id": "job_aeae06",
+      "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
+      "title": "Senior Product Manager - SAP FICO",
+      "company": {
+        "id": "zoominfo",
+        "name": "ZoomInfo",
+        "logo": null,
+        "domain": "zoominfo.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "API",
+        "Platform",
+        "Data",
+        "Agile"
+      ],
+      "tags": [
+        "SaaS",
+        "Fintech",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "API",
+        "Platform"
+      ],
+      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
+      "responsibilities": [
+        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
+        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
+        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
+        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
+        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
+        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
+        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
+        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
+        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
+        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
+      ],
+      "requirements": [
+        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
+        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
+        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
+        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
+        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
+        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
+        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
+        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
+        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
+        "SAP Certification in Finance or a related SAP discipline.",
+        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
+        "Experience in high-tech, SaaS, software, or Finance transformation programs."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · ZoomInfo",
+      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
       "postedAt": "2026-09-05",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-09-24",
@@ -41633,8 +41653,8 @@
     },
     {
       "id": "job_ad3ab4",
-      "slug": "product-manager-internal-platform-meesho-bengaluru-ad3ab4",
-      "title": "Product Manager (Internal Platform)",
+      "slug": "product-manager-i-meesho-bengaluru-ad3ab4",
+      "title": "Product Manager I",
       "company": {
         "id": "meesho",
         "name": "Meesho",
@@ -41648,54 +41668,37 @@
       "workMode": "Onsite",
       "employmentType": "Full Time",
       "experienceLevel": "Product Manager",
-      "experienceMin": 3,
+      "experienceMin": null,
       "experienceMax": null,
       "domain": [
         "Ecommerce",
         "Consumer"
       ],
       "skills": [
-        "Product Strategy",
         "Experimentation",
         "Analytics",
+        "User Research",
+        "Go-to-Market",
         "Growth",
-        "API",
-        "Platform",
-        "Data",
-        "Onboarding",
-        "Stakeholder Management",
-        "Segmentation"
+        "Stakeholder Management"
       ],
       "tags": [
         "Ecommerce",
         "Consumer",
         "Product Manager",
         "Onsite",
-        "Product Strategy",
         "Experimentation",
         "Analytics",
-        "Growth"
+        "User Research",
+        "Go-to-Market"
       ],
-      "description": "",
-      "responsibilities": [
-        "Bangalore",
-        "About the Team : The Platform Product team at Meesho is the backbone of our product ecosystem, empowering functions across product, business, analytics, tech, and data science. By building scalable platforms and tools, we enable teams to make data-driven decisions, accelerate development cycles, and enhance productivity. Our key focus areas include Data Acquisition, Analytics Tools, Experimentation, Segmentation, Payouts, Security, Reporting and so on, which support critical functions of Meesho",
-        "About the Role : As a Platform Product Manager, you will own and drive one or more product charters within the Platform Product charter. Your role will be pivotal in enabling Meesho’s growth by ensuring seamless cross-functional collaboration and delivering impactful technical solutions. You will work closely with product managers, engineers, analysts, and data scientists across the organisation to turn complex ideas into actionable products.",
-        "We’re looking for strategic thinkers passionate about building platforms that solve large-scale challenges. We want to hear from you if you are a self-starter, excel in driving initiatives independently, and thrive in dynamic environments.",
-        "What you will do",
-        "Drive Product Strategy:",
-        "Define and execute the roadmap for one or more platform charters, aligning with business goals and maximizing value for internal stakeholders.",
-        "Enable Cross-Functional Collaboration:",
-        "Partner with engineering, product, analytics, and business teams to ensure alignment, remove blockers, and drive initiatives to completion.",
-        "Optimise Platform Efficiency:",
-        "Establish workflows, tools, and frameworks that reduce onboarding friction, accelerate product delivery, and improve time-to-market.",
-        "Measure and Monitor Impact:"
-      ],
+      "description": "About the Team    Product Management in Meesho closely resembles our rocketship growth. Because we obsess over understanding customer behaviour, we’ve been able to carve out an e-commerce niche in Tier 2/3/4 towns in Bharat. Our business growth is testimony to a singular focus on how we think of ‘product’ for our unique customers",
+      "responsibilities": [],
       "requirements": [],
       "preferred": [],
       "salary": null,
       "source": "Lever · Meesho",
-      "applyUrl": "https://jobs.lever.co/meesho/2f1dba8f-bc99-4490-8200-d2cd7f92f544",
+      "applyUrl": "https://jobs.lever.co/meesho/4891a891-f431-4e98-99ae-0e31a21f0190",
       "postedAt": "2026-08-12",
       "firstSeenAt": "2026-09-10",
       "lastSeenAt": "2026-09-24",
@@ -51343,6 +51346,7 @@
       "companySize": "5000+",
       "description": "Salesforce is a saas company hiring product managers in India.",
       "locations": [
+        "Bengaluru",
         "Hyderabad"
       ]
     },
@@ -52895,8 +52899,8 @@
       "companySize": "1000-5000",
       "description": "ZoomInfo is a saas company hiring product managers in India.",
       "locations": [
-        "Bengaluru",
-        "Chennai"
+        "Chennai",
+        "Bengaluru"
       ]
     },
     {
