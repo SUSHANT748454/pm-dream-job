@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T19:06:42.875Z",
+  "generatedAt": "2026-09-25T22:59:09.328Z",
   "jobs": [
     {
       "id": "job_ccf701",
@@ -18429,87 +18429,6 @@
       "status": "Active"
     },
     {
-      "id": "job_7d8345",
-      "slug": "product-manager-email-client-apps-services-jpmorgan-chase-bengaluru-7d8345",
-      "title": "Product Manager - Email Client Apps & Services",
-      "company": {
-        "id": "jpmorgan-chase",
-        "name": "JPMorgan Chase",
-        "logo": null,
-        "domain": null
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Group Product Manager",
-      "experienceMin": 10,
-      "experienceMax": null,
-      "domain": [
-        "AI",
-        "Fintech"
-      ],
-      "skills": [
-        "Product Strategy",
-        "Experimentation",
-        "Growth",
-        "API",
-        "Platform",
-        "Data",
-        "Agile",
-        "Scrum"
-      ],
-      "tags": [
-        "AI",
-        "Fintech",
-        "Group Product Manager",
-        "Onsite",
-        "Product Strategy",
-        "Experimentation",
-        "Growth",
-        "API"
-      ],
-      "description": "Be at the heart of how a global workforce connects, collaborates, and communicates. Bring your product expertise to a role where you will own critical enterprise applications, drive the delivery of new AI-enabled capabilities, and unlock measurable value for hundreds of thousands of users. Join a people-centered team that values experimentation, career growth, and the thoughtful application of emerging technologies.\n\nAs a Vice President, Product Manager at JPMorgan Chase within the Collaboration and Communication Product Line, you will own the delivery and roadmap for a portfolio of client applications that serve the firm's global employee population. You will partner closely with engineering, design, and business stakeholders to define requirements, prioritize work, and drive execution across globally distributed teams. You will translate customer needs into clear product outcomes while balancing business value, technology enablement, and operational stability. You will lead the delivery of new artificial intelligence features and capabilities within your products to improve productivity and enhance the user experience. You will engage and influence senior stakeholders across an agile, cross-functional organization spanning Jersey City, the United Kingdom, and India.\n\nThe Collaboration and Communication Product Line engineers and supports enterprise-wide solutions that enable effective collaboration across a global workforce of more than 300,000 employees, as well as with",
-      "responsibilities": [
-        "Own and maintain the product backlog and product vision, prioritizing work that advances the roadmap and delivers measurable value.",
-        "Drive the end-to-end product lifecycle across planning, execution, and future development, adapting methodologies and managing risks.",
-        "Deliver new artificial intelligence features and capabilities within your products, capturing a significant opportunity to enhance productivity and user experience.",
-        "Own application-specific AI use cases, including capabilities that detect and automate the management of risks related to data leaving the firm.",
-        "Drive the adoption of AI-enabled capabilities across the employee population, contributing to the firm's broader adoption journey and mindset shift.",
-        "Design employee-centric workflow automation that supports teams through their transformation journey.",
-        "Partner with engineering teams to ensure roadmaps balance business delivery, technology enablement, and operational work.",
-        "Define target outcomes and measure product performance against success metrics, tracking progress toward goals.",
-        "Advocate for the needs of the product's customers by deeply understanding their workflows and priorities.",
-        "Influence senior stakeholders, including Managing Directors, to align on priorities and drive execution across global teams.",
-        "Conduct market research and monitor industry developments, translating implications into the product roadmap.",
-        "Required"
-      ],
-      "requirements": [
-        "Minimum of 10 years of experience in product management or a relevant domain area.",
-        "Experience in a technology product management role within an enterprise environment.",
-        "Demonstrated experience owning the delivery and roadmap for one or more products or services.",
-        "Familiarity with common technical concepts, architectures, and cloud-based principles (hands-on development experience is not required).",
-        "Understanding of the end-to-end software development process, including product strategy, customer engagement, architecture design, engineering, implementation, and operations.",
-        "Understanding of software development methodologies and practices such as agile and scrum.",
-        "Strong written and verbal communication skills, with the ability to articulate concepts to senior management and customers.",
-        "Experience building cohesive partnerships and managing relationships with a variety of partners and stakeholders across global teams.",
-        "Experience delivering roadmaps, product overviews, reports, backlogs, and documentation for enterprise technology solutions.",
-        "Experience delivering artificial intelligence or automation-enabled product capabilities.",
-        "Experience with product capabilities related to data protection or the detection of data-related risks.",
-        "Experience in a product management context with an emphasis on data mapping and migrations."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "The Muse",
-      "applyUrl": "https://www.themuse.com/jobs/jpmorganchase/product-manager-email-client-apps-services",
-      "postedAt": "2026-09-18",
-      "firstSeenAt": "2026-09-18",
-      "lastSeenAt": "2026-09-25",
-      "status": "Active"
-    },
-    {
       "id": "job_d9946f",
       "slug": "product-manager-email-client-apps-services-jpmorganchase-bengaluru-d9946f",
       "title": "Product Manager - Email Client Apps & Services",
@@ -18587,6 +18506,87 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-email-client-apps-services-at-jpmorganchase-4469132111",
       "postedAt": "2026-09-18",
       "firstSeenAt": "2026-09-21",
+      "lastSeenAt": "2026-09-25",
+      "status": "Active"
+    },
+    {
+      "id": "job_7d8345",
+      "slug": "product-manager-email-client-apps-services-jpmorgan-chase-bengaluru-7d8345",
+      "title": "Product Manager - Email Client Apps & Services",
+      "company": {
+        "id": "jpmorgan-chase",
+        "name": "JPMorgan Chase",
+        "logo": null,
+        "domain": null
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "AI",
+        "Fintech"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Experimentation",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Agile",
+        "Scrum"
+      ],
+      "tags": [
+        "AI",
+        "Fintech",
+        "Group Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Experimentation",
+        "Growth",
+        "API"
+      ],
+      "description": "Be at the heart of how a global workforce connects, collaborates, and communicates. Bring your product expertise to a role where you will own critical enterprise applications, drive the delivery of new AI-enabled capabilities, and unlock measurable value for hundreds of thousands of users. Join a people-centered team that values experimentation, career growth, and the thoughtful application of emerging technologies.\n\nAs a Vice President, Product Manager at JPMorgan Chase within the Collaboration and Communication Product Line, you will own the delivery and roadmap for a portfolio of client applications that serve the firm's global employee population. You will partner closely with engineering, design, and business stakeholders to define requirements, prioritize work, and drive execution across globally distributed teams. You will translate customer needs into clear product outcomes while balancing business value, technology enablement, and operational stability. You will lead the delivery of new artificial intelligence features and capabilities within your products to improve productivity and enhance the user experience. You will engage and influence senior stakeholders across an agile, cross-functional organization spanning Jersey City, the United Kingdom, and India.\n\nThe Collaboration and Communication Product Line engineers and supports enterprise-wide solutions that enable effective collaboration across a global workforce of more than 300,000 employees, as well as with",
+      "responsibilities": [
+        "Own and maintain the product backlog and product vision, prioritizing work that advances the roadmap and delivers measurable value.",
+        "Drive the end-to-end product lifecycle across planning, execution, and future development, adapting methodologies and managing risks.",
+        "Deliver new artificial intelligence features and capabilities within your products, capturing a significant opportunity to enhance productivity and user experience.",
+        "Own application-specific AI use cases, including capabilities that detect and automate the management of risks related to data leaving the firm.",
+        "Drive the adoption of AI-enabled capabilities across the employee population, contributing to the firm's broader adoption journey and mindset shift.",
+        "Design employee-centric workflow automation that supports teams through their transformation journey.",
+        "Partner with engineering teams to ensure roadmaps balance business delivery, technology enablement, and operational work.",
+        "Define target outcomes and measure product performance against success metrics, tracking progress toward goals.",
+        "Advocate for the needs of the product's customers by deeply understanding their workflows and priorities.",
+        "Influence senior stakeholders, including Managing Directors, to align on priorities and drive execution across global teams.",
+        "Conduct market research and monitor industry developments, translating implications into the product roadmap.",
+        "Required"
+      ],
+      "requirements": [
+        "Minimum of 10 years of experience in product management or a relevant domain area.",
+        "Experience in a technology product management role within an enterprise environment.",
+        "Demonstrated experience owning the delivery and roadmap for one or more products or services.",
+        "Familiarity with common technical concepts, architectures, and cloud-based principles (hands-on development experience is not required).",
+        "Understanding of the end-to-end software development process, including product strategy, customer engagement, architecture design, engineering, implementation, and operations.",
+        "Understanding of software development methodologies and practices such as agile and scrum.",
+        "Strong written and verbal communication skills, with the ability to articulate concepts to senior management and customers.",
+        "Experience building cohesive partnerships and managing relationships with a variety of partners and stakeholders across global teams.",
+        "Experience delivering roadmaps, product overviews, reports, backlogs, and documentation for enterprise technology solutions.",
+        "Experience delivering artificial intelligence or automation-enabled product capabilities.",
+        "Experience with product capabilities related to data protection or the detection of data-related risks.",
+        "Experience in a product management context with an emphasis on data mapping and migrations."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "The Muse",
+      "applyUrl": "https://www.themuse.com/jobs/jpmorganchase/product-manager-email-client-apps-services",
+      "postedAt": "2026-09-18",
+      "firstSeenAt": "2026-09-18",
       "lastSeenAt": "2026-09-25",
       "status": "Active"
     },
@@ -48437,8 +48437,8 @@
       "applyUrl": "https://www.themuse.com/jobs/appian/director-platform-engineering-product-management-e018fd",
       "postedAt": "2026-09-03",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-09-22",
-      "status": "Expired"
+      "lastSeenAt": "2026-09-25",
+      "status": "Active"
     },
     {
       "id": "job_bd0f7b",
