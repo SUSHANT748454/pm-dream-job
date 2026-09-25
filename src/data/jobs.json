@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T06:16:12.981Z",
+  "generatedAt": "2026-09-25T09:56:31.208Z",
   "jobs": [
     {
       "id": "job_ccf701",
@@ -43528,6 +43528,71 @@
       "status": "Active"
     },
     {
+      "id": "job_e503ad",
+      "slug": "senior-product-manager-philips-bengaluru-e503ad",
+      "title": "Senior Product Manager",
+      "company": {
+        "id": "philips",
+        "name": "Philips",
+        "logo": null,
+        "domain": "philips.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": 10,
+      "domain": [
+        "Healthcare",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Growth",
+        "Pricing",
+        "Demand",
+        "Segmentation"
+      ],
+      "tags": [
+        "Healthcare",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Growth",
+        "Pricing",
+        "Demand"
+      ],
+      "description": "Job Title\n\nSenior Product Manager\n\nJob Description\n\nSenior Product Manager\n\nYou will play a pivotal marketing role at Diagnostic X-Ray (DXR) and drive creation of solutions (integrated combination of products and services) from idea to market. You will be accountable for defining, launching and building profitable product solutions that transform healthcare. You will work directly with the different functions within the organization and maintains a balanced development scope. This will not only ensure the products/solutions are developed to the feature and price specifications that each target market segment demands but also will deliver a profitable and performing product in all its aspects.\n\nThe Product Manager owns the product lifecycle from concept phase through development and launch and eventually, end of life. You are required to have expertise in market segmentation, product strategy, competitive strategy, and product development.\n\nYour role:",
+      "responsibilities": [
+        "Join corporate core teams to drive implementation (plan, execute, track, and communicate) of strategic marketing initiatives at DXR.",
+        "Own your product and its performance during its complete lifecycle from concept phase throughout development and launch, till end of life.",
+        "Support and drive upstream marketing activities for the solution, including definition of the strategy and its enablers as well as its alignment with key markets globally.",
+        "Translate in-depth customer and market insights to support the product strategy: analyze the customers, markets, the competition, and the trends to create winning concepts, value propositions and clear product specifications to ensure delivering according to the customer’s needs and expectations.",
+        "Drive the development of business cases to prioritize investments",
+        "Interact with various disciplines including Research, R&D departments, internal and external design agencies, suppliers, industrialization, marketing management, marketing communication and international sales organizations.",
+        "Be a key core team member in product development and lifecycle management teams.",
+        "Drive the market readiness as part of PDLM. Ensure completion of appropriate deliverables (feature descriptions, value propositions, costing/pricing/quoting materials, etc.)",
+        "Follow a lean way of working and a continuous improvement mindset within the product management team.",
+        "You are a part of",
+        "The Diagnostic X-ray product management team of Philips Healthcare and become part of the global marketing department. You will be based in Pune and report into the Head of Product Management and be working in an international network of various stakeholders based across the globe. The team operates in an open, ‘can-do’ atmosphere. The team is characterized by a “self-starting” mentality.",
+        "In the team we focus on translating the customer voice in medical products, solutions and services. We manage a wide Radiography and Fluoroscopy portfolio targeting the global health market contributing directly to the growth of the business."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Philips",
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Senior-Product-Manager_582154-1",
+      "postedAt": "2026-09-11",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-25",
+      "status": "Active"
+    },
+    {
       "id": "job_578432",
       "slug": "senior-product-manager-nanonets-bengaluru-578432",
       "title": "Senior Product Manager",
@@ -43636,71 +43701,6 @@
       "firstSeenAt": "2026-09-17",
       "lastSeenAt": "2026-09-25",
       "status": "Active"
-    },
-    {
-      "id": "job_e503ad",
-      "slug": "senior-product-manager-philips-bengaluru-e503ad",
-      "title": "Senior Product Manager",
-      "company": {
-        "id": "philips",
-        "name": "Philips",
-        "logo": null,
-        "domain": "philips.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 5,
-      "experienceMax": 10,
-      "domain": [
-        "Healthcare",
-        "Enterprise"
-      ],
-      "skills": [
-        "Product Strategy",
-        "Growth",
-        "Pricing",
-        "Demand",
-        "Segmentation"
-      ],
-      "tags": [
-        "Healthcare",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Product Strategy",
-        "Growth",
-        "Pricing",
-        "Demand"
-      ],
-      "description": "Job Title\n\nSenior Product Manager\n\nJob Description\n\nSenior Product Manager\n\nYou will play a pivotal marketing role at Diagnostic X-Ray (DXR) and drive creation of solutions (integrated combination of products and services) from idea to market. You will be accountable for defining, launching and building profitable product solutions that transform healthcare. You will work directly with the different functions within the organization and maintains a balanced development scope. This will not only ensure the products/solutions are developed to the feature and price specifications that each target market segment demands but also will deliver a profitable and performing product in all its aspects.\n\nThe Product Manager owns the product lifecycle from concept phase through development and launch and eventually, end of life. You are required to have expertise in market segmentation, product strategy, competitive strategy, and product development.\n\nYour role:",
-      "responsibilities": [
-        "Join corporate core teams to drive implementation (plan, execute, track, and communicate) of strategic marketing initiatives at DXR.",
-        "Own your product and its performance during its complete lifecycle from concept phase throughout development and launch, till end of life.",
-        "Support and drive upstream marketing activities for the solution, including definition of the strategy and its enablers as well as its alignment with key markets globally.",
-        "Translate in-depth customer and market insights to support the product strategy: analyze the customers, markets, the competition, and the trends to create winning concepts, value propositions and clear product specifications to ensure delivering according to the customer’s needs and expectations.",
-        "Drive the development of business cases to prioritize investments",
-        "Interact with various disciplines including Research, R&D departments, internal and external design agencies, suppliers, industrialization, marketing management, marketing communication and international sales organizations.",
-        "Be a key core team member in product development and lifecycle management teams.",
-        "Drive the market readiness as part of PDLM. Ensure completion of appropriate deliverables (feature descriptions, value propositions, costing/pricing/quoting materials, etc.)",
-        "Follow a lean way of working and a continuous improvement mindset within the product management team.",
-        "You are a part of",
-        "The Diagnostic X-ray product management team of Philips Healthcare and become part of the global marketing department. You will be based in Pune and report into the Head of Product Management and be working in an international network of various stakeholders based across the globe. The team operates in an open, ‘can-do’ atmosphere. The team is characterized by a “self-starting” mentality.",
-        "In the team we focus on translating the customer voice in medical products, solutions and services. We manage a wide Radiography and Fluoroscopy portfolio targeting the global health market contributing directly to the growth of the business."
-      ],
-      "requirements": [],
-      "preferred": [],
-      "salary": null,
-      "source": "Workday · Philips",
-      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Senior-Product-Manager_582154-1",
-      "postedAt": "2026-09-11",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-24",
-      "status": "Expired"
     },
     {
       "id": "job_e3be01",
@@ -48249,83 +48249,6 @@
       "status": "Active"
     },
     {
-      "id": "job_aeae06",
-      "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
-      "title": "Senior Product Manager - SAP FICO",
-      "company": {
-        "id": "zoominfo",
-        "name": "ZoomInfo",
-        "logo": null,
-        "domain": "zoominfo.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 10,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Fintech",
-        "Enterprise"
-      ],
-      "skills": [
-        "Go-to-Market",
-        "API",
-        "Platform",
-        "Data",
-        "Agile"
-      ],
-      "tags": [
-        "SaaS",
-        "Fintech",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Go-to-Market",
-        "API",
-        "Platform"
-      ],
-      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
-      "responsibilities": [
-        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
-        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
-        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
-        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
-        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
-        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
-        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
-        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
-        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
-        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
-      ],
-      "requirements": [
-        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
-        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
-        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
-        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
-        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
-        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
-        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
-        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
-        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
-        "SAP Certification in Finance or a related SAP discipline.",
-        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
-        "Experience in high-tech, SaaS, software, or Finance transformation programs."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · ZoomInfo",
-      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
-      "postedAt": "2026-09-05",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-25",
-      "status": "Active"
-    },
-    {
       "id": "job_a4f741",
       "slug": "senior-product-manager-sap-fico-zoominfo-chennai-a4f741",
       "title": "Senior Product Manager - SAP FICO",
@@ -48397,6 +48320,83 @@
       "salary": null,
       "source": "Greenhouse · ZoomInfo",
       "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8733078002",
+      "postedAt": "2026-09-05",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-25",
+      "status": "Active"
+    },
+    {
+      "id": "job_aeae06",
+      "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
+      "title": "Senior Product Manager - SAP FICO",
+      "company": {
+        "id": "zoominfo",
+        "name": "ZoomInfo",
+        "logo": null,
+        "domain": "zoominfo.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "API",
+        "Platform",
+        "Data",
+        "Agile"
+      ],
+      "tags": [
+        "SaaS",
+        "Fintech",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "API",
+        "Platform"
+      ],
+      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
+      "responsibilities": [
+        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
+        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
+        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
+        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
+        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
+        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
+        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
+        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
+        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
+        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
+      ],
+      "requirements": [
+        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
+        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
+        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
+        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
+        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
+        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
+        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
+        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
+        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
+        "SAP Certification in Finance or a related SAP discipline.",
+        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
+        "Experience in high-tech, SaaS, software, or Finance transformation programs."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · ZoomInfo",
+      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
       "postedAt": "2026-09-05",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-09-25",
@@ -51364,6 +51364,64 @@
       "firstSeenAt": "2026-09-10",
       "lastSeenAt": "2026-09-17",
       "status": "Expired"
+    },
+    {
+      "id": "job_0a9d16",
+      "slug": "product-management-upi-product-experience-6-9-yrs-paytm-bengaluru-0a9d16",
+      "title": "Product Management - UPI Product | Experience : 6-9 yrs",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Consumer",
+        "AI"
+      ],
+      "skills": [
+        "Experimentation",
+        "SQL",
+        "Analytics",
+        "Growth",
+        "Platform",
+        "Data",
+        "Mobile",
+        "Payments",
+        "Fraud",
+        "Onboarding"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "AI",
+        "Product Manager",
+        "Onsite",
+        "Experimentation",
+        "SQL",
+        "Analytics"
+      ],
+      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology About the Role",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/fec8e98b-d09b-4edb-b5a9-fe04aa079a3c",
+      "postedAt": "2026-07-28",
+      "firstSeenAt": "2026-09-25",
+      "lastSeenAt": "2026-09-25",
+      "status": "Active"
     },
     {
       "id": "job_1b3f8b",
@@ -63303,8 +63361,8 @@
       "companySize": "1000-5000",
       "description": "ZoomInfo is a saas company hiring product managers in India.",
       "locations": [
-        "Bengaluru",
-        "Chennai"
+        "Chennai",
+        "Bengaluru"
       ]
     },
     {
