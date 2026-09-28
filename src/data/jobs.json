@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T11:21:40.316Z",
+  "generatedAt": "2026-09-28T20:58:14.477Z",
   "jobs": [
     {
       "id": "job_0a6b2c",
@@ -220,6 +220,72 @@
       "salary": null,
       "source": "LinkedIn",
       "applyUrl": "https://in.linkedin.com/jobs/view/manager-product-business-development-at-bharathi-meraki-4471331409",
+      "postedAt": "2026-09-28",
+      "firstSeenAt": "2026-09-28",
+      "lastSeenAt": "2026-09-28",
+      "status": "Active"
+    },
+    {
+      "id": "job_f54f25",
+      "slug": "manager-product-development-network-products-mastercard-pune-f54f25",
+      "title": "Manager, Product Development - Network Products",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Pune",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "Growth",
+        "API",
+        "Data",
+        "Payments",
+        "Agile"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "Growth",
+        "API",
+        "Data"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nManager, Product Development",
+      "responsibilities": [
+        "Network Products",
+        "Overview",
+        "Be the force behind Mastercard next generation switch as Manager, Product Development to drive the changes and bring in new opportunities.",
+        "This role is Within P&E, the Network Products team oversees Mastercard’s Next Gen Network initiatives (Transaction Switching).",
+        "Role",
+        "Demonstrate end-to-end ownership and partner with Product Management and Engineering teams to design, develop and deliver scalable products for commercialization, ensuring the build effort concludes on time and budget, enabling a go-to-market plan focused on ease of delivery and great customer experience.",
+        "Collaborates with cross-functional stakeholders in Legal, Data Privacy, Delivery, Finance, Marketing, Sales, etc. to ensure that the new Product has a robust go-to-market plan focused on speed to market and ease of delivery",
+        "Partner with Servicing teams (e.g CTS, Biz Ops) to ensure that the new Product has a robust E2E servicing plan that enables a great end user and customer experience",
+        "Ensure the integrity and consistency of the delivery of the vision across all products: capabilities, scalability, performance, speed-to-market, readiness for growth, re-usability.",
+        "Detail the epics, participate to the definition of the flows and interfaces for the product, perform joint solution design with Engineering teams, structure the roadmap and propose phasing of the delivery, prioritize the backlog, define the acceptance criteria, accept the features.",
+        "Produce the artifacts needed by our internal customers with consistency, quality and care: sequence diagrams, capability training decks for product management, DevZone API articles, content to be inserted in product guide, …",
+        "Lead by example with hands-on approaches to demonstrate product management excellence and share best practices"
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager---Product-Development---Network-Products_R-289913",
       "postedAt": "2026-09-28",
       "firstSeenAt": "2026-09-28",
       "lastSeenAt": "2026-09-28",
@@ -2350,42 +2416,42 @@
       "workMode": "Onsite",
       "employmentType": "Full Time",
       "experienceLevel": "Director",
-      "experienceMin": 3,
-      "experienceMax": 5,
+      "experienceMin": 10,
+      "experienceMax": null,
       "domain": [
         "Ecommerce",
         "Consumer",
-        "Logistics"
+        "Enterprise"
       ],
       "skills": [
+        "Product Strategy",
+        "Experimentation",
         "Analytics",
+        "Growth",
         "Platform",
         "Data",
         "iOS",
-        "Supply",
-        "Demand",
         "Agile",
-        "Scrum",
         "OKRs",
         "P&L"
       ],
       "tags": [
         "Ecommerce",
         "Consumer",
-        "Logistics",
+        "Enterprise",
         "Director",
         "Onsite",
-        "Analytics",
-        "Platform",
-        "Data"
+        "Product Strategy",
+        "Experimentation",
+        "Analytics"
       ],
-      "description": "About us: Working at Target means helping all families discover the joy of everyday life. We b Director Product Management",
+      "description": "About Target: As a Fortune 50 company with more than 350,000 team members worldwide, Target is an iconic brand and one of America's leading retailers.   Working at Target means the opportunity to help all families discover the joy of everyday life. Caring for our communities is woven into who we are, and we invest in the places we collectively live, work and play. We prioritize relationships, fuel and develop talent by creating growth opportunities, and succeed as one Target team. At our core, our purpose is ingrained in who we are, what we value, and how we work. It’s how we care, grow, and",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
       "salary": null,
       "source": "Workday · Target",
-      "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management_R0000448638",
+      "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Director-Product-Management_R0000454114-1",
       "postedAt": "2026-09-25",
       "firstSeenAt": "2026-09-25",
       "lastSeenAt": "2026-09-28",
@@ -58955,9 +59021,11 @@
       "workMode": "Onsite",
       "employmentType": "Full Time",
       "experienceLevel": "Product Manager",
-      "experienceMin": null,
-      "experienceMax": null,
-      "domain": [],
+      "experienceMin": 2,
+      "experienceMax": 3,
+      "domain": [
+        "AI"
+      ],
       "skills": [
         "Pricing",
         "Platform",
@@ -58966,6 +59034,7 @@
         "Stakeholder Management"
       ],
       "tags": [
+        "AI",
         "Product Manager",
         "Onsite",
         "Pricing",
@@ -58973,27 +59042,10 @@
         "Data",
         "Demand"
       ],
-      "description": "Job Title: Certinia Product Manager\n\nRole Summary\n\nThe Certinia Product Manager owns the business vision, functional scope, and delivery priorities for the company's Certinia implementation. This role is responsible for making sure the platform supports the end-to-end services lifecycle, from estimation and project setup, through resource planning, time entry, expenses, delivery tracking, billing, and reporting.\n\nKey",
-      "responsibilities": [
-        "Own the business roadmap for the Certinia platform and prioritize scope across all implementation workstreams.",
-        "Define how the organization will use Project Management for project planning, execution, tracking, project financials, and issue management.",
-        "Define and govern Project Templates so repeatable project structures, tasks, milestones, assignments, and resource requests can be reused consistently.",
-        "Own Resource Management, including resource records, resource requests, staffing, capacity, demand, scheduling, availability, and skills-based allocation.",
-        "Define Skills Management requirements, including skills taxonomy, skill profiles, certifications, ratings, and matching resources to project demand.",
-        "Own Time Management, including time entry, approvals, submission rules, and time-to-billing controls.",
-        "Own Expense Management, including expense capture, approval, reimbursement, and linkage of expenses to customer billing and project invoicing.",
-        "Own Billing Events and billing flow design, including billable record identification, billing event generation, release to finance, and invoice readiness.",
-        "Own Services CPQ / Services Estimator, including estimate templates, opportunity-based estimates, pricing assumptions, time, cost, and expense planning, and the conversion of approved estimates into projects.",
-        "Translate business requirements into backlog items, solution decisions, and release priorities across all Certinia modules.",
-        "Lead fit-gap sessions and decide what should be configured, changed, deferred, or handled outside Certinia.",
-        "Partner with implementation consultants, solution architects, finance, operations, project managers, and end users during design and build."
-      ],
+      "description": "Job Title: Certinia Product Manager\n\nRole Summary\n\nWhy UKG\n\nAt UKG, the work you do matters. The code you ship, the decisions you make, and the care you show a customer all add up to real impact. Today, tens of millions of workers start and end their days with our workforce operating platform. Helping people get paid, grow in their careers, and shape the future of their industries. That's what we do.\n\nWe never stop learning. We never stop challenging the norm. We push for better, and we celebrate the wins along the way. Here, you'll get flexibility that's real, benefits you can count on, and a team that succeeds together. Because at UKG, your work matters - and so do you.",
+      "responsibilities": [],
       "requirements": [],
-      "preferred": [
-        "Experience in professional services operations, project accounting, services billing, or PSA transformation.",
-        "Familiarity with Salesforce-based enterprise platforms and multi-system integrations.",
-        "Experience with template-based rollout approaches, UAT, and post-launch optimization."
-      ],
+      "preferred": [],
       "salary": null,
       "source": "The Muse",
       "applyUrl": "https://www.themuse.com/jobs/ukg/product-manager-ii-certinia-product-manager",
