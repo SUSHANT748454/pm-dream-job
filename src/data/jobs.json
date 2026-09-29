@@ -1,6 +1,111 @@
 {
-  "generatedAt": "2026-09-29T10:59:44.539Z",
+  "generatedAt": "2026-09-29T19:43:37.161Z",
   "jobs": [
+    {
+      "id": "job_e76a6b",
+      "slug": "product-management-payment-product-experience-5-8-yrs-paytm-delhi-ncr-e76a6b",
+      "title": "Product Management - Payment Product | Experience : 5-8 yrs",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Data",
+        "Mobile",
+        "Payments",
+        "Onboarding",
+        "Demand",
+        "Compliance"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "Data",
+        "Mobile",
+        "Payments",
+        "Onboarding"
+      ],
+      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. About The Team: Looking to join the heart of Paytm? Are you someone who loves to build products and also gets curious about technology stack being used? The Payments team is looking for Product Managers to create high impact and critical",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/dcc0e5d5-79c9-4021-84be-a435f54c71d3",
+      "postedAt": "2026-09-29",
+      "firstSeenAt": "2026-09-29",
+      "lastSeenAt": "2026-09-29",
+      "status": "Active"
+    },
+    {
+      "id": "job_31f111",
+      "slug": "senior-product-manager-core-data-decision-intelligence-target-bengaluru-31f111",
+      "title": "Senior Product Manager - Core Data & Decision Intelligence",
+      "company": {
+        "id": "target",
+        "name": "Target",
+        "logo": null,
+        "domain": "target.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": null,
+      "domain": [
+        "Ecommerce",
+        "Consumer"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Experimentation",
+        "Growth",
+        "Platform",
+        "Data"
+      ],
+      "tags": [
+        "Ecommerce",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Experimentation",
+        "Growth",
+        "Platform"
+      ],
+      "description": "Senior Product Manager – Core Data and Decision Intelligence\n\nTarget in India | L6",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Target",
+      "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Senior-Product-Manager---Core-Data---Decision-Intelligence_R0000449196",
+      "postedAt": "2026-09-29",
+      "firstSeenAt": "2026-09-29",
+      "lastSeenAt": "2026-09-29",
+      "status": "Active"
+    },
     {
       "id": "job_0a6b2c",
       "slug": "associate-product-manager-flexiple-india-0a6b2c",
@@ -2416,42 +2521,42 @@
       "workMode": "Onsite",
       "employmentType": "Full Time",
       "experienceLevel": "Director",
-      "experienceMin": 10,
-      "experienceMax": null,
+      "experienceMin": 3,
+      "experienceMax": 5,
       "domain": [
         "Ecommerce",
         "Consumer",
-        "Enterprise"
+        "Logistics"
       ],
       "skills": [
-        "Product Strategy",
-        "Experimentation",
         "Analytics",
-        "Growth",
         "Platform",
         "Data",
         "iOS",
+        "Supply",
+        "Demand",
         "Agile",
+        "Scrum",
         "OKRs",
         "P&L"
       ],
       "tags": [
         "Ecommerce",
         "Consumer",
-        "Enterprise",
+        "Logistics",
         "Director",
         "Onsite",
-        "Product Strategy",
-        "Experimentation",
-        "Analytics"
+        "Analytics",
+        "Platform",
+        "Data"
       ],
-      "description": "About Target: As a Fortune 50 company with more than 350,000 team members worldwide, Target is an iconic brand and one of America's leading retailers.   Working at Target means the opportunity to help all families discover the joy of everyday life. Caring for our communities is woven into who we are, and we invest in the places we collectively live, work and play. We prioritize relationships, fuel and develop talent by creating growth opportunities, and succeed as one Target team. At our core, our purpose is ingrained in who we are, what we value, and how we work. It’s how we care, grow, and",
+      "description": "About us: Working at Target means helping all families discover the joy of everyday life. We b Director Product Management",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
       "salary": null,
       "source": "Workday · Target",
-      "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Director-Product-Management_R0000454114-1",
+      "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management_R0000448638",
       "postedAt": "2026-09-25",
       "firstSeenAt": "2026-09-25",
       "lastSeenAt": "2026-09-29",
@@ -54069,71 +54174,6 @@
       "status": "Active"
     },
     {
-      "id": "job_e503ad",
-      "slug": "senior-product-manager-philips-bengaluru-e503ad",
-      "title": "Senior Product Manager",
-      "company": {
-        "id": "philips",
-        "name": "Philips",
-        "logo": null,
-        "domain": "philips.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 5,
-      "experienceMax": 10,
-      "domain": [
-        "Healthcare",
-        "Enterprise"
-      ],
-      "skills": [
-        "Product Strategy",
-        "Growth",
-        "Pricing",
-        "Demand",
-        "Segmentation"
-      ],
-      "tags": [
-        "Healthcare",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Product Strategy",
-        "Growth",
-        "Pricing",
-        "Demand"
-      ],
-      "description": "Job Title\n\nSenior Product Manager\n\nJob Description\n\nSenior Product Manager\n\nYou will play a pivotal marketing role at Diagnostic X-Ray (DXR) and drive creation of solutions (integrated combination of products and services) from idea to market. You will be accountable for defining, launching and building profitable product solutions that transform healthcare. You will work directly with the different functions within the organization and maintains a balanced development scope. This will not only ensure the products/solutions are developed to the feature and price specifications that each target market segment demands but also will deliver a profitable and performing product in all its aspects.\n\nThe Product Manager owns the product lifecycle from concept phase through development and launch and eventually, end of life. You are required to have expertise in market segmentation, product strategy, competitive strategy, and product development.\n\nYour role:",
-      "responsibilities": [
-        "Join corporate core teams to drive implementation (plan, execute, track, and communicate) of strategic marketing initiatives at DXR.",
-        "Own your product and its performance during its complete lifecycle from concept phase throughout development and launch, till end of life.",
-        "Support and drive upstream marketing activities for the solution, including definition of the strategy and its enablers as well as its alignment with key markets globally.",
-        "Translate in-depth customer and market insights to support the product strategy: analyze the customers, markets, the competition, and the trends to create winning concepts, value propositions and clear product specifications to ensure delivering according to the customer’s needs and expectations.",
-        "Drive the development of business cases to prioritize investments",
-        "Interact with various disciplines including Research, R&D departments, internal and external design agencies, suppliers, industrialization, marketing management, marketing communication and international sales organizations.",
-        "Be a key core team member in product development and lifecycle management teams.",
-        "Drive the market readiness as part of PDLM. Ensure completion of appropriate deliverables (feature descriptions, value propositions, costing/pricing/quoting materials, etc.)",
-        "Follow a lean way of working and a continuous improvement mindset within the product management team.",
-        "You are a part of",
-        "The Diagnostic X-ray product management team of Philips Healthcare and become part of the global marketing department. You will be based in Pune and report into the Head of Product Management and be working in an international network of various stakeholders based across the globe. The team operates in an open, ‘can-do’ atmosphere. The team is characterized by a “self-starting” mentality.",
-        "In the team we focus on translating the customer voice in medical products, solutions and services. We manage a wide Radiography and Fluoroscopy portfolio targeting the global health market contributing directly to the growth of the business."
-      ],
-      "requirements": [],
-      "preferred": [],
-      "salary": null,
-      "source": "Workday · Philips",
-      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Senior-Product-Manager_582154-1",
-      "postedAt": "2026-09-11",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-29",
-      "status": "Active"
-    },
-    {
       "id": "job_578432",
       "slug": "senior-product-manager-nanonets-bengaluru-578432",
       "title": "Senior Product Manager",
@@ -54240,6 +54280,71 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-at-incommon-4463982126",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-29",
+      "status": "Active"
+    },
+    {
+      "id": "job_e503ad",
+      "slug": "senior-product-manager-philips-bengaluru-e503ad",
+      "title": "Senior Product Manager",
+      "company": {
+        "id": "philips",
+        "name": "Philips",
+        "logo": null,
+        "domain": "philips.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": 10,
+      "domain": [
+        "Healthcare",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Growth",
+        "Pricing",
+        "Demand",
+        "Segmentation"
+      ],
+      "tags": [
+        "Healthcare",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Growth",
+        "Pricing",
+        "Demand"
+      ],
+      "description": "Job Title\n\nSenior Product Manager\n\nJob Description\n\nSenior Product Manager\n\nYou will play a pivotal marketing role at Diagnostic X-Ray (DXR) and drive creation of solutions (integrated combination of products and services) from idea to market. You will be accountable for defining, launching and building profitable product solutions that transform healthcare. You will work directly with the different functions within the organization and maintains a balanced development scope. This will not only ensure the products/solutions are developed to the feature and price specifications that each target market segment demands but also will deliver a profitable and performing product in all its aspects.\n\nThe Product Manager owns the product lifecycle from concept phase through development and launch and eventually, end of life. You are required to have expertise in market segmentation, product strategy, competitive strategy, and product development.\n\nYour role:",
+      "responsibilities": [
+        "Join corporate core teams to drive implementation (plan, execute, track, and communicate) of strategic marketing initiatives at DXR.",
+        "Own your product and its performance during its complete lifecycle from concept phase throughout development and launch, till end of life.",
+        "Support and drive upstream marketing activities for the solution, including definition of the strategy and its enablers as well as its alignment with key markets globally.",
+        "Translate in-depth customer and market insights to support the product strategy: analyze the customers, markets, the competition, and the trends to create winning concepts, value propositions and clear product specifications to ensure delivering according to the customer’s needs and expectations.",
+        "Drive the development of business cases to prioritize investments",
+        "Interact with various disciplines including Research, R&D departments, internal and external design agencies, suppliers, industrialization, marketing management, marketing communication and international sales organizations.",
+        "Be a key core team member in product development and lifecycle management teams.",
+        "Drive the market readiness as part of PDLM. Ensure completion of appropriate deliverables (feature descriptions, value propositions, costing/pricing/quoting materials, etc.)",
+        "Follow a lean way of working and a continuous improvement mindset within the product management team.",
+        "You are a part of",
+        "The Diagnostic X-ray product management team of Philips Healthcare and become part of the global marketing department. You will be based in Pune and report into the Head of Product Management and be working in an international network of various stakeholders based across the globe. The team operates in an open, ‘can-do’ atmosphere. The team is characterized by a “self-starting” mentality.",
+        "In the team we focus on translating the customer voice in medical products, solutions and services. We manage a wide Radiography and Fluoroscopy portfolio targeting the global health market contributing directly to the growth of the business."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Philips",
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Senior-Product-Manager_582154-1",
+      "postedAt": "2026-09-11",
+      "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-09-29",
       "status": "Active"
     },
