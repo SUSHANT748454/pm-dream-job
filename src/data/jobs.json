@@ -1,6 +1,70 @@
 {
-  "generatedAt": "2026-09-29T19:43:37.161Z",
+  "generatedAt": "2026-09-29T23:18:39.381Z",
   "jobs": [
+    {
+      "id": "job_e96ceb",
+      "slug": "post-trade-product-manager-aladdin-product-associate-blackrock-delhi-ncr-e96ceb",
+      "title": "Post Trade Product Manager, Aladdin Product, Associate",
+      "company": {
+        "id": "blackrock",
+        "name": "BlackRock",
+        "logo": null,
+        "domain": null
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 4,
+      "experienceMax": 6,
+      "domain": [
+        "Consumer",
+        "Healthcare"
+      ],
+      "skills": [
+        "Growth",
+        "B2B",
+        "B2C",
+        "Onboarding"
+      ],
+      "tags": [
+        "Consumer",
+        "Healthcare",
+        "Senior Product Manager",
+        "Onsite",
+        "Growth",
+        "B2B",
+        "B2C",
+        "Onboarding"
+      ],
+      "description": "About this role\n\nAbout this role\n\nBlackRock is the world's leading asset management firm and Aladdin is the central nervous system for investment professionals to see their whole portfolio, understand risk exposure, and act with precision. It is a $1BN+ technology business that has significant growth aspirations over the next five years. Being a part of BlackRock means being a part of a community of smart, results-oriented people who are pursuing some of the world's most sophisticated financial challenges. And our founder-led culture has maintained its results-oriented feel - we work hard, we work as a team, and we work with purpose.\n\nBeing a member of Aladdin Product means working with the best in the industry to build innovative products that shape financial markets.\n\nSitting at the intersection of business and technology, the Aladdin Product Management team works closely with developers, researchers, and other stakeholders to innovate, conceptualize, design and pilot new capabilities across the investment lifecycle.\n\nAs a Associate Product Manager, you will have a positive impact on developing the product vision and leading day to day execution of the roadmap.\n\nYou are:",
+      "responsibilities": [
+        "Passionate about building technical solutions in partnership with engineering teams",
+        "A self-starter who enjoys solving complex problems that deepen our understanding of end users",
+        "Curious to learn new skills and willing to embrace work outside of your comfort zone",
+        "Comfortable challenging the status quo and using your entrepreneurial spirit to create new solutions",
+        "A team player who is energized by working in a fast-paced environment",
+        "We are:",
+        "Passionate about building innovative solutions that meet the needs of our clients",
+        "Comfortable challenging the status quo",
+        "Curious about financial markets and the technology ecosystem",
+        "Results oriented & metrics driven",
+        "Committed to fostering a purpose driven culture and working horizontally to break down silos",
+        "Skills / Qualifications:"
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "The Muse",
+      "applyUrl": "https://www.themuse.com/jobs/blackrock/post-trade-product-manager-aladdin-product-associate",
+      "postedAt": "2026-09-29",
+      "firstSeenAt": "2026-09-29",
+      "lastSeenAt": "2026-09-29",
+      "status": "Active"
+    },
     {
       "id": "job_e76a6b",
       "slug": "product-management-payment-product-experience-5-8-yrs-paytm-delhi-ncr-e76a6b",
@@ -67103,6 +67167,19 @@
       "description": null,
       "locations": [
         "Bengaluru"
+      ]
+    },
+    {
+      "id": "blackrock",
+      "name": "BlackRock",
+      "logo": null,
+      "domain": null,
+      "website": null,
+      "industry": null,
+      "companySize": null,
+      "description": null,
+      "locations": [
+        "Delhi NCR"
       ]
     },
     {
