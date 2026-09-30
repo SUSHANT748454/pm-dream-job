@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T10:50:23.463Z",
+  "generatedAt": "2026-09-30T19:45:42.800Z",
   "jobs": [
     {
       "id": "job_9443ff",
@@ -58,6 +58,57 @@
       "salary": null,
       "source": "Workday · Mastercard",
       "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager---Technical---Data-Lake--Data-Warehouse_R-291933",
+      "postedAt": "2026-09-30",
+      "firstSeenAt": "2026-09-30",
+      "lastSeenAt": "2026-09-30",
+      "status": "Active"
+    },
+    {
+      "id": "job_c62332",
+      "slug": "sr-product-manager-11839-coupa-hyderabad-c62332",
+      "title": "Sr Product Manager - 11839",
+      "company": {
+        "id": "coupa",
+        "name": "Coupa",
+        "logo": null,
+        "domain": null
+      },
+      "location": {
+        "city": "Hyderabad",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "Logistics",
+        "AI"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "Platform",
+        "Data",
+        "Supply"
+      ],
+      "tags": [
+        "Logistics",
+        "AI",
+        "Senior Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "Platform",
+        "Data",
+        "Supply"
+      ],
+      "description": "Coupa makes margins multiply through its community-generated AI and industry-leading total spend management platform for businesses large and small. Coupa AI is informed by trillions of dollars of direct and indirect spend data across a global network of 10M+ buyers and suppliers. We empower you with the ability to predict, prescribe, and automate smarter, more profitable business decisions to improve operating margins.",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "The Muse",
+      "applyUrl": "https://www.themuse.com/jobs/coupa/sr-product-manager-11839",
       "postedAt": "2026-09-30",
       "firstSeenAt": "2026-09-30",
       "lastSeenAt": "2026-09-30",
@@ -20543,8 +20594,7 @@
       "experienceMin": 9,
       "experienceMax": null,
       "domain": [
-        "Fintech",
-        "Enterprise"
+        "Fintech"
       ],
       "skills": [
         "Data",
@@ -20554,7 +20604,6 @@
       ],
       "tags": [
         "Fintech",
-        "Enterprise",
         "Group Product Manager",
         "Onsite",
         "Data",
@@ -20562,7 +20611,7 @@
         "Payments",
         "Compliance"
       ],
-      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nManager, Product Development",
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle And Summary\n\nManager, Product Development",
       "responsibilities": [
         "EMV and Payment Technology",
         "Overview",
@@ -20575,13 +20624,13 @@
         "Lead and manage operations related to Mobile Payment Applications, Wallet UI, Wearables, and Back-End Server Approvals.",
         "Ensure full compliance with Mastercard testing, branding, approval processes, and operational rules.",
         "Oversee the execution of global approval processes and associated requirements for:",
-        "o Wallet UI and Wearables"
+        "Wallet UI and Wearables"
       ],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "Workday · Mastercard",
-      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Development---EMV-and-Payment-Technology_R-288503",
+      "source": "LinkedIn",
+      "applyUrl": "https://in.linkedin.com/jobs/view/manager-product-development-emv-and-payment-technology-at-mastercard-4467395040",
       "postedAt": "2026-09-21",
       "firstSeenAt": "2026-09-21",
       "lastSeenAt": "2026-09-30",
@@ -54197,6 +54246,71 @@
       "status": "Active"
     },
     {
+      "id": "job_e503ad",
+      "slug": "senior-product-manager-philips-bengaluru-e503ad",
+      "title": "Senior Product Manager",
+      "company": {
+        "id": "philips",
+        "name": "Philips",
+        "logo": null,
+        "domain": "philips.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": 10,
+      "domain": [
+        "Healthcare",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Growth",
+        "Pricing",
+        "Demand",
+        "Segmentation"
+      ],
+      "tags": [
+        "Healthcare",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Growth",
+        "Pricing",
+        "Demand"
+      ],
+      "description": "Job Title\n\nSenior Product Manager\n\nJob Description\n\nSenior Product Manager\n\nYou will play a pivotal marketing role at Diagnostic X-Ray (DXR) and drive creation of solutions (integrated combination of products and services) from idea to market. You will be accountable for defining, launching and building profitable product solutions that transform healthcare. You will work directly with the different functions within the organization and maintains a balanced development scope. This will not only ensure the products/solutions are developed to the feature and price specifications that each target market segment demands but also will deliver a profitable and performing product in all its aspects.\n\nThe Product Manager owns the product lifecycle from concept phase through development and launch and eventually, end of life. You are required to have expertise in market segmentation, product strategy, competitive strategy, and product development.\n\nYour role:",
+      "responsibilities": [
+        "Join corporate core teams to drive implementation (plan, execute, track, and communicate) of strategic marketing initiatives at DXR.",
+        "Own your product and its performance during its complete lifecycle from concept phase throughout development and launch, till end of life.",
+        "Support and drive upstream marketing activities for the solution, including definition of the strategy and its enablers as well as its alignment with key markets globally.",
+        "Translate in-depth customer and market insights to support the product strategy: analyze the customers, markets, the competition, and the trends to create winning concepts, value propositions and clear product specifications to ensure delivering according to the customer’s needs and expectations.",
+        "Drive the development of business cases to prioritize investments",
+        "Interact with various disciplines including Research, R&D departments, internal and external design agencies, suppliers, industrialization, marketing management, marketing communication and international sales organizations.",
+        "Be a key core team member in product development and lifecycle management teams.",
+        "Drive the market readiness as part of PDLM. Ensure completion of appropriate deliverables (feature descriptions, value propositions, costing/pricing/quoting materials, etc.)",
+        "Follow a lean way of working and a continuous improvement mindset within the product management team.",
+        "You are a part of",
+        "The Diagnostic X-ray product management team of Philips Healthcare and become part of the global marketing department. You will be based in Pune and report into the Head of Product Management and be working in an international network of various stakeholders based across the globe. The team operates in an open, ‘can-do’ atmosphere. The team is characterized by a “self-starting” mentality.",
+        "In the team we focus on translating the customer voice in medical products, solutions and services. We manage a wide Radiography and Fluoroscopy portfolio targeting the global health market contributing directly to the growth of the business."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Philips",
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Senior-Product-Manager_582154-1",
+      "postedAt": "2026-09-11",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-30",
+      "status": "Active"
+    },
+    {
       "id": "job_578432",
       "slug": "senior-product-manager-nanonets-bengaluru-578432",
       "title": "Senior Product Manager",
@@ -54305,71 +54419,6 @@
       "firstSeenAt": "2026-09-17",
       "lastSeenAt": "2026-09-30",
       "status": "Active"
-    },
-    {
-      "id": "job_e503ad",
-      "slug": "senior-product-manager-philips-bengaluru-e503ad",
-      "title": "Senior Product Manager",
-      "company": {
-        "id": "philips",
-        "name": "Philips",
-        "logo": null,
-        "domain": "philips.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 5,
-      "experienceMax": 10,
-      "domain": [
-        "Healthcare",
-        "Enterprise"
-      ],
-      "skills": [
-        "Product Strategy",
-        "Growth",
-        "Pricing",
-        "Demand",
-        "Segmentation"
-      ],
-      "tags": [
-        "Healthcare",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Product Strategy",
-        "Growth",
-        "Pricing",
-        "Demand"
-      ],
-      "description": "Job Title\n\nSenior Product Manager\n\nJob Description\n\nSenior Product Manager\n\nYou will play a pivotal marketing role at Diagnostic X-Ray (DXR) and drive creation of solutions (integrated combination of products and services) from idea to market. You will be accountable for defining, launching and building profitable product solutions that transform healthcare. You will work directly with the different functions within the organization and maintains a balanced development scope. This will not only ensure the products/solutions are developed to the feature and price specifications that each target market segment demands but also will deliver a profitable and performing product in all its aspects.\n\nThe Product Manager owns the product lifecycle from concept phase through development and launch and eventually, end of life. You are required to have expertise in market segmentation, product strategy, competitive strategy, and product development.\n\nYour role:",
-      "responsibilities": [
-        "Join corporate core teams to drive implementation (plan, execute, track, and communicate) of strategic marketing initiatives at DXR.",
-        "Own your product and its performance during its complete lifecycle from concept phase throughout development and launch, till end of life.",
-        "Support and drive upstream marketing activities for the solution, including definition of the strategy and its enablers as well as its alignment with key markets globally.",
-        "Translate in-depth customer and market insights to support the product strategy: analyze the customers, markets, the competition, and the trends to create winning concepts, value propositions and clear product specifications to ensure delivering according to the customer’s needs and expectations.",
-        "Drive the development of business cases to prioritize investments",
-        "Interact with various disciplines including Research, R&D departments, internal and external design agencies, suppliers, industrialization, marketing management, marketing communication and international sales organizations.",
-        "Be a key core team member in product development and lifecycle management teams.",
-        "Drive the market readiness as part of PDLM. Ensure completion of appropriate deliverables (feature descriptions, value propositions, costing/pricing/quoting materials, etc.)",
-        "Follow a lean way of working and a continuous improvement mindset within the product management team.",
-        "You are a part of",
-        "The Diagnostic X-ray product management team of Philips Healthcare and become part of the global marketing department. You will be based in Pune and report into the Head of Product Management and be working in an international network of various stakeholders based across the globe. The team operates in an open, ‘can-do’ atmosphere. The team is characterized by a “self-starting” mentality.",
-        "In the team we focus on translating the customer voice in medical products, solutions and services. We manage a wide Radiography and Fluoroscopy portfolio targeting the global health market contributing directly to the growth of the business."
-      ],
-      "requirements": [],
-      "preferred": [],
-      "salary": null,
-      "source": "Workday · Philips",
-      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Senior-Product-Manager_582154-1",
-      "postedAt": "2026-09-11",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-29",
-      "status": "Expired"
     },
     {
       "id": "job_e3be01",
@@ -57908,6 +57957,52 @@
       "status": "Active"
     },
     {
+      "id": "job_204311",
+      "slug": "lead-product-manager-technical-mastercard-pune-204311",
+      "title": "Lead Product Manager- Technical",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Pune",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [],
+      "skills": [
+        "Growth",
+        "API",
+        "Agile",
+        "Scrum"
+      ],
+      "tags": [
+        "Lead Product Manager",
+        "Onsite",
+        "Growth",
+        "API",
+        "Agile",
+        "Scrum"
+      ],
+      "description": "Can deliver high quality technology products / services in a high growth environment where priorities shift rapidly\n\nComprehensive experience in agile delivery methodologies (scrum,Kanban,etc) and CI / CD\n\nDemonstrated experience building relationships,partnering with and influencing executive leadership while commanding the respect of the individual engineers across the organization",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Naukri",
+      "applyUrl": "https://www.naukri.com/job-listings-lead-product-manager-technical-mastercard-pune-9-to-13-years-250926502933",
+      "postedAt": "2026-09-08",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-09-30",
+      "status": "Active"
+    },
+    {
       "id": "job_29f119",
       "slug": "principal-product-manager-sumo-logic-delhi-ncr-29f119",
       "title": "Principal Product Manager",
@@ -58199,70 +58294,6 @@
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
       "lastSeenAt": "2026-09-24",
       "status": "Expired"
-    },
-    {
-      "id": "job_204311",
-      "slug": "senior-product-manager-technical-mastercard-pune-204311",
-      "title": "Senior Product Manager - Technical",
-      "company": {
-        "id": "mastercard",
-        "name": "Mastercard",
-        "logo": null,
-        "domain": "mastercard.com"
-      },
-      "location": {
-        "city": "Pune",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": null,
-      "experienceMax": null,
-      "domain": [
-        "Fintech",
-        "Enterprise"
-      ],
-      "skills": [
-        "Platform",
-        "Data",
-        "Payments",
-        "Agile"
-      ],
-      "tags": [
-        "Fintech",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Platform",
-        "Data",
-        "Payments",
-        "Agile"
-      ],
-      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nSenior Product Manager",
-      "responsibilities": [
-        "Technical",
-        "Who is Mastercard?",
-        "We work to connect and power an inclusive, digital economy that benefits everyone, everywhere, by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships, and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. We cultivate a culture of inclusion for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team – one that makes better decisions, drives innovation, and delivers better business results.",
-        "Technology at Mastercard",
-        "What we create today will define tomorrow. Revolutionary technologies that reshape the digital economy to be more connected and inclusive than ever before. Safer, faster, more sustainable.",
-        "And we need the best people to do it. Technologists who are energized by the challenges of a truly global network. With the talent and vision to create the critical systems and products that power global commerce and connect people everywhere to the vital goods and services they need every day.",
-        "Working at Mastercard means being part of a unique culture. Inclusive and diverse, a rich collaboration of ideas and perspectives. A place that celebrates your strengths, values your experiences, and offers you the flexibility to shape a career across disciplines and continents. And the opportunity to work alongside experts and leaders at every level of the business, improving what exists, and inventing what’s next.",
-        "Payment Enablement Program's Switching Security Product is responsible for performing Card holder Authentication (PIN related operations) and Card Verification (Cryptogram validation) for the payment Authorization as part of the payment life cycle.",
-        "Role & Responsibilities",
-        "All staff at Mastercard are expected to demonstrate 'Mastercard Way' cultural values every day - own it, simplify it, sense of urgency, thoughtful risk-taking, unlock potential, and be inclusive – with a relentless focus on our customers. As a Senior Product Manager",
-        "Technical at Mastercard, you are expected to perform the following general responsibilities:",
-        "Owns the working backwards document and vision for one or more features"
-      ],
-      "requirements": [],
-      "preferred": [],
-      "salary": null,
-      "source": "Workday · Mastercard",
-      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Product-Manager---Technical_R-291719",
-      "postedAt": "2026-09-08",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-09-30",
-      "status": "Active"
     },
     {
       "id": "job_bddb01",
@@ -60703,6 +60734,59 @@
       "firstSeenAt": "2026-09-19",
       "lastSeenAt": "2026-09-21",
       "status": "Expired"
+    },
+    {
+      "id": "job_ababb8",
+      "slug": "product-manager-ii-user-discovery-meesho-bengaluru-ababb8",
+      "title": "Product Manager II - User Discovery",
+      "company": {
+        "id": "meesho",
+        "name": "Meesho",
+        "logo": null,
+        "domain": "meesho.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Ecommerce",
+        "Consumer"
+      ],
+      "skills": [
+        "Experimentation",
+        "Analytics",
+        "User Research",
+        "Go-to-Market",
+        "Growth",
+        "Stakeholder Management"
+      ],
+      "tags": [
+        "Ecommerce",
+        "Consumer",
+        "Product Manager",
+        "Onsite",
+        "Experimentation",
+        "Analytics",
+        "User Research",
+        "Go-to-Market"
+      ],
+      "description": "About the Team    Product Management in Meesho closely resembles our rocketship growth. Because we obsess over understanding customer behaviour, we’ve been able to carve out an e-commerce niche in Tier 2/3/4 towns in Bharat. Our business growth is testimony to a singular focus on how we think of ‘product’ for our unique customers",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Meesho",
+      "applyUrl": "https://jobs.lever.co/meesho/5dca8c71-9993-438f-ad51-da3c7f4be692",
+      "postedAt": "2026-08-18",
+      "firstSeenAt": "2026-09-30",
+      "lastSeenAt": "2026-09-30",
+      "status": "Active"
     },
     {
       "id": "job_0898bc",
@@ -65788,9 +65872,9 @@
         "API",
         "Platform",
         "Data",
+        "Onboarding",
         "Demand",
-        "Stakeholder Management",
-        "Agile"
+        "Stakeholder Management"
       ],
       "tags": [
         "AI",
@@ -65802,7 +65886,7 @@
         "User Research",
         "Go-to-Market"
       ],
-      "description": "ABOUT EMA Ema is building the world’s leading Agentic AI platform to transform enterprise productivity. We enable organizations to delegate repetitive tasks to Ema, the Universal AI Employee, delivering 10x gains in workforce efficiency, across functions. Founded by former executives from Google, Coinbase, Flipkart, and Okta, our team includes engineers from premier tech companies and graduates of Stanford, MIT, UC Berkeley, CMU, and IITs. We are backed by industry leading investors including Accel, Naspers/Prosus, Section32, and angels like Sheryl Sandberg and Dustin Moskovitz. Headquartered",
+      "description": "ABOUT EMA Ema builds AI Employees for HR, IT and Finance. Our AI Employees take on the busy work across the employee experience, from recruiting, onboarding and benefits to IT support, invoice processing and payroll, so people can spend their time on work that needs them. Founded by former executives from Google, Coinbase, Flipkart, and Okta, our team includes engineers from premier tech companies and graduates of Stanford, MIT, UC Berkeley, CMU, and IITs. We are backed by industry leading investors including Accel, Naspers/Prosus, Creaegis, Section32, and angels like Sheryl Sandberg and",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -67733,6 +67817,19 @@
       "description": null,
       "locations": [
         "Bengaluru"
+      ]
+    },
+    {
+      "id": "coupa",
+      "name": "Coupa",
+      "logo": null,
+      "domain": null,
+      "website": null,
+      "industry": null,
+      "companySize": null,
+      "description": null,
+      "locations": [
+        "Hyderabad"
       ]
     },
     {
