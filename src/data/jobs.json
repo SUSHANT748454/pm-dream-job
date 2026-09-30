@@ -1,6 +1,68 @@
 {
-  "generatedAt": "2026-09-30T03:16:24.543Z",
+  "generatedAt": "2026-09-30T10:50:23.463Z",
   "jobs": [
+    {
+      "id": "job_9443ff",
+      "slug": "lead-product-manager-technical-data-lake-data-warehouse-mastercard-pune-9443ff",
+      "title": "Lead Product Manager - Technical - Data Lake/ Data Warehouse",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Pune",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "SQL",
+        "Data",
+        "Payments"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "Lead Product Manager",
+        "Onsite",
+        "SQL",
+        "Data",
+        "Payments"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nLead Product Manager",
+      "responsibilities": [
+        "Technical",
+        "Data Lake/ Data Warehouse",
+        "Who is Mastercard?",
+        "Mastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.",
+        "Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.",
+        "Overview",
+        "The Data Collection and Engineering Program is looking for a Lead Product Manager Technical to drive data warehouse implementation in the UAE region and support other applications. The ideal candidate is passionate about the data, data warehouse, highly motivated, intellectually curious, analytical, and possesses an entrepreneurial mindset.",
+        "Role",
+        "Owns the working backwards document and vision for feature releases",
+        "Develop system technical requirements with the aid of the technical team. Perform system reviews with users.",
+        "Accountable for creating source-to-target mapping documents while working with upstream and downstream SMEs. Document the flow of data from source systems to target systems. Ensure development and test teams have all the required information to accurately capture and transformed from source systems data to target systems",
+        "Participate in and drive user acceptance testing (UAT) to ensure that the product meets the needs of users."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager---Technical---Data-Lake--Data-Warehouse_R-291933",
+      "postedAt": "2026-09-30",
+      "firstSeenAt": "2026-09-30",
+      "lastSeenAt": "2026-09-30",
+      "status": "Active"
+    },
     {
       "id": "job_dee5fc",
       "slug": "sr-product-manager-task-intelligence-and-agentic-automation-target-bengaluru-dee5fc",
@@ -8711,8 +8773,8 @@
       "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Product-Manager---Commerce-Platform--Hyderabad-_JR321301",
       "postedAt": "2026-09-24",
       "firstSeenAt": "2026-09-24",
-      "lastSeenAt": "2026-09-24",
-      "status": "Expired"
+      "lastSeenAt": "2026-09-30",
+      "status": "Active"
     },
     {
       "id": "job_9bad49",
@@ -15286,85 +15348,6 @@
       "status": "Active"
     },
     {
-      "id": "job_71fa12",
-      "slug": "senior-specialist-product-management-mastercard-pune-71fa12",
-      "title": "Senior Specialist, Product Management",
-      "company": {
-        "id": "mastercard",
-        "name": "Mastercard",
-        "logo": null,
-        "domain": "mastercard.com"
-      },
-      "location": {
-        "city": "Pune",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Product Manager",
-      "experienceMin": null,
-      "experienceMax": null,
-      "domain": [
-        "Fintech",
-        "Consumer"
-      ],
-      "skills": [
-        "SQL",
-        "Analytics",
-        "Go-to-Market",
-        "Growth",
-        "Pricing",
-        "API",
-        "Data",
-        "Mobile",
-        "iOS",
-        "Android"
-      ],
-      "tags": [
-        "Fintech",
-        "Consumer",
-        "Product Manager",
-        "Onsite",
-        "SQL",
-        "Analytics",
-        "Go-to-Market",
-        "Growth"
-      ],
-      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle And Summary\n\nSenior Specialist, Product Management\n\nMastercard\n\nMastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.\n\nCommercial Solutions\n\nAt Mastercard Commercial Solutions, we empower businesses to succeed through innovative, trusted payment solutions that deliver a seamless,\n\ndigital-first experience around the world.",
-      "responsibilities": [
-        "Business owner, driving commercial and customer outcomes through short- and long-term strategic Initiatives focused on scaling new and existing products",
-        "Navigates products through their lifecycle guided by the Studio framework:",
-        "Payments strategy: Identify strategic product “plays” and E2E approach to capture growth",
-        "Market Understanding: Develop deep understanding of customers, payments ecosystems, competitors, regulatory environments",
-        "Pricing and commercialization: Develop strategy to maximize sustainable revenue growth providing forecasts to enable planning",
-        "GTM approach: Deep understanding of customer and ecosystem needs focused on value exchange and product readiness",
-        "Serve as a product subject matter expert and collaborate with product operations and external clients to deliver innovative solutions",
-        "Perform go-to-market activities by closely partnering with program management, global and regional leadership, finance, operations, legal, compliance, etc.",
-        "Partner with Engineering colleagues to create robust roadmaps that include all of the work required to bring a product to market focused on (i.e., commercialization and pricing plan; product readiness; delivery model; servicing model; sales enablement)",
-        "Embody the “Mastercard Way” through creating value, growing together and moving fast",
-        "Produce product documentation including user guides, product overviews and training materials",
-        "Operates with minimal supervision and able to make informed, well-reasoned decisions independently"
-      ],
-      "requirements": [],
-      "preferred": [
-        "Experience working within the commercial card space or corporate banking",
-        "Experience with one, or more, of the categories:",
-        "Expense Reporting software",
-        "B2B or B2C web applictions",
-        "Application localization",
-        "iOS and Android native mobile applications",
-        "Business Intelligence solutions",
-        "Ability to identify points of failure and formulate error-handling approaches for product resiliency"
-      ],
-      "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/senior-specialist-product-management-at-mastercard-4440194238",
-      "postedAt": "2026-09-23",
-      "firstSeenAt": "2026-09-23",
-      "lastSeenAt": "2026-09-30",
-      "status": "Active"
-    },
-    {
       "id": "job_1f5bcc",
       "slug": "sr-principal-product-manager-sharda-tech-delhi-ncr-1f5bcc",
       "title": "Sr / Principal Product Manager",
@@ -15647,6 +15630,90 @@
       "applyUrl": "https://www.naukri.com/job-listings-sr-principal-product-manager-providence-global-center-hyderabad-10-to-15-years-250926502023",
       "postedAt": "2026-09-23",
       "firstSeenAt": "2026-09-25",
+      "lastSeenAt": "2026-09-30",
+      "status": "Active"
+    },
+    {
+      "id": "job_71fa12",
+      "slug": "sr-specialist-product-management-mastercard-pune-71fa12",
+      "title": "Sr. Specialist, Product Management",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Pune",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Enterprise",
+        "SaaS"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Analytics",
+        "Go-to-Market",
+        "API",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "iOS",
+        "Payments",
+        "Fraud"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "SaaS",
+        "Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Analytics",
+        "Go-to-Market"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nSr. Specialist, Product Management\n\nWho is Mastercard?\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. We support a wide range of digital payment choices, making transactions secure, simple, smart, and accessible. Our technology, innovation, partnerships, and networks combine to deliver products and services that help individuals, businesses, and governments realize their greatest potential.\n\nOverview\n\nThe Disputes Solutions team is looking for a Senior Specialist, Product Owner to help shape and deliver Mastercard's next-generation disputes platform. This individual will play a critical role in defining product requirements, driving feature development, and ensuring the platform can successfully support both global capabilities and regional market needs across Mastercard's worldwide network.\n\nBased in Pune, this role will be embedded within a cross-functional product and engineering organization, partnering",
+      "responsibilities": [
+        "Own requirements and roadmap execution for key areas of Mastercard's next-generation disputes platform.",
+        "Partner with global and regional stakeholders to gather, analyze, prioritize, and document customer, operational, regulatory, and business requirements.",
+        "Help define platform capabilities that balance global standardization with the flexibility needed to support localized market requirements.",
+        "Translate business needs into clearly defined epics, features, user stories, acceptance criteria, and measurable outcomes.",
+        "Serve as Product Owner for an agile development pod, maintaining and prioritizing the product backlog to maximize customer and business value.",
+        "Collaborate closely with Engineering and Architecture teams to ensure solutions align with platform strategy, extensibility, scalability, and regional deployment needs.",
+        "Partner with Product Management leadership to support the evolution of a globally consistent disputes platform while enabling regional market customization where appropriate.",
+        "Help drive adoption of AI-powered capabilities by identifying opportunities to improve operational efficiency, automate workflows, enhance decision-making, and improve customer experiences.",
+        "Work with Data Science, Analytics, and Engineering teams to define intelligent automation, case management, and decision-support capabilities.",
+        "Facilitate discovery workshops and stakeholder engagement sessions to uncover emerging market requirements and platform enhancement opportunities.",
+        "Leverage customer feedback, operational analytics, market insights, and regional input to inform prioritization and roadmap decisions.",
+        "Support release planning, testing, go-to-market readiness, and implementation activities across global and regional deployments."
+      ],
+      "requirements": [
+        "Be passionate about building products that solve meaningful customer and business problems.",
+        "Demonstrate strong product ownership and backlog management capabilities.",
+        "Have experience translating complex business requirements into scalable product solutions.",
+        "Possess strong stakeholder management skills and the ability to collaborate across global and regional teams.",
+        "Be comfortable working with stakeholders across multiple geographies, time zones, and business functions.",
+        "Have excellent communication skills and the ability to engage both technical and non-technical audiences.",
+        "Demonstrate strong analytical and problem-solving capabilities using both qualitative and quantitative insights.",
+        "Be capable of balancing global platform objectives with local market needs and customer requirements.",
+        "Have experience working in agile product development environments.",
+        "Be comfortable navigating ambiguity and driving clarity in rapidly evolving environments.",
+        "Demonstrate curiosity and enthusiasm for leveraging AI and emerging technologies to improve customer experiences and operational outcomes.",
+        "Experience building enterprise SaaS, platform, fintech, banking, or payments products."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Sr-Specialist--Product-Management_R-288316",
+      "postedAt": "2026-09-23",
+      "firstSeenAt": "2026-09-23",
       "lastSeenAt": "2026-09-30",
       "status": "Active"
     },
@@ -72741,6 +72808,7 @@
       "companySize": "5000+",
       "description": "Salesforce is a saas company hiring product managers in India.",
       "locations": [
+        "Bengaluru",
         "Hyderabad"
       ]
     },
