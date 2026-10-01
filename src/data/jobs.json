@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T07:21:35.956Z",
+  "generatedAt": "2026-10-01T11:17:06.208Z",
   "jobs": [
     {
       "id": "job_04ccfc",
@@ -1422,6 +1422,64 @@
       "salary": null,
       "source": "Naukri",
       "applyUrl": "https://www.naukri.com/job-listings-principal-product-manager-ethos-life-technologies-bengaluru-10-to-15-years-300926503174",
+      "postedAt": "2026-09-30",
+      "firstSeenAt": "2026-10-01",
+      "lastSeenAt": "2026-10-01",
+      "status": "Active"
+    },
+    {
+      "id": "job_cf8fbc",
+      "slug": "product-management-associate-product-manager-travel-paytm-delhi-ncr-cf8fbc",
+      "title": "Product Management - Associate Product Manager - Travel.",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "APM",
+      "experienceMin": 3,
+      "experienceMax": 5,
+      "domain": [
+        "Fintech",
+        "Consumer",
+        "Ecommerce"
+      ],
+      "skills": [
+        "Experimentation",
+        "Analytics",
+        "User Research",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Mobile",
+        "iOS",
+        "Android"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Ecommerce",
+        "APM",
+        "Onsite",
+        "Experimentation",
+        "Analytics",
+        "User Research"
+      ],
+      "description": "About Us: Paytm is India’s leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Our mission is to serve half a billion Indians and bring them into the mainstream economy with the help of technology. About the Role: We are looking for early-career Product Managers who are ready to take independent ownership of a product pod or charter. The role involves understanding customer problems, defining product priorities, collaborating with Design and",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/cf1076c8-e8be-4fc4-8112-aa55051de742",
       "postedAt": "2026-09-30",
       "firstSeenAt": "2026-10-01",
       "lastSeenAt": "2026-10-01",
@@ -54725,6 +54783,75 @@
       "status": "Active"
     },
     {
+      "id": "job_f32237",
+      "slug": "lead-product-manager-technical-mastercard-india-f32237",
+      "title": "Lead Product Manager Technical",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "India",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 5,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Analytics",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Payments",
+        "Onboarding",
+        "Agile",
+        "Scrum"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "Lead Product Manager",
+        "Onsite",
+        "Analytics",
+        "Growth",
+        "API",
+        "Platform"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nLead Product Manager Technical\n\nOverview:\n\nThe Mastercard Franchise and Legal Solutions (FLS) program is a suite of services which maintains and enhances the foundation of the franchise by understanding evolving business needs. It provides customer focus lifecycle management, and the discipline for scaled growth for partners, while ensuring ease of business with Mastercard and business optimization through world-class training, analytics, and risk management. The program resolves customer disputes and security related events, through data driven insights and investigative intelligence, promoting balance, integrity and security across Mastercard’s multi rail ecosystem.\n\nWe are looking for a high-energy, detail-oriented and customer obsessed Lead Product Manager Technical to join team that will be tasked to build Mastercard customers onboarding platform.\n\nResponsible for the analysis, design, development, and delivery of software solutions\n\nDefines",
+      "responsibilities": [
+        "Be customer obsessed: Develop & provide the organization with a deep appreciation for customer needs, the ecosystem, and the key market dynamics.",
+        "Set the vision: Lead multiple teams in adoption of lean product management practices: Define, establish, and continually refine a domain product vision & objectives, establish a product charter, and create and maintain a domain roadmap.",
+        "Define requirements: Translate product requirements into clearly defined epics, features, and stories with clear & measurable outcomes, ensuring mutual understanding.",
+        "Manage strategic alignment across teams: Working with product owners with each scrum team, ensure backlogs are properly prioritized and refined according to anticipated business value & measurable outcomes.",
+        "Agile Mindset: Advocate for taking an agile approach to product development through all activities from defining an epic to writing acceptance criteria on a user story.",
+        "Lead the design and build of the product with engineering: Work closely- as one agile team- across a product domain.",
+        "Work across cross functional teams: Work with cross functional teams to plan work, understand dependencies, and minimize time to market and errors.",
+        "Oversee delivery and testing of product features (e.g., serving and enabling scrum teams)",
+        "Manage the operation: Own the overall health and “run” of your domain. Escalate critical operational issues to Real Time Payments management teams and discuss resolutions to ensure operational stability with the concerned delivery teams.",
+        "Measure outcomes & seek continuous improvements: Evaluate & seek to improve existing practices, metrics, and roles to continually optimize. Own and deliver on post-launch reviews and customer feedback and incorporate this information into the future launch plans.",
+        "All About You:",
+        "5+ years of product management or new product development and experience shipping high-quality products in the payments industry. Understands and can explain the business context and the associated customer use cases."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vadodara-India/Lead-Product-Manager-Technical_R-290625-2",
+      "postedAt": "2026-09-16",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-10-01",
+      "status": "Active"
+    },
+    {
       "id": "job_682fe8",
       "slug": "lead-product-owner-delta-technology-hub-bengaluru-682fe8",
       "title": "Lead Product Owner",
@@ -57855,72 +57982,6 @@
       "salary": null,
       "source": "Naukri",
       "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-financial-consolidations-blackline-bengaluru-6-to-10-years-160926502153",
-      "postedAt": "2026-09-16",
-      "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-10-01",
-      "status": "Active"
-    },
-    {
-      "id": "job_f32237",
-      "slug": "senior-product-manager-technical-mastercard-india-f32237",
-      "title": "Senior Product Manager - Technical",
-      "company": {
-        "id": "mastercard",
-        "name": "Mastercard",
-        "logo": null,
-        "domain": "mstr.cd"
-      },
-      "location": {
-        "city": "India",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": null,
-      "experienceMax": null,
-      "domain": [
-        "Fintech",
-        "Logistics"
-      ],
-      "skills": [
-        "SQL",
-        "Analytics",
-        "Platform",
-        "Data",
-        "Payments",
-        "Onboarding"
-      ],
-      "tags": [
-        "Fintech",
-        "Logistics",
-        "Senior Product Manager",
-        "Onsite",
-        "SQL",
-        "Analytics",
-        "Platform",
-        "Data"
-      ],
-      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nSenior Product Manager",
-      "responsibilities": [
-        "Technical",
-        "Overview:",
-        "We are seeking a talented and motivated Senior Product Manager",
-        "Technical to join our data engineering team. In this role, you will play a critical part in designing, developing, and optimizing data pipelines and solutions that enable efficient data processing and analysis. As a Senior Product Manager",
-        "Technical, you will collaborate with cross-functional teams to drive data-driven decision-making and contribute to the continuous improvement of our data infrastructure.",
-        "As a Senior PMT, you will:",
-        "Responsible for developing inspiring platform/product visions, derived from business needs, market opportunities, and technology trends",
-        "Using the Working Backwards method, decomposes business requirements and customer experiences into features and functions that drive the platform/product roadmap",
-        "Works with Technical Program Managers, Developers, and internal customers to define the details behind the business requirements",
-        "Collects and shares user stories with engineering teams",
-        "Acts as the voice of the business customer and accountable for the platform services",
-        "Collaborate with technical team and business stakeholders to understand data requirements and translate them into technical solutions"
-      ],
-      "requirements": [],
-      "preferred": [],
-      "salary": null,
-      "source": "Indeed",
-      "applyUrl": "https://click.appcast.io/t/OMQ877_YKplWj5RlJOLqpzEWAP5aZdGculgfR-SFERc=",
       "postedAt": "2026-09-16",
       "firstSeenAt": "2026-09-17",
       "lastSeenAt": "2026-10-01",
@@ -72612,83 +72673,6 @@
       "status": "Active"
     },
     {
-      "id": "job_a4f741",
-      "slug": "senior-product-manager-sap-fico-zoominfo-chennai-a4f741",
-      "title": "Senior Product Manager - SAP FICO",
-      "company": {
-        "id": "zoominfo",
-        "name": "ZoomInfo",
-        "logo": null,
-        "domain": "zoominfo.com"
-      },
-      "location": {
-        "city": "Chennai",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 10,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Fintech",
-        "Enterprise"
-      ],
-      "skills": [
-        "Go-to-Market",
-        "API",
-        "Platform",
-        "Data",
-        "Agile"
-      ],
-      "tags": [
-        "SaaS",
-        "Fintech",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Go-to-Market",
-        "API",
-        "Platform"
-      ],
-      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
-      "responsibilities": [
-        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
-        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
-        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
-        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
-        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
-        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
-        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
-        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
-        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
-        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
-      ],
-      "requirements": [
-        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
-        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
-        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
-        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
-        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
-        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
-        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
-        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
-        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
-        "SAP Certification in Finance or a related SAP discipline.",
-        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
-        "Experience in high-tech, SaaS, software, or Finance transformation programs."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · ZoomInfo",
-      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8733078002",
-      "postedAt": "2026-09-05",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-10-01",
-      "status": "Active"
-    },
-    {
       "id": "job_aeae06",
       "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
       "title": "Senior Product Manager - SAP FICO",
@@ -72760,6 +72744,83 @@
       "salary": null,
       "source": "Greenhouse · ZoomInfo",
       "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
+      "postedAt": "2026-09-05",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-10-01",
+      "status": "Active"
+    },
+    {
+      "id": "job_a4f741",
+      "slug": "senior-product-manager-sap-fico-zoominfo-chennai-a4f741",
+      "title": "Senior Product Manager - SAP FICO",
+      "company": {
+        "id": "zoominfo",
+        "name": "ZoomInfo",
+        "logo": null,
+        "domain": "zoominfo.com"
+      },
+      "location": {
+        "city": "Chennai",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "API",
+        "Platform",
+        "Data",
+        "Agile"
+      ],
+      "tags": [
+        "SaaS",
+        "Fintech",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "API",
+        "Platform"
+      ],
+      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
+      "responsibilities": [
+        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
+        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
+        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
+        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
+        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
+        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
+        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
+        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
+        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
+        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
+      ],
+      "requirements": [
+        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
+        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
+        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
+        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
+        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
+        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
+        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
+        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
+        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
+        "SAP Certification in Finance or a related SAP discipline.",
+        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
+        "Experience in high-tech, SaaS, software, or Finance transformation programs."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · ZoomInfo",
+      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8733078002",
       "postedAt": "2026-09-05",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-10-01",
@@ -89391,8 +89452,8 @@
       "companySize": "1000-5000",
       "description": "ZoomInfo is a saas company hiring product managers in India.",
       "locations": [
-        "Chennai",
-        "Bengaluru"
+        "Bengaluru",
+        "Chennai"
       ]
     },
     {
