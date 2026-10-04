@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T07:06:00.367Z",
+  "generatedAt": "2026-10-04T22:38:40.803Z",
   "jobs": [
     {
       "id": "job_b2d3d8",
@@ -6131,8 +6131,7 @@
       "experienceMin": 8,
       "experienceMax": null,
       "domain": [
-        "Fintech",
-        "Enterprise"
+        "Fintech"
       ],
       "skills": [
         "SQL",
@@ -6141,18 +6140,17 @@
       ],
       "tags": [
         "Fintech",
-        "Enterprise",
         "Lead Product Manager",
         "Onsite",
         "SQL",
         "Data",
         "Payments"
       ],
-      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nLead Product Manager",
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nLead Product Manager",
       "responsibilities": [
         "Technical",
         "Data Lake/ Data Warehouse",
-        "Who is Mastercard?",
+        "Who is Mastercard",
         "Mastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.",
         "Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.",
         "Overview",
@@ -6166,8 +6164,8 @@
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "Workday · Mastercard",
-      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager---Technical---Data-Lake--Data-Warehouse_R-291933",
+      "source": "Naukri",
+      "applyUrl": "https://www.naukri.com/job-listings-lead-product-manager-technical-data-lake-data-warehouse-mastercard-pune-8-to-13-years-011026502163",
       "postedAt": "2026-09-30",
       "firstSeenAt": "2026-09-30",
       "lastSeenAt": "2026-10-04",
