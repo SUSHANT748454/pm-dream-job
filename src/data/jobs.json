@@ -1,6 +1,136 @@
 {
-  "generatedAt": "2026-10-06T04:06:08.323Z",
+  "generatedAt": "2026-10-06T11:37:37.508Z",
   "jobs": [
+    {
+      "id": "job_76c06e",
+      "slug": "consumer-credit-analytics-global-product-manager-specialist-mastercard-delhi-ncr-76c06e",
+      "title": "Consumer Credit Analytics – Global Product Manager - Specialist",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Analytics",
+        "Go-to-Market",
+        "Data",
+        "Payments"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "Product Manager",
+        "Onsite",
+        "Analytics",
+        "Go-to-Market",
+        "Data",
+        "Payments"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nConsumer Credit Analytics – Global Product Manager",
+      "responsibilities": [
+        "Specialist",
+        "Overview",
+        "The Advanced Analytics group within Business & Market Insights drives Enterprise & Credit Risk solutions that are globally scalable and provide value to the various parts of the credit lifecycle value chain.",
+        "Developing relevant solutions that solve our customer’s Enterprise & Credit Risk problems while leveraging Mastercard assets is a key differentiator to grow revenue for our retail and commercial clients. To this end, developing and managing a suite of product solutions through internal and external partnerships, creative constructs, solid frameworks, and executable roadmaps are crucial drivers for commercialization and business impact. Have you ever used your MA card and it was declined for an unknown reason? We are working to improve that customer experience on a global scale.",
+        "As part of this role, you will work closely w/ Global & Regional product teams to ensure a seamless go-to-market",
+        "Role:",
+        "Collaborate and partner closely with the Consumer Credit Analytics team to support global product development and GTM efforts.",
+        "Leverage Mastercard data to quickly identify product performance challenges, creating proactive plans to drive usage and revenues. Use data-driven insights to ensure our customer are receiving the value from our services.",
+        "Demonstrate a commitment to continuous learning by leveraging the learning & development curriculum to augment existing knowledge, skills and experiences",
+        "Leverage the Mastercard product management framework to manage the delivery of ongoing innovation and enhancements to focus Products",
+        "All about you:",
+        "Exhibit ownership, agility, and a strong entrepreneurial mindset, taking initiative and driving results in a fast-paced, evolving market."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Consumer-Credit-Analytics---Global-Product-Manager---Specialist_R-280794-1",
+      "postedAt": "2026-10-06",
+      "firstSeenAt": "2026-10-06",
+      "lastSeenAt": "2026-10-06",
+      "status": "Active"
+    },
+    {
+      "id": "job_0a2c65",
+      "slug": "lead-product-manager-mastercard-delhi-ncr-0a2c65",
+      "title": "Lead Product Manager",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Growth",
+        "API",
+        "Data",
+        "Payments",
+        "Compliance"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "Lead Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Growth",
+        "API",
+        "Data"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nLead Product Manager\n\nOverview:\n\nMastercard's Operational Intelligence team is building the next generation of data products, and AI solutions that help customers access and use operational insights in new ways. As part of this effort, the team is developing innovative products that deliver data through APIs and conversational experiences, creating alternatives to traditional reporting solutions.\n\nRole:",
+      "responsibilities": [
+        "Partner with business stakeholders to identify opportunities, define product vision, business requirements, and strategic priorities, translating them into actionable project and delivery plans.",
+        "Drive product and business strategy by evaluating customer needs, operational challenges, market trends, and business objectives to recommend new capabilities, processes, and solutions.",
+        "Ensure methodology compliance and manage resolutions, reporting to management when necessary.",
+        "Ensure timely and accurate communication with project staff and stakeholders throughout the lifecycle of initiatives. Monitor and manage project budgets, timelines, dependencies, and resource requirements.",
+        "Must be familiar with business objectives, product goals, project scope, and team responsibilities in order to effectively coordinate activities across cross-functional teams.",
+        "Identify and monitor project, product, and business risks, proactively developing mitigation plans to ensure successful outcomes.",
+        "Regularly communicate strategic recommendations, product updates, business impacts, and project status to senior management and key stakeholders.",
+        "Provide measurable input into new products, processes, standards, operating models, and strategic plans in support of business growth and organizational objectives.",
+        "Effectively lead cross-functional teams to align with business objectives, product strategy, project schedules, and budget expectations.",
+        "Effectively deal with difficult situations, navigate ambiguity, and help develop solutions to complex business and operational challenges.",
+        "All About You:",
+        "Advanced knowledge and demonstrated expertise in the areas of strategy, product management, business planning, and project management processes and techniques."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Lead-Product-Manager_R-292425-1",
+      "postedAt": "2026-10-06",
+      "firstSeenAt": "2026-10-06",
+      "lastSeenAt": "2026-10-06",
+      "status": "Active"
+    },
     {
       "id": "job_714ada",
       "slug": "lead-product-management-technical-ai-transformation-mastercard-pune-714ada",
@@ -14384,34 +14514,22 @@
       "experienceLevel": "Senior Product Manager",
       "experienceMin": 5,
       "experienceMax": null,
-      "domain": [
-        "Ecommerce",
-        "Consumer"
-      ],
+      "domain": [],
       "skills": [
-        "Product Strategy",
-        "Experimentation",
-        "Growth",
-        "Platform",
         "Data"
       ],
       "tags": [
-        "Ecommerce",
-        "Consumer",
         "Senior Product Manager",
         "Onsite",
-        "Product Strategy",
-        "Experimentation",
-        "Growth",
-        "Platform"
+        "Data"
       ],
-      "description": "Senior Product Manager – Core Data and Decision Intelligence\n\nTarget in India | L6",
+      "description": ". About You . 4-year college degree or equivalent experience. . 5+ years of Product Management or relevant product experience. . .",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "Workday · Target",
-      "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Senior-Product-Manager---Core-Data---Decision-Intelligence_R0000449196",
+      "source": "Naukri",
+      "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-core-data-decision-intelligence-target-bengaluru-5-to-10-years-300926502339",
       "postedAt": "2026-09-29",
       "firstSeenAt": "2026-09-29",
       "lastSeenAt": "2026-10-06",
@@ -78199,55 +78317,55 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 4,
-      "experienceMax": 7,
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
       "domain": [
         "Fintech",
         "SaaS"
       ],
       "skills": [
-        "Product Strategy",
-        "Experimentation",
-        "Analytics",
-        "Growth",
-        "Monetization",
+        "Go-to-Market",
         "API",
         "Platform",
         "Data",
         "Payments",
-        "Fraud"
+        "Fraud",
+        "Onboarding"
       ],
       "tags": [
         "Fintech",
         "SaaS",
-        "Senior Product Manager",
+        "Product Manager",
         "Onsite",
-        "Product Strategy",
-        "Experimentation",
-        "Analytics",
-        "Growth"
+        "Go-to-Market",
+        "API",
+        "Platform",
+        "Data"
       ],
       "description": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we’ve since grown into a fintech powerhouse driving India’s digital payment revolution.\n\nRazorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow.\n\nFrom building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech\n\nAcross India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that’s redefining how money moves across Asia.\n\nToday, that ecosystem supports everyone from early-stage startups to some of India’s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently.\n\nOur scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like",
       "responsibilities": [
-        "As a PM2, you will independently own a product area or platform charter end-to-end — from strategy and roadmap to execution and business impact. You will operate with significant autonomy and drive initiatives across customer experience, platform scalability, automation, growth, and monetization. You will be expected to think beyond features and solve for systems, operational leverage, and long-term platform evolution.",
-        "1. Build Customer Empathy",
-        "Regularly engage with customers, internal stakeholders, and ecosystem partners to deeply understand pain points, workflows, and unmet needs through both qualitative and quantitative insights.",
-        "2. Drive Product Strategy",
-        "Define long-term product vision and quarterly roadmap aligned with business goals, customer outcomes, and platform scalability.",
-        "3. Build Scalable Products",
-        "Collaborate with engineering, design, analytics, and operations teams to build reliable, scalable, and high-impact products.",
-        "4. Lead Product Execution",
-        "Write high-quality product specifications, prioritize effectively, manage tradeoffs, and ensure timely execution across releases",
-        "5. Own Metrics & Outcomes",
-        "Define success metrics, monitor business impact, and driveiterative improvements through experimentation and data analysis.",
-        "6. Ecosystem Collaboration"
+        "Build Customer Empathy: PMs have to regularly meet and understand customer needs first-hand as well as stay on top of the customer pulse via secondary insights - both qualitative and quantitative.",
+        "Devise Strategy: Define both long-term strategy and quarterly roadmap to achieve the product vision and create impact.",
+        "Conceptualize new solutions: Product Conceptualization with a problem first, data-driven, and test & iterate approach. Ensures conceptualization from a platform and a long-term view. Ensures value-based prioritization of product initiatives.",
+        "Build products: Collaborate with Engineering and ecosystem players to build products that customers love. Produce high-quality product specifications and effectively prioritize and manage the scope of each product launch to deliver products and features on time.",
+        "Launch products: Draft and execute a go-to-market plan in conjunction with Product Marketing. Be the internal and external authority and advocate for your given area of focus.",
+        "Ecosystem collaboration: Self-starter to collaborate closely with ecosystem players to co-build products that don’t exist.",
+        "Mandatory"
       ],
-      "requirements": [],
+      "requirements": [
+        "You understand technology, but love customer-first & business-first thinking.",
+        "You are comfortable working hands-on in a fast-paced start-up environment.",
+        "You are curious about metrics, execution processes, macro trends.",
+        "Problem-solving and detail orientation come naturally to you.",
+        "You have an analytical and data-driven approach in day-to-day work. Energetic self-starter with the ability to work independently in a fast-paced environment.",
+        "Razorpay believes in and follows an equal employment opportunity policy that doesn't discriminate on gender, religion, sexual orientation, colour, nationality, age, etc. We welcome interests and applications from all groups and communities across the globe.",
+        "Follow us on LinkedIn & Twitter"
+      ],
       "preferred": [],
       "salary": null,
       "source": "Greenhouse · Razorpay",
-      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736965005",
+      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4715389005",
       "postedAt": "2026-09-07",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
       "lastSeenAt": "2026-10-06",
@@ -89653,9 +89771,9 @@
       "companySize": "5000+",
       "description": "Mastercard is a fintech company hiring product managers in India.",
       "locations": [
+        "Delhi NCR",
         "Pune",
-        "India",
-        "Delhi NCR"
+        "India"
       ]
     },
     {
