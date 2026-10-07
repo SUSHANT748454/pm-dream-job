@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T07:24:16.076Z",
+  "generatedAt": "2026-10-07T11:27:15.800Z",
   "jobs": [
     {
       "id": "job_9ae5fd",
@@ -33,6 +33,83 @@
       "salary": null,
       "source": "Indeed",
       "applyUrl": "https://mpokket.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6ac5d81d213e3",
+      "postedAt": "2026-10-07",
+      "firstSeenAt": "2026-10-07",
+      "lastSeenAt": "2026-10-07",
+      "status": "Active"
+    },
+    {
+      "id": "job_246f2c",
+      "slug": "director-product-management-integrations-okta-bengaluru-246f2c",
+      "title": "Director, Product Management - Integrations",
+      "company": {
+        "id": "okta",
+        "name": "Okta",
+        "logo": null,
+        "domain": "okta.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Director",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "Enterprise",
+        "SaaS",
+        "AI"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Growth",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "Onboarding",
+        "Scrum"
+      ],
+      "tags": [
+        "Enterprise",
+        "SaaS",
+        "AI",
+        "Director",
+        "Onsite",
+        "Product Strategy",
+        "Growth",
+        "Platform"
+      ],
+      "description": "Secure Every Identity, from AI to Human\n\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\n\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.\n\nSecure Every Identity, from AI to Human\n\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\n\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are, too, let's talk.",
+      "responsibilities": [
+        "We are looking for a driven, curious, and empathetic product management leader to push the envelope of Okta’s market footprint by growing our integration ecosystem. As Director of Product Management for Okta integration ecosystem, you will be responsible for product strategy, and managing a PM team dedicated to evolving the Okta built integrations across all the product lines. This is a high-impact role, and if you’re passionate about improving customer security and engaging with a vibrant community, we’re looking for you.",
+        "Work Location: Bengaluru, Karnataka, India",
+        "Work Mode: Hybrid (2-3 days Onsite per week)",
+        "Own the strategy and growth of Okta’s build integrations through product vision.",
+        "Connect with key partners and customers to distill down feature asks and pain points into true requirements that deliver broad customer value.",
+        "Develop roadmaps that make hard tradeoffs and prioritize the highest value work first.",
+        "Build compelling hypotheses and find ways to validate assumptions at low cost.",
+        "Collaborate with global cross-functional teams, including engineering, ISVs, tech partnerships, and marketing, to ensure the successful launch and adoption of ISV experience enhancements.",
+        "Work with development scrum teams (PM, UX, Dev) to deliver valuable new integration targeted features and product improvements to customers.",
+        "Conduct research and analysis to identify integration needs, and use this information to inform strategic vision, innovation, product decisions, prioritization and roadmap.",
+        "Define and communicate product requirements, including features, user experience, and technical specifications, to engineering teams.",
+        "Leverage product data to continually get smarter about how to improve our existing products, and work across the business to drive adoption and success"
+      ],
+      "requirements": [],
+      "preferred": [
+        "Experience with identity and access management (IAM) platforms and security products.",
+        "Experience across the product management lifecycle for enterprise products or services, partner considerations surfaced in the user experience in particular",
+        "Familiarity with Identity and Access management protocols and products",
+        "BS in Computer Science, Computer Engineering or equivalent experience that allows you to rationalize and influence technical design decisions.",
+        "Advanced degree in technical or business field, MBA helpful",
+        "P12154_3477804",
+        "#LI-Hybrid",
+        "The Okta Experience"
+      ],
+      "salary": null,
+      "source": "Greenhouse · Okta",
+      "applyUrl": "https://www.okta.com/company/careers/opportunity/8022237?gh_jid=8022237",
       "postedAt": "2026-10-07",
       "firstSeenAt": "2026-10-07",
       "lastSeenAt": "2026-10-07",
@@ -534,6 +611,80 @@
       "salary": null,
       "source": "Indeed",
       "applyUrl": "https://jobs.lever.co/gohighlevel/49e6048a-578a-4af3-a769-e40c0f3ebccd?lever-source=Indeed",
+      "postedAt": "2026-10-07",
+      "firstSeenAt": "2026-10-07",
+      "lastSeenAt": "2026-10-07",
+      "status": "Active"
+    },
+    {
+      "id": "job_693e3f",
+      "slug": "sr-product-manager-case-management-agent-experience-autodesk-bengaluru-693e3f",
+      "title": "Sr. Product Manager - Case Management & Agent Experience",
+      "company": {
+        "id": "autodesk",
+        "name": "Autodesk",
+        "logo": null,
+        "domain": "autodesk.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 7,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Platform",
+        "Data",
+        "Onboarding"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Platform",
+        "Data",
+        "Onboarding"
+      ],
+      "description": "Job Requisition ID #\n\n26WD101159\n\nPosition Overview\n\nWe are looking for a Senior Product Manager to own Salesforce Case Management and the broader support platform experience. This role will drive the Case Management strategy and roadmap, modernize agent workflows, and define how Salesforce integrates with upstream and downstream systems.\n\nStrong Salesforce Service Cloud and Case Management experience is essential, along with platform product thinking, integration knowledge, and the ability to make clear prioritization and ownership decisions. The role will also help shape AI-assisted support and agent productivity capabilities, working closely with Engineering, Architecture, Operations, and other Product teams.",
+      "responsibilities": [
+        "What You Will Own",
+        "Own the product strategy and roadmap for Salesforce Case Management and the agent support platform",
+        "Apply strong Salesforce Service Cloud expertise, especially around the case lifecycle, data model, agent workflows, ownership, transfer, escalation, and closure",
+        "Define the end-to-end Case Management product contract, including what data Salesforce receives, stores, exposes, routes on, and reports on",
+        "Drive the modernization of legacy case workflows and simplify fragmented or manual agent experiences",
+        "Define reusable integration and workflow patterns across upstream and downstream systems instead of creating one-off solutions",
+        "Partner closely with Engineering, Architecture, Routing, Taxonomy, and business teams to define MVPs, dependencies, acceptance criteria, and measurable outcomes",
+        "Own prioritization and product tradeoffs across platform health, agent productivity, technical debt, and future Salesforce transformation",
+        "AI and Intelligent Support",
+        "Define where AI should assist agents and where deterministic workflows should remain in control",
+        "Shape AI-assisted capabilities such as summarization, intent detection, sentiment signals, recommended actions, similar case suggestions, and guided troubleshooting",
+        "Define data requirements, evaluation criteria, confidence thresholds, fallback behavior, and human-review guardrails"
+      ],
+      "requirements": [
+        "7+ years of hands-on Product Management experience or equivalent domain experience",
+        "Applies deep Product Management principles and strong Salesforce Service Cloud expertise to solve complex Case Management, agent workflow, and support platform problems",
+        "Connects customer, agent, operational, technical, and business needs into a coherent product strategy and roadmap",
+        "Uses data, customer insights, operational signals, and sound judgment to prioritize work and make decisions when information is incomplete",
+        "Leads complex cross-functional initiatives across Product, Engineering, Architecture, Data, AI, Operations, and business teams without requiring day-to-day direction",
+        "Identifies opportunities to simplify existing processes, retire unnecessary complexity, and create scalable platform capabilities instead of one-off solutions",
+        "Acts as a trusted product partner to Engineering and Architecture while maintaining clear ownership of the problem, customer outcome, product requirements, and success measures",
+        "#LI-PK1",
+        "Learn More"
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Autodesk",
+      "applyUrl": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Sr-Product-Manager---Case-Management---Agent-Experience_26WD101159",
       "postedAt": "2026-10-07",
       "firstSeenAt": "2026-10-07",
       "lastSeenAt": "2026-10-07",
@@ -49555,21 +49706,40 @@
       "workMode": "Onsite",
       "employmentType": "Full Time",
       "experienceLevel": "Group Product Manager",
-      "experienceMin": null,
+      "experienceMin": 10,
       "experienceMax": null,
-      "domain": [],
-      "skills": [],
-      "tags": [
-        "Group Product Manager",
-        "Onsite"
+      "domain": [
+        "Ecommerce",
+        "Consumer",
+        "Enterprise"
       ],
-      "description": "Success in this role is demonstrated through the ability to shape the long-term evolution of Digital Servicing,elevate product management maturity,influence enterprise priorities without direct authority,and deliver measurable improvements in Guest experience,operational efficiency,and business outcomes",
+      "skills": [
+        "Product Strategy",
+        "Experimentation",
+        "Analytics",
+        "Growth",
+        "Platform",
+        "Data",
+        "Agile",
+        "OKRs"
+      ],
+      "tags": [
+        "Ecommerce",
+        "Consumer",
+        "Enterprise",
+        "Group Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Experimentation",
+        "Analytics"
+      ],
+      "description": "About Target: As a Fortune 50 company with more than 350,000 team members worldwide, Target is an iconic brand and one of America's leading retailers.Working at Target means the opportunity to help all families discover the joy of everyday life. Caring for our communities is woven into who we are, and we invest in the places we collectively live, work and play. We prioritize relationships, fuel and develop talent by creating growth opportunities, and succeed as one Target team. At our core, our purpose is ingrained in who we are, what we value, and how we work. It’s how we care, grow, and win",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "Naukri",
-      "applyUrl": "https://www.naukri.com/job-listings-principal-product-manager-target-bengaluru-10-to-15-years-240926503369",
+      "source": "Workday · Target",
+      "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Principal-Product-Manager_R0000454113-1",
       "postedAt": "2026-09-21",
       "firstSeenAt": "2026-09-21",
       "lastSeenAt": "2026-10-07",
@@ -85875,39 +86045,43 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 4,
-      "experienceMax": 8,
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
       "domain": [
         "Fintech",
-        "Consumer"
+        "Consumer",
+        "Ecommerce"
       ],
       "skills": [
+        "Product Strategy",
+        "Experimentation",
+        "Analytics",
         "Platform",
         "Data",
         "Mobile",
         "Payments",
-        "Demand",
+        "Stakeholder Management",
         "Agile",
         "Scrum"
       ],
       "tags": [
         "Fintech",
         "Consumer",
-        "Senior Product Manager",
+        "Ecommerce",
+        "Product Manager",
         "Onsite",
-        "Platform",
-        "Data",
-        "Mobile",
-        "Payments"
+        "Product Strategy",
+        "Experimentation",
+        "Analytics"
       ],
-      "description": "About Us: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. About the team: We are an end to end tech enabled credit platform providing seamless credit access to customers. Our capabilities extend from fully digitized customer on-boarding, seamless in-app to real times offers for We partner with financial",
+      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. About the team: We are an end to end tech enabled credit platform providing seamless credit access to customers. Our capabilities extend from fully digitized customer on-boarding, seamless in-app to real times offers for We partner with",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
       "salary": null,
       "source": "Lever · Paytm",
-      "applyUrl": "https://jobs.lever.co/paytm/75992181-c0d0-44e7-805a-6dddfd0fe23b",
+      "applyUrl": "https://jobs.lever.co/paytm/f24d29df-a4ad-4991-ae78-1c5c24c63c75",
       "postedAt": "2026-09-02",
       "firstSeenAt": "2026-09-17",
       "lastSeenAt": "2026-10-07",
@@ -89650,6 +89824,60 @@
       "status": "Active"
     },
     {
+      "id": "job_3c414d",
+      "slug": "product-management-lending-product-experience-4-8-yrs-paytm-bengaluru-3c414d",
+      "title": "Product Management - Lending Product | Experience : 4 -8 yrs",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 4,
+      "experienceMax": 8,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Platform",
+        "Data",
+        "Mobile",
+        "Payments",
+        "Demand",
+        "Agile",
+        "Scrum"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "Platform",
+        "Data",
+        "Mobile",
+        "Payments"
+      ],
+      "description": "About Us: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. About the team: We are an end to end tech enabled credit platform providing seamless credit access to customers. Our capabilities extend from fully digitized customer on-boarding, seamless in-app to real times offers for We partner with financial",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/75992181-c0d0-44e7-805a-6dddfd0fe23b",
+      "postedAt": "2026-04-04",
+      "firstSeenAt": "2026-10-07",
+      "lastSeenAt": "2026-10-07",
+      "status": "Active"
+    },
+    {
       "id": "job_f404a7",
       "slug": "senior-product-manager-josys-bengaluru-f404a7",
       "title": "Senior Product Manager",
@@ -91724,6 +91952,7 @@
       "companySize": "5000+",
       "description": "Autodesk is a saas company hiring product managers in India.",
       "locations": [
+        "Bengaluru",
         "Pune"
       ]
     },
