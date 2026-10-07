@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T11:27:15.800Z",
+  "generatedAt": "2026-10-07T20:21:59.874Z",
   "jobs": [
     {
       "id": "job_9ae5fd",
@@ -307,6 +307,88 @@
       "salary": null,
       "source": "LinkedIn",
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-customer-account-management-104537-at-mycareernet-4475182402",
+      "postedAt": "2026-10-07",
+      "firstSeenAt": "2026-10-07",
+      "lastSeenAt": "2026-10-07",
+      "status": "Active"
+    },
+    {
+      "id": "job_ab81a4",
+      "slug": "product-manager-programmatic-monetization-inmobi-bengaluru-ab81a4",
+      "title": "Product Manager - Programmatic Monetization",
+      "company": {
+        "id": "inmobi",
+        "name": "InMobi",
+        "logo": null,
+        "domain": "inmobi.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 8,
+      "experienceMax": 10,
+      "domain": [
+        "AI",
+        "Consumer"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Analytics",
+        "Growth",
+        "Monetization",
+        "Pricing",
+        "API",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "Mobile"
+      ],
+      "tags": [
+        "AI",
+        "Consumer",
+        "Lead Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Analytics",
+        "Growth",
+        "Monetization"
+      ],
+      "description": "InMobi (Corporate)\n\nInMobi Group is a global technology company shaping the future of agentic commerce and advertising. Through its ecosystem of businesses — including InMobi Advertising and flagship consumer platform Glance — InMobi leverages data, machine learning, and generative AI to help brands reach audiences more precisely and consumers discover products more intuitively. Glance, which is pioneering new models of agentic commerce, is owned and operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of InMobi Pte. Ltd.\n\nInMobi Advertising\n\nInMobi Advertising, part of global technology company InMobi, is an agentic advertising platform helping brands and merchants achieve their business outcomes. Through its proprietary intelligence, AI-led solutions, and vast consumer reach — including flagship consumer platform Glance — InMobi Advertising delivers the omnichannel performance defining what's next in advertising and commerce. Glance is owned and operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of InMobi Pte. Ltd. To learn more, visit advertising.inmobi.com.\n\nGlance\n\nGlance is an intelligent shopping agent, redefining the commerce experience. Powered by proprietary agentic intelligence and generative AI, Glance delivers a hyper-personalized consumer experience across mobile and TV — shaping the new era of shopping. Glance is operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of global technology leader InMobi, and is backed by",
+      "responsibilities": [
+        "Own the product strategy and execution for ad monetization across demand, auction, ad delivery and monetization infrastructure. Drive the evolution of the programmatic stack, improve yield and ad quality, and build new monetization capabilities across formats and surfaces.",
+        "What You’ll Own:",
+        "Own demand prioritization, auction strategy, pricing and partner allocation to maximize yield and revenue efficiency.",
+        "Drive the roadmap for programmatic pipelines, Prebid, mediation, bidding and auction capabilities across the ad stack.",
+        "Own integrations with demand partners, SDKs, APIs and third-party monetization platforms, ensuring scalable and reliable execution.",
+        "Own ad monetization products to track ad metric fluctuations, auction analytics and ad quality to improve monetization capabilities",
+        "Define and monitor key ad metrics across the funnel, including fill, CTR, CPM, eCPM, rCPM, viewability, latency and revenue efficiency.",
+        "Identify, define and launch new ad formats and placements that expand monetizable inventory while maintaining a strong user experience.",
+        "Build AI-driven products and capabilities for demand optimization, pricing, forecasting, anomaly detection, automation and monetization decision-making.",
+        "Develop and scale monetization experiments, using data to validate impact and make informed product decisions.",
+        "Partner closely with Engineering, Data, Business, Ad Operations and external partners to take initiatives from problem definition through launch and scale."
+      ],
+      "requirements": [
+        "8–10 years of product management experience, with significant experience in ad tech, programmatic advertising, publisher monetization or a related domain.",
+        "Strong understanding of the programmatic advertising ecosystem, including SSPs, exchanges, header bidding, Prebid, auctions, demand prioritization and ad serving.",
+        "Hands-on understanding of publisher-side monetization, including yield optimization, pricing, floors, fill and demand partner performance.",
+        "Experience owning SDK, API and third-party platform integrations, with the ability to work closely with Engineering on technical architecture and implementation.",
+        "Strong analytical understanding of ad metrics and monetization funnels, with the ability to diagnose performance issues using data.",
+        "Experience building or scaling new ad formats, monetization products or advertising capabilities.",
+        "Strong understanding of mobile advertising and in-app monetization is preferred.",
+        "Experience working with AI/ML-driven products or automation and a practical understanding of where AI can improve monetization decisions.",
+        "Strong stakeholder management skills, with the ability to work across Engineering, Data, Business, Operations and external partners.",
+        "Strong bias toward execution, with a track record of taking complex products from strategy and problem definition through launch, adoption and measurable impact.",
+        "Ability to operate at both strategic and technical depth, moving from product strategy to auction mechanics, APIs, metrics and implementation details when required.",
+        "The InMobi Culture"
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · InMobi",
+      "applyUrl": "https://job-boards.greenhouse.io/inmobi/jobs/8232722",
       "postedAt": "2026-10-07",
       "firstSeenAt": "2026-10-07",
       "lastSeenAt": "2026-10-07",
@@ -6177,64 +6259,6 @@
       "status": "Active"
     },
     {
-      "id": "job_7682b4",
-      "slug": "senior-product-manager-toast-bengaluru-7682b4",
-      "title": "Senior Product Manager",
-      "company": {
-        "id": "toast",
-        "name": "Toast",
-        "logo": null,
-        "domain": "toasttab.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 5,
-      "experienceMax": null,
-      "domain": [
-        "Fintech",
-        "SaaS"
-      ],
-      "skills": [
-        "Product Strategy",
-        "Go-to-Market",
-        "Growth",
-        "Pricing",
-        "API",
-        "Platform",
-        "Data",
-        "OKRs"
-      ],
-      "tags": [
-        "Fintech",
-        "SaaS",
-        "Senior Product Manager",
-        "Onsite",
-        "Product Strategy",
-        "Go-to-Market",
-        "Growth",
-        "Pricing"
-      ],
-      "description": "Toast is building the restaurant platform that helps restaurants adapt, take control, and get back to what they do best: running the businesses they love. We've grown into a leading hospitality software company in the U.S., and are now entering our next phase of growth—one defined by scale, complexity, and a new class of enterprise customers.\n\nEvery restaurant is unique, and a restaurant's menu expresses its individual brand and product offerings. Inside a Toast restaurant, the definition of the menu becomes the common language between guests, servers, and the kitchen. In our digital ordering products, a great menu serves as both a billboard and a roadmap to an excellent dining experience. It is the central hub for restaurant configuration—it determines what guests can order, how the dishes are presented and priced in different contexts, where they are routed for fulfillment, how they are prepared, whether the ingredients are still available, and how they are classified for reporting.\n\nA menu is always evolving: kitchens create new dishes, managers experiment with pricing and presentation, and staff optimize the menu for restaurant operations. As our customers grow—from single-location cafés to enterprise brands with thousands of locations—so does the complexity of managing these changes consistently, confidently, and at scale.\n\nThe Menus team is building for this future. We own the user experiences and APIs that all Toast customers use to manage their menus, the APIs",
-      "responsibilities": [],
-      "requirements": [
-        "Senior Product Manager",
-        "to drive the vision, strategy, and execution of the customer-facing menu management experience. You'll work closely with engineering, design, and go-to-market teams to craft an experience that helps customers manage their menus with confidence—whether they're rolling out a seasonal menu, updating prices across hundreds of locations, or restructuring their menu to improve kitchen throughput. You'll collaborate closely with a partner menus team based in the US to ensure a coherent and unified product strategy across the menus domain."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · Toast",
-      "applyUrl": "https://careers.toasttab.com/jobs?gh_jid=7849323",
-      "postedAt": "2026-10-05",
-      "firstSeenAt": "2026-10-05",
-      "lastSeenAt": "2026-10-07",
-      "status": "Active"
-    },
-    {
       "id": "job_903ca7",
       "slug": "senior-product-manager-ai-quality-uber-bengaluru-903ca7",
       "title": "Senior Product Manager - AI Quality",
@@ -6380,6 +6404,56 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-geo-local-data-next-billion-users-at-google-4474612649",
       "postedAt": "2026-10-05",
       "firstSeenAt": "2026-10-07",
+      "lastSeenAt": "2026-10-07",
+      "status": "Active"
+    },
+    {
+      "id": "job_7682b4",
+      "slug": "sr-product-manager-toast-bengaluru-7682b4",
+      "title": "Sr Product Manager",
+      "company": {
+        "id": "toast",
+        "name": "Toast",
+        "logo": null,
+        "domain": "toasttab.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [],
+      "skills": [
+        "Growth",
+        "Data"
+      ],
+      "tags": [
+        "Senior Product Manager",
+        "Onsite",
+        "Growth",
+        "Data"
+      ],
+      "description": "• Develop and execute product strategies to achieve business objectives and drive revenue growth.",
+      "responsibilities": [
+        "Develop and execute product strategies to achieve business objectives and drive revenue growth.",
+        "Collaborate with cross-functional teams, including engineering, design, and marketing, to ensure alignment and successful product launches.",
+        "Conduct market research and analyze customer feedback to identify trends and opportunities for innovation.",
+        "Define and measure key performance indicators (KPIs) to measure product success and make data-driven decisions.",
+        "Work closely with stakeholders to prioritize product requirements and develop detailed product roadmaps.",
+        "Lead the planning, execution, and delivery of new products or features, ensuring timely and within-budget delivery.",
+        "Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Naukri",
+      "applyUrl": "https://www.naukri.com/job-listings-sr-product-manager-toast-bengaluru-6-to-11-years-061026501759",
+      "postedAt": "2026-10-05",
+      "firstSeenAt": "2026-10-05",
       "lastSeenAt": "2026-10-07",
       "status": "Active"
     },
@@ -7077,49 +7151,28 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Lead Product Manager",
-      "experienceMin": 8,
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
       "experienceMax": null,
       "domain": [
-        "Fintech",
-        "Enterprise",
-        "Ecommerce"
+        "Fintech"
       ],
       "skills": [
-        "Payments",
-        "Agile",
         "Compliance"
       ],
       "tags": [
         "Fintech",
-        "Enterprise",
-        "Ecommerce",
-        "Lead Product Manager",
+        "Product Manager",
         "Onsite",
-        "Payments",
-        "Agile",
         "Compliance"
       ],
-      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nManager, Product Management, Scheme and Regulatory Compliance\n\nOverview\n\nMastercard Gateway, formerly known as MPGS, operates at the centre of the global payments ecosystem and supports customers across more than 70 countries. As an agnostic gateway serving acquirers, merchants, and partners globally, Mastercard Gateway must continuously respond to payment scheme mandates, regional regulatory requirements, and internal Mastercard compliance obligations.\n\nFrom a Gateway Scheme Compliance perspective, this role is critical to ensuring that scheme and regulatory changes are identified early, assessed accurately, prioritized effectively, and delivered within mandated timelines. The role supports the translation of scheme communications, announcements, bulletin into clear business impact assessments, product roadmap priorities, execution plans, and stakeholder communications that help reduce financial, operational, reputational risk.\n\nThis role also supports",
-      "responsibilities": [
-        "Analyse card scheme communications, mandates, bulletins, and regulatory updates to identify applicability, business impact, customer impact, delivery risk, and compliance deadlines for Mastercard Gateway.",
-        "Provide clear summaries of scheme rule changes and translate them into actionable requirements for impacted Gateway business areas.",
-        "Partner with Product, PMT, Region, Engineering, Legal, Compliance, Operations, and Customer-facing teams to ensure required changes are prioritized and delivered within mandated timelines.",
-        "Support roadmap planning and SAFe PI or Kanban Planning by ensuring scheme compliance priorities, dependencies, risks, and deadlines are clearly represented in delivery plans.",
-        "Maintain a central repository of scheme communications, impact assessments, decisions, evidence, and delivery status for auditability and transparency.",
-        "Build and maintain internal portals, trackers, and communication channels for scheme compliance updates and mandate visibility.",
-        "Define, document, and continuously improve internal processes for scheme compliance intake, triage, assessment, governance, escalation, and closure with end to end ownership.",
-        "Support MPGS business areas with scheme-related queries, clarifications, and interpretation of scheme requirements.",
-        "Prepare internal and external communications, training material, customer readiness updates, and implementation guidance for impacted stakeholders.",
-        "Liaise with payment networks and schemes where applicable to clarify requirements, represent MPGS considerations, and advocate appropriate Mastercard or customer positions.",
-        "Identify and escalate compliance gaps, delivery risks, financial exposure, and customer impacts in a timely manner, with recommended remediation and communication plans.",
-        "Use and bring AI efficiency in day-to-day work and in the compliance process which will add benefit to the Gateway and customers."
-      ],
+      "description": "As an agnostic gateway serving acquirers,merchants,and partners globally,Mastercard Gateway must continuously respond to payment scheme mandates,regional regulatory requirements,and internal Mastercard compliance obligations",
+      "responsibilities": [],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "Workday · Mastercard",
-      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Management--Scheme-and-Regulatory-Compliance_R-291500",
+      "source": "Naukri",
+      "applyUrl": "https://www.naukri.com/job-listings-manager-product-management-scheme-and-regulatory-compliance-mastercard-pune-8-to-13-years-051026505046",
       "postedAt": "2026-10-03",
       "firstSeenAt": "2026-10-02",
       "lastSeenAt": "2026-10-07",
@@ -49523,7 +49576,8 @@
       "experienceMin": 9,
       "experienceMax": null,
       "domain": [
-        "Fintech"
+        "Fintech",
+        "Enterprise"
       ],
       "skills": [
         "Data",
@@ -49533,6 +49587,7 @@
       ],
       "tags": [
         "Fintech",
+        "Enterprise",
         "Group Product Manager",
         "Onsite",
         "Data",
@@ -49540,7 +49595,7 @@
         "Payments",
         "Compliance"
       ],
-      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle And Summary\n\nManager, Product Development",
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nManager, Product Development",
       "responsibilities": [
         "EMV and Payment Technology",
         "Overview",
@@ -49553,13 +49608,13 @@
         "Lead and manage operations related to Mobile Payment Applications, Wallet UI, Wearables, and Back-End Server Approvals.",
         "Ensure full compliance with Mastercard testing, branding, approval processes, and operational rules.",
         "Oversee the execution of global approval processes and associated requirements for:",
-        "Wallet UI and Wearables"
+        "o Wallet UI and Wearables"
       ],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/manager-product-development-emv-and-payment-technology-at-mastercard-4467395040",
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Development---EMV-and-Payment-Technology_R-288503",
       "postedAt": "2026-09-21",
       "firstSeenAt": "2026-09-21",
       "lastSeenAt": "2026-10-07",
@@ -80921,6 +80976,87 @@
       "status": "Expired"
     },
     {
+      "id": "job_0fec8a",
+      "slug": "product-manager-product-platform-okta-bengaluru-0fec8a",
+      "title": "Product Manager, Product Platform",
+      "company": {
+        "id": "okta",
+        "name": "Okta",
+        "logo": null,
+        "domain": "okta.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise",
+        "AI"
+      ],
+      "skills": [
+        "Growth",
+        "Pricing",
+        "Platform",
+        "Machine Learning",
+        "Onboarding",
+        "Retention",
+        "Scrum"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "AI",
+        "Product Manager",
+        "Onsite",
+        "Growth",
+        "Pricing",
+        "Platform"
+      ],
+      "description": "Secure Every Identity, from AI to Human\n\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\n\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.\n\nProduct Manager, Product Platform (India)\n\nCompany Overview\n\nOkta is The World’s Identity Company. We free everyone to safely use any technology - anywhere, on any device, for any app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth.",
+      "responsibilities": [
+        "This is a rare 0-to-1 opportunity to build a brand-new, high-visibility capability that touches every Okta customer: backup and recovery to strengthen the resilience of our system. You’ll be responsible for building a modern, self-service experience that allows IT Admins to recover back their accidentally or maliciously deleted identity objects. You'll partner closely with Engineering, Field, Pricing & Packaging, and Product leadership to shape a capability with direct, measurable impact on customer retention and revenue growth.",
+        "Contribute to",
+        "the long-term product vision and strategy for Okta's resilience strategy, ensuring the backup and recovery roadmap scales with the breadth of Okta's customer base and product portfolio.",
+        "Design",
+        "a self-service recovery center to ensure customers can seamlessly and securely track their deletions and changes and revert back across the entire Okta ecosystem.",
+        "Collaborat",
+        "with India-based engineering and development scrum teams to deliver high-performance, scalable backup and recovery solution",
+        "Distill",
+        "complex requirements from a diverse stakeholder group - including Field (AE/CSM), Pricing & Packaging, Support, Design, and Product teams - into precise technical specifications.",
+        "Analyze",
+        "how large-scale enterprise customer’s resilience needs to identify friction points and drive improvements in customer trust and platform experience.",
+        "Validate"
+      ],
+      "requirements": [
+        "3+ years of Product Management experience",
+        "specifically within",
+        "enterprise-scale SaaS platforms",
+        "or core software infrastructure.",
+        "BS in Computer Science, Computer Engineering",
+        ", or equivalent technical experience that enables you to rationalize and influence complex architectural decisions.",
+        "Proven ability to produce solid, actionable plans",
+        "from incomplete, conflicting, or highly ambiguous inputs.",
+        "Exceptional communication and presentation skills",
+        ", with a track record of successfully collaborating across global functions and time zones.",
+        "Demonstrated business results from customer-facing platform capabilities shipped at scale.",
+        "Experience with Backup or recovery tools"
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Okta",
+      "applyUrl": "https://www.okta.com/company/careers/opportunity/8210924?gh_jid=8210924",
+      "postedAt": "2026-09-11",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-10-07",
+      "status": "Active"
+    },
+    {
       "id": "job_e22607",
       "slug": "product-owner-incubyte-india-e22607",
       "title": "Product Owner",
@@ -81565,89 +81701,6 @@
       "salary": null,
       "source": "Naukri",
       "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-data-platform-okta-identity-india-private-limited-bengaluru-6-to-10-years-160926940165",
-      "postedAt": "2026-09-11",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-10-07",
-      "status": "Active"
-    },
-    {
-      "id": "job_0fec8a",
-      "slug": "senior-product-manager-product-platform-okta-bengaluru-0fec8a",
-      "title": "Senior Product Manager, Product Platform",
-      "company": {
-        "id": "okta",
-        "name": "Okta",
-        "logo": null,
-        "domain": "okta.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 4,
-      "experienceMax": 5,
-      "domain": [
-        "SaaS",
-        "Enterprise",
-        "AI"
-      ],
-      "skills": [
-        "Growth",
-        "Monetization",
-        "Pricing",
-        "Platform",
-        "Data",
-        "Machine Learning",
-        "Onboarding",
-        "Retention",
-        "Scrum"
-      ],
-      "tags": [
-        "SaaS",
-        "Enterprise",
-        "AI",
-        "Senior Product Manager",
-        "Onsite",
-        "Growth",
-        "Monetization",
-        "Pricing"
-      ],
-      "description": "Secure Every Identity, from AI to Human\n\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\n\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.\n\nSenior Product Manager, Product Platform\n\nCompany Overview\n\nOkta is The World’s Identity Company. We free everyone to safely use any technology - anywhere, on any device, for any app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth.",
-      "responsibilities": [
-        "This is a rare 0-to-1 opportunity to build a brand-new, high-visibility capability that touches every Okta customer: self-service visibility into subscription and license usage, delivered directly in the Admin Console. You’ll be responsible for building a modern, self-service experience that increases customer trust, unlocks new upsell and expansion motions, and sets the standard for how Okta communicates value to its largest accounts. You'll partner closely with Engineering, Field, Pricing & Packaging, and Product leadership to shape a capability with direct, measurable impact on customer retention and revenue growth.",
-        "Orchestrate",
-        "the long-term product vision and strategy for Okta's subscription usage and licensing visibility, ensuring the Admin Console roadmap scales with the breadth of Okta's customer base and product portfolio.",
-        "Architect",
-        "a self-service usage dashboard and reporting framework to ensure customers can seamlessly and securely track their subscription and license usage across the entire Okta ecosystem.",
-        "Collaborat",
-        "with India-based engineering and development scrum teams to deliver high-performance usage computation and reporting infrastructure improvements.",
-        "Distill",
-        "complex requirements from a diverse stakeholder group - including Field (AE/CSM), Pricing & Packaging, Support, Design, and Product teams - into precise technical specifications.",
-        "Analyze",
-        "large-scale subscription and usage data to identify friction points and drive improvements in customer trust and platform experience.",
-        "Validate"
-      ],
-      "requirements": [
-        "4-5+ years of Product Management experience",
-        "specifically within",
-        "enterprise-scale SaaS platforms",
-        "or core software infrastructure.",
-        "BS in Computer Science, Computer Engineering",
-        ", or equivalent technical experience that enables you to rationalize and influence complex architectural decisions.",
-        "Proven ability to produce solid, actionable plans",
-        "from incomplete, conflicting, or highly ambiguous inputs.",
-        "Exceptional communication and presentation skills",
-        ", with a track record of successfully collaborating across global functions and time zones.",
-        "Demonstrated business results from customer-facing platform capabilities shipped at scale.",
-        "Experience with subscription/licensing models, usage-based billing, or SaaS packaging and monetization."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · Okta",
-      "applyUrl": "https://www.okta.com/company/careers/opportunity/8164066?gh_jid=8164066",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-10-07",
@@ -85284,55 +85337,65 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 4,
-      "experienceMax": 7,
+      "experienceLevel": "Product Manager",
+      "experienceMin": 2,
+      "experienceMax": null,
       "domain": [
         "Fintech",
-        "SaaS"
+        "SaaS",
+        "AI"
       ],
       "skills": [
-        "Product Strategy",
-        "Experimentation",
-        "Analytics",
-        "Growth",
-        "Monetization",
         "API",
         "Platform",
         "Data",
         "Payments",
-        "Fraud"
+        "Fraud",
+        "Compliance"
       ],
       "tags": [
         "Fintech",
         "SaaS",
-        "Senior Product Manager",
+        "AI",
+        "Product Manager",
         "Onsite",
-        "Product Strategy",
-        "Experimentation",
-        "Analytics",
-        "Growth"
+        "API",
+        "Platform",
+        "Data"
       ],
       "description": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we’ve since grown into a fintech powerhouse driving India’s digital payment revolution.\n\nRazorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow.\n\nFrom building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech\n\nAcross India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that’s redefining how money moves across Asia.\n\nToday, that ecosystem supports everyone from early-stage startups to some of India’s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently.\n\nOur scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like",
       "responsibilities": [
-        "As a PM2, you will independently own a product area or platform charter end-to-end — from strategy and roadmap to execution and business impact. You will operate with significant autonomy and drive initiatives across customer experience, platform scalability, automation, growth, and monetization. You will be expected to think beyond features and solve for systems, operational leverage, and long-term platform evolution.",
-        "1. Build Customer Empathy",
-        "Regularly engage with customers, internal stakeholders, and ecosystem partners to deeply understand pain points, workflows, and unmet needs through both qualitative and quantitative insights.",
-        "2. Drive Product Strategy",
-        "Define long-term product vision and quarterly roadmap aligned with business goals, customer outcomes, and platform scalability.",
-        "3. Build Scalable Products",
-        "Collaborate with engineering, design, analytics, and operations teams to build reliable, scalable, and high-impact products.",
-        "4. Lead Product Execution",
-        "Write high-quality product specifications, prioritize effectively, manage tradeoffs, and ensure timely execution across releases",
-        "5. Own Metrics & Outcomes",
-        "Define success metrics, monitor business impact, and driveiterative improvements through experimentation and data analysis.",
-        "6. Ecosystem Collaboration"
+        "We’re building the next generation of AI-powered products and workflows at Razorpay. As an AI PM in the Central AI team",
+        ", you’ll find high-leverage problems across razorpay and take them from 0 → 1 → adoption",
+        ". You’ll own the entire journey — understand the problem, shape the solution, prototype it, build it, ship it, and drive impact.",
+        "This isn’t a traditional PM role. You won’t just write specs and hand them off. You’ll build.",
+        "You’ll use AI-native tools, agents, APIs, automations and internal systems to make teams dramatically more productive — and make things possible that weren’t possible before.",
+        "Find high-impact problems across Razorpay where AI can create step-change impact",
+        "Work with leadership and teams to identify, prioritise and drive AI initiatives.",
+        "Own products end-to-end — discovery → solutioning → building → shipping → adoption → impact",
+        "Rapidly prototype and build using Cursor, Claude Code, Replit, Lovable",
+        "and similar tools.",
+        "Build AI agents and workflows",
+        "that reason, use tools, make decisions and take actions."
       ],
-      "requirements": [],
+      "requirements": [
+        "2+ years",
+        "of experience building products — as a PM or an engineering (or in combination)",
+        "You’re AI-native",
+        ". Cursor / Claude Code isn’t a novelty — it’s part of how you build.",
+        "You can go from problem → prototype → working product",
+        "without waiting for a detailed spec.",
+        "Strong understanding of LLMs, prompting, agents, tool calling, RAG, APIs, MCPs and evaluations",
+        "Comfortable reading and writing code, debugging, working with APIs and moving across the stack.",
+        "Strong product sense — you ask “why?” before “how?”",
+        "You’ve shipped products and care deeply about adoption and outcomes",
+        ", not just launches.",
+        "Comfortable operating with high autonomy and ambiguity"
+      ],
       "preferred": [],
       "salary": null,
       "source": "Greenhouse · Razorpay",
-      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736965005",
+      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699107005",
       "postedAt": "2026-09-07",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
       "lastSeenAt": "2026-10-07",
@@ -85546,83 +85609,6 @@
       "status": "Active"
     },
     {
-      "id": "job_a4f741",
-      "slug": "senior-product-manager-sap-fico-zoominfo-chennai-a4f741",
-      "title": "Senior Product Manager - SAP FICO",
-      "company": {
-        "id": "zoominfo",
-        "name": "ZoomInfo",
-        "logo": null,
-        "domain": "zoominfo.com"
-      },
-      "location": {
-        "city": "Chennai",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 10,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Fintech",
-        "Enterprise"
-      ],
-      "skills": [
-        "Go-to-Market",
-        "API",
-        "Platform",
-        "Data",
-        "Agile"
-      ],
-      "tags": [
-        "SaaS",
-        "Fintech",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Go-to-Market",
-        "API",
-        "Platform"
-      ],
-      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
-      "responsibilities": [
-        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
-        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
-        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
-        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
-        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
-        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
-        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
-        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
-        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
-        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
-      ],
-      "requirements": [
-        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
-        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
-        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
-        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
-        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
-        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
-        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
-        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
-        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
-        "SAP Certification in Finance or a related SAP discipline.",
-        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
-        "Experience in high-tech, SaaS, software, or Finance transformation programs."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · ZoomInfo",
-      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8733078002",
-      "postedAt": "2026-09-05",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-10-07",
-      "status": "Active"
-    },
-    {
       "id": "job_aeae06",
       "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
       "title": "Senior Product Manager - SAP FICO",
@@ -85694,6 +85680,83 @@
       "salary": null,
       "source": "Greenhouse · ZoomInfo",
       "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
+      "postedAt": "2026-09-05",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-10-07",
+      "status": "Active"
+    },
+    {
+      "id": "job_a4f741",
+      "slug": "senior-product-manager-sap-fico-zoominfo-chennai-a4f741",
+      "title": "Senior Product Manager - SAP FICO",
+      "company": {
+        "id": "zoominfo",
+        "name": "ZoomInfo",
+        "logo": null,
+        "domain": "zoominfo.com"
+      },
+      "location": {
+        "city": "Chennai",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "API",
+        "Platform",
+        "Data",
+        "Agile"
+      ],
+      "tags": [
+        "SaaS",
+        "Fintech",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "API",
+        "Platform"
+      ],
+      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
+      "responsibilities": [
+        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
+        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
+        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
+        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
+        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
+        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
+        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
+        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
+        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
+        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
+      ],
+      "requirements": [
+        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
+        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
+        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
+        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
+        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
+        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
+        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
+        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
+        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
+        "SAP Certification in Finance or a related SAP discipline.",
+        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
+        "Experience in high-tech, SaaS, software, or Finance transformation programs."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · ZoomInfo",
+      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8733078002",
       "postedAt": "2026-09-05",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-10-07",
@@ -103039,8 +103102,8 @@
       "companySize": "1000-5000",
       "description": "ZoomInfo is a saas company hiring product managers in India.",
       "locations": [
-        "Chennai",
-        "Bengaluru"
+        "Bengaluru",
+        "Chennai"
       ]
     },
     {
