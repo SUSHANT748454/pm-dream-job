@@ -1,30 +1,30 @@
 {
-  "fetchedAt": "2026-10-04T07:03:54.182Z",
-  "total": 1237,
+  "fetchedAt": "2026-10-07T07:22:42.149Z",
+  "total": 1197,
   "sources": [
     {
       "id": "linkedin",
       "label": "LinkedIn",
       "status": "ok",
-      "fetched": 300,
-      "kept": 151,
-      "lastSuccessAt": "2026-10-04T07:04:56.207Z"
+      "fetched": 208,
+      "kept": 95,
+      "lastSuccessAt": "2026-10-07T07:23:31.891Z"
     },
     {
       "id": "naukri",
       "label": "Naukri",
       "status": "ok",
       "fetched": 250,
-      "kept": 217,
-      "lastSuccessAt": "2026-10-04T07:05:51.481Z"
+      "kept": 231,
+      "lastSuccessAt": "2026-10-07T07:24:08.577Z"
     },
     {
       "id": "indeed",
       "label": "Indeed",
       "status": "ok",
       "fetched": 250,
-      "kept": 17,
-      "lastSuccessAt": "2026-10-04T07:06:00.157Z"
+      "kept": 27,
+      "lastSuccessAt": "2026-10-07T07:24:15.851Z"
     },
     {
       "id": "foundit",
