@@ -1,6 +1,274 @@
 {
-  "generatedAt": "2026-10-08T03:48:21.231Z",
+  "generatedAt": "2026-10-08T11:42:53.767Z",
   "jobs": [
+    {
+      "id": "job_cbf776",
+      "slug": "lead-product-manager-ai-2-mastercard-pune-cbf776",
+      "title": "Lead Product Manager (AI)-2",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Pune",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Analytics",
+        "Growth",
+        "Platform",
+        "Data",
+        "B2B",
+        "Payments",
+        "Compliance"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "Lead Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Analytics",
+        "Growth",
+        "Platform"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nLead Product Manager (AI)-2",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--AI--2_R-292455",
+      "postedAt": "2026-10-08",
+      "firstSeenAt": "2026-10-08",
+      "lastSeenAt": "2026-10-08",
+      "status": "Active"
+    },
+    {
+      "id": "job_c233e0",
+      "slug": "manager-product-experience-design-mastercard-pune-c233e0",
+      "title": "Manager, Product Experience Design",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Pune",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Growth",
+        "API",
+        "Data",
+        "Mobile",
+        "B2B",
+        "B2C",
+        "Payments",
+        "Figma"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Growth",
+        "API",
+        "Data"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nManager, Product Experience Design\n\nWe are looking for an experienced & dynamic Product Experience & Design Manager to join our team at Mastercard. This role requires a blend of product thinking, design craft, and fluency in emerging AI-driven workflows.\n\nYou will play a critical role in designing the next generation of Mastercard's business solutions and data-driven products. Our UX team integrates Behavioral Science, Data, Design & Technology to create future conceptual designs, iterate design systems, and develop new product solutions that elevate existing features.\n\nIf you're passionate about Design Systems and components, live in Figma, are driven by user-centric solutions, and are interested in learning advanced product design skills then we'd love to hear from you.\n\nAbout Product Experience Design\n\nAs a Product Experience Designer, you’ll work closely with UX Research, Product Designers, Product Managers, Engineers, and more.\n\nWe are looking for an",
+      "responsibilities": [
+        "Contribute to our design system between Design, Product and Engineering.",
+        "Ensure that our User Experience optimizes business objectives and user engagement, working closely with Product Design partners & Product Managers.",
+        "Ideate and conceptualize new features aligned with product strategies.",
+        "Rapid prototyping of Proof-of-Concepts and MVPs using human-centered design principles.",
+        "Create new visual designs, reusable components via high-fidelity assets, user flows, journey maps, and beyond, to achieve the best Customer Experience.",
+        "Help define the next generation of data and data-driven products – and through doing so, help shape the future of Mastercard and its growth",
+        "Adapting & iterate Proof-of-Concept components onto our Design System.",
+        "Continuously improve efficiency in the design process and the overall product experience by using atomic design principles.",
+        "Ensure that designs deliver an appropriate balance of optimizing business objectives & user engagement, in close partnership with product managers.",
+        "Liaise with regional and country teams to ensure that designs are reflective of the diversity of needs for a global user base.",
+        "All about you",
+        "Over 10 years of UX/UI design experience for consumer-facing products and B2B solutions."
+      ],
+      "requirements": [],
+      "preferred": [
+        "Visual Design",
+        "UX Research",
+        "Corporate Security Responsibility",
+        "All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:",
+        "Abide by Mastercard’s security policies and practices;",
+        "Ensure the confidentiality and integrity of the information being accessed;",
+        "Report any suspected information security violation or breach, and",
+        "Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines."
+      ],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Experience-Design_R-291926",
+      "postedAt": "2026-10-08",
+      "firstSeenAt": "2026-10-08",
+      "lastSeenAt": "2026-10-08",
+      "status": "Active"
+    },
+    {
+      "id": "job_d70d3b",
+      "slug": "senior-specialist-product-management-custom-analytics-mastercard-delhi-ncr-d70d3b",
+      "title": "Senior Specialist, Product Management, Custom Analytics",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Analytics",
+        "Pricing",
+        "Data",
+        "Payments"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "Product Manager",
+        "Onsite",
+        "Analytics",
+        "Pricing",
+        "Data",
+        "Payments"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nSenior Specialist, Product Management, Custom Analytics\n\nAdvanced Analytics drives data, analytics and AI based solutions and products at a globally scalable level across the different customer lifecycle stages, credit risk management, operational and strategic analytics. Customer engagement and loyalty serves as a key differentiator to optimize and grow revenue for our retail and commercial clients. To this end, developing and managing a suite of product solutions through internal and external partnerships, creative constructs, solid frameworks, and executable roadmaps are crucial drivers for commercialization and business impact.\n\nWe are looking for a L7 Product Manager who will work on Custom Analytic Solutions (FI/non-FI/locations/deploy) to drive new ideas and scale existing solutions with internal stakeholders and regional partners. This role will report into Director of Global Product Management under BEO's Decision Models & Custom Analytics (DMSCA)",
+      "responsibilities": [
+        "Act as an expert, advocate and champion for data driven insights products, especially custom solutions innovation that can be configured for global usage",
+        "Coordinate across cross-functional teams and A&CS for custom product creation, sales, usage and continuous product enhancement; taking into account how our products all work together to serve customer needs",
+        "Act as a connector to ensure the commercial success of our custom/configured products by working with Sales and Marketing while ensuring technical success through close partnership with A&CS teams",
+        "Support global product management team efforts with analytically-driven input into strategic business plans and product roadmaps",
+        "Drive documentation, requirements gathering, and project management excellence",
+        "All About You:",
+        "Be a successful team player with prior experience in A&CS in creating custom analytics and AI driven solutions for clients using Mastercard or client data",
+        "Analytically experienced, solutions-oriented mindset, with a knack for driving execution and progress",
+        "Customer centric: strong focus on delivering customer value and experienced in building strong customer relationships",
+        "Proven track record of collaborating effectively in cross-functional teams to deliver exceptional repeatable solutions and features",
+        "Strong communication and influencing abilities, enabling effective collaboration with internal and external stakeholders",
+        "Desire to grow their product management knowledge and acumen"
+      ],
+      "requirements": [
+        "Previous experience in generating custom solutions for Mastercard in A&CS (FI/non-FI/locations/deploy) projects",
+        "Extremely strong knowledge of Mastercard data with the ability to generate code",
+        "An understanding of A&CS pricing dynamics and how scaling efforts can affect costs positively and negatively",
+        "Knowledge and skills using product management tools, (e.g. market and product plans, project timelines, marketing research, pricing, business case development)",
+        "Great organizational skills, capable of managing multiple priorities and competing tasks efficiently",
+        "Strong communication & influencing skills to work with internal and external stakeholders",
+        "AI and predictive Modelling knowledge plus demonstration of building AI would be an advantage",
+        "Corporate Security Responsibility",
+        "All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:",
+        "Abide by Mastercard’s security policies and practices;",
+        "Ensure the confidentiality and integrity of the information being accessed;",
+        "Report any suspected information security violation or breach, and"
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Senior-Specialist--Product-Management--Custom-Analytics_R-293023-1",
+      "postedAt": "2026-10-08",
+      "firstSeenAt": "2026-10-08",
+      "lastSeenAt": "2026-10-08",
+      "status": "Active"
+    },
+    {
+      "id": "job_c262d4",
+      "slug": "sr-product-manager-seller-payments-ebay-bengaluru-c262d4",
+      "title": "Sr. Product Manager - Seller Payments",
+      "company": {
+        "id": "ebay",
+        "name": "eBay",
+        "logo": null,
+        "domain": "ebay.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 7,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Ecommerce",
+        "Consumer"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Experimentation",
+        "Analytics",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Payments",
+        "Retention",
+        "Marketplace"
+      ],
+      "tags": [
+        "Fintech",
+        "Ecommerce",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Experimentation",
+        "Analytics"
+      ],
+      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · eBay",
+      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Sr-Product-Manager---Seller-Payments_R0077052",
+      "postedAt": "2026-10-08",
+      "firstSeenAt": "2026-10-08",
+      "lastSeenAt": "2026-10-08",
+      "status": "Active"
+    },
     {
       "id": "job_9ae5fd",
       "slug": "assistant-manager-product-mpokket-india-9ae5fd",
@@ -41509,6 +41777,80 @@
       "status": "Active"
     },
     {
+      "id": "job_864296",
+      "slug": "manager-product-management-mastercard-pune-864296",
+      "title": "Manager, Product Management",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Pune",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Enterprise",
+        "SaaS"
+      ],
+      "skills": [
+        "Analytics",
+        "API",
+        "Platform",
+        "Data",
+        "B2B",
+        "Payments",
+        "Stakeholder Management",
+        "Agile",
+        "Compliance"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "SaaS",
+        "Product Manager",
+        "Onsite",
+        "Analytics",
+        "API",
+        "Platform"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nManager, Product Management\n\nManager, Product Management – Data and AI Platform\n\nWHO IS MASTERCARD?\n\nMastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships, and passion, our innovations help individuals, financial institutions, governments, and businesses realize their greatest potential.\n\nOVERVIEW\n\nMastercard is building a cloud-native data platform to power next-generation, data-driven solutions and services. This platform will deliver a data mesh architecture, advanced technologies, and processes that enable Mastercard to scale and innovate at speed.\n\nWe are seeking a seasoned Product Manager to join our Data and AI Platform team. In this role, you will own the product lifecycle—from shaping strategy and defining the roadmap to partnering",
+      "responsibilities": [
+        "Define and execute the product roadmap for our Data and AI platform, ensuring alignment with business objectives.",
+        "Lead product development through the full lifecycle—from ideation to launch—driving innovation and measurable outcomes.",
+        "Collaborate closely with engineering teams, participating in technical discussions and leading requirement workshops.",
+        "Use data-driven insights to identify performance challenges, prioritize features, and optimize product adoption and revenue.",
+        "Partner with security, compliance, and legal teams to ensure vendor solutions meet Mastercard standards.",
+        "Drive cross-functional engagement and stakeholder alignment across multiple initiatives."
+      ],
+      "requirements": [
+        "Several years of experience designing and managing data platform solutions for SaaS businesses, with expertise in multi-tenant architectures and analytics.",
+        "Hands-on experience with AWS, Azure, or Google Cloud, and familiarity with AI/ML platforms such as Databricks and Snowflake (preferred).",
+        "Deep understanding of both on-prem and cloud data storage (Amazon S3), multi-tenancy and open architecture concept is a must have.",
+        "Experience in building core foundation layer of complex enterprise product is an added advantage.",
+        "Previous experience as a data engineer or data scientist is a strong advantage, especially in building AI/ML solutions for B2B.",
+        "Proven track record as a Product Owner in Agile environments, with strong backlog management and prioritization skills.",
+        "Exceptional stakeholder management and communication skills, with the ability to influence at all levels.",
+        "Deep understanding of the Data and AI platform landscape, architectural patterns, and emerging technologies.",
+        "Entrepreneurial mindset with a bias for action, ownership, and agility in a fast-paced environment."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Management_R-293101",
+      "postedAt": "2026-09-23",
+      "firstSeenAt": "2026-09-23",
+      "lastSeenAt": "2026-10-08",
+      "status": "Active"
+    },
+    {
       "id": "job_650e17",
       "slug": "manager-product-management-mastercard-delhi-ncr-650e17",
       "title": "Manager, Product Management",
@@ -41574,51 +41916,6 @@
       "salary": null,
       "source": "Workday · Mastercard",
       "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Manager--Product-Management_R-291979",
-      "postedAt": "2026-09-23",
-      "firstSeenAt": "2026-09-23",
-      "lastSeenAt": "2026-10-08",
-      "status": "Active"
-    },
-    {
-      "id": "job_864296",
-      "slug": "manager-product-management-mastercard-pune-864296",
-      "title": "Manager, Product Management",
-      "company": {
-        "id": "mastercard",
-        "name": "Mastercard",
-        "logo": null,
-        "domain": "mastercard.com"
-      },
-      "location": {
-        "city": "Pune",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Product Manager",
-      "experienceMin": null,
-      "experienceMax": null,
-      "domain": [],
-      "skills": [
-        "Go-to-Market",
-        "Agile"
-      ],
-      "tags": [
-        "Product Manager",
-        "Onsite",
-        "Go-to-Market",
-        "Agile"
-      ],
-      "description": "Bachelor s degree in business or relevant experience\n\n. All About You .",
-      "responsibilities": [
-        "Agile product management experience in analytical products and business intelligence solutions",
-        "Experience in strategy consulting or developing go-to-market strategies for products"
-      ],
-      "requirements": [],
-      "preferred": [],
-      "salary": null,
-      "source": "Naukri",
-      "applyUrl": "https://www.naukri.com/job-listings-manager-product-management-mastercard-pune-4-to-9-years-061026501157",
       "postedAt": "2026-09-23",
       "firstSeenAt": "2026-09-23",
       "lastSeenAt": "2026-10-08",
@@ -85094,8 +85391,8 @@
     },
     {
       "id": "job_bddb01",
-      "slug": "specialist-product-manager-mastercard-pune-bddb01",
-      "title": "Specialist Product Manager",
+      "slug": "senior-specialist-product-manager-mastercard-pune-bddb01",
+      "title": "Senior Specialist Product Manager",
       "company": {
         "id": "mastercard",
         "name": "Mastercard",
@@ -85111,19 +85408,39 @@
       "experienceLevel": "Senior Product Manager",
       "experienceMin": 5,
       "experienceMax": null,
-      "domain": [],
-      "skills": [],
-      "tags": [
-        "Senior Product Manager",
-        "Onsite"
+      "domain": [
+        "Fintech",
+        "Enterprise"
       ],
-      "description": "Experience building with AI or using AI to enhance an existing software application . 5+ years of professional experience in a similar role,or equivalent",
-      "responsibilities": [],
+      "skills": [
+        "Product Strategy",
+        "Experimentation",
+        "User Research",
+        "API",
+        "Platform",
+        "Data",
+        "Payments",
+        "Agile"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Experimentation",
+        "User Research",
+        "API"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nSenior Specialist Product Manager\n\nSenior Product Manager, Business Experimentation & Optimization\n\nWho is Mastercard?\n\nMastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.\n\nOur decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.\n\nOverview\n\nThe Services team is a key differentiator for Mastercard, providing cutting-edge products and services that help our customers. Focused on thinking big and scaling",
+      "responsibilities": [
+        "Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines."
+      ],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "Naukri",
-      "applyUrl": "https://www.naukri.com/job-listings-specialist-product-manager-mastercard-pune-5-to-10-years-210926502445",
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Specialist-Product-Manager_R-290092",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-10-08",
@@ -85267,55 +85584,65 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 4,
-      "experienceMax": 7,
+      "experienceLevel": "Product Manager",
+      "experienceMin": 2,
+      "experienceMax": null,
       "domain": [
         "Fintech",
-        "SaaS"
+        "SaaS",
+        "AI"
       ],
       "skills": [
-        "Product Strategy",
-        "Experimentation",
-        "Analytics",
-        "Growth",
-        "Monetization",
         "API",
         "Platform",
         "Data",
         "Payments",
-        "Fraud"
+        "Fraud",
+        "Compliance"
       ],
       "tags": [
         "Fintech",
         "SaaS",
-        "Senior Product Manager",
+        "AI",
+        "Product Manager",
         "Onsite",
-        "Product Strategy",
-        "Experimentation",
-        "Analytics",
-        "Growth"
+        "API",
+        "Platform",
+        "Data"
       ],
       "description": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we’ve since grown into a fintech powerhouse driving India’s digital payment revolution.\n\nRazorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow.\n\nFrom building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech\n\nAcross India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that’s redefining how money moves across Asia.\n\nToday, that ecosystem supports everyone from early-stage startups to some of India’s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently.\n\nOur scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like",
       "responsibilities": [
-        "As a PM2, you will independently own a product area or platform charter end-to-end — from strategy and roadmap to execution and business impact. You will operate with significant autonomy and drive initiatives across customer experience, platform scalability, automation, growth, and monetization. You will be expected to think beyond features and solve for systems, operational leverage, and long-term platform evolution.",
-        "1. Build Customer Empathy",
-        "Regularly engage with customers, internal stakeholders, and ecosystem partners to deeply understand pain points, workflows, and unmet needs through both qualitative and quantitative insights.",
-        "2. Drive Product Strategy",
-        "Define long-term product vision and quarterly roadmap aligned with business goals, customer outcomes, and platform scalability.",
-        "3. Build Scalable Products",
-        "Collaborate with engineering, design, analytics, and operations teams to build reliable, scalable, and high-impact products.",
-        "4. Lead Product Execution",
-        "Write high-quality product specifications, prioritize effectively, manage tradeoffs, and ensure timely execution across releases",
-        "5. Own Metrics & Outcomes",
-        "Define success metrics, monitor business impact, and driveiterative improvements through experimentation and data analysis.",
-        "6. Ecosystem Collaboration"
+        "We’re building the next generation of AI-powered products and workflows at Razorpay. As an AI PM in the Central AI team",
+        ", you’ll find high-leverage problems across razorpay and take them from 0 → 1 → adoption",
+        ". You’ll own the entire journey — understand the problem, shape the solution, prototype it, build it, ship it, and drive impact.",
+        "This isn’t a traditional PM role. You won’t just write specs and hand them off. You’ll build.",
+        "You’ll use AI-native tools, agents, APIs, automations and internal systems to make teams dramatically more productive — and make things possible that weren’t possible before.",
+        "Find high-impact problems across Razorpay where AI can create step-change impact",
+        "Work with leadership and teams to identify, prioritise and drive AI initiatives.",
+        "Own products end-to-end — discovery → solutioning → building → shipping → adoption → impact",
+        "Rapidly prototype and build using Cursor, Claude Code, Replit, Lovable",
+        "and similar tools.",
+        "Build AI agents and workflows",
+        "that reason, use tools, make decisions and take actions."
       ],
-      "requirements": [],
+      "requirements": [
+        "2+ years",
+        "of experience building products — as a PM or an engineering (or in combination)",
+        "You’re AI-native",
+        ". Cursor / Claude Code isn’t a novelty — it’s part of how you build.",
+        "You can go from problem → prototype → working product",
+        "without waiting for a detailed spec.",
+        "Strong understanding of LLMs, prompting, agents, tool calling, RAG, APIs, MCPs and evaluations",
+        "Comfortable reading and writing code, debugging, working with APIs and moving across the stack.",
+        "Strong product sense — you ask “why?” before “how?”",
+        "You’ve shipped products and care deeply about adoption and outcomes",
+        ", not just launches.",
+        "Comfortable operating with high autonomy and ambiguity"
+      ],
       "preferred": [],
       "salary": null,
       "source": "Greenhouse · Razorpay",
-      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736965005",
+      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699107005",
       "postedAt": "2026-09-07",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
       "lastSeenAt": "2026-10-08",
@@ -85529,83 +85856,6 @@
       "status": "Active"
     },
     {
-      "id": "job_aeae06",
-      "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
-      "title": "Senior Product Manager - SAP FICO",
-      "company": {
-        "id": "zoominfo",
-        "name": "ZoomInfo",
-        "logo": null,
-        "domain": "zoominfo.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 10,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Fintech",
-        "Enterprise"
-      ],
-      "skills": [
-        "Go-to-Market",
-        "API",
-        "Platform",
-        "Data",
-        "Agile"
-      ],
-      "tags": [
-        "SaaS",
-        "Fintech",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Go-to-Market",
-        "API",
-        "Platform"
-      ],
-      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
-      "responsibilities": [
-        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
-        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
-        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
-        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
-        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
-        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
-        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
-        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
-        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
-        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
-      ],
-      "requirements": [
-        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
-        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
-        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
-        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
-        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
-        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
-        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
-        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
-        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
-        "SAP Certification in Finance or a related SAP discipline.",
-        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
-        "Experience in high-tech, SaaS, software, or Finance transformation programs."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · ZoomInfo",
-      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
-      "postedAt": "2026-09-05",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-10-08",
-      "status": "Active"
-    },
-    {
       "id": "job_a4f741",
       "slug": "senior-product-manager-sap-fico-zoominfo-chennai-a4f741",
       "title": "Senior Product Manager - SAP FICO",
@@ -85677,6 +85927,83 @@
       "salary": null,
       "source": "Greenhouse · ZoomInfo",
       "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8733078002",
+      "postedAt": "2026-09-05",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-10-08",
+      "status": "Active"
+    },
+    {
+      "id": "job_aeae06",
+      "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
+      "title": "Senior Product Manager - SAP FICO",
+      "company": {
+        "id": "zoominfo",
+        "name": "ZoomInfo",
+        "logo": null,
+        "domain": "zoominfo.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "API",
+        "Platform",
+        "Data",
+        "Agile"
+      ],
+      "tags": [
+        "SaaS",
+        "Fintech",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "API",
+        "Platform"
+      ],
+      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
+      "responsibilities": [
+        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
+        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
+        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
+        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
+        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
+        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
+        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
+        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
+        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
+        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
+      ],
+      "requirements": [
+        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
+        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
+        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
+        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
+        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
+        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
+        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
+        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
+        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
+        "SAP Certification in Finance or a related SAP discipline.",
+        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
+        "Experience in high-tech, SaaS, software, or Finance transformation programs."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · ZoomInfo",
+      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
       "postedAt": "2026-09-05",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-10-08",
@@ -86428,8 +86755,8 @@
       "experienceMax": null,
       "domain": [
         "SaaS",
-        "Enterprise",
-        "Fintech"
+        "Fintech",
+        "Enterprise"
       ],
       "skills": [
         "Analytics",
@@ -86443,26 +86770,21 @@
       ],
       "tags": [
         "SaaS",
-        "Enterprise",
         "Fintech",
+        "Enterprise",
         "Senior Product Manager",
         "Onsite",
         "Analytics",
         "Go-to-Market",
         "Growth"
       ],
-      "description": "Recruitment Fraud Alert\n\nWe’ve learned that scammers are impersonating Commvault team members—including HR and leadership—via email or text. These bad actors may conduct fake interviews and ask for personal information, such as your social security number.\n\nWhat to know:",
-      "responsibilities": [
-        "Commvault does not conduct interviews by email or text.",
-        "We will never ask you to submit sensitive documents (including banking information, SSN, etc) before your first day.",
-        "Commvault recruiters may contact prospective candidates through LinkedIn and other professional networking platforms regarding career opportunities. If you are unsure whether a recruiting communication is legitimate, review the profile to ensure they have a badge verifying them as a Commvault employee.",
-        "If you suspect a recruiting scam, please contact us at wwrecruitingteam@commvault.com"
-      ],
+      "description": "Recruitment Fraud Alert\n\nWe’ve learned that scammers are impersonating Commvault team members—including HR and leadership—via email or text. These bad actors may conduct fake interviews and ask for personal information, such as your social security number.\n\nWhat To Know\n\nCommvault does not conduct interviews by email or text.\n\nWe will never ask you to submit sensitive documents (including banking information, SSN, etc) before your first day.\n\nCommvault recruiters may contact prospective candidates through LinkedIn and other professional networking platforms regarding career opportunities. If you are unsure whether a recruiting communication is legitimate, review the profile to ensure they have a badge verifying them as a Commvault employee.\n\nIf you suspect a recruiting scam, please contact us at wwrecruitingteam@commvault.com",
+      "responsibilities": [],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "Greenhouse · Commvault",
-      "applyUrl": "https://job-boards.greenhouse.io/commvault/jobs/5252738008",
+      "source": "LinkedIn",
+      "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-saas-applications-protection-cyber-recovery-at-commvault-4431837896",
       "postedAt": "2026-09-01",
       "firstSeenAt": "2026-09-10",
       "lastSeenAt": "2026-10-08",
@@ -89872,6 +90194,59 @@
       "applyUrl": "https://www.themuse.com/jobs/salesforce/product-manager-territory-modeling-carving-manager",
       "postedAt": "2025-08-16",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
+      "lastSeenAt": "2026-10-08",
+      "status": "Active"
+    },
+    {
+      "id": "job_0780fa",
+      "slug": "product-management-product-analyst-telco-paytm-delhi-ncr-0780fa",
+      "title": "Product Management- Product Analyst- Telco",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "APM",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "API",
+        "Platform",
+        "Data",
+        "Mobile",
+        "Payments",
+        "Demand"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "APM",
+        "Onsite",
+        "API",
+        "Platform",
+        "Data",
+        "Mobile"
+      ],
+      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. About the team: Thriving on innovation, One97 delivers Customer Communication, Up-Selling, Mobile Content, Advertising based and Platform services to over 500 Million mobile consumers across the globe. Headquartered in New Delhi, and backed by",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/2294c39e-0394-472b-8ba0-736857fa24a8",
+      "postedAt": "2025-07-21",
+      "firstSeenAt": "2026-10-08",
       "lastSeenAt": "2026-10-08",
       "status": "Active"
     },
@@ -96252,9 +96627,9 @@
       "companySize": "5000+",
       "description": "Mastercard is a fintech company hiring product managers in India.",
       "locations": [
+        "Pune",
         "Delhi NCR",
-        "India",
-        "Pune"
+        "India"
       ]
     },
     {
@@ -101472,8 +101847,8 @@
       "companySize": "1000-5000",
       "description": "ZoomInfo is a saas company hiring product managers in India.",
       "locations": [
-        "Bengaluru",
-        "Chennai"
+        "Chennai",
+        "Bengaluru"
       ]
     },
     {
