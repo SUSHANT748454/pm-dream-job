@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T11:42:53.767Z",
+  "generatedAt": "2026-10-08T20:25:01.009Z",
   "jobs": [
     {
       "id": "job_cbf776",
@@ -129,6 +129,90 @@
       "salary": null,
       "source": "Workday · Mastercard",
       "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Experience-Design_R-291926",
+      "postedAt": "2026-10-08",
+      "firstSeenAt": "2026-10-08",
+      "lastSeenAt": "2026-10-08",
+      "status": "Active"
+    },
+    {
+      "id": "job_943ae0",
+      "slug": "senior-product-manager-atlas-agent-engine-mongodb-delhi-ncr-943ae0",
+      "title": "Senior Product Manager, Atlas Agent Engine",
+      "company": {
+        "id": "mongodb",
+        "name": "MongoDB",
+        "logo": null,
+        "domain": "mongodb.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Experimentation",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "iOS",
+        "Figma"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Experimentation",
+        "Growth",
+        "API"
+      ],
+      "description": "We're building a new product team in India to help shape how customers build, deploy, and operate AI applications on MongoDB. This is an early hire on a growing team—you'll join while the team is still taking shape, with the opportunity to have real impact from the start.\n\nYou'll report to a Director of Product Management based in Europe, working async-first with partners across India, EMEA, and North America. The engineering team in India is being built in parallel, so you'll be working closely with engineers from the early days of the team.\n\nWe are looking to speak to candidates based in Gurugram for our hybrid working model.\n\nWhat you'll own\n\nYou'll be the end-to-end owner for a core area of our AI application platform—from discovery and vision through roadmap, delivery, and iteration. This is a senior individual contributor role where you lead through ownership, expertise, and cross-functional influence.",
+      "responsibilities": [
+        "Defining product strategy and roadmap for your area, aligned with MongoDB's broader AI strategy and business goals",
+        "Talking to customers — from AI-native startups to large enterprises — to understand how they build and deploy AI applications, where they struggle, and what MongoDB should do about it",
+        "Writing clear product narratives, memos, and specs that align stakeholders, clarify trade-offs, to guide conversations with engineering, design, product marketing, etc",
+        "Partnering with cross-functional stakeholders—including Engineering, Design, Product Marketing, Partners, Sales, and Developer Relations—to scope, prioritize, and ship, balancing experimentation with reliability and scale, and driving positioning, launches, and enablement",
+        "Identifying new opportunities autonomously—spotting gaps, shaping problem spaces, researching industry trends and running discovery sessions with customers",
+        "Define and own clear success metrics for your area and use them to prioritize, make trade-offs and communicate impact",
+        "You'll develop deep expertise in how companies build AI applications — including agentic workflows, retrieval and memory, evaluation, observability, and deployment patterns.",
+        "How we work",
+        "Async-first. Documentation and written communication are how decisions travel across time zones",
+        "Sync when it makes sense. When we need to discuss something live, we hop on a call to unbundle issues together.",
+        "In-person when it matters. The team gets together periodically for planning, relationship-building, and the kind of work that's better done face to face"
+      ],
+      "requirements": [
+        "5+ years in product management (or equivalent) building platforms, infrastructure, or developer-facing products — ideally in cloud, data, or AI",
+        "Proven end-to-end ownership of a product area: from framing the problem and vision through roadmap, execution, launch, and iteration",
+        "Customer obsession: you're comfortable running discovery calls, digging into workflows, and turning messy feedback into clear product decisions",
+        "Strong written and live communication: clear docs, productive meetings, confident stakeholder presentations. This matters more in an async, distributed team — writing is how you lead",
+        "Technical depth sufficient to collaborate with senior engineers on distributed systems, cloud services, and AI/ML tooling, and to ask good questions when something is unclear",
+        "Curiosity about AI: you follow how companies are building AI applications — agents, orchestration frameworks, RAG, fine-tuning, or other emerging patterns",
+        "Comfort with ambiguity: you help define the problem, the success metrics, and the path forward. In an early-stage team, this is the job"
+      ],
+      "preferred": [
+        "Experience building developer tools, AI platforms, or MLOps/LLMOps products",
+        "Engineering background or deep experience partnering with engineering on technical products",
+        "Experience with enterprise customers on mission-critical workloads",
+        "Comfort using AI tools (e.g., Claude, Gemini, Figma Make) to move faster and amplify impact",
+        "How we'll measure success (30/60/90 days)",
+        "We need someone who can onboard quickly and start driving impact early.",
+        "In your first 30 days, you will:",
+        "Ramp up on MongoDB products, AI application patterns, and how our teams work"
+      ],
+      "salary": null,
+      "source": "Greenhouse · MongoDB",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8094528",
       "postedAt": "2026-10-08",
       "firstSeenAt": "2026-10-08",
       "lastSeenAt": "2026-10-08",
@@ -85569,86 +85653,6 @@
       "status": "Active"
     },
     {
-      "id": "job_d0223a",
-      "slug": "product-manager-ii-razorpay-bengaluru-d0223a",
-      "title": "Product Manager II",
-      "company": {
-        "id": "razorpay",
-        "name": "Razorpay",
-        "logo": null,
-        "domain": "razorpay.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Product Manager",
-      "experienceMin": 2,
-      "experienceMax": null,
-      "domain": [
-        "Fintech",
-        "SaaS",
-        "AI"
-      ],
-      "skills": [
-        "API",
-        "Platform",
-        "Data",
-        "Payments",
-        "Fraud",
-        "Compliance"
-      ],
-      "tags": [
-        "Fintech",
-        "SaaS",
-        "AI",
-        "Product Manager",
-        "Onsite",
-        "API",
-        "Platform",
-        "Data"
-      ],
-      "description": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we’ve since grown into a fintech powerhouse driving India’s digital payment revolution.\n\nRazorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow.\n\nFrom building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech\n\nAcross India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that’s redefining how money moves across Asia.\n\nToday, that ecosystem supports everyone from early-stage startups to some of India’s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently.\n\nOur scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like",
-      "responsibilities": [
-        "We’re building the next generation of AI-powered products and workflows at Razorpay. As an AI PM in the Central AI team",
-        ", you’ll find high-leverage problems across razorpay and take them from 0 → 1 → adoption",
-        ". You’ll own the entire journey — understand the problem, shape the solution, prototype it, build it, ship it, and drive impact.",
-        "This isn’t a traditional PM role. You won’t just write specs and hand them off. You’ll build.",
-        "You’ll use AI-native tools, agents, APIs, automations and internal systems to make teams dramatically more productive — and make things possible that weren’t possible before.",
-        "Find high-impact problems across Razorpay where AI can create step-change impact",
-        "Work with leadership and teams to identify, prioritise and drive AI initiatives.",
-        "Own products end-to-end — discovery → solutioning → building → shipping → adoption → impact",
-        "Rapidly prototype and build using Cursor, Claude Code, Replit, Lovable",
-        "and similar tools.",
-        "Build AI agents and workflows",
-        "that reason, use tools, make decisions and take actions."
-      ],
-      "requirements": [
-        "2+ years",
-        "of experience building products — as a PM or an engineering (or in combination)",
-        "You’re AI-native",
-        ". Cursor / Claude Code isn’t a novelty — it’s part of how you build.",
-        "You can go from problem → prototype → working product",
-        "without waiting for a detailed spec.",
-        "Strong understanding of LLMs, prompting, agents, tool calling, RAG, APIs, MCPs and evaluations",
-        "Comfortable reading and writing code, debugging, working with APIs and moving across the stack.",
-        "Strong product sense — you ask “why?” before “how?”",
-        "You’ve shipped products and care deeply about adoption and outcomes",
-        ", not just launches.",
-        "Comfortable operating with high autonomy and ambiguity"
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · Razorpay",
-      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699107005",
-      "postedAt": "2026-09-07",
-      "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-10-08",
-      "status": "Active"
-    },
-    {
       "id": "job_743d10",
       "slug": "product-manager-ii-ads-razorpay-bengaluru-743d10",
       "title": "Product Manager II - Ads",
@@ -85713,6 +85717,87 @@
       "salary": null,
       "source": "Greenhouse · Razorpay",
       "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729533005",
+      "postedAt": "2026-09-07",
+      "firstSeenAt": "2026-09-10T09:04:56.856Z",
+      "lastSeenAt": "2026-10-08",
+      "status": "Active"
+    },
+    {
+      "id": "job_d0223a",
+      "slug": "senior-product-manager-razorpay-bengaluru-d0223a",
+      "title": "Senior Product Manager",
+      "company": {
+        "id": "razorpay",
+        "name": "Razorpay",
+        "logo": null,
+        "domain": "razorpay.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 6,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "SaaS",
+        "AI"
+      ],
+      "skills": [
+        "Experimentation",
+        "SQL",
+        "Analytics",
+        "Go-to-Market",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Payments",
+        "Fraud"
+      ],
+      "tags": [
+        "Fintech",
+        "SaaS",
+        "AI",
+        "Senior Product Manager",
+        "Onsite",
+        "Experimentation",
+        "SQL",
+        "Analytics"
+      ],
+      "description": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we’ve since grown into a fintech powerhouse driving India’s digital payment revolution.\n\nRazorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow.\n\nFrom building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech\n\nAcross India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that’s redefining how money moves across Asia.\n\nToday, that ecosystem supports everyone from early-stage startups to some of India’s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently.\n\nOur scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like",
+      "responsibilities": [
+        "Data-native PM — you think in funnels, cohorts, and experiments before PRDs. You write SQL, build dashboards, and catch insights nobody asked you to find.",
+        "Hands-on with AI agents — you've actually built something with LLMs, not just read about them. Prompt engineering is table stakes.",
+        "Entrepreneur DNA — you've tried building something of your own (a startup, a side project, a 0→1 product) or you're a seasoned Growth PM who's operated across the full acquisition-to-revenue loop.",
+        "Business-grade judgment — you hold your own in revenue conversations, understand unit economics, and translate growth levers into P&L impact.",
+        "This is not a feature PM role.",
+        "There's no stable roadmap someone hands you. You define problems, find levers, ship fast, and measure what matters.",
+        "Build Customer Empathy: PMs have to regularly meet and understand customer needs first-hand as well as stay on top of the customer pulse via secondary insights - both qualitative and quantitative.",
+        "Devise Strategy: Define both long-term strategy and quarterly roadmap to achieve the product vision and create impact.",
+        "Conceptualize new solutions: Product Conceptualization with a problem first, data-driven, and test & iterate approach. Ensures conceptualization from a platform and a long-term view. Ensures value-based prioritization of product initiatives.",
+        "Build products: Collaborate with Engineering and ecosystem players to build products that customers love. Produce high-quality product specifications and effectively prioritize and manage the scope of each product launch to deliver products and features on time.",
+        "Launch products: Draft and execute a go-to-market plan in conjunction with Product Marketing. Be the internal and external authority and advocate for your given area of focus.",
+        "Ecosystem collaboration: Self-starter to collaborate closely with ecosystem players to co-build products that don’t exist"
+      ],
+      "requirements": [
+        "You are obsessed with users but grounded in business and data.",
+        "You have 6+ years of experience in product management with at least 2 years focused on growth or PLG initiatives.",
+        "You're hands-on, hungry, and thrive in fast-paced environments.",
+        "You have a strong command over product analytics and experimentation frameworks.",
+        "You understand technology deeply enough to work well with engineers, but your core superpower is thinking from a customer-first and business-first lens.",
+        "You think in systems, love solving root problems, and approach prioritization through impact and effort.",
+        "You’re structured in thinking, biased for action, and love taking ownership end-to-end.",
+        "Razorpay believes in and follows an equal employment opportunity policy that doesn't discriminate on gender, religion, sexual orientation, colour, nationality, age, etc. We welcome interests and applications from all groups and communities across the globe.",
+        "Follow us on LinkedIn & Twitter"
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Razorpay",
+      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
       "postedAt": "2026-09-07",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
       "lastSeenAt": "2026-10-08",
@@ -86517,90 +86602,6 @@
       "status": "Expired"
     },
     {
-      "id": "job_6bfa7f",
-      "slug": "senior-product-manager-mongodb-delhi-ncr-6bfa7f",
-      "title": "Senior Product Manager",
-      "company": {
-        "id": "mongodb",
-        "name": "MongoDB",
-        "logo": null,
-        "domain": "mongodb.com"
-      },
-      "location": {
-        "city": "Delhi NCR",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 5,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Enterprise"
-      ],
-      "skills": [
-        "Product Strategy",
-        "Experimentation",
-        "Growth",
-        "API",
-        "Platform",
-        "Data",
-        "iOS",
-        "Figma"
-      ],
-      "tags": [
-        "SaaS",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Product Strategy",
-        "Experimentation",
-        "Growth",
-        "API"
-      ],
-      "description": "We're building a new product team in India to help shape how customers build, deploy, and operate AI applications on MongoDB. This is an early hire on a growing team—you'll join while the team is still taking shape, with the opportunity to have real impact from the start.\n\nYou'll report to a Director of Product Management based in Europe, working async-first with partners across India, EMEA, and North America. The engineering team in India is being built in parallel, so you'll be working closely with engineers from the early days of the team.\n\nWe are looking to speak to candidates based in Gurugram for our hybrid working model.\n\nWhat you'll own\n\nYou'll be the end-to-end owner for a core area of our AI application platform—from discovery and vision through roadmap, delivery, and iteration. This is a senior individual contributor role where you lead through ownership, expertise, and cross-functional influence.",
-      "responsibilities": [
-        "Defining product strategy and roadmap for your area, aligned with MongoDB's broader AI strategy and business goals",
-        "Talking to customers — from AI-native startups to large enterprises — to understand how they build and deploy AI applications, where they struggle, and what MongoDB should do about it",
-        "Writing clear product narratives, memos, and specs that align stakeholders, clarify trade-offs, to guide conversations with engineering, design, product marketing, etc",
-        "Partnering with cross-functional stakeholders—including Engineering, Design, Product Marketing, Partners, Sales, and Developer Relations—to scope, prioritize, and ship, balancing experimentation with reliability and scale, and driving positioning, launches, and enablement",
-        "Identifying new opportunities autonomously—spotting gaps, shaping problem spaces, researching industry trends and running discovery sessions with customers",
-        "Define and own clear success metrics for your area and use them to prioritize, make trade-offs and communicate impact",
-        "You'll develop deep expertise in how companies build AI applications — including agentic workflows, retrieval and memory, evaluation, observability, and deployment patterns.",
-        "How we work",
-        "Async-first. Documentation and written communication are how decisions travel across time zones",
-        "Sync when it makes sense. When we need to discuss something live, we hop on a call to unbundle issues together.",
-        "In-person when it matters. The team gets together periodically for planning, relationship-building, and the kind of work that's better done face to face"
-      ],
-      "requirements": [
-        "5+ years in product management (or equivalent) building platforms, infrastructure, or developer-facing products — ideally in cloud, data, or AI",
-        "Proven end-to-end ownership of a product area: from framing the problem and vision through roadmap, execution, launch, and iteration",
-        "Customer obsession: you're comfortable running discovery calls, digging into workflows, and turning messy feedback into clear product decisions",
-        "Strong written and live communication: clear docs, productive meetings, confident stakeholder presentations. This matters more in an async, distributed team — writing is how you lead",
-        "Technical depth sufficient to collaborate with senior engineers on distributed systems, cloud services, and AI/ML tooling, and to ask good questions when something is unclear",
-        "Curiosity about AI: you follow how companies are building AI applications — agents, orchestration frameworks, RAG, fine-tuning, or other emerging patterns",
-        "Comfort with ambiguity: you help define the problem, the success metrics, and the path forward. In an early-stage team, this is the job"
-      ],
-      "preferred": [
-        "Experience building developer tools, AI platforms, or MLOps/LLMOps products",
-        "Engineering background or deep experience partnering with engineering on technical products",
-        "Experience with enterprise customers on mission-critical workloads",
-        "Comfort using AI tools (e.g., Claude, Gemini, Figma Make) to move faster and amplify impact",
-        "How we'll measure success (30/60/90 days)",
-        "We need someone who can onboard quickly and start driving impact early.",
-        "In your first 30 days, you will:",
-        "Ramp up on MongoDB products, AI application patterns, and how our teams work"
-      ],
-      "salary": null,
-      "source": "Greenhouse · MongoDB",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8094528",
-      "postedAt": "2026-09-01",
-      "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-10-08",
-      "status": "Active"
-    },
-    {
       "id": "job_9ac5a3",
       "slug": "senior-product-manager-druva-pune-9ac5a3",
       "title": "Senior Product Manager",
@@ -86650,6 +86651,46 @@
       "applyUrl": "https://www.druva.com/why-druva/explore/careers/jobs/8697486002/?gh_jid=8697486002",
       "postedAt": "2026-09-01",
       "firstSeenAt": "2026-09-11",
+      "lastSeenAt": "2026-10-08",
+      "status": "Active"
+    },
+    {
+      "id": "job_6bfa7f",
+      "slug": "senior-product-manager-mongodb-delhi-ncr-6bfa7f",
+      "title": "Senior Product Manager",
+      "company": {
+        "id": "mongodb",
+        "name": "Mongodb",
+        "logo": null,
+        "domain": "mongodb.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [],
+      "skills": [
+        "Product Strategy"
+      ],
+      "tags": [
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy"
+      ],
+      "description": "Defining product strategy and roadmap for your area,aligned with MongoDBs broader AI strategy and business goals. Talking to customers from AI-native startups to large enterprises to understand how they build and deploy AI applications,where they struggle,and what MongoDB should do about it.\n\nExperience with enterprise customers on mission-critical workloads.",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Naukri",
+      "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-mongodb-software-india-private-limited-gurugram-5-to-10-years-061026925970",
+      "postedAt": "2026-09-01",
+      "firstSeenAt": "2026-09-10",
       "lastSeenAt": "2026-10-08",
       "status": "Active"
     },
