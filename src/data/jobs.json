@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T07:21:11.096Z",
+  "generatedAt": "2026-10-10T10:53:53.463Z",
   "jobs": [
     {
       "id": "job_5d4dbd",
@@ -12752,7 +12752,7 @@
         "id": "ebay",
         "name": "eBay",
         "logo": null,
-        "domain": "ebayinc.com"
+        "domain": "ebay.com"
       },
       "location": {
         "city": "Bengaluru",
@@ -12764,7 +12764,8 @@
       "experienceMin": 6,
       "experienceMax": null,
       "domain": [
-        "Ecommerce"
+        "Ecommerce",
+        "Consumer"
       ],
       "skills": [
         "Product Strategy",
@@ -12776,6 +12777,7 @@
       ],
       "tags": [
         "Ecommerce",
+        "Consumer",
         "Senior Product Manager",
         "Onsite",
         "Product Strategy",
@@ -12788,8 +12790,8 @@
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/sr-product-manager-digital-services-ai-at-ebay-4472695766",
+      "source": "Workday · eBay",
+      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Sr-Product-Manager--Digital-Services-AI_R0076494",
       "postedAt": "2026-10-01",
       "firstSeenAt": "2026-10-01",
       "lastSeenAt": "2026-10-10",
@@ -42004,27 +42006,56 @@
       "experienceLevel": "Product Manager",
       "experienceMin": null,
       "experienceMax": null,
-      "domain": [],
+      "domain": [
+        "Fintech",
+        "Enterprise",
+        "SaaS"
+      ],
       "skills": [
-        "Go-to-Market",
-        "Agile"
+        "Analytics",
+        "API",
+        "Platform",
+        "Data",
+        "B2B",
+        "Payments",
+        "Stakeholder Management",
+        "Agile",
+        "Compliance"
       ],
       "tags": [
+        "Fintech",
+        "Enterprise",
+        "SaaS",
         "Product Manager",
         "Onsite",
-        "Go-to-Market",
-        "Agile"
+        "Analytics",
+        "API",
+        "Platform"
       ],
-      "description": "Bachelor s degree in business or relevant experience\n\n. All About You .",
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nManager, Product Management\n\nManager, Product Management – Data and AI Platform\n\nWHO IS MASTERCARD?\n\nMastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships, and passion, our innovations help individuals, financial institutions, governments, and businesses realize their greatest potential.\n\nOVERVIEW\n\nMastercard is building a cloud-native data platform to power next-generation, data-driven solutions and services. This platform will deliver a data mesh architecture, advanced technologies, and processes that enable Mastercard to scale and innovate at speed.\n\nWe are seeking a seasoned Product Manager to join our Data and AI Platform team. In this role, you will own the product lifecycle—from shaping strategy and defining the roadmap to partnering",
       "responsibilities": [
-        "Agile product management experience in analytical products and business intelligence solutions",
-        "Experience in strategy consulting or developing go-to-market strategies for products"
+        "Define and execute the product roadmap for our Data and AI platform, ensuring alignment with business objectives.",
+        "Lead product development through the full lifecycle—from ideation to launch—driving innovation and measurable outcomes.",
+        "Collaborate closely with engineering teams, participating in technical discussions and leading requirement workshops.",
+        "Use data-driven insights to identify performance challenges, prioritize features, and optimize product adoption and revenue.",
+        "Partner with security, compliance, and legal teams to ensure vendor solutions meet Mastercard standards.",
+        "Drive cross-functional engagement and stakeholder alignment across multiple initiatives."
       ],
-      "requirements": [],
+      "requirements": [
+        "Several years of experience designing and managing data platform solutions for SaaS businesses, with expertise in multi-tenant architectures and analytics.",
+        "Hands-on experience with AWS, Azure, or Google Cloud, and familiarity with AI/ML platforms such as Databricks and Snowflake (preferred).",
+        "Deep understanding of both on-prem and cloud data storage (Amazon S3), multi-tenancy and open architecture concept is a must have.",
+        "Experience in building core foundation layer of complex enterprise product is an added advantage.",
+        "Previous experience as a data engineer or data scientist is a strong advantage, especially in building AI/ML solutions for B2B.",
+        "Proven track record as a Product Owner in Agile environments, with strong backlog management and prioritization skills.",
+        "Exceptional stakeholder management and communication skills, with the ability to influence at all levels.",
+        "Deep understanding of the Data and AI platform landscape, architectural patterns, and emerging technologies.",
+        "Entrepreneurial mindset with a bias for action, ownership, and agility in a fast-paced environment."
+      ],
       "preferred": [],
       "salary": null,
-      "source": "Naukri",
-      "applyUrl": "https://www.naukri.com/job-listings-manager-product-management-mastercard-pune-4-to-9-years-061026501157",
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Management_R-293101",
       "postedAt": "2026-09-23",
       "firstSeenAt": "2026-09-23",
       "lastSeenAt": "2026-10-10",
@@ -50238,21 +50269,40 @@
       "workMode": "Onsite",
       "employmentType": "Full Time",
       "experienceLevel": "Group Product Manager",
-      "experienceMin": null,
+      "experienceMin": 10,
       "experienceMax": null,
-      "domain": [],
-      "skills": [],
-      "tags": [
-        "Group Product Manager",
-        "Onsite"
+      "domain": [
+        "Ecommerce",
+        "Consumer",
+        "Enterprise"
       ],
-      "description": "Success in this role is demonstrated through the ability to shape the long-term evolution of Digital Servicing,elevate product management maturity,influence enterprise priorities without direct authority,and deliver measurable improvements in Guest experience,operational efficiency,and business outcomes",
+      "skills": [
+        "Product Strategy",
+        "Experimentation",
+        "Analytics",
+        "Growth",
+        "Platform",
+        "Data",
+        "Agile",
+        "OKRs"
+      ],
+      "tags": [
+        "Ecommerce",
+        "Consumer",
+        "Enterprise",
+        "Group Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Experimentation",
+        "Analytics"
+      ],
+      "description": "About Target: As a Fortune 50 company with more than 350,000 team members worldwide, Target is an iconic brand and one of America's leading retailers.Working at Target means the opportunity to help all families discover the joy of everyday life. Caring for our communities is woven into who we are, and we invest in the places we collectively live, work and play. We prioritize relationships, fuel and develop talent by creating growth opportunities, and succeed as one Target team. At our core, our purpose is ingrained in who we are, what we value, and how we work. It’s how we care, grow, and win",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "Naukri",
-      "applyUrl": "https://www.naukri.com/job-listings-principal-product-manager-target-bengaluru-10-to-15-years-240926503369",
+      "source": "Workday · Target",
+      "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Principal-Product-Manager_R0000454113-1",
       "postedAt": "2026-09-21",
       "firstSeenAt": "2026-09-21",
       "lastSeenAt": "2026-10-10",
@@ -84521,59 +84571,6 @@
       "status": "Active"
     },
     {
-      "id": "job_204311",
-      "slug": "lead-product-manager-technical-mastercard-pune-204311",
-      "title": "Lead Product Manager- Technical",
-      "company": {
-        "id": "mastercard",
-        "name": "Mastercard",
-        "logo": null,
-        "domain": "mastercard.com"
-      },
-      "location": {
-        "city": "Pune",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Lead Product Manager",
-      "experienceMin": null,
-      "experienceMax": null,
-      "domain": [
-        "Fintech",
-        "SaaS"
-      ],
-      "skills": [
-        "API",
-        "Platform",
-        "Data",
-        "Payments",
-        "Agile",
-        "Scrum"
-      ],
-      "tags": [
-        "Fintech",
-        "SaaS",
-        "Lead Product Manager",
-        "Onsite",
-        "API",
-        "Platform",
-        "Data",
-        "Payments"
-      ],
-      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle And Summary\n\nLead Product Manager- Technical\n\nOverview\n\nAre you a product management professional who wants to shape the cloud platform for Mastercard’s products? Do you want to work for a company that offers above and beyond benefits including paid parental leave, flexible work hours, gift matching, and even volunteer incentives? Do you want to work in an inclusive and nurturing culture that encourages your own professional learning and development?\n\nROLE\n\nWe are looking for seasoned Product Management professionals to join our team and help us build towards the future. Product Management-Technical (PM-T) are technical roles and work closely with Technical Program Managers, Software Design Engineers, User Experience, Operations and internal customers to define the details behind the business requirements, the specifications, the user experience, and the API strategy for platform building blocks they own. Our PM-Ts use the Working Backwards process, which is all about",
-      "responsibilities": [],
-      "requirements": [],
-      "preferred": [],
-      "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/lead-product-manager-technical-at-mastercard-4452825413",
-      "postedAt": "2026-09-08",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-10-10",
-      "status": "Active"
-    },
-    {
       "id": "job_29f119",
       "slug": "principal-product-manager-sumo-logic-delhi-ncr-29f119",
       "title": "Principal Product Manager",
@@ -84797,9 +84794,73 @@
       "status": "Active"
     },
     {
+      "id": "job_204311",
+      "slug": "senior-product-manager-technical-mastercard-pune-204311",
+      "title": "Senior Product Manager - Technical",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Pune",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "Platform",
+        "Data",
+        "Payments"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "Platform",
+        "Data",
+        "Payments"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nSenior Product Manager",
+      "responsibilities": [
+        "Technical",
+        "Overview",
+        "As an employee at Mastercard you are expected to demonstrate 'Mastercard Way' cultural values every day – create value, grow together and move fast – with a relentless focus on doing the right things. As a Senior Product Manager",
+        "Technical at Mastercard, you are expected to perform the following general responsibilities:",
+        "About the role -Responsible for understanding business needs, market opportunities, and technology trends",
+        "Owns the vision for one or more features",
+        "Decomposes business requirements and customer experiences into features and functions that drive the platform/product roadmap.",
+        "Works with Technical Program Managers, Developers, UX designers, and internal customers to define the details behind the business requirements",
+        "Analyzes and interprets voice of the customer and product metrics as a feedback loop into the backlog and balances the priorities against new features",
+        "Recommends trade-off decisions on platform product features/depth of features/backlog items",
+        "Owns and manages product documentation ensuring features and associated documentation are clear and easily consumable by other engineering teams",
+        "All about you"
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Product-Manager---Technical_R-291717-1",
+      "postedAt": "2026-09-08",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-10-10",
+      "status": "Active"
+    },
+    {
       "id": "job_bddb01",
-      "slug": "specialist-product-manager-mastercard-pune-bddb01",
-      "title": "Specialist Product Manager",
+      "slug": "senior-specialist-product-manager-mastercard-pune-bddb01",
+      "title": "Senior Specialist Product Manager",
       "company": {
         "id": "mastercard",
         "name": "Mastercard",
@@ -84815,19 +84876,39 @@
       "experienceLevel": "Senior Product Manager",
       "experienceMin": 5,
       "experienceMax": null,
-      "domain": [],
-      "skills": [],
-      "tags": [
-        "Senior Product Manager",
-        "Onsite"
+      "domain": [
+        "Fintech",
+        "Enterprise"
       ],
-      "description": "Experience building with AI or using AI to enhance an existing software application . 5+ years of professional experience in a similar role,or equivalent",
-      "responsibilities": [],
+      "skills": [
+        "Product Strategy",
+        "Experimentation",
+        "User Research",
+        "API",
+        "Platform",
+        "Data",
+        "Payments",
+        "Agile"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Experimentation",
+        "User Research",
+        "API"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nSenior Specialist Product Manager\n\nSenior Product Manager, Business Experimentation & Optimization\n\nWho is Mastercard?\n\nMastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.\n\nOur decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.\n\nOverview\n\nThe Services team is a key differentiator for Mastercard, providing cutting-edge products and services that help our customers. Focused on thinking big and scaling",
+      "responsibilities": [
+        "Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines."
+      ],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "Naukri",
-      "applyUrl": "https://www.naukri.com/job-listings-specialist-product-manager-mastercard-pune-5-to-10-years-210926502445",
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Specialist-Product-Manager_R-290092",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-10-10",
@@ -86760,7 +86841,7 @@
         "id": "ebay",
         "name": "eBay",
         "logo": null,
-        "domain": "ebayinc.com"
+        "domain": "ebay.com"
       },
       "location": {
         "city": "Bengaluru",
@@ -86773,8 +86854,8 @@
       "experienceMax": null,
       "domain": [
         "Ecommerce",
-        "Fintech",
-        "AI"
+        "Consumer",
+        "Fintech"
       ],
       "skills": [
         "Analytics",
@@ -86790,15 +86871,15 @@
       ],
       "tags": [
         "Ecommerce",
+        "Consumer",
         "Fintech",
-        "AI",
         "Senior Product Manager",
         "Onsite",
         "Analytics",
         "Growth",
         "Platform"
       ],
-      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nLocation: India\n\nAt eBay, we're more than a global eCommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of eCommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nWithin the risk & Compliance team our vision is “Deliver intuitive risk,",
+      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nLocation\n\n: India\n\nAt eBay, we're more than a global eCommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of eCommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nWithin the risk & Compliance team our vision is “Deliver intuitive risk,",
       "responsibilities": [
         "Create Product Vision & Strategy. Lead the comprehensive vision and end-to-end execution of Risk Platform",
         "Develop a compelling and iterative roadmap and launch plan that supports Risk business needs",
@@ -86816,8 +86897,8 @@
       ],
       "preferred": [],
       "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-ii-at-ebay-4452251899",
+      "source": "Workday · eBay",
+      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager-II_R0076068",
       "postedAt": "2026-08-17",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-10-10",
@@ -87025,7 +87106,7 @@
         "id": "ebay",
         "name": "eBay",
         "logo": null,
-        "domain": "ebayinc.com"
+        "domain": "ebay.com"
       },
       "location": {
         "city": "Bengaluru",
@@ -87038,6 +87119,7 @@
       "experienceMax": null,
       "domain": [
         "Ecommerce",
+        "Consumer",
         "AI"
       ],
       "skills": [
@@ -87049,21 +87131,21 @@
       ],
       "tags": [
         "Ecommerce",
+        "Consumer",
         "AI",
         "Product Manager",
         "Onsite",
         "Analytics",
         "API",
-        "Platform",
-        "Data"
+        "Platform"
       ],
       "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nAt eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-assisted-service-at-ebay-4449848995",
+      "source": "Workday · eBay",
+      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Product-Manager---Assisted-Service_R0074176",
       "postedAt": "2026-08-11",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-10-10",
@@ -87213,6 +87295,8 @@
       "experienceMin": 10,
       "experienceMax": null,
       "domain": [
+        "SaaS",
+        "Enterprise",
         "AI"
       ],
       "skills": [
@@ -87222,21 +87306,31 @@
         "Data"
       ],
       "tags": [
+        "SaaS",
+        "Enterprise",
         "AI",
         "Group Product Manager",
         "Onsite",
         "Growth",
         "API",
-        "Platform",
-        "Data"
+        "Platform"
       ],
-      "description": "Adobe Advertising's DSP powers programmatic advertising for the world's leading brands and agencies across Display, Video, Audio, and CTV. We're seeking a Principal Product Manager to own platform strategy across partner integrations, GenAI-powered creative, usability, and the agentic AI systems reshaping how customers troubleshoot and optimize campaigns.\n\nAs Principal PM, you'll set direction across multiple initiatives, mentor other PMs, and represent the platform to executives and customers. Focus areas may shift based on product priorities.\n\nWhat You'll Own\n\nPlatform Core & Integrations — Prioritize and lead partner integrations and oRTB protocol upgrades; own build-vs-partner tradeoffs and represent integration strategy to partners and standards bodies.\n\nAgentic AI & Intelligent Automation — Co-lead the platform's agentic product suite (troubleshooting and insights agents). Define what trustworthy agent behavior looks like for a high-stakes ad platform; partner with data science and engineering on architecture (async handling, session recovery); design guided UX for non-technical users; validate agent quality through structured betas.\n\nPlatform Usability — Identify and simplify time-consuming, non-intuitive workflows across a data-intensive platform.\n\nPrerequisites\n\n10+ years overall experience, including 8+ years in Product Management, with time operating at senior/principal scope.\n\nDeep programmatic advertising expertise — hands-on experience building DSP, SSP, or",
-      "responsibilities": [],
+      "description": "Adobe Advertising's DSP powers programmatic advertising for the world's leading brands and agencies across Display, Video, Audio, and CTV. We're seeking a Principal Product Manager to own platform strategy across partner integrations, GenAI-powered creative, usability, and the agentic AI systems reshaping how customers troubleshoot and optimize campaigns.\n\nAs Principal PM, you'll set direction across multiple initiatives, mentor other PMs, and represent the platform to executives and customers. Focus areas may shift based on product priorities.\n\nWhat You'll Own\n\nPlatform Core & Integrations\n\n— Prioritize and lead partner integrations and oRTB protocol upgrades; own build-vs-partner tradeoffs and represent integration strategy to partners and standards bodies.\n\nAgentic AI & Intelligent Automation\n\n— Co-lead the platform's agentic product suite (troubleshooting and insights agents). Define what trustworthy agent behavior looks like for a high-stakes ad platform; partner with data science and engineering on architecture (async handling, session recovery); design guided UX for non-technical users; validate agent quality through structured betas.\n\nPlatform Usability\n\n— Identify and simplify time-consuming, non-intuitive workflows across a data-intensive platform.\n\nPrerequisites",
+      "responsibilities": [
+        "10+ years overall experience",
+        ", including 8+ years in Product Management, with time operating at senior/principal scope.",
+        "Deep programmatic advertising expertise — hands-on experience building DSP, SSP, or Exchange products, fluent in oRTB and bid-stream economics.",
+        "Agentic/AI product experience",
+        "— has shipped an LLM-powered or agentic feature, owning decisions on reliability, evaluation, guardrails, and AI-output UX.",
+        "Frontend-intensive product experience — designing intuitive workflows for data-heavy products.",
+        "Track record leading partner integrations, weighing customer value against implementation cost.",
+        "Strong executive and customer-facing communication."
+      ],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/principal-product-manager-dsp-advertising-at-adobe-4449763439",
+      "source": "Workday · Adobe",
+      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Principal-Product-Manager--DSP-Advertising-_R171043",
       "postedAt": "2026-08-06",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-10-10",
@@ -87989,6 +88083,7 @@
       "experienceMax": 10,
       "domain": [
         "SaaS",
+        "Enterprise",
         "AI"
       ],
       "skills": [
@@ -88002,16 +88097,28 @@
       ],
       "tags": [
         "SaaS",
+        "Enterprise",
         "AI",
         "Group Product Manager",
         "Onsite",
         "Go-to-Market",
         "Growth",
-        "API",
-        "Platform"
+        "API"
       ],
-      "description": "The Opportunity\n\nWe are seeking an experienced Senior Product Manager to join Firefly group. As part of our ambitious team, you will develop a business around Generative-AI surfaces for Adobe, driving innovation and crafting a flawless user experience. Experience working on AI-based products is highly desirable.\n\nRoadmap and Launch\n\nEngage with customers & stakeholders to understand workflows and difficulties, defining requirements\n\nBuild detailed product requirements and specifications\n\nPlan capacity based on estimated demand and goals\n\nSupport launch phases including Private/Public Beta and GA\n\nCollaborate with go-to-market teams to ensure efficient product launch initiatives\n\nResearch Partnership\n\nStay informed about AI, machine learning, and related industry trends\n\nDevelop relevant evaluation datasets for research models to ensure quality release\n\nConnect with client product teams to influence individual product roadmaps\n\nAnalyze\n\nTrack critical metrics to measure performance, usage, and uptime",
-      "responsibilities": [],
+      "description": "The Opportunity\n\nWe are seeking an experienced Senior Product Manager to join Firefly group. As part of our ambitious team, you will develop a business around Generative-AI surfaces for Adobe, driving innovation and crafting a flawless user experience. Experience working on AI-based products is highly desirable.\n\nRoadmap and Launch",
+      "responsibilities": [
+        "Engage with customers & stakeholders to understand workflows and difficulties, defining requirements",
+        "Build detailed product requirements and specifications",
+        "Plan capacity based on estimated demand and goals",
+        "Support launch phases including Private/Public Beta and GA",
+        "Collaborate with go-to-market teams to ensure efficient product launch initiatives",
+        "Research Partnership",
+        "Stay informed about AI, machine learning, and related industry trends",
+        "Develop relevant evaluation datasets for research models to ensure quality release",
+        "Connect with client product teams to influence individual product roadmaps",
+        "Analyze",
+        "Track critical metrics to measure performance, usage, and uptime"
+      ],
       "requirements": [
         "Bachelor's degree in Computer Science, Engineering, Business, or a similar area of study (Master's degree or equivalent experience preferred)",
         "8-10 years of product management experience, preferably in a large technology company",
@@ -88023,8 +88130,8 @@
       ],
       "preferred": [],
       "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/principal-product-manager-firefly-ui-image-video-at-adobe-4403946729",
+      "source": "Workday · Adobe",
+      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager_R167941",
       "postedAt": "2026-07-17",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-10-10",
