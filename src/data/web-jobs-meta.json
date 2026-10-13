@@ -1,33 +1,30 @@
 {
-  "fetchedAt": "2026-10-10T07:21:10.363Z",
-  "total": 1197,
+  "fetchedAt": "2026-10-13T07:52:58.833Z",
+  "total": 1163,
   "sources": [
     {
       "id": "linkedin",
       "label": "LinkedIn",
-      "status": "kept-previous",
-      "fetched": 0,
-      "kept": 624,
-      "lastSuccessAt": "2026-10-07T07:23:31.891Z",
-      "error": "Apify HTTP 403 on /actors/cheap_scraper~linkedin-job-scraper/runs: {\n  \"error\": {\n    \"type\": \"platform-feature-disabled\",\n    \"message\": \"Monthly usage hard limit exceeded\"\n  }\n}"
+      "status": "ok",
+      "fetched": 300,
+      "kept": 251,
+      "lastSuccessAt": "2026-10-13T07:54:01.149Z"
     },
     {
       "id": "naukri",
       "label": "Naukri",
-      "status": "kept-previous",
-      "fetched": 0,
-      "kept": 479,
-      "lastSuccessAt": "2026-10-07T07:24:08.577Z",
-      "error": "Apify HTTP 403 on /actors/valig~naukri-jobs-scraper/runs: {\n  \"error\": {\n    \"type\": \"platform-feature-disabled\",\n    \"message\": \"Monthly usage hard limit exceeded\"\n  }\n}"
+      "status": "ok",
+      "fetched": 250,
+      "kept": 243,
+      "lastSuccessAt": "2026-10-13T07:54:36.244Z"
     },
     {
       "id": "indeed",
       "label": "Indeed",
-      "status": "kept-previous",
-      "fetched": 0,
-      "kept": 94,
-      "lastSuccessAt": "2026-10-07T07:24:15.851Z",
-      "error": "Apify HTTP 403 on /actors/valig~indeed-jobs-scraper/runs: {\n  \"error\": {\n    \"type\": \"platform-feature-disabled\",\n    \"message\": \"Monthly usage hard limit exceeded\"\n  }\n}"
+      "status": "ok",
+      "fetched": 250,
+      "kept": 35,
+      "lastSuccessAt": "2026-10-13T07:54:45.338Z"
     },
     {
       "id": "foundit",
