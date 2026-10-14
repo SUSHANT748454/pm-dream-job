@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T09:51:54.898Z",
+  "generatedAt": "2026-10-14T14:48:38.142Z",
   "jobs": [
     {
       "id": "job_b8d597",
@@ -7885,6 +7885,58 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-%E2%80%93-activation-onboarding-commerce-at-wingify-4476246970",
       "postedAt": "2026-10-09",
       "firstSeenAt": "2026-10-13",
+      "lastSeenAt": "2026-10-14",
+      "status": "Active"
+    },
+    {
+      "id": "job_91bedd",
+      "slug": "senior-product-manager-f-e-meesho-bengaluru-91bedd",
+      "title": "Senior Product Manager : F&E",
+      "company": {
+        "id": "meesho",
+        "name": "Meesho",
+        "logo": null,
+        "domain": "meesho.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Ecommerce",
+        "Consumer"
+      ],
+      "skills": [
+        "Experimentation",
+        "Analytics",
+        "User Research",
+        "Go-to-Market",
+        "Growth"
+      ],
+      "tags": [
+        "Ecommerce",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "Experimentation",
+        "Analytics",
+        "User Research",
+        "Go-to-Market"
+      ],
+      "description": "About the Team   Product Management in Meesho closely resembles our rocketship growth. Because we obsess over understanding customer behaviour, we’ve been able to carve out an e-commerce niche in Tier 2/3/4 towns in Bharat. Our business growth is testimony to a singular focus on how we think of ‘product’ for our unique customers",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Meesho",
+      "applyUrl": "https://jobs.lever.co/meesho/102d5a7e-0292-4ddc-8ebc-ba191119349e",
+      "postedAt": "2026-10-09",
+      "firstSeenAt": "2026-10-14",
       "lastSeenAt": "2026-10-14",
       "status": "Active"
     },
@@ -56372,7 +56424,6 @@
       "experienceMax": null,
       "domain": [
         "Fintech",
-        "Enterprise",
         "SaaS"
       ],
       "skills": [
@@ -56388,15 +56439,15 @@
       ],
       "tags": [
         "Fintech",
-        "Enterprise",
         "SaaS",
         "Product Manager",
         "Onsite",
         "Analytics",
         "API",
-        "Platform"
+        "Platform",
+        "Data"
       ],
-      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nManager, Product Management\n\nManager, Product Management – Data and AI Platform\n\nWHO IS MASTERCARD?\n\nMastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships, and passion, our innovations help individuals, financial institutions, governments, and businesses realize their greatest potential.\n\nOVERVIEW\n\nMastercard is building a cloud-native data platform to power next-generation, data-driven solutions and services. This platform will deliver a data mesh architecture, advanced technologies, and processes that enable Mastercard to scale and innovate at speed.\n\nWe are seeking a seasoned Product Manager to join our Data and AI Platform team. In this role, you will own the product lifecycle—from shaping strategy and defining the roadmap to partnering",
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle And Summary\n\nManager, Product Management\n\nManager, Product Management – Data and AI Platform\n\nWHO IS MASTERCARD?\n\nMastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships, and passion, our innovations help individuals, financial institutions, governments, and businesses realize their greatest potential.\n\nOverview\n\nMastercard is building a cloud-native data platform to power next-generation, data-driven solutions and services. This platform will deliver a data mesh architecture, advanced technologies, and processes that enable Mastercard to scale and innovate at speed.\n\nWe are seeking a seasoned Product Manager to join our Data and AI Platform team. In this role, you will own the product lifecycle—from shaping strategy and defining the roadmap to partnering",
       "responsibilities": [
         "Define and execute the product roadmap for our Data and AI platform, ensuring alignment with business objectives.",
         "Lead product development through the full lifecycle—from ideation to launch—driving innovation and measurable outcomes.",
@@ -56418,8 +56469,8 @@
       ],
       "preferred": [],
       "salary": null,
-      "source": "Workday · Mastercard",
-      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Management_R-293101",
+      "source": "LinkedIn",
+      "applyUrl": "https://in.linkedin.com/jobs/view/manager-product-management-at-mastercard-4474836495",
       "postedAt": "2026-09-23",
       "firstSeenAt": "2026-09-23",
       "lastSeenAt": "2026-10-14",
