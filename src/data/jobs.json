@@ -1,6 +1,74 @@
 {
-  "generatedAt": "2026-10-14T02:55:54.754Z",
+  "generatedAt": "2026-10-14T09:51:54.898Z",
   "jobs": [
+    {
+      "id": "job_b8d597",
+      "slug": "global-product-manager-respiratory-accessories-philips-bengaluru-b8d597",
+      "title": "Global Product Manager - Respiratory Accessories",
+      "company": {
+        "id": "philips",
+        "name": "Philips",
+        "logo": null,
+        "domain": "philips.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "Healthcare",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Analytics",
+        "Go-to-Market",
+        "Growth",
+        "Data",
+        "Demand",
+        "Stakeholder Management",
+        "Compliance"
+      ],
+      "tags": [
+        "Healthcare",
+        "Enterprise",
+        "Lead Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Analytics",
+        "Go-to-Market",
+        "Growth"
+      ],
+      "description": "",
+      "responsibilities": [
+        "Respiratory Accessories",
+        "Job Description",
+        "As a",
+        "Global Product Manager(GPM)- Respiratory Accessories,",
+        "you will work on",
+        "sustaining and optimizing the existing respiratory accessories portfolio",
+        ", including roadmap prioritization, portfolio simplification, margin, and lifecycle performance",
+        "Your role:",
+        "Product roadmap and go-to-market understanding",
+        "Owns the",
+        "execution of the claims roadmap by collaborating with cross-functional teams",
+        "to prioritize validated claims based on market trends and regulatory requirements, while continuously optimizing the strategy through analysis of competitor activity, customer insights, and compliance needs."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Philips",
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Global-Product-Manager---Respiratory-Accessories_593014-1",
+      "postedAt": "2026-10-14",
+      "firstSeenAt": "2026-10-14",
+      "lastSeenAt": "2026-10-14",
+      "status": "Active"
+    },
     {
       "id": "job_080abd",
       "slug": "associate-product-manager-ketto-mumbai-080abd",
@@ -8714,37 +8782,21 @@
       "experienceLevel": "Lead Product Manager",
       "experienceMin": null,
       "experienceMax": null,
-      "domain": [
-        "Fintech",
-        "Enterprise"
-      ],
-      "skills": [
-        "Product Strategy",
-        "Analytics",
-        "Growth",
-        "Platform",
-        "Data",
-        "B2B",
-        "Payments",
-        "Compliance"
-      ],
+      "domain": [],
+      "skills": [],
       "tags": [
-        "Fintech",
-        "Enterprise",
         "Lead Product Manager",
-        "Onsite",
-        "Product Strategy",
-        "Analytics",
-        "Growth",
-        "Platform"
+        "Onsite"
       ],
-      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nLead Product Manager (AI)-2",
-      "responsibilities": [],
+      "description": "constraints back into product requirements without losing velocity.",
+      "responsibilities": [
+        "Manage stakeholder expectations across business,technology,and customer-facing teams"
+      ],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "Workday · Mastercard",
-      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--AI--2_R-292455",
+      "source": "Naukri",
+      "applyUrl": "https://www.naukri.com/job-listings-lead-product-manager-ai-2-mastercard-pune-3-to-5-years-091026505262",
       "postedAt": "2026-10-08",
       "firstSeenAt": "2026-10-08",
       "lastSeenAt": "2026-10-14",
@@ -28814,7 +28866,8 @@
       "experienceMin": 8,
       "experienceMax": null,
       "domain": [
-        "Fintech"
+        "Fintech",
+        "Enterprise"
       ],
       "skills": [
         "SQL",
@@ -28823,17 +28876,18 @@
       ],
       "tags": [
         "Fintech",
+        "Enterprise",
         "Lead Product Manager",
         "Onsite",
         "SQL",
         "Data",
         "Payments"
       ],
-      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nLead Product Manager",
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nLead Product Manager",
       "responsibilities": [
         "Technical",
         "Data Lake/ Data Warehouse",
-        "Who is Mastercard",
+        "Who is Mastercard?",
         "Mastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.",
         "Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.",
         "Overview",
@@ -28847,8 +28901,8 @@
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "Naukri",
-      "applyUrl": "https://www.naukri.com/job-listings-lead-product-manager-technical-data-lake-data-warehouse-mastercard-pune-8-to-13-years-011026502163",
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager---Technical---Data-Lake--Data-Warehouse_R-291933",
       "postedAt": "2026-09-30",
       "firstSeenAt": "2026-09-30",
       "lastSeenAt": "2026-10-14",
@@ -64542,40 +64596,49 @@
       "workMode": "Onsite",
       "employmentType": "Full Time",
       "experienceLevel": "Group Product Manager",
-      "experienceMin": 10,
+      "experienceMin": 8,
       "experienceMax": null,
       "domain": [
         "Ecommerce",
-        "Consumer",
-        "Enterprise"
+        "Consumer"
       ],
       "skills": [
         "Product Strategy",
         "Experimentation",
-        "Analytics",
-        "Growth",
+        "API",
         "Platform",
-        "Data",
-        "Agile",
-        "OKRs"
+        "Data"
       ],
       "tags": [
         "Ecommerce",
         "Consumer",
-        "Enterprise",
         "Group Product Manager",
         "Onsite",
         "Product Strategy",
         "Experimentation",
-        "Analytics"
+        "API",
+        "Platform"
       ],
-      "description": "About Target: As a Fortune 50 company with more than 350,000 team members worldwide, Target is an iconic brand and one of America's leading retailers.Working at Target means the opportunity to help all families discover the joy of everyday life. Caring for our communities is woven into who we are, and we invest in the places we collectively live, work and play. We prioritize relationships, fuel and develop talent by creating growth opportunities, and succeed as one Target team. At our core, our purpose is ingrained in who we are, what we value, and how we work. It’s how we care, grow, and win",
-      "responsibilities": [],
+      "description": "Principal Product Manager – Core Intelligence and Optimization\n\nTarget in India | L7 Individual Contributor\n\nAbout the Job – Principal Product Manager, Core Intelligence and Optimization\n\nTarget’s stores operate at extraordinary scale and complexity. Every day, millions of signals across inventory, workload, space, team member activity and physical environments create opportunities to make smarter operational decisions.\n\nAs a\n\nPrincipal Product Manager for Core Intelligence and Optimization\n\n, you will help shape how Target turns those signals into intelligence.\n\nYou will be a senior product thought leader working across Core Intelligence to identify and solve some of Target’s hardest problems at the intersection of\n\nAI, data science, operational intelligence, recommendation, optimization and automation\n\nYour role will extend beyond any single product. You will explore emerging opportunities, frame ambiguous problems, incubate new intelligence capabilities and connect products across the intelligence lifecycle—from understanding operational context through recommendation and optimization.\n\nYou will influence Product, Engineering, Data Science, UX and Operations leaders across the enterprise and help shape Target's evolving approach to intelligent Store systems.\n\nCore Intelligence Optimization Product Strategy & Innovation",
+      "responsibilities": [
+        "Shape long-term product thinking for Core Intelligence and identify emerging opportunities across intelligent systems, AI/ML, recommendation, optimization and automation.",
+        "Develop strong product perspectives on how Target can use operational and physical signals to create differentiated Store intelligence.",
+        "Identify complex, cross-cutting problems where intelligence can create meaningful value for guests, team members and Store operations.",
+        "Translate ambiguous opportunities into clear problem spaces, hypotheses and product strategies.",
+        "Help determine where Target should build reusable intelligence capabilities versus domain-specific solutions.",
+        "Discovery, Experimentation & Incubation",
+        "Lead discovery for emerging intelligence opportunities that span existing product or organizational boundaries.",
+        "Partner deeply with Engineering, Data Science, AI/ML, UX and Operations to explore problems and potential solutions.",
+        "Use simulation, experimentation, prototypes and data to rapidly validate hypotheses.",
+        "Incubate new intelligence capabilities until there is sufficient evidence and clarity to scale.",
+        "Establish measurable feedback loops that connect intelligence and recommendations to operational outcomes.",
+        "Challenge teams to demonstrate value and learning before scaling investment."
+      ],
       "requirements": [],
       "preferred": [],
       "salary": null,
       "source": "Workday · Target",
-      "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Principal-Product-Manager_R0000454113-1",
+      "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Principal-Product-Manager_R0000449195",
       "postedAt": "2026-09-21",
       "firstSeenAt": "2026-09-21",
       "lastSeenAt": "2026-10-14",
@@ -99031,8 +99094,7 @@
       "experienceMin": 5,
       "experienceMax": null,
       "domain": [
-        "Fintech",
-        "Enterprise"
+        "Fintech"
       ],
       "skills": [
         "Product Strategy",
@@ -99046,7 +99108,6 @@
       ],
       "tags": [
         "Fintech",
-        "Enterprise",
         "Senior Product Manager",
         "Onsite",
         "Product Strategy",
@@ -99054,15 +99115,13 @@
         "User Research",
         "API"
       ],
-      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nSenior Specialist Product Manager\n\nSenior Product Manager, Business Experimentation & Optimization\n\nWho is Mastercard?\n\nMastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.\n\nOur decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.\n\nOverview\n\nThe Services team is a key differentiator for Mastercard, providing cutting-edge products and services that help our customers. Focused on thinking big and scaling",
-      "responsibilities": [
-        "Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines."
-      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle And Summary\n\nSenior Specialist Product Manager\n\nSenior Product Manager, Business Experimentation & Optimization\n\nWho is Mastercard?\n\nMastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.\n\nOur decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.\n\nOverview\n\nThe Services team is a key differentiator for Mastercard, providing cutting-edge products and services that help our customers. Focused on thinking big and scaling",
+      "responsibilities": [],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "Workday · Mastercard",
-      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Specialist-Product-Manager_R-290092",
+      "source": "LinkedIn",
+      "applyUrl": "https://in.linkedin.com/jobs/view/senior-specialist-product-manager-at-mastercard-4477139835",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-10-14",
@@ -99191,6 +99250,76 @@
       "status": "Active"
     },
     {
+      "id": "job_d0223a",
+      "slug": "product-manager-ii-razorpay-bengaluru-d0223a",
+      "title": "Product Manager II",
+      "company": {
+        "id": "razorpay",
+        "name": "Razorpay",
+        "logo": null,
+        "domain": "razorpay.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 4,
+      "experienceMax": 7,
+      "domain": [
+        "Fintech",
+        "SaaS"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Experimentation",
+        "Analytics",
+        "Growth",
+        "Monetization",
+        "API",
+        "Platform",
+        "Data",
+        "Payments",
+        "Fraud"
+      ],
+      "tags": [
+        "Fintech",
+        "SaaS",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Experimentation",
+        "Analytics",
+        "Growth"
+      ],
+      "description": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we’ve since grown into a fintech powerhouse driving India’s digital payment revolution.\n\nRazorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow.\n\nFrom building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech\n\nAcross India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that’s redefining how money moves across Asia.\n\nToday, that ecosystem supports everyone from early-stage startups to some of India’s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently.\n\nOur scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like",
+      "responsibilities": [
+        "As a PM2, you will independently own a product area or platform charter end-to-end — from strategy and roadmap to execution and business impact. You will operate with significant autonomy and drive initiatives across customer experience, platform scalability, automation, growth, and monetization. You will be expected to think beyond features and solve for systems, operational leverage, and long-term platform evolution.",
+        "1. Build Customer Empathy",
+        "Regularly engage with customers, internal stakeholders, and ecosystem partners to deeply understand pain points, workflows, and unmet needs through both qualitative and quantitative insights.",
+        "2. Drive Product Strategy",
+        "Define long-term product vision and quarterly roadmap aligned with business goals, customer outcomes, and platform scalability.",
+        "3. Build Scalable Products",
+        "Collaborate with engineering, design, analytics, and operations teams to build reliable, scalable, and high-impact products.",
+        "4. Lead Product Execution",
+        "Write high-quality product specifications, prioritize effectively, manage tradeoffs, and ensure timely execution across releases",
+        "5. Own Metrics & Outcomes",
+        "Define success metrics, monitor business impact, and driveiterative improvements through experimentation and data analysis.",
+        "6. Ecosystem Collaboration"
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Razorpay",
+      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736965005",
+      "postedAt": "2026-09-07",
+      "firstSeenAt": "2026-09-10T09:04:56.856Z",
+      "lastSeenAt": "2026-10-14",
+      "status": "Active"
+    },
+    {
       "id": "job_743d10",
       "slug": "product-manager-ii-ads-razorpay-bengaluru-743d10",
       "title": "Product Manager II - Ads",
@@ -99259,80 +99388,6 @@
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
       "lastSeenAt": "2026-10-08",
       "status": "Expired"
-    },
-    {
-      "id": "job_d0223a",
-      "slug": "senior-product-manager-razorpay-bengaluru-d0223a",
-      "title": "Senior Product Manager",
-      "company": {
-        "id": "razorpay",
-        "name": "Razorpay",
-        "logo": null,
-        "domain": "bit.ly"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 6,
-      "experienceMax": null,
-      "domain": [
-        "Fintech",
-        "AI"
-      ],
-      "skills": [
-        "Experimentation",
-        "SQL",
-        "Analytics",
-        "Go-to-Market",
-        "Growth",
-        "API",
-        "Platform",
-        "Data",
-        "Payments",
-        "Fraud"
-      ],
-      "tags": [
-        "Fintech",
-        "AI",
-        "Senior Product Manager",
-        "Onsite",
-        "Experimentation",
-        "SQL",
-        "Analytics",
-        "Go-to-Market"
-      ],
-      "description": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we’ve since grown into a fintech powerhouse driving India’s digital payment revolution.\n\nRazorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow.\n\nFrom building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech\n\nAcross India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that’s redefining how money moves across Asia.\n\nToday, that ecosystem supports everyone from early-stage startups to some of India’s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently.\n\nOur scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like",
-      "responsibilities": [
-        "Build Customer Empathy: PMs have to regularly meet and understand customer needs first-hand as well as stay on top of the customer pulse via secondary insights - both qualitative and quantitative.",
-        "Devise Strategy: Define both long-term strategy and quarterly roadmap to achieve the product vision and create impact.",
-        "Conceptualize new solutions: Product Conceptualization with a problem first, data-driven, and test & iterate approach. Ensures conceptualization from a platform and a long-term view. Ensures value-based prioritization of product initiatives.",
-        "Build products: Collaborate with Engineering and ecosystem players to build products that customers love. Produce high-quality product specifications and effectively prioritize and manage the scope of each product launch to deliver products and features on time.",
-        "Launch products: Draft and execute a go-to-market plan in conjunction with Product Marketing. Be the internal and external authority and advocate for your given area of focus.",
-        "Ecosystem collaboration: Self-starter to collaborate closely with ecosystem players to co-build products that don’t exist",
-        "Mandatory"
-      ],
-      "requirements": [
-        "You are obsessed with users but grounded in business and data.",
-        "You have 6+ years of experience in product management with at least 2 years focused on growth or PLG initiatives.",
-        "You're hands-on, hungry, and thrive in fast-paced environments.",
-        "You understand technology deeply enough to work well with engineers, but your core superpower is thinking from a customer-first and business-first lens.",
-        "You think in systems, love solving root problems, and approach prioritization through impact and effort.",
-        "You’re structured in thinking, biased for action, and love taking ownership end-to-end.",
-        "Razorpay believes in and follows an equal employment opportunity policy that doesn't discriminate on gender, religion, sexual orientation, colour, nationality, age, etc. We welcome interests and applications from all groups and communities across the globe.",
-        "Follow us on LinkedIn & Twitter"
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-at-razorpay-4476301776",
-      "postedAt": "2026-09-07",
-      "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-10-14",
-      "status": "Active"
     },
     {
       "id": "job_b21ebf",
@@ -99472,83 +99527,6 @@
       "status": "Expired"
     },
     {
-      "id": "job_aeae06",
-      "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
-      "title": "Senior Product Manager - SAP FICO",
-      "company": {
-        "id": "zoominfo",
-        "name": "ZoomInfo",
-        "logo": null,
-        "domain": "zoominfo.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 10,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Fintech",
-        "Enterprise"
-      ],
-      "skills": [
-        "Go-to-Market",
-        "API",
-        "Platform",
-        "Data",
-        "Agile"
-      ],
-      "tags": [
-        "SaaS",
-        "Fintech",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Go-to-Market",
-        "API",
-        "Platform"
-      ],
-      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
-      "responsibilities": [
-        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
-        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
-        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
-        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
-        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
-        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
-        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
-        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
-        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
-        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
-      ],
-      "requirements": [
-        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
-        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
-        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
-        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
-        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
-        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
-        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
-        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
-        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
-        "SAP Certification in Finance or a related SAP discipline.",
-        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
-        "Experience in high-tech, SaaS, software, or Finance transformation programs."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · ZoomInfo",
-      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
-      "postedAt": "2026-09-05",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-10-14",
-      "status": "Active"
-    },
-    {
       "id": "job_a4f741",
       "slug": "senior-product-manager-sap-fico-zoominfo-chennai-a4f741",
       "title": "Senior Product Manager - SAP FICO",
@@ -99620,6 +99598,83 @@
       "salary": null,
       "source": "Greenhouse · ZoomInfo",
       "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8733078002",
+      "postedAt": "2026-09-05",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-10-14",
+      "status": "Active"
+    },
+    {
+      "id": "job_aeae06",
+      "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
+      "title": "Senior Product Manager - SAP FICO",
+      "company": {
+        "id": "zoominfo",
+        "name": "ZoomInfo",
+        "logo": null,
+        "domain": "zoominfo.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "API",
+        "Platform",
+        "Data",
+        "Agile"
+      ],
+      "tags": [
+        "SaaS",
+        "Fintech",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "API",
+        "Platform"
+      ],
+      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
+      "responsibilities": [
+        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
+        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
+        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
+        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
+        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
+        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
+        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
+        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
+        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
+        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
+      ],
+      "requirements": [
+        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
+        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
+        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
+        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
+        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
+        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
+        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
+        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
+        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
+        "SAP Certification in Finance or a related SAP discipline.",
+        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
+        "Experience in high-tech, SaaS, software, or Finance transformation programs."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · ZoomInfo",
+      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
       "postedAt": "2026-09-05",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-10-14",
@@ -101163,6 +101218,59 @@
       "applyUrl": "https://jobs.lever.co/meesho/4891a891-f431-4e98-99ae-0e31a21f0190",
       "postedAt": "2026-08-12",
       "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-10-14",
+      "status": "Active"
+    },
+    {
+      "id": "job_5f1038",
+      "slug": "product-manager-ii-growth-anchit-meesho-bengaluru-5f1038",
+      "title": "Product Manager II - Growth (Anchit)",
+      "company": {
+        "id": "meesho",
+        "name": "Meesho",
+        "logo": null,
+        "domain": "meesho.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Ecommerce",
+        "Consumer"
+      ],
+      "skills": [
+        "Experimentation",
+        "Analytics",
+        "User Research",
+        "Go-to-Market",
+        "Growth",
+        "Stakeholder Management"
+      ],
+      "tags": [
+        "Ecommerce",
+        "Consumer",
+        "Product Manager",
+        "Onsite",
+        "Experimentation",
+        "Analytics",
+        "User Research",
+        "Go-to-Market"
+      ],
+      "description": "About the Team    Product Management in Meesho closely resembles our rocketship growth. Because we obsess over understanding customer behaviour, we’ve been able to carve out an e-commerce niche in Tier 2/3/4 towns in Bharat. Our business growth is testimony to a singular focus on how we think of ‘product’ for our unique customers",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Meesho",
+      "applyUrl": "https://jobs.lever.co/meesho/b56573f0-c701-422a-abfa-ac8bbdbfa645",
+      "postedAt": "2026-08-12",
+      "firstSeenAt": "2026-10-14",
       "lastSeenAt": "2026-10-14",
       "status": "Active"
     },
@@ -111190,6 +111298,7 @@
       "companySize": "5000+",
       "description": "Philips is a healthcare company hiring product managers in India.",
       "locations": [
+        "Bengaluru",
         "Pune"
       ]
     },
@@ -111785,8 +111894,8 @@
       "id": "razorpay",
       "name": "Razorpay",
       "logo": null,
-      "domain": "bit.ly",
-      "website": "https://bit.ly",
+      "domain": "razorpay.com",
+      "website": "https://razorpay.com",
       "industry": "Fintech",
       "companySize": "1000-5000",
       "description": "Razorpay is a fintech company hiring product managers in India.",
@@ -114878,8 +114987,8 @@
       "companySize": "1000-5000",
       "description": "ZoomInfo is a saas company hiring product managers in India.",
       "locations": [
-        "Bengaluru",
-        "Chennai"
+        "Chennai",
+        "Bengaluru"
       ]
     },
     {
