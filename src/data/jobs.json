@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T14:48:38.142Z",
+  "generatedAt": "2026-10-14T19:05:53.237Z",
   "jobs": [
     {
       "id": "job_b8d597",
@@ -11715,7 +11715,7 @@
         "id": "ebay",
         "name": "eBay",
         "logo": null,
-        "domain": "ebay.com"
+        "domain": "ebayinc.com"
       },
       "location": {
         "city": "Bengaluru",
@@ -11728,8 +11728,7 @@
       "experienceMax": null,
       "domain": [
         "Fintech",
-        "Ecommerce",
-        "Consumer"
+        "Ecommerce"
       ],
       "skills": [
         "Product Strategy",
@@ -11746,20 +11745,20 @@
       "tags": [
         "Fintech",
         "Ecommerce",
-        "Consumer",
         "Senior Product Manager",
         "Onsite",
         "Product Strategy",
         "Experimentation",
-        "Analytics"
+        "Analytics",
+        "Growth"
       ],
       "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "Workday · eBay",
-      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Sr-Product-Manager---Seller-Payments_R0077052",
+      "source": "LinkedIn",
+      "applyUrl": "https://in.linkedin.com/jobs/view/sr-product-manager-seller-payments-at-ebay-4477144017",
       "postedAt": "2026-10-08",
       "firstSeenAt": "2026-10-08",
       "lastSeenAt": "2026-10-14",
@@ -28918,8 +28917,7 @@
       "experienceMin": 8,
       "experienceMax": null,
       "domain": [
-        "Fintech",
-        "Enterprise"
+        "Fintech"
       ],
       "skills": [
         "SQL",
@@ -28928,18 +28926,17 @@
       ],
       "tags": [
         "Fintech",
-        "Enterprise",
         "Lead Product Manager",
         "Onsite",
         "SQL",
         "Data",
         "Payments"
       ],
-      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nLead Product Manager",
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nLead Product Manager",
       "responsibilities": [
         "Technical",
         "Data Lake/ Data Warehouse",
-        "Who is Mastercard?",
+        "Who is Mastercard",
         "Mastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.",
         "Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.",
         "Overview",
@@ -28953,8 +28950,8 @@
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "Workday · Mastercard",
-      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager---Technical---Data-Lake--Data-Warehouse_R-291933",
+      "source": "Naukri",
+      "applyUrl": "https://www.naukri.com/job-listings-lead-product-manager-technical-data-lake-data-warehouse-mastercard-pune-8-to-13-years-011026502163",
       "postedAt": "2026-09-30",
       "firstSeenAt": "2026-09-30",
       "lastSeenAt": "2026-10-14",
@@ -98839,6 +98836,59 @@
       "status": "Active"
     },
     {
+      "id": "job_204311",
+      "slug": "lead-product-manager-technical-mastercard-pune-204311",
+      "title": "Lead Product Manager- Technical",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Pune",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "SaaS"
+      ],
+      "skills": [
+        "API",
+        "Platform",
+        "Data",
+        "Payments",
+        "Agile",
+        "Scrum"
+      ],
+      "tags": [
+        "Fintech",
+        "SaaS",
+        "Lead Product Manager",
+        "Onsite",
+        "API",
+        "Platform",
+        "Data",
+        "Payments"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle And Summary\n\nLead Product Manager- Technical\n\nOverview\n\nAre you a product management professional who wants to shape the cloud platform for Mastercard’s products? Do you want to work for a company that offers above and beyond benefits including paid parental leave, flexible work hours, gift matching, and even volunteer incentives? Do you want to work in an inclusive and nurturing culture that encourages your own professional learning and development?\n\nROLE\n\nWe are looking for seasoned Product Management professionals to join our team and help us build towards the future. Product Management-Technical (PM-T) are technical roles and work closely with Technical Program Managers, Software Design Engineers, User Experience, Operations and internal customers to define the details behind the business requirements, the specifications, the user experience, and the API strategy for platform building blocks they own. Our PM-Ts use the Working Backwards process, which is all about",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "LinkedIn",
+      "applyUrl": "https://in.linkedin.com/jobs/view/lead-product-manager-technical-at-mastercard-4452825413",
+      "postedAt": "2026-09-08",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-10-14",
+      "status": "Active"
+    },
+    {
       "id": "job_29f119",
       "slug": "principal-product-manager-sumo-logic-delhi-ncr-29f119",
       "title": "Principal Product Manager",
@@ -99058,70 +99108,6 @@
       "applyUrl": "https://www.themuse.com/jobs/cornerstoneondemand/senior-product-manager-c42e85",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-10-14",
-      "status": "Active"
-    },
-    {
-      "id": "job_204311",
-      "slug": "senior-product-manager-technical-mastercard-pune-204311",
-      "title": "Senior Product Manager - Technical",
-      "company": {
-        "id": "mastercard",
-        "name": "Mastercard",
-        "logo": null,
-        "domain": "mastercard.com"
-      },
-      "location": {
-        "city": "Pune",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": null,
-      "experienceMax": null,
-      "domain": [
-        "Fintech",
-        "Enterprise"
-      ],
-      "skills": [
-        "Go-to-Market",
-        "Platform",
-        "Data",
-        "Payments"
-      ],
-      "tags": [
-        "Fintech",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Go-to-Market",
-        "Platform",
-        "Data",
-        "Payments"
-      ],
-      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nSenior Product Manager",
-      "responsibilities": [
-        "Technical",
-        "Overview",
-        "As an employee at Mastercard you are expected to demonstrate 'Mastercard Way' cultural values every day – create value, grow together and move fast – with a relentless focus on doing the right things. As a Senior Product Manager",
-        "Technical at Mastercard, you are expected to perform the following general responsibilities:",
-        "About the role -Responsible for understanding business needs, market opportunities, and technology trends",
-        "Owns the vision for one or more features",
-        "Decomposes business requirements and customer experiences into features and functions that drive the platform/product roadmap.",
-        "Works with Technical Program Managers, Developers, UX designers, and internal customers to define the details behind the business requirements",
-        "Analyzes and interprets voice of the customer and product metrics as a feedback loop into the backlog and balances the priorities against new features",
-        "Recommends trade-off decisions on platform product features/depth of features/backlog items",
-        "Owns and manages product documentation ensuring features and associated documentation are clear and easily consumable by other engineering teams",
-        "All about you"
-      ],
-      "requirements": [],
-      "preferred": [],
-      "salary": null,
-      "source": "Workday · Mastercard",
-      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Product-Manager---Technical_R-291717-1",
-      "postedAt": "2026-09-08",
-      "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-10-14",
       "status": "Active"
     },
@@ -107061,8 +107047,8 @@
       "id": "ebay",
       "name": "eBay",
       "logo": null,
-      "domain": "ebay.com",
-      "website": "https://ebay.com",
+      "domain": "ebayinc.com",
+      "website": "https://ebayinc.com",
       "industry": "Ecommerce",
       "companySize": "5000+",
       "description": "eBay is a ecommerce company hiring product managers in India.",
