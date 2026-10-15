@@ -1,6 +1,141 @@
 {
-  "generatedAt": "2026-10-15T02:34:58.677Z",
+  "generatedAt": "2026-10-15T09:32:22.359Z",
   "jobs": [
+    {
+      "id": "job_ca7bf5",
+      "slug": "manager-product-experience-design-mastercard-delhi-ncr-ca7bf5",
+      "title": "Manager, Product Experience Design",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Experimentation",
+        "Wireframing",
+        "Growth",
+        "API",
+        "Data",
+        "Mobile",
+        "B2B",
+        "B2C",
+        "Payments",
+        "Figma"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "Product Manager",
+        "Onsite",
+        "Experimentation",
+        "Wireframing",
+        "Growth",
+        "API"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nManager, Product Experience Design\n\nWe are looking for an experienced CX Designer passionate about the possibilities of data and data-driven experience design with good knowledge and experience of User Interface Design to join our rapidly growing, highly-innovative data and services Product Development team\n\nYou will work as part of wider cross-functional team, collectively contributing to the rapid iteration of Prototypes and MVPs (Minimal Viable Product), mainly in the B2B and B2B2C arenas. Each design iteration is exposed to end-users at each cycle of our rapid design-test-redesign process, to ensure optimum user traction. Prototype and MVP outputs include dashboards; widgets; chatbots; web applications; mobile applications; VUI voice interfaces; digital assistants; etc. – all in service of solving complex business challenges.\n\nRole",
+      "responsibilities": [
+        "Design of Proof-of-Concepts and Minimum Viable Data Products (MVPs) using human-centric design principles and rapid prototyping (Lean UX and Design Thinking)",
+        "Participate in \"Design Thinking\" workshops – collaborating cross-functionally with industry verticals, regional leads and end-users to ensure optimal digital data products",
+        "Explore the “art-of-the-possible”",
+        "Leverage existing – and contribute net new – design patterns to Mastercard’s design pattern library",
+        "Help define the next generation of data and data-driven products – and through doing so, help shape the future of Mastercard and its growth",
+        "Work on future state conceptual designs, driving experimentation that improves the quality of product design overall.",
+        "Work closely with key partners from brand & marketing, to drive delightful and highly usable transactional experiences.",
+        "Work closely with our technology teams, leveraging modern presentation layer practices such as adaptive/responsive web and current and forward thinking technologies.",
+        "Ensure that designs deliver an appropriate balance of optimizing business objectives & user engagement, in close partnership with product managers.",
+        "Liaise with regional and country teams to ensure that designs are reflective of the diversity of needs for a global user base.",
+        "Required Experience / Knowledge / Skills (Core)",
+        "Interaction Design:"
+      ],
+      "requirements": [],
+      "preferred": [
+        "Visual Design",
+        "UX Research",
+        "Please attach link to your portfolio together with your application",
+        "Corporate Security Responsibility",
+        "All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:",
+        "Abide by Mastercard’s security policies and practices;",
+        "Ensure the confidentiality and integrity of the information being accessed;",
+        "Report any suspected information security violation or breach, and"
+      ],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Manager--Product-Experience-Design_R-288208",
+      "postedAt": "2026-10-15",
+      "firstSeenAt": "2026-10-15",
+      "lastSeenAt": "2026-10-15",
+      "status": "Active"
+    },
+    {
+      "id": "job_41c127",
+      "slug": "senior-product-manager-core-risk-ebay-bengaluru-41c127",
+      "title": "Senior Product Manager - Core Risk",
+      "company": {
+        "id": "ebay",
+        "name": "eBay",
+        "logo": null,
+        "domain": "ebay.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": null,
+      "domain": [
+        "Ecommerce",
+        "Consumer"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Analytics",
+        "API",
+        "Platform",
+        "Data",
+        "Fraud",
+        "Marketplace",
+        "Agile",
+        "Scrum"
+      ],
+      "tags": [
+        "Ecommerce",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Analytics",
+        "API",
+        "Platform"
+      ],
+      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · eBay",
+      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager---Core-Risk_R0077062",
+      "postedAt": "2026-10-15",
+      "firstSeenAt": "2026-10-15",
+      "lastSeenAt": "2026-10-15",
+      "status": "Active"
+    },
     {
       "id": "job_b8d597",
       "slug": "global-product-manager-respiratory-accessories-philips-bengaluru-b8d597",
@@ -64197,49 +64332,40 @@
       "workMode": "Onsite",
       "employmentType": "Full Time",
       "experienceLevel": "Group Product Manager",
-      "experienceMin": 8,
+      "experienceMin": 10,
       "experienceMax": null,
       "domain": [
         "Ecommerce",
-        "Consumer"
+        "Consumer",
+        "Enterprise"
       ],
       "skills": [
         "Product Strategy",
         "Experimentation",
-        "API",
+        "Analytics",
+        "Growth",
         "Platform",
-        "Data"
+        "Data",
+        "Agile",
+        "OKRs"
       ],
       "tags": [
         "Ecommerce",
         "Consumer",
+        "Enterprise",
         "Group Product Manager",
         "Onsite",
         "Product Strategy",
         "Experimentation",
-        "API",
-        "Platform"
+        "Analytics"
       ],
-      "description": "Principal Product Manager – Core Intelligence and Optimization\n\nTarget in India | L7 Individual Contributor\n\nAbout the Job – Principal Product Manager, Core Intelligence and Optimization\n\nTarget’s stores operate at extraordinary scale and complexity. Every day, millions of signals across inventory, workload, space, team member activity and physical environments create opportunities to make smarter operational decisions.\n\nAs a\n\nPrincipal Product Manager for Core Intelligence and Optimization\n\n, you will help shape how Target turns those signals into intelligence.\n\nYou will be a senior product thought leader working across Core Intelligence to identify and solve some of Target’s hardest problems at the intersection of\n\nAI, data science, operational intelligence, recommendation, optimization and automation\n\nYour role will extend beyond any single product. You will explore emerging opportunities, frame ambiguous problems, incubate new intelligence capabilities and connect products across the intelligence lifecycle—from understanding operational context through recommendation and optimization.\n\nYou will influence Product, Engineering, Data Science, UX and Operations leaders across the enterprise and help shape Target's evolving approach to intelligent Store systems.\n\nCore Intelligence Optimization Product Strategy & Innovation",
-      "responsibilities": [
-        "Shape long-term product thinking for Core Intelligence and identify emerging opportunities across intelligent systems, AI/ML, recommendation, optimization and automation.",
-        "Develop strong product perspectives on how Target can use operational and physical signals to create differentiated Store intelligence.",
-        "Identify complex, cross-cutting problems where intelligence can create meaningful value for guests, team members and Store operations.",
-        "Translate ambiguous opportunities into clear problem spaces, hypotheses and product strategies.",
-        "Help determine where Target should build reusable intelligence capabilities versus domain-specific solutions.",
-        "Discovery, Experimentation & Incubation",
-        "Lead discovery for emerging intelligence opportunities that span existing product or organizational boundaries.",
-        "Partner deeply with Engineering, Data Science, AI/ML, UX and Operations to explore problems and potential solutions.",
-        "Use simulation, experimentation, prototypes and data to rapidly validate hypotheses.",
-        "Incubate new intelligence capabilities until there is sufficient evidence and clarity to scale.",
-        "Establish measurable feedback loops that connect intelligence and recommendations to operational outcomes.",
-        "Challenge teams to demonstrate value and learning before scaling investment."
-      ],
+      "description": "About Target: As a Fortune 50 company with more than 350,000 team members worldwide, Target is an iconic brand and one of America's leading retailers.Working at Target means the opportunity to help all families discover the joy of everyday life. Caring for our communities is woven into who we are, and we invest in the places we collectively live, work and play. We prioritize relationships, fuel and develop talent by creating growth opportunities, and succeed as one Target team. At our core, our purpose is ingrained in who we are, what we value, and how we work. It’s how we care, grow, and win",
+      "responsibilities": [],
       "requirements": [],
       "preferred": [],
       "salary": null,
       "source": "Workday · Target",
-      "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Principal-Product-Manager_R0000449195",
+      "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Principal-Product-Manager_R0000454113-1",
       "postedAt": "2026-09-21",
       "firstSeenAt": "2026-09-21",
       "lastSeenAt": "2026-10-15",
@@ -104135,8 +104261,8 @@
       "id": "ebay",
       "name": "eBay",
       "logo": null,
-      "domain": "ebayinc.com",
-      "website": "https://ebayinc.com",
+      "domain": "ebay.com",
+      "website": "https://ebay.com",
       "industry": "Ecommerce",
       "companySize": "5000+",
       "description": "eBay is a ecommerce company hiring product managers in India.",
@@ -106996,9 +107122,9 @@
       "companySize": "5000+",
       "description": "Mastercard is a fintech company hiring product managers in India.",
       "locations": [
+        "Delhi NCR",
         "Pune",
-        "India",
-        "Delhi NCR"
+        "India"
       ]
     },
     {
