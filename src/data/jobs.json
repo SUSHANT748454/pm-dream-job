@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T14:34:54.107Z",
+  "generatedAt": "2026-10-15T22:48:35.696Z",
   "jobs": [
     {
       "id": "job_ca7bf5",
@@ -27514,6 +27514,55 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-owner-it-foundation-servicenow-at-societe-generale-global-solution-centre-4474349097",
       "postedAt": "2026-10-01",
       "firstSeenAt": "2026-10-04",
+      "lastSeenAt": "2026-10-15",
+      "status": "Active"
+    },
+    {
+      "id": "job_9f0a7c",
+      "slug": "senior-technical-product-manager-modernization-appian-chennai-9f0a7c",
+      "title": "Senior Technical Product Manager - Modernization",
+      "company": {
+        "id": "appian",
+        "name": "Appian",
+        "logo": null,
+        "domain": null
+      },
+      "location": {
+        "city": "Chennai",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
+      "experienceMax": 5,
+      "domain": [],
+      "skills": [
+        "Analytics",
+        "Go-to-Market",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Onboarding"
+      ],
+      "tags": [
+        "Product Manager",
+        "Onsite",
+        "Analytics",
+        "Go-to-Market",
+        "Growth",
+        "API"
+      ],
+      "description": "Here at Appian, our values of\n\nIntensity\n\nand\n\nExcellence\n\ndefine who we are. We set high standards and live up to them, ensuring that everything we do is done with care and quality. We approach every challenge with ambition and commitment, holding ourselves and each other accountable to achieve the best results. When you join Appian, you'll be part of a passionate team dedicated to accomplishing hard things, together.\n\nTransform complex technical challenges into innovative, powerful solutions and own the lifecycle of core platform capabilities powering AI automation for the world's largest enterprises.",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "The Muse",
+      "applyUrl": "https://www.themuse.com/jobs/appian/senior-technical-product-manager-modernization",
+      "postedAt": "2026-10-01",
+      "firstSeenAt": "2026-10-15",
       "lastSeenAt": "2026-10-15",
       "status": "Active"
     },
