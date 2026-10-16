@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T06:01:29.216Z",
+  "generatedAt": "2026-10-16T09:25:22.140Z",
   "jobs": [
     {
       "id": "job_acfb01",
@@ -107569,87 +107569,6 @@
       "status": "Active"
     },
     {
-      "id": "job_0fec8a",
-      "slug": "product-manager-product-platform-okta-bengaluru-0fec8a",
-      "title": "Product Manager, Product Platform",
-      "company": {
-        "id": "okta",
-        "name": "Okta",
-        "logo": null,
-        "domain": "okta.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Product Manager",
-      "experienceMin": 3,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Enterprise",
-        "AI"
-      ],
-      "skills": [
-        "Growth",
-        "Pricing",
-        "Platform",
-        "Machine Learning",
-        "Onboarding",
-        "Retention",
-        "Scrum"
-      ],
-      "tags": [
-        "SaaS",
-        "Enterprise",
-        "AI",
-        "Product Manager",
-        "Onsite",
-        "Growth",
-        "Pricing",
-        "Platform"
-      ],
-      "description": "Secure Every Identity, from AI to Human\n\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\n\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.\n\nProduct Manager, Product Platform (India)\n\nCompany Overview\n\nOkta is The World’s Identity Company. We free everyone to safely use any technology - anywhere, on any device, for any app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth.",
-      "responsibilities": [
-        "This is a rare 0-to-1 opportunity to build a brand-new, high-visibility capability that touches every Okta customer: backup and recovery to strengthen the resilience of our system. You’ll be responsible for building a modern, self-service experience that allows IT Admins to recover back their accidentally or maliciously deleted identity objects. You'll partner closely with Engineering, Field, Pricing & Packaging, and Product leadership to shape a capability with direct, measurable impact on customer retention and revenue growth.",
-        "Contribute to",
-        "the long-term product vision and strategy for Okta's resilience strategy, ensuring the backup and recovery roadmap scales with the breadth of Okta's customer base and product portfolio.",
-        "Design",
-        "a self-service recovery center to ensure customers can seamlessly and securely track their deletions and changes and revert back across the entire Okta ecosystem.",
-        "Collaborat",
-        "with India-based engineering and development scrum teams to deliver high-performance, scalable backup and recovery solution",
-        "Distill",
-        "complex requirements from a diverse stakeholder group - including Field (AE/CSM), Pricing & Packaging, Support, Design, and Product teams - into precise technical specifications.",
-        "Analyze",
-        "how large-scale enterprise customer’s resilience needs to identify friction points and drive improvements in customer trust and platform experience.",
-        "Validate"
-      ],
-      "requirements": [
-        "3+ years of Product Management experience",
-        "specifically within",
-        "enterprise-scale SaaS platforms",
-        "or core software infrastructure.",
-        "BS in Computer Science, Computer Engineering",
-        ", or equivalent technical experience that enables you to rationalize and influence complex architectural decisions.",
-        "Proven ability to produce solid, actionable plans",
-        "from incomplete, conflicting, or highly ambiguous inputs.",
-        "Exceptional communication and presentation skills",
-        ", with a track record of successfully collaborating across global functions and time zones.",
-        "Demonstrated business results from customer-facing platform capabilities shipped at scale.",
-        "Experience with Backup or recovery tools"
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · Okta",
-      "applyUrl": "https://www.okta.com/company/careers/opportunity/8210924?gh_jid=8210924",
-      "postedAt": "2026-09-11",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-10-16",
-      "status": "Active"
-    },
-    {
       "id": "job_daead3",
       "slug": "product-manager-senior-product-manager-ipca-mumbai-daead3",
       "title": "Product Manager/ Senior Product Manager",
@@ -108341,6 +108260,51 @@
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-10-07",
       "status": "Expired"
+    },
+    {
+      "id": "job_0fec8a",
+      "slug": "senior-product-manager-product-platform-okta-bengaluru-0fec8a",
+      "title": "Senior Product Manager, Product Platform",
+      "company": {
+        "id": "okta",
+        "name": "Okta",
+        "logo": null,
+        "domain": "okta.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Hybrid",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "SaaS"
+      ],
+      "skills": [
+        "Monetization",
+        "Platform"
+      ],
+      "tags": [
+        "SaaS",
+        "Senior Product Manager",
+        "Hybrid",
+        "Monetization",
+        "Platform"
+      ],
+      "description": "Experience with subscription / licensing models,usage-based billing,or SaaS packaging and monetization.\n\nTo bridge the gap between India-based and US-based teams,the candidate must be available for synchronous meetings between 9:00 AM and 11:00 AM Pacific Time,at least three days a week. . L1-Hybrid . P25681_3533179.\n\nRequired",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Naukri",
+      "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-product-platform-okta-identity-india-private-limited-bengaluru-5-to-10-years-081026946597",
+      "postedAt": "2026-09-11",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-10-16",
+      "status": "Active"
     },
     {
       "id": "job_85dd5c",
@@ -110438,76 +110402,6 @@
       "status": "Active"
     },
     {
-      "id": "job_d0223a",
-      "slug": "product-manager-ii-razorpay-bengaluru-d0223a",
-      "title": "Product Manager II",
-      "company": {
-        "id": "razorpay",
-        "name": "Razorpay",
-        "logo": null,
-        "domain": "razorpay.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 4,
-      "experienceMax": 7,
-      "domain": [
-        "Fintech",
-        "SaaS"
-      ],
-      "skills": [
-        "Product Strategy",
-        "Experimentation",
-        "Analytics",
-        "Growth",
-        "Monetization",
-        "API",
-        "Platform",
-        "Data",
-        "Payments",
-        "Fraud"
-      ],
-      "tags": [
-        "Fintech",
-        "SaaS",
-        "Senior Product Manager",
-        "Onsite",
-        "Product Strategy",
-        "Experimentation",
-        "Analytics",
-        "Growth"
-      ],
-      "description": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we’ve since grown into a fintech powerhouse driving India’s digital payment revolution.\n\nRazorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow.\n\nFrom building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech\n\nAcross India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that’s redefining how money moves across Asia.\n\nToday, that ecosystem supports everyone from early-stage startups to some of India’s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently.\n\nOur scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like",
-      "responsibilities": [
-        "As a PM2, you will independently own a product area or platform charter end-to-end — from strategy and roadmap to execution and business impact. You will operate with significant autonomy and drive initiatives across customer experience, platform scalability, automation, growth, and monetization. You will be expected to think beyond features and solve for systems, operational leverage, and long-term platform evolution.",
-        "1. Build Customer Empathy",
-        "Regularly engage with customers, internal stakeholders, and ecosystem partners to deeply understand pain points, workflows, and unmet needs through both qualitative and quantitative insights.",
-        "2. Drive Product Strategy",
-        "Define long-term product vision and quarterly roadmap aligned with business goals, customer outcomes, and platform scalability.",
-        "3. Build Scalable Products",
-        "Collaborate with engineering, design, analytics, and operations teams to build reliable, scalable, and high-impact products.",
-        "4. Lead Product Execution",
-        "Write high-quality product specifications, prioritize effectively, manage tradeoffs, and ensure timely execution across releases",
-        "5. Own Metrics & Outcomes",
-        "Define success metrics, monitor business impact, and driveiterative improvements through experimentation and data analysis.",
-        "6. Ecosystem Collaboration"
-      ],
-      "requirements": [],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · Razorpay",
-      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736965005",
-      "postedAt": "2026-09-07",
-      "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-10-16",
-      "status": "Active"
-    },
-    {
       "id": "job_743d10",
       "slug": "product-manager-ii-ads-razorpay-bengaluru-743d10",
       "title": "Product Manager II - Ads",
@@ -110576,6 +110470,87 @@
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
       "lastSeenAt": "2026-10-08",
       "status": "Expired"
+    },
+    {
+      "id": "job_d0223a",
+      "slug": "senior-product-manager-razorpay-bengaluru-d0223a",
+      "title": "Senior Product Manager",
+      "company": {
+        "id": "razorpay",
+        "name": "Razorpay",
+        "logo": null,
+        "domain": "razorpay.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 6,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "SaaS",
+        "AI"
+      ],
+      "skills": [
+        "Experimentation",
+        "SQL",
+        "Analytics",
+        "Go-to-Market",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Payments",
+        "Fraud"
+      ],
+      "tags": [
+        "Fintech",
+        "SaaS",
+        "AI",
+        "Senior Product Manager",
+        "Onsite",
+        "Experimentation",
+        "SQL",
+        "Analytics"
+      ],
+      "description": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we’ve since grown into a fintech powerhouse driving India’s digital payment revolution.\n\nRazorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow.\n\nFrom building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech\n\nAcross India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that’s redefining how money moves across Asia.\n\nToday, that ecosystem supports everyone from early-stage startups to some of India’s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently.\n\nOur scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like",
+      "responsibilities": [
+        "Data-native PM — you think in funnels, cohorts, and experiments before PRDs. You write SQL, build dashboards, and catch insights nobody asked you to find.",
+        "Hands-on with AI agents — you've actually built something with LLMs, not just read about them. Prompt engineering is table stakes.",
+        "Entrepreneur DNA — you've tried building something of your own (a startup, a side project, a 0→1 product) or you're a seasoned Growth PM who's operated across the full acquisition-to-revenue loop.",
+        "Business-grade judgment — you hold your own in revenue conversations, understand unit economics, and translate growth levers into P&L impact.",
+        "This is not a feature PM role.",
+        "There's no stable roadmap someone hands you. You define problems, find levers, ship fast, and measure what matters.",
+        "Build Customer Empathy: PMs have to regularly meet and understand customer needs first-hand as well as stay on top of the customer pulse via secondary insights - both qualitative and quantitative.",
+        "Devise Strategy: Define both long-term strategy and quarterly roadmap to achieve the product vision and create impact.",
+        "Conceptualize new solutions: Product Conceptualization with a problem first, data-driven, and test & iterate approach. Ensures conceptualization from a platform and a long-term view. Ensures value-based prioritization of product initiatives.",
+        "Build products: Collaborate with Engineering and ecosystem players to build products that customers love. Produce high-quality product specifications and effectively prioritize and manage the scope of each product launch to deliver products and features on time.",
+        "Launch products: Draft and execute a go-to-market plan in conjunction with Product Marketing. Be the internal and external authority and advocate for your given area of focus.",
+        "Ecosystem collaboration: Self-starter to collaborate closely with ecosystem players to co-build products that don’t exist"
+      ],
+      "requirements": [
+        "You are obsessed with users but grounded in business and data.",
+        "You have 6+ years of experience in product management with at least 2 years focused on growth or PLG initiatives.",
+        "You're hands-on, hungry, and thrive in fast-paced environments.",
+        "You have a strong command over product analytics and experimentation frameworks.",
+        "You understand technology deeply enough to work well with engineers, but your core superpower is thinking from a customer-first and business-first lens.",
+        "You think in systems, love solving root problems, and approach prioritization through impact and effort.",
+        "You’re structured in thinking, biased for action, and love taking ownership end-to-end.",
+        "Razorpay believes in and follows an equal employment opportunity policy that doesn't discriminate on gender, religion, sexual orientation, colour, nationality, age, etc. We welcome interests and applications from all groups and communities across the globe.",
+        "Follow us on LinkedIn & Twitter"
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Razorpay",
+      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736585005",
+      "postedAt": "2026-09-07",
+      "firstSeenAt": "2026-09-10T09:04:56.856Z",
+      "lastSeenAt": "2026-10-16",
+      "status": "Active"
     },
     {
       "id": "job_b21ebf",
