@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T09:25:22.140Z",
+  "generatedAt": "2026-10-16T14:26:03.080Z",
   "jobs": [
     {
       "id": "job_acfb01",
@@ -59152,39 +59152,42 @@
       "workMode": "Onsite",
       "employmentType": "Full Time",
       "experienceLevel": "Director",
-      "experienceMin": 3,
-      "experienceMax": 5,
+      "experienceMin": 10,
+      "experienceMax": null,
       "domain": [
-        "Logistics"
+        "Ecommerce",
+        "Consumer",
+        "Enterprise"
       ],
       "skills": [
+        "Product Strategy",
+        "Experimentation",
         "Analytics",
+        "Growth",
         "Platform",
         "Data",
         "iOS",
-        "Supply",
-        "Demand",
         "Agile",
-        "Scrum",
         "OKRs",
         "P&L"
       ],
       "tags": [
-        "Logistics",
+        "Ecommerce",
+        "Consumer",
+        "Enterprise",
         "Director",
         "Onsite",
-        "Analytics",
-        "Platform",
-        "Data",
-        "iOS"
+        "Product Strategy",
+        "Experimentation",
+        "Analytics"
       ],
-      "description": "About Us Working at Target means helping all families discover the joy of everyday life. We b Director Product Management",
+      "description": "About Target: As a Fortune 50 company with more than 350,000 team members worldwide, Target is an iconic brand and one of America's leading retailers.   Working at Target means the opportunity to help all families discover the joy of everyday life. Caring for our communities is woven into who we are, and we invest in the places we collectively live, work and play. We prioritize relationships, fuel and develop talent by creating growth opportunities, and succeed as one Target team. At our core, our purpose is ingrained in who we are, what we value, and how we work. It’s how we care, grow, and",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/director-product-management-at-target-4470077690",
+      "source": "Workday · Target",
+      "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Director-Product-Management_R0000454114-1",
       "postedAt": "2026-09-25",
       "firstSeenAt": "2026-09-25",
       "lastSeenAt": "2026-10-16",
