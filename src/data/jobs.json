@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T08:56:59.435Z",
+  "generatedAt": "2026-10-17T13:23:34.322Z",
   "jobs": [
     {
       "id": "job_acfb01",
@@ -3559,60 +3559,6 @@
       "status": "Active"
     },
     {
-      "id": "job_16fb7a",
-      "slug": "senior-product-manager-core-risk-ebay-india-16fb7a",
-      "title": "Senior Product Manager - Core Risk",
-      "company": {
-        "id": "ebay",
-        "name": "eBay",
-        "logo": null,
-        "domain": "ebayinc.com"
-      },
-      "location": {
-        "city": "India",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 5,
-      "experienceMax": null,
-      "domain": [
-        "Ecommerce"
-      ],
-      "skills": [
-        "Product Strategy",
-        "Analytics",
-        "API",
-        "Platform",
-        "Data",
-        "Fraud",
-        "Marketplace",
-        "Agile",
-        "Scrum"
-      ],
-      "tags": [
-        "Ecommerce",
-        "Senior Product Manager",
-        "Onsite",
-        "Product Strategy",
-        "Analytics",
-        "API",
-        "Platform"
-      ],
-      "description": "JOB DESCRIPTION\n\nAt eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.",
-      "responsibilities": [],
-      "requirements": [],
-      "preferred": [],
-      "salary": null,
-      "source": "Indeed",
-      "applyUrl": "https://jobs.ebayinc.com/us/en/job/R0077062",
-      "postedAt": "2026-10-15",
-      "firstSeenAt": "2026-10-16",
-      "lastSeenAt": "2026-10-17",
-      "status": "Active"
-    },
-    {
       "id": "job_41c127",
       "slug": "senior-product-manager-core-risk-ebay-bengaluru-41c127",
       "title": "Senior Product Manager - Core Risk",
@@ -3665,6 +3611,60 @@
       "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager---Core-Risk_R0077062",
       "postedAt": "2026-10-15",
       "firstSeenAt": "2026-10-15",
+      "lastSeenAt": "2026-10-17",
+      "status": "Active"
+    },
+    {
+      "id": "job_16fb7a",
+      "slug": "senior-product-manager-core-risk-ebay-india-16fb7a",
+      "title": "Senior Product Manager - Core Risk",
+      "company": {
+        "id": "ebay",
+        "name": "eBay",
+        "logo": null,
+        "domain": "ebayinc.com"
+      },
+      "location": {
+        "city": "India",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": null,
+      "domain": [
+        "Ecommerce"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Analytics",
+        "API",
+        "Platform",
+        "Data",
+        "Fraud",
+        "Marketplace",
+        "Agile",
+        "Scrum"
+      ],
+      "tags": [
+        "Ecommerce",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Analytics",
+        "API",
+        "Platform"
+      ],
+      "description": "JOB DESCRIPTION\n\nAt eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Indeed",
+      "applyUrl": "https://jobs.ebayinc.com/us/en/job/R0077062",
+      "postedAt": "2026-10-15",
+      "firstSeenAt": "2026-10-16",
       "lastSeenAt": "2026-10-17",
       "status": "Active"
     },
@@ -4864,22 +4864,53 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Product Manager",
-      "experienceMin": null,
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 8,
       "experienceMax": null,
-      "domain": [],
-      "skills": [],
-      "tags": [
-        "Product Manager",
-        "Onsite"
+      "domain": [
+        "Healthcare",
+        "Enterprise"
       ],
-      "description": "Global Product Management experience\n\nExperience in regulated industries",
-      "responsibilities": [],
+      "skills": [
+        "Product Strategy",
+        "Analytics",
+        "Go-to-Market",
+        "Growth",
+        "Data",
+        "Demand",
+        "Stakeholder Management",
+        "Compliance"
+      ],
+      "tags": [
+        "Healthcare",
+        "Enterprise",
+        "Lead Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Analytics",
+        "Go-to-Market",
+        "Growth"
+      ],
+      "description": "",
+      "responsibilities": [
+        "Respiratory Accessories",
+        "Job Description",
+        "As a",
+        "Global Product Manager(GPM)- Respiratory Accessories,",
+        "you will work on",
+        "sustaining and optimizing the existing respiratory accessories portfolio",
+        ", including roadmap prioritization, portfolio simplification, margin, and lifecycle performance",
+        "Your role:",
+        "Product roadmap and go-to-market understanding",
+        "Owns the",
+        "execution of the claims roadmap by collaborating with cross-functional teams",
+        "to prioritize validated claims based on market trends and regulatory requirements, while continuously optimizing the strategy through analysis of competitor activity, customer insights, and compliance needs."
+      ],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "Naukri",
-      "applyUrl": "https://www.naukri.com/job-listings-global-product-manager-respiratory-accessories-philips-india-limited-pune-bengaluru-8-to-13-years-151026503032",
+      "source": "Workday · Philips",
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Global-Product-Manager---Respiratory-Accessories_593014-1",
       "postedAt": "2026-10-14",
       "firstSeenAt": "2026-10-14",
       "lastSeenAt": "2026-10-17",
@@ -41475,7 +41506,7 @@
         "id": "ebay",
         "name": "eBay",
         "logo": null,
-        "domain": "ebayinc.com"
+        "domain": "ebay.com"
       },
       "location": {
         "city": "Bengaluru",
@@ -41487,7 +41518,8 @@
       "experienceMin": 6,
       "experienceMax": null,
       "domain": [
-        "Ecommerce"
+        "Ecommerce",
+        "Consumer"
       ],
       "skills": [
         "Product Strategy",
@@ -41499,6 +41531,7 @@
       ],
       "tags": [
         "Ecommerce",
+        "Consumer",
         "Senior Product Manager",
         "Onsite",
         "Product Strategy",
@@ -41511,8 +41544,8 @@
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/sr-product-manager-digital-services-ai-at-ebay-4472695766",
+      "source": "Workday · eBay",
+      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Sr-Product-Manager--Digital-Services-AI_R0076494",
       "postedAt": "2026-10-01",
       "firstSeenAt": "2026-10-01",
       "lastSeenAt": "2026-10-17",
@@ -59119,39 +59152,42 @@
       "workMode": "Onsite",
       "employmentType": "Full Time",
       "experienceLevel": "Director",
-      "experienceMin": 3,
-      "experienceMax": 5,
+      "experienceMin": 10,
+      "experienceMax": null,
       "domain": [
-        "Logistics"
+        "Ecommerce",
+        "Consumer",
+        "Enterprise"
       ],
       "skills": [
+        "Product Strategy",
+        "Experimentation",
         "Analytics",
+        "Growth",
         "Platform",
         "Data",
         "iOS",
-        "Supply",
-        "Demand",
         "Agile",
-        "Scrum",
         "OKRs",
         "P&L"
       ],
       "tags": [
-        "Logistics",
+        "Ecommerce",
+        "Consumer",
+        "Enterprise",
         "Director",
         "Onsite",
-        "Analytics",
-        "Platform",
-        "Data",
-        "iOS"
+        "Product Strategy",
+        "Experimentation",
+        "Analytics"
       ],
-      "description": "About Us Working at Target means helping all families discover the joy of everyday life. We b Director Product Management",
+      "description": "About Target: As a Fortune 50 company with more than 350,000 team members worldwide, Target is an iconic brand and one of America's leading retailers.   Working at Target means the opportunity to help all families discover the joy of everyday life. Caring for our communities is woven into who we are, and we invest in the places we collectively live, work and play. We prioritize relationships, fuel and develop talent by creating growth opportunities, and succeed as one Target team. At our core, our purpose is ingrained in who we are, what we value, and how we work. It’s how we care, grow, and",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/director-product-management-at-target-4470077690",
+      "source": "Workday · Target",
+      "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Director-Product-Management_R0000454114-1",
       "postedAt": "2026-09-25",
       "firstSeenAt": "2026-09-25",
       "lastSeenAt": "2026-10-17",
@@ -78050,6 +78086,8 @@
       "experienceMin": 10,
       "experienceMax": null,
       "domain": [
+        "Ecommerce",
+        "Consumer",
         "Enterprise"
       ],
       "skills": [
@@ -78063,21 +78101,22 @@
         "OKRs"
       ],
       "tags": [
+        "Ecommerce",
+        "Consumer",
         "Enterprise",
         "Group Product Manager",
         "Onsite",
         "Product Strategy",
         "Experimentation",
-        "Analytics",
-        "Growth"
+        "Analytics"
       ],
-      "description": "About Target As a Fortune 50 company with more than 350,000 team members worldwide, Target is an iconic brand and one of America's leading retailers.Working at Target means the opportunity to help all families discover the joy of everyday life. Caring for our communities is woven into who we are, and we invest in the places we collectively live, work and play. We prioritize relationships, fuel and develop talent by creating growth opportunities, and succeed as one Target team. At our core, our purpose is ingrained in who we are, what we value, and how we work. It’s how we care, grow, and win",
+      "description": "About Target: As a Fortune 50 company with more than 350,000 team members worldwide, Target is an iconic brand and one of America's leading retailers.Working at Target means the opportunity to help all families discover the joy of everyday life. Caring for our communities is woven into who we are, and we invest in the places we collectively live, work and play. We prioritize relationships, fuel and develop talent by creating growth opportunities, and succeed as one Target team. At our core, our purpose is ingrained in who we are, what we value, and how we work. It’s how we care, grow, and win",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/principal-product-manager-at-target-4469032964",
+      "source": "Workday · Target",
+      "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Principal-Product-Manager_R0000454113-1",
       "postedAt": "2026-09-21",
       "firstSeenAt": "2026-09-21",
       "lastSeenAt": "2026-10-17",
@@ -110654,83 +110693,6 @@
       "status": "Expired"
     },
     {
-      "id": "job_a4f741",
-      "slug": "senior-product-manager-sap-fico-zoominfo-chennai-a4f741",
-      "title": "Senior Product Manager - SAP FICO",
-      "company": {
-        "id": "zoominfo",
-        "name": "ZoomInfo",
-        "logo": null,
-        "domain": "zoominfo.com"
-      },
-      "location": {
-        "city": "Chennai",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 10,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Fintech",
-        "Enterprise"
-      ],
-      "skills": [
-        "Go-to-Market",
-        "API",
-        "Platform",
-        "Data",
-        "Agile"
-      ],
-      "tags": [
-        "SaaS",
-        "Fintech",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Go-to-Market",
-        "API",
-        "Platform"
-      ],
-      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
-      "responsibilities": [
-        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
-        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
-        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
-        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
-        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
-        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
-        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
-        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
-        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
-        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
-      ],
-      "requirements": [
-        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
-        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
-        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
-        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
-        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
-        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
-        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
-        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
-        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
-        "SAP Certification in Finance or a related SAP discipline.",
-        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
-        "Experience in high-tech, SaaS, software, or Finance transformation programs."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · ZoomInfo",
-      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8733078002",
-      "postedAt": "2026-09-05",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-10-17",
-      "status": "Active"
-    },
-    {
       "id": "job_aeae06",
       "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
       "title": "Senior Product Manager - SAP FICO",
@@ -110802,6 +110764,83 @@
       "salary": null,
       "source": "Greenhouse · ZoomInfo",
       "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
+      "postedAt": "2026-09-05",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-10-17",
+      "status": "Active"
+    },
+    {
+      "id": "job_a4f741",
+      "slug": "senior-product-manager-sap-fico-zoominfo-chennai-a4f741",
+      "title": "Senior Product Manager - SAP FICO",
+      "company": {
+        "id": "zoominfo",
+        "name": "ZoomInfo",
+        "logo": null,
+        "domain": "zoominfo.com"
+      },
+      "location": {
+        "city": "Chennai",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "API",
+        "Platform",
+        "Data",
+        "Agile"
+      ],
+      "tags": [
+        "SaaS",
+        "Fintech",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "API",
+        "Platform"
+      ],
+      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
+      "responsibilities": [
+        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
+        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
+        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
+        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
+        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
+        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
+        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
+        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
+        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
+        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
+      ],
+      "requirements": [
+        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
+        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
+        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
+        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
+        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
+        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
+        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
+        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
+        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
+        "SAP Certification in Finance or a related SAP discipline.",
+        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
+        "Experience in high-tech, SaaS, software, or Finance transformation programs."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · ZoomInfo",
+      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8733078002",
       "postedAt": "2026-09-05",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-10-17",
@@ -111858,7 +111897,7 @@
         "id": "ebay",
         "name": "eBay",
         "logo": null,
-        "domain": "ebayinc.com"
+        "domain": "ebay.com"
       },
       "location": {
         "city": "Bengaluru",
@@ -111871,8 +111910,8 @@
       "experienceMax": null,
       "domain": [
         "Ecommerce",
-        "Fintech",
-        "AI"
+        "Consumer",
+        "Fintech"
       ],
       "skills": [
         "Analytics",
@@ -111888,15 +111927,15 @@
       ],
       "tags": [
         "Ecommerce",
+        "Consumer",
         "Fintech",
-        "AI",
         "Senior Product Manager",
         "Onsite",
         "Analytics",
         "Growth",
         "Platform"
       ],
-      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nLocation: India\n\nAt eBay, we're more than a global eCommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of eCommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nWithin the risk & Compliance team our vision is “Deliver intuitive risk,",
+      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nLocation\n\n: India\n\nAt eBay, we're more than a global eCommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of eCommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nWithin the risk & Compliance team our vision is “Deliver intuitive risk,",
       "responsibilities": [
         "Create Product Vision & Strategy. Lead the comprehensive vision and end-to-end execution of Risk Platform",
         "Develop a compelling and iterative roadmap and launch plan that supports Risk business needs",
@@ -111914,8 +111953,8 @@
       ],
       "preferred": [],
       "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-ii-at-ebay-4452251899",
+      "source": "Workday · eBay",
+      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager-II_R0076068",
       "postedAt": "2026-08-17",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-10-17",
@@ -118022,14 +118061,14 @@
       "id": "ebay",
       "name": "eBay",
       "logo": null,
-      "domain": "ebayinc.com",
-      "website": "https://ebayinc.com",
+      "domain": "ebay.com",
+      "website": "https://ebay.com",
       "industry": "Ecommerce",
       "companySize": "5000+",
       "description": "eBay is a ecommerce company hiring product managers in India.",
       "locations": [
-        "India",
-        "Bengaluru"
+        "Bengaluru",
+        "India"
       ]
     },
     {
@@ -126146,8 +126185,8 @@
       "companySize": "1000-5000",
       "description": "ZoomInfo is a saas company hiring product managers in India.",
       "locations": [
-        "Chennai",
-        "Bengaluru"
+        "Bengaluru",
+        "Chennai"
       ]
     },
     {
