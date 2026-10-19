@@ -1,6 +1,137 @@
 {
-  "generatedAt": "2026-10-19T06:25:01.207Z",
+  "generatedAt": "2026-10-19T10:25:33.670Z",
   "jobs": [
+    {
+      "id": "job_c0819c",
+      "slug": "global-product-manager-accelerators-philips-bengaluru-c0819c",
+      "title": "Global Product Manager- Accelerators",
+      "company": {
+        "id": "philips",
+        "name": "Philips",
+        "logo": null,
+        "domain": "philips.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "Healthcare",
+        "Enterprise"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "Growth",
+        "Stakeholder Management",
+        "Segmentation"
+      ],
+      "tags": [
+        "Healthcare",
+        "Enterprise",
+        "Group Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "Growth",
+        "Stakeholder Management",
+        "Segmentation"
+      ],
+      "description": "Job Title\n\nGlobal Product Manager- Accelerators\n\nJob Description\n\nGlobal Product Manager- Accelerators\n\nwill\n\nlead the incubation of early-stage products and technologies,\n\nincluding internally developed and partnered solutions;\n\ntranslate emerging concepts into scalable new-product opportunities\n\nYour Role",
+      "responsibilities": [
+        "Own the end-to-end product lifecycle, including portfolio strategy, roadmap development, value propositions, and business case execution.",
+        "Lead new product development and PDLM governance, ensuring timely, profitable, and compliant product launches.",
+        "Develop portfolio positioning, claims strategies, and customer segmentation based on market insights, competitive analysis, and regulatory requirements.",
+        "Partner with R&D, Innovation, Sales, Marketing, Manufacturing, and regional teams to deliver commercially successful solutions.",
+        "Build and manage KOL relationships to strengthen product credibility, thought leadership, and market adoption.",
+        "Drive global launch readiness and support regional go-to-market execution.",
+        "Provide strategic guidance and product expertise to regional marketing and sales teams to accelerate growth and market penetration.",
+        "Ensure achievement of commercial objectives, portfolio profitability, and Annual Operating Plan (AOP) targets.",
+        "Oversee product validation and testing activities to ensure quality, performance, and customer satisfaction.",
+        "You're the right fit if:",
+        "You’ve acquired",
+        "10+ years of experience"
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Philips",
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Global-Product-Manager--Accelerators_593019-1",
+      "postedAt": "2026-10-19",
+      "firstSeenAt": "2026-10-19",
+      "lastSeenAt": "2026-10-19",
+      "status": "Active"
+    },
+    {
+      "id": "job_2d2e52",
+      "slug": "global-product-manager-ivp-launch-excellence-philips-bengaluru-2d2e52",
+      "title": "Global Product Manager- IVP & Launch Excellence",
+      "company": {
+        "id": "philips",
+        "name": "Philips",
+        "logo": null,
+        "domain": "philips.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "Healthcare",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Go-to-Market",
+        "Growth",
+        "Pricing",
+        "Data",
+        "Stakeholder Management",
+        "Compliance"
+      ],
+      "tags": [
+        "Healthcare",
+        "Enterprise",
+        "Lead Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Go-to-Market",
+        "Growth",
+        "Pricing"
+      ],
+      "description": "Job Title\n\nGlobal Product Manager- IVP & Launch Excellence\n\nJob Description\n\nAs a\n\nGlobal Product Manager (GPM)- IVP & Launch Excellence\n\n, you will\n\nbuild integrated value propositions and standardized launch approaches across Sleep & Respiratory segments\n\n; improve launch planning, commercial readiness, and execution consistency\n\nYour role:\n\nDevelop value propositions, business cases, and product claims (clinical, economic, technical) to support strategic investments, pricing, and product success.",
+      "responsibilities": [
+        "Define and maintain product, software, and lifecycle specifications aligned with portfolio strategy and customer needs.",
+        "Drive product strategy execution with regional teams",
+        ", ensuring commercial viability, technical simplicity, and margin optimisation.",
+        "Own the claims roadmap, prioritising validated claims based on market, customer, competitor, and regulatory insights.",
+        "Engage Key Opinion Leaders (KOLs) through advisory boards and educational initiatives to strengthen product credibility and market influence.",
+        "Partner with cross-functional teams to develop channel strategies and go-to-market plans that accelerate adoption and revenue growth.",
+        "Analyse market trends, competitive activity, customer behaviour, and product performance to inform data-driven decisions and roadmap priorities.",
+        "Ensure regulatory compliance and quality standards throughout the product lifecycle.",
+        "Support development and refinement of testing protocols to ensure accurate product evaluation.",
+        "Lead end-to-end product lifecycle management, from concept through launch, ensuring quality, timely delivery, and alignment with business objectives.",
+        "Drive continuous improvement and innovation initiatives to enhance product performance and maintain market competitiveness.",
+        "You're the right fit if:"
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Philips",
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Global-Product-Manager--IVP---Launch-Excellence_593018-1",
+      "postedAt": "2026-10-19",
+      "firstSeenAt": "2026-10-19",
+      "lastSeenAt": "2026-10-19",
+      "status": "Active"
+    },
     {
       "id": "job_37ca41",
       "slug": "head-of-product-business-unit-anchanto-pune-37ca41",
@@ -82675,8 +82806,6 @@
       "experienceMin": 10,
       "experienceMax": null,
       "domain": [
-        "Ecommerce",
-        "Consumer",
         "Enterprise"
       ],
       "skills": [
@@ -82690,22 +82819,21 @@
         "OKRs"
       ],
       "tags": [
-        "Ecommerce",
-        "Consumer",
         "Enterprise",
         "Group Product Manager",
         "Onsite",
         "Product Strategy",
         "Experimentation",
-        "Analytics"
+        "Analytics",
+        "Growth"
       ],
-      "description": "About Target: As a Fortune 50 company with more than 350,000 team members worldwide, Target is an iconic brand and one of America's leading retailers.Working at Target means the opportunity to help all families discover the joy of everyday life. Caring for our communities is woven into who we are, and we invest in the places we collectively live, work and play. We prioritize relationships, fuel and develop talent by creating growth opportunities, and succeed as one Target team. At our core, our purpose is ingrained in who we are, what we value, and how we work. It’s how we care, grow, and win",
+      "description": "About Target As a Fortune 50 company with more than 350,000 team members worldwide, Target is an iconic brand and one of America's leading retailers.Working at Target means the opportunity to help all families discover the joy of everyday life. Caring for our communities is woven into who we are, and we invest in the places we collectively live, work and play. We prioritize relationships, fuel and develop talent by creating growth opportunities, and succeed as one Target team. At our core, our purpose is ingrained in who we are, what we value, and how we work. It’s how we care, grow, and win",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "Workday · Target",
-      "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Principal-Product-Manager_R0000454113-1",
+      "source": "LinkedIn",
+      "applyUrl": "https://in.linkedin.com/jobs/view/principal-product-manager-at-target-4469032964",
       "postedAt": "2026-09-21",
       "firstSeenAt": "2026-09-21",
       "lastSeenAt": "2026-10-19",
@@ -112260,83 +112388,6 @@
       "status": "Expired"
     },
     {
-      "id": "job_aeae06",
-      "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
-      "title": "Senior Product Manager - SAP FICO",
-      "company": {
-        "id": "zoominfo",
-        "name": "ZoomInfo",
-        "logo": null,
-        "domain": "zoominfo.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 10,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Fintech",
-        "Enterprise"
-      ],
-      "skills": [
-        "Go-to-Market",
-        "API",
-        "Platform",
-        "Data",
-        "Agile"
-      ],
-      "tags": [
-        "SaaS",
-        "Fintech",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Go-to-Market",
-        "API",
-        "Platform"
-      ],
-      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
-      "responsibilities": [
-        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
-        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
-        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
-        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
-        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
-        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
-        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
-        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
-        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
-        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
-      ],
-      "requirements": [
-        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
-        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
-        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
-        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
-        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
-        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
-        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
-        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
-        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
-        "SAP Certification in Finance or a related SAP discipline.",
-        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
-        "Experience in high-tech, SaaS, software, or Finance transformation programs."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · ZoomInfo",
-      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
-      "postedAt": "2026-09-05",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-10-19",
-      "status": "Active"
-    },
-    {
       "id": "job_a4f741",
       "slug": "senior-product-manager-sap-fico-zoominfo-chennai-a4f741",
       "title": "Senior Product Manager - SAP FICO",
@@ -112408,6 +112459,83 @@
       "salary": null,
       "source": "Greenhouse · ZoomInfo",
       "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8733078002",
+      "postedAt": "2026-09-05",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-10-19",
+      "status": "Active"
+    },
+    {
+      "id": "job_aeae06",
+      "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
+      "title": "Senior Product Manager - SAP FICO",
+      "company": {
+        "id": "zoominfo",
+        "name": "ZoomInfo",
+        "logo": null,
+        "domain": "zoominfo.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "API",
+        "Platform",
+        "Data",
+        "Agile"
+      ],
+      "tags": [
+        "SaaS",
+        "Fintech",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "API",
+        "Platform"
+      ],
+      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
+      "responsibilities": [
+        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
+        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
+        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
+        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
+        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
+        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
+        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
+        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
+        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
+        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
+      ],
+      "requirements": [
+        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
+        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
+        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
+        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
+        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
+        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
+        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
+        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
+        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
+        "SAP Certification in Finance or a related SAP discipline.",
+        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
+        "Experience in high-tech, SaaS, software, or Finance transformation programs."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · ZoomInfo",
+      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
       "postedAt": "2026-09-05",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-10-19",
@@ -128573,8 +128701,8 @@
       "companySize": "1000-5000",
       "description": "ZoomInfo is a saas company hiring product managers in India.",
       "locations": [
-        "Bengaluru",
-        "Chennai"
+        "Chennai",
+        "Bengaluru"
       ]
     },
     {
