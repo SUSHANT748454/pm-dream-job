@@ -1,6 +1,97 @@
 {
-  "generatedAt": "2026-10-21T02:43:31.742Z",
+  "generatedAt": "2026-10-21T09:46:03.504Z",
   "jobs": [
+    {
+      "id": "job_f20cec",
+      "slug": "manager-product-development-mastercard-pune-f20cec",
+      "title": "Manager, Product Development",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Pune",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 6,
+      "experienceMax": 10,
+      "domain": [
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Analytics",
+        "API",
+        "Platform",
+        "Data",
+        "Payments",
+        "Stakeholder Management",
+        "Agile",
+        "Scrum"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Analytics",
+        "API",
+        "Platform"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nManager, Product Development\n\nOverview\n\nWe are seeking a highly motivated and strategic Manager, Product Development to drive the development and evolution of next-generation payment capabilities within Mastercard's global network platforms. This role is responsible for defining product strategy, managing product roadmaps, translating business opportunities into scalable solutions, and partnering closely with Product Management, Engineering, Architecture, Operations, and regional stakeholders to deliver impactful payment products.\n\nThe ideal candidate combines strong product management expertise, deep payments domain knowledge, analytical rigor, and the ability to influence stakeholders across all levels of the organization. This individual must be comfortable operating in complex, highly technical environments while maintaining a relentless focus on customer value, business outcomes, and execution excellence.\n\nProduct Strategy & Roadmap:",
+      "responsibilities": [
+        "Define and manage product vision, roadmap, and requirements for strategic payment platform initiatives.",
+        "Identify customer, operational, and market opportunities that can be translated into scalable product capabilities.",
+        "Partner with Product Managers and business stakeholders to evaluate product investments using quantitative and qualitative data.",
+        "Drive prioritization decisions based on customer impact, business value, risk, and delivery feasibility.",
+        "Develop short-term and long-term product strategies aligned with organizational objectives.",
+        "Product Development & Execution:",
+        "Lead end-to-end product development from concept through launch and adoption.",
+        "Create clear business requirements, user stories, functional specifications, and success metrics.",
+        "Work closely with Engineering, Architecture, Operations, and Technical Product Managers throughout the product lifecycle.",
+        "Manage product backlogs and roadmap execution across multiple concurrent initiatives.",
+        "Facilitate trade-off discussions and drive timely decision making across complex cross-functional programs.",
+        "Stakeholder Management & Leadership:"
+      ],
+      "requirements": [
+        "Experience:",
+        "6-10 years of experience in Product Management, Product Development, Technical Product Management, or related disciplines.",
+        "Proven experience building and launching customer-facing digital products, payment products, or platform capabilities.",
+        "Demonstrated ownership of product roadmaps and delivery of complex cross-functional initiatives.",
+        "Experience partnering directly with Engineering, Architects, Operations, and Business stakeholders.",
+        "Domain Expertise (Must Have):",
+        "Strong experience in Payments, Card Payments, Payment Processing, Issuing, Acquiring, Network Processing, Merchant Payments, Digital Payments, Fintech, or related domains.",
+        "Hands-on experience building or managing payment products, payment platforms, or digital products at scale.",
+        "Strong understanding of payment ecosystems, transaction processing, and modern digital payment technologies.",
+        "Skills:",
+        "Strong product strategy and roadmap management capabilities.",
+        "Exceptional stakeholder management and influencing skills."
+      ],
+      "preferred": [
+        "MBA or Master's degree from a recognized institution.",
+        "Product Management, Scrum, Agile, or Payments-related certifications.",
+        "Corporate Security Responsibility",
+        "All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:",
+        "Abide by Mastercard’s security policies and practices;",
+        "Ensure the confidentiality and integrity of the information being accessed;",
+        "Report any suspected information security violation or breach, and",
+        "Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines."
+      ],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Development_R-292711",
+      "postedAt": "2026-10-21",
+      "firstSeenAt": "2026-10-21",
+      "lastSeenAt": "2026-10-21",
+      "status": "Active"
+    },
     {
       "id": "job_c0819c",
       "slug": "global-product-manager-accelerators-philips-bengaluru-c0819c",
@@ -74239,35 +74330,44 @@
       "experienceMax": null,
       "domain": [
         "Fintech",
-        "Ecommerce"
+        "Enterprise"
       ],
       "skills": [
-        "Analytics",
-        "Go-to-Market",
-        "Growth",
-        "Platform",
         "Data",
         "Payments",
-        "Segmentation",
-        "Compliance"
+        "Agile",
+        "Scrum"
       ],
       "tags": [
         "Fintech",
-        "Ecommerce",
+        "Enterprise",
         "Product Manager",
         "Onsite",
-        "Analytics",
-        "Go-to-Market",
-        "Growth",
-        "Platform"
+        "Data",
+        "Payments",
+        "Agile",
+        "Scrum"
       ],
-      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle And Summary\n\nManager, Product Management\n\nOverview\n\nMastercard Merchant Cloud and Acceptance represent core strategic priorities for the Asia Pacific region. Our mission is to empower acquirers, merchants, payment service providers (PSPs), and payment facilitators by delivering seamless, best-in-class experiences across both digital and in-person commerce. We aim to position Mastercard Merchant Cloud as the leading platform for acceptance.\n\nAs an integral part of Mastercard’s regional growth strategy, this role will support sales initiatives across Asia Pacific. Key responsibilities include conducting market research and benchmarking, contributing to go-to-market planning, supporting solution commercialization, and engaging in client-related activities. The individual will collaborate closely with cross-functional teams—including Product, Operations, Delivery, Compliance, Legal, Marketing, and other internal partners—to drive execution and deliver strategic",
-      "responsibilities": [],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nManager, Product Management\n\nWho is Mastercard?\n\nMastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.\n\nOur decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.\n\nOverview\n\nThe Mastercard Small & Medium Enterprise team is looking for a Manager, Product Management to drive our customer experience strategy forward. The ideal candidate is passionate about the customer experience journey, highly motivated,",
+      "responsibilities": [
+        "Liaise between Mastercard’s internal teams (global solution managers, regional product managers, customer support etc.) and technical teams, translating customer needs into deliverable features, identifying possible solutions, and defining detailed product requirements.",
+        "Elaborate features keeping the customer value in focus and ensuring the stories in the feature allow the engineers to fully execute the intended outcome of the feature.",
+        "Work with development teams, software architects, product management, UX and other stakeholders to deliver elaborate features and ascertain correctness of the outcome.",
+        "Participate in prioritization discussions within senior product management group.",
+        "Validate technical delivery and ensure that delivered functionality complies with the product requirements and is fit-for-purpose.",
+        "Prepare launches and monitors product performance, adoption, and operational health.",
+        "Support and participate in post-launch reviews and ensure feedback is reincorporated into enhancements.",
+        "Support development of user guides and release documentation.",
+        "All About You",
+        "Experience in delivering cutting edge customer experiences and usage of components for creating front end interfaces.",
+        "Solid experience working with RESTful services, enabling efficient integration of backend systems and accelerating digital product development.",
+        "Demonstrated ability to understand complex software systems and communicate effectively with technical specialists."
+      ],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/manager-product-management-at-mastercard-4469337323",
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Management_R-293436",
       "postedAt": "2026-09-23",
       "firstSeenAt": "2026-09-23",
       "lastSeenAt": "2026-10-21",
@@ -102711,9 +102811,12 @@
       "experienceMax": null,
       "domain": [
         "Fintech",
-        "SaaS"
+        "Enterprise",
+        "Ecommerce"
       ],
       "skills": [
+        "SQL",
+        "Growth",
         "API",
         "Platform",
         "Data",
@@ -102723,21 +102826,34 @@
       ],
       "tags": [
         "Fintech",
-        "SaaS",
+        "Enterprise",
+        "Ecommerce",
         "Lead Product Manager",
         "Onsite",
-        "API",
-        "Platform",
-        "Data",
-        "Payments"
+        "SQL",
+        "Growth",
+        "API"
       ],
-      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle And Summary\n\nLead Product Manager- Technical\n\nOverview\n\nAre you a product management professional who wants to shape the cloud platform for Mastercard’s products? Do you want to work for a company that offers above and beyond benefits including paid parental leave, flexible work hours, gift matching, and even volunteer incentives? Do you want to work in an inclusive and nurturing culture that encourages your own professional learning and development?\n\nROLE\n\nWe are looking for seasoned Product Management professionals to join our team and help us build towards the future. Product Management-Technical (PM-T) are technical roles and work closely with Technical Program Managers, Software Design Engineers, User Experience, Operations and internal customers to define the details behind the business requirements, the specifications, the user experience, and the API strategy for platform building blocks they own. Our PM-Ts use the Working Backwards process, which is all about",
-      "responsibilities": [],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nLead Product Manager- Technical\n\nLead Product Manager",
+      "responsibilities": [
+        "Technical",
+        "Who is Mastercard?",
+        "Mastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.",
+        "Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.",
+        "Job Description Summary",
+        "Providing Innovative, Secure, and Reliable Switching Solutions is the lifeblood of Mastercard Core Products, we are currently seeking a passionate, collaborative, and experienced Lead, Product Manager Technical to join the Switching Solutions Team.",
+        "Are you a collaborator capable of communicating effectively with Business and IT stakeholders across all organizational levels?",
+        "Are you an innovator who embraces, adopts, and studies the latest technology to solve challenging business problems?",
+        "Are you a leader who inspires the team to think “out of the box” and effectively communicates across all levels of the organization?",
+        "If this describes you, Mastercard wants to talk to you about joining our Squad.",
+        "Overview",
+        "Responsible for developing inspiring platform/product visions, derived from business needs, market opportunities, and technology trends"
+      ],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/lead-product-manager-technical-at-mastercard-4452825413",
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--Technical_R-291501",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-10-21",
@@ -113371,8 +113487,8 @@
       "companySize": "5000+",
       "description": "Mastercard is a fintech company hiring product managers in India.",
       "locations": [
-        "Delhi NCR",
         "Pune",
+        "Delhi NCR",
         "India"
       ]
     },
