@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T14:47:22.598Z",
+  "generatedAt": "2026-10-22T18:59:10.347Z",
   "jobs": [
     {
       "id": "job_719dce",
@@ -2954,6 +2954,85 @@
       "status": "Active"
     },
     {
+      "id": "job_792148",
+      "slug": "sr-product-manager-i-smartsheet-bengaluru-792148",
+      "title": "Sr. Product Manager I",
+      "company": {
+        "id": "smartsheet",
+        "name": "Smartsheet",
+        "logo": null,
+        "domain": "smartsheet.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Growth",
+        "Pricing",
+        "API",
+        "Platform",
+        "Data",
+        "B2B"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Growth",
+        "Pricing",
+        "API"
+      ],
+      "description": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day.\n\nWe are looking to hire a Senior Product Manager I to own the integrations and agentic ecosystem for Brandfolder, Smartsheet's Digital Asset Management platform. This is a high-growth, strategically critical product area. It covers how Brandfolder connects to the tools where marketing and creative teams work, and how AI agents find, use and govern brand content through MCP, connectors, APIs and partner integrations.\n\nYour work will determine whether Brandfolder is the trusted source of brand content for people and AI agents alike. This is an individual contributor role for a product leader with strong technical fluency, deep customer instincts and the confidence to drive a complex, cross-surface product area across multiple engineering teams and external partners.\n\nYou Will",
+      "responsibilities": [
+        "Own the product strategy and roadmap for Brandfolder's MCP server, connector framework, public API and integrations and make clear prioritization and sequencing decisions",
+        "Define how AI agents such as Claude, ChatGPT, Gemini and Copilot discover, retrieve, create and update brand assets, while keeping permissions, usage rights and brand governance intact",
+        "Lead the evolution of Brandfolder's integration portfolio",
+        "Define the API and agent-readiness strategy: authentication, scopes, rate limits, webhooks, tool design and developer experience for customers, partners and AI clients",
+        "Own the quality, reliability and supportability of existing integrations, and shape the migration path from legacy connectors to the new platform",
+        "Lead customer and partner discovery sessions to validate assumptions",
+        "Author crisp product briefs, requirements and technical specs that design and engineering can execute without ambiguity, from discovery through GA and post-launch",
+        "Drive cross-functional alignment across engineering, design, security, GTM, Customer Success, Support and partner teams",
+        "Define success metrics for every feature, such as integration adoption, active accounts, agent task success, API usage and work with data teams to ensure instrumentation from day one",
+        "Represent product in leadership reviews, MBRs, partner conversations and customer engagements",
+        "Contribute to packaging and pricing decisions for integrations and AI capabilities"
+      ],
+      "requirements": [
+        "8+ years of product management experience delivering high-impact features in enterprise SaaS or B2B software",
+        "Experience owning platform, API, integration, connectors or developer-facing product areas, including how products work with AI models and agents is a strong plus",
+        "Experience with content, digital asset management, marketing technology or workflow products is a plus",
+        "Proven ability to navigate ambiguous, technically complex problem spaces and make clear scoping and sequencing decisions across multiple engineering teams and external partners",
+        "A working understanding of authentication and authorization (OAuth, SSO, role-based permissions), APIs and webhooks, and data security considerations for AI",
+        "Strong customer instincts: you run structured discovery, synthesize signal and turn it into well-scoped, validated decisions",
+        "A track record of excellent product briefs, requirements and specs that engineering acts on without ambiguity",
+        "Demonstrated ability to drive alignment across engineering, design, security, GTM and Customer Success, including third-party partner dependencies",
+        "A data-driven mindset: you define adoption, funnel, quality and reliability metrics before you ship and use post-launch data to guide iteration",
+        "Excellent written and verbal communication",
+        "Get to Know Us:",
+        "At Smartsheet, your ideas are heard, your potential is supported, and your contributions have real impact. You’ll have the freedom to explore, push boundaries, and grow beyond your role. We welcome diverse perspectives and nontraditional paths—because we know that impact comes from individuals who care deeply and challenge thoughtfully. When you’re doing work that stretches you, excites you, and connects you to something bigger, that’s magic at work. Let’s build what’s next, together."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Smartsheet",
+      "applyUrl": "https://job-boards.greenhouse.io/smartsheet/jobs/8305872",
+      "postedAt": "2026-10-21",
+      "firstSeenAt": "2026-10-21",
+      "lastSeenAt": "2026-10-22",
+      "status": "Active"
+    },
+    {
       "id": "job_2502e5",
       "slug": "sr-product-manager-i-brandfolder-india-2502e5",
       "title": "Sr. Product Manager I",
@@ -3022,85 +3101,6 @@
       "applyUrl": "https://grnh.se/thb6nwq11us",
       "postedAt": "2026-10-21",
       "firstSeenAt": "2026-10-22",
-      "lastSeenAt": "2026-10-22",
-      "status": "Active"
-    },
-    {
-      "id": "job_792148",
-      "slug": "sr-product-manager-ii-smartsheet-bengaluru-792148",
-      "title": "Sr. Product Manager II",
-      "company": {
-        "id": "smartsheet",
-        "name": "Smartsheet",
-        "logo": null,
-        "domain": "smartsheet.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 8,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Enterprise"
-      ],
-      "skills": [
-        "Product Strategy",
-        "Growth",
-        "Pricing",
-        "API",
-        "Platform",
-        "Data",
-        "B2B"
-      ],
-      "tags": [
-        "SaaS",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Product Strategy",
-        "Growth",
-        "Pricing",
-        "API"
-      ],
-      "description": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day.\n\nWe are looking to hire a Senior Product Manager II to own the integrations and agentic ecosystem for Brandfolder, Smartsheet's Digital Asset Management platform. This is a high-growth, strategically critical product area. It covers how Brandfolder connects to the tools where marketing and creative teams work, and how AI agents find, use and govern brand content through MCP, connectors, APIs and partner integrations.\n\nYour work will determine whether Brandfolder is the trusted source of brand content for people and AI agents alike. This is an individual contributor role for a product leader with strong technical fluency, deep customer instincts and the confidence to drive a complex, cross-surface product area across multiple engineering teams and external partners.\n\nYou Will",
-      "responsibilities": [
-        "Own the product strategy and roadmap for Brandfolder's MCP server, connector framework, public API and integrations and make clear prioritization and sequencing decisions",
-        "Define how AI agents such as Claude, ChatGPT, Gemini and Copilot discover, retrieve, create and update brand assets, while keeping permissions, usage rights and brand governance intact",
-        "Lead the evolution of Brandfolder's integration portfolio",
-        "Define the API and agent-readiness strategy: authentication, scopes, rate limits, webhooks, tool design and developer experience for customers, partners and AI clients",
-        "Own the quality, reliability and supportability of existing integrations, and shape the migration path from legacy connectors to the new platform",
-        "Lead customer and partner discovery sessions to validate assumptions",
-        "Author crisp product briefs, requirements and technical specs that design and engineering can execute without ambiguity, from discovery through GA and post-launch",
-        "Drive cross-functional alignment across engineering, design, security, GTM, Customer Success, Support and partner teams",
-        "Define success metrics for every feature, such as integration adoption, active accounts, agent task success, API usage and work with data teams to ensure instrumentation from day one",
-        "Represent product in leadership reviews, MBRs, partner conversations and customer engagements",
-        "Contribute to packaging and pricing decisions for integrations and AI capabilities"
-      ],
-      "requirements": [
-        "8+ years of product management experience delivering high-impact features in enterprise SaaS or B2B software",
-        "Experience owning platform, API, integration, connectors or developer-facing product areas, including how products work with AI models and agents is a strong plus",
-        "Experience with content, digital asset management, marketing technology or workflow products is a plus",
-        "Proven ability to navigate ambiguous, technically complex problem spaces and make clear scoping and sequencing decisions across multiple engineering teams and external partners",
-        "A working understanding of authentication and authorization (OAuth, SSO, role-based permissions), APIs and webhooks, and data security considerations for AI",
-        "Strong customer instincts: you run structured discovery, synthesize signal and turn it into well-scoped, validated decisions",
-        "A track record of excellent product briefs, requirements and specs that engineering acts on without ambiguity",
-        "Demonstrated ability to drive alignment across engineering, design, security, GTM and Customer Success, including third-party partner dependencies",
-        "A data-driven mindset: you define adoption, funnel, quality and reliability metrics before you ship and use post-launch data to guide iteration",
-        "Excellent written and verbal communication",
-        "Get to Know Us:",
-        "At Smartsheet, your ideas are heard, your potential is supported, and your contributions have real impact. You’ll have the freedom to explore, push boundaries, and grow beyond your role. We welcome diverse perspectives and nontraditional paths—because we know that impact comes from individuals who care deeply and challenge thoughtfully. When you’re doing work that stretches you, excites you, and connects you to something bigger, that’s magic at work. Let’s build what’s next, together."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · Smartsheet",
-      "applyUrl": "https://job-boards.greenhouse.io/smartsheet/jobs/8305872",
-      "postedAt": "2026-10-21",
-      "firstSeenAt": "2026-10-21",
       "lastSeenAt": "2026-10-22",
       "status": "Active"
     },
@@ -109499,75 +109499,6 @@
       "status": "Active"
     },
     {
-      "id": "job_204311",
-      "slug": "lead-product-manager-technical-mastercard-pune-204311",
-      "title": "Lead Product Manager- Technical",
-      "company": {
-        "id": "mastercard",
-        "name": "Mastercard",
-        "logo": null,
-        "domain": "mastercard.com"
-      },
-      "location": {
-        "city": "Pune",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Lead Product Manager",
-      "experienceMin": null,
-      "experienceMax": null,
-      "domain": [
-        "Fintech",
-        "Enterprise",
-        "Ecommerce"
-      ],
-      "skills": [
-        "SQL",
-        "Growth",
-        "API",
-        "Platform",
-        "Data",
-        "Payments",
-        "Agile",
-        "Scrum"
-      ],
-      "tags": [
-        "Fintech",
-        "Enterprise",
-        "Ecommerce",
-        "Lead Product Manager",
-        "Onsite",
-        "SQL",
-        "Growth",
-        "API"
-      ],
-      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nLead Product Manager- Technical\n\nLead Product Manager",
-      "responsibilities": [
-        "Technical",
-        "Who is Mastercard?",
-        "Mastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.",
-        "Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.",
-        "Job Description Summary",
-        "Providing Innovative, Secure, and Reliable Switching Solutions is the lifeblood of Mastercard Core Products, we are currently seeking a passionate, collaborative, and experienced Lead, Product Manager Technical to join the Switching Solutions Team.",
-        "Are you a collaborator capable of communicating effectively with Business and IT stakeholders across all organizational levels?",
-        "Are you an innovator who embraces, adopts, and studies the latest technology to solve challenging business problems?",
-        "Are you a leader who inspires the team to think “out of the box” and effectively communicates across all levels of the organization?",
-        "If this describes you, Mastercard wants to talk to you about joining our Squad.",
-        "Overview",
-        "Responsible for developing inspiring platform/product visions, derived from business needs, market opportunities, and technology trends"
-      ],
-      "requirements": [],
-      "preferred": [],
-      "salary": null,
-      "source": "Workday · Mastercard",
-      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--Technical_R-291501",
-      "postedAt": "2026-09-08",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-10-22",
-      "status": "Active"
-    },
-    {
       "id": "job_29f119",
       "slug": "principal-product-manager-sumo-logic-delhi-ncr-29f119",
       "title": "Principal Product Manager",
@@ -109787,6 +109718,46 @@
       "applyUrl": "https://www.themuse.com/jobs/cornerstoneondemand/senior-product-manager-c42e85",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
+      "lastSeenAt": "2026-10-22",
+      "status": "Active"
+    },
+    {
+      "id": "job_204311",
+      "slug": "senior-product-manager-technical-mastercard-pune-204311",
+      "title": "Senior Product Manager- Technical",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Pune",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [],
+      "skills": [
+        "Platform"
+      ],
+      "tags": [
+        "Senior Product Manager",
+        "Onsite",
+        "Platform"
+      ],
+      "description": "Identify issues that will keep the platform features from delivering on time and / or with the desired requirement and communicate to the leadership\n\nBachelor s degree in business or relevant experience",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Naukri",
+      "applyUrl": "https://www.naukri.com/job-listings-senior-product-manager-technical-mastercard-pune-5-to-14-years-161026501482",
+      "postedAt": "2026-09-08",
+      "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-10-22",
       "status": "Active"
     },
@@ -112865,8 +112836,8 @@
     },
     {
       "id": "job_5b44fc",
-      "slug": "senior-manager-product-management-ai-workflows-zenoti-hyderabad-5b44fc",
-      "title": "Senior Manager - Product Management (AI Workflows)",
+      "slug": "senior-manager-product-management-payments-fintech-zenoti-hyderabad-5b44fc",
+      "title": "Senior Manager - Product Management (Payments/Fintech)",
       "company": {
         "id": "zenoti",
         "name": "Zenoti",
@@ -112879,47 +112850,53 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Group Product Manager",
-      "experienceMin": 10,
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 7,
       "experienceMax": null,
       "domain": [
-        "AI",
+        "Fintech",
         "SaaS",
         "Consumer"
       ],
       "skills": [
-        "Product Strategy",
-        "Analytics",
         "Growth",
         "Platform",
         "Data",
         "Mobile",
         "iOS",
-        "B2B",
-        "Retention",
-        "Agile"
+        "Payments",
+        "Retention"
       ],
       "tags": [
-        "AI",
+        "Fintech",
         "SaaS",
         "Consumer",
-        "Group Product Manager",
+        "Lead Product Manager",
         "Onsite",
-        "Product Strategy",
-        "Analytics",
-        "Growth"
+        "Growth",
+        "Platform",
+        "Data"
       ],
-      "description": "Zenoti provides an all-in-one, cloud-based software solution for the beauty and wellness industry. Our solution allows users to seamlessly manage every aspect of the business in a comprehensive mobile solution: online appointment bookings, POS, CRM, employee management, inventory management, built-in marketing programs and more. Zenoti helps clients streamline their systems and reduce costs, while simultaneously improving customer retention and spending. Our platform is engineered for reliability and scale and harnesses the power of enterprise-level technology for businesses of all sizes\n\nZenoti powers more than 30,000 salons, spas, medspas and fitness studios in over 50 countries. This includes a vast portfolio of global brands, such as European Wax Center, Hand & Stone, Massage Heights, Rush Hair & Beauty, Sono Bello, Profile by Sanford, Hair Cuttery, CorePower Yoga and TONI&GUY.\n\nOur recent accomplishments include surpassing a $1 billion unicorn valuation, being named Next Tech Titan by GeekWire, raising an $80 million investment from TPG, ranking as the 316th fastest-growing company in North America on Deloitte’s 2020 Technology Fast 500™. We are also proud to be recognized as a Great Place to Work CertifiedTM for 2021-2022 as this reaffirms our commitment to empowering people to feel good and find their greatness. To learn more about Zenoti visit: https://www.zenoti.com\n\nSenior Manager Product Management",
+      "description": "Zenoti provides an all-in-one, cloud-based software solution for the beauty and wellness industry. Our solution allows users to seamlessly manage every aspect of the business in a comprehensive mobile solution: online appointment bookings, POS, CRM, employee management, inventory management, built-in marketing programs and more. Zenoti helps clients streamline their systems and reduce costs, while simultaneously improving customer retention and spending. Our platform is engineered for reliability and scale and harnesses the power of enterprise-level technology for businesses of all sizes\n\nZenoti powers more than 30,000 salons, spas, medspas and fitness studios in over 50 countries. This includes a vast portfolio of global brands, such as European Wax Center, Hand & Stone, Massage Heights, Rush Hair & Beauty, Sono Bello, Profile by Sanford, Hair Cuttery, CorePower Yoga and TONI&GUY.\n\nOur recent accomplishments include surpassing a $1 billion unicorn valuation, being named Next Tech Titan by GeekWire, raising an $80 million investment from TPG, ranking as the 316th fastest-growing company in North America on Deloitte’s 2020 Technology Fast 500™. We are also proud to be recognized as a Great Place to Work CertifiedTM for 2021-2022 as this reaffirms our commitment to empowering people to feel good and find their greatness. To learn more about Zenoti visit: https://www.zenoti.com\n\nWhat skills and experiences do I need?",
       "responsibilities": [
-        "HyperConnect",
-        "AI-Powered Customer Engagement Platform",
-        "Location: Hyderabad, Telangana, India"
+        "Has 7+ years of work experience in a Product Manager role, preferably in Payments/Fintech",
+        "Excellent communication and presentation skills, including presenting to customers and senior executives",
+        "Excellent problem-solving skills, and ability to come up recommendations using data",
+        "Good interpersonal skills, ability to work in teams with a results-oriented attitude",
+        "Can deal with ambiguity and break complex and vaguely defined problems into a clear and actionable set of steps",
+        "Proven ability to influence cross-functional teams",
+        "The ability to",
+        "think big",
+        ", but at the same time break things down into smaller components, and build high-level roadmaps from that.",
+        "A clear sense of ownership and accountability.",
+        "Obsess over building a clear, calm and beautiful product by collaborating with designers, developers and business leaders across the company.",
+        "Must have a good understanding of mobile, web and cloud technology space"
       ],
       "requirements": [],
       "preferred": [],
       "salary": null,
       "source": "Greenhouse · Zenoti",
-      "applyUrl": "https://job-boards.greenhouse.io/zenoti/jobs/7729933003",
+      "applyUrl": "https://job-boards.greenhouse.io/zenoti/jobs/8029893003",
       "postedAt": "2026-05-18",
       "firstSeenAt": "2026-09-11",
       "lastSeenAt": "2026-10-22",
