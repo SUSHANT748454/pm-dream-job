@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T09:45:53.105Z",
+  "generatedAt": "2026-10-22T14:47:22.598Z",
   "jobs": [
     {
       "id": "job_719dce",
@@ -2954,82 +2954,6 @@
       "status": "Active"
     },
     {
-      "id": "job_792148",
-      "slug": "sr-product-manager-i-smartsheet-bengaluru-792148",
-      "title": "Sr. Product Manager I",
-      "company": {
-        "id": "smartsheet",
-        "name": "Smartsheet",
-        "logo": null,
-        "domain": "smartsheet.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 4,
-      "experienceMax": 6,
-      "domain": [
-        "Enterprise",
-        "SaaS"
-      ],
-      "skills": [
-        "Experimentation",
-        "Analytics",
-        "Platform",
-        "Data",
-        "Agile"
-      ],
-      "tags": [
-        "Enterprise",
-        "SaaS",
-        "Senior Product Manager",
-        "Onsite",
-        "Experimentation",
-        "Analytics",
-        "Platform",
-        "Data"
-      ],
-      "description": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day.\n\nWe are looking for an experienced\n\nSr. Product Manager I\n\nto join our Product Organization at Smartsheet to support our\n\nDigital Asset Management offering",
-      "responsibilities": [
-        "Brandfolder",
-        "by Smartsheet.",
-        "You’ll report to our General Manager",
-        "Brandfolder and collaborate with passionate teams across the globe.",
-        "You Will:",
-        "Contribute to the vision and strategy for Brandfolder, informed by company objectives, customer needs, and industry best practices",
-        "Own the roadmap for a defined set of Brandfolder capabilities, partnering with technical and product leaders across Smartsheet to align with broader platform investments",
-        "Work closely with design and engineering to deliver compelling, high-quality customer experiences from discovery through launch",
-        "Use internal and external data to guide experimentation, prioritization, and evaluation of success",
-        "Partner with research, product design, data science, and analytics teams to run experiments and test prototypes to validate hypotheses",
-        "Communicate product direction, capabilities, experiment results, and insights to cross-functional stakeholders",
-        "Operate at both the strategic and tactical levels, building strong cross-team partnerships that drive shared success for the product area"
-      ],
-      "requirements": [
-        "4-6+ years of product management experience",
-        "Experience delivering a delightful user experience on a scalable platform",
-        "Experience with agile development methodologies and frequent product releases",
-        "Experience delivering complex enterprise software products from inception to launch",
-        "Experience working on content-related products such as DAMs (preferred but not required)",
-        "Data-driven mentality with a focus on metrics and analytics",
-        "Excellent written and verbal communication skills",
-        "Technical degree, or equivalent experience working with engineers to make product decisions on behalf of customers (MBA preferred but not required)",
-        "Get to Know Us:",
-        "At Smartsheet, your ideas are heard, your potential is supported, and your contributions have real impact. You’ll have the freedom to explore, push boundaries, and grow beyond your role. We welcome diverse perspectives and nontraditional paths—because we know that impact comes from individuals who care deeply and challenge thoughtfully. When you’re doing work that stretches you, excites you, and connects you to something bigger, that’s magic at work. Let’s build what’s next, together."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · Smartsheet",
-      "applyUrl": "https://job-boards.greenhouse.io/smartsheet/jobs/8305872",
-      "postedAt": "2026-10-21",
-      "firstSeenAt": "2026-10-21",
-      "lastSeenAt": "2026-10-22",
-      "status": "Active"
-    },
-    {
       "id": "job_2502e5",
       "slug": "sr-product-manager-i-brandfolder-india-2502e5",
       "title": "Sr. Product Manager I",
@@ -3098,6 +3022,85 @@
       "applyUrl": "https://grnh.se/thb6nwq11us",
       "postedAt": "2026-10-21",
       "firstSeenAt": "2026-10-22",
+      "lastSeenAt": "2026-10-22",
+      "status": "Active"
+    },
+    {
+      "id": "job_792148",
+      "slug": "sr-product-manager-ii-smartsheet-bengaluru-792148",
+      "title": "Sr. Product Manager II",
+      "company": {
+        "id": "smartsheet",
+        "name": "Smartsheet",
+        "logo": null,
+        "domain": "smartsheet.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Growth",
+        "Pricing",
+        "API",
+        "Platform",
+        "Data",
+        "B2B"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Growth",
+        "Pricing",
+        "API"
+      ],
+      "description": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day.\n\nWe are looking to hire a Senior Product Manager II to own the integrations and agentic ecosystem for Brandfolder, Smartsheet's Digital Asset Management platform. This is a high-growth, strategically critical product area. It covers how Brandfolder connects to the tools where marketing and creative teams work, and how AI agents find, use and govern brand content through MCP, connectors, APIs and partner integrations.\n\nYour work will determine whether Brandfolder is the trusted source of brand content for people and AI agents alike. This is an individual contributor role for a product leader with strong technical fluency, deep customer instincts and the confidence to drive a complex, cross-surface product area across multiple engineering teams and external partners.\n\nYou Will",
+      "responsibilities": [
+        "Own the product strategy and roadmap for Brandfolder's MCP server, connector framework, public API and integrations and make clear prioritization and sequencing decisions",
+        "Define how AI agents such as Claude, ChatGPT, Gemini and Copilot discover, retrieve, create and update brand assets, while keeping permissions, usage rights and brand governance intact",
+        "Lead the evolution of Brandfolder's integration portfolio",
+        "Define the API and agent-readiness strategy: authentication, scopes, rate limits, webhooks, tool design and developer experience for customers, partners and AI clients",
+        "Own the quality, reliability and supportability of existing integrations, and shape the migration path from legacy connectors to the new platform",
+        "Lead customer and partner discovery sessions to validate assumptions",
+        "Author crisp product briefs, requirements and technical specs that design and engineering can execute without ambiguity, from discovery through GA and post-launch",
+        "Drive cross-functional alignment across engineering, design, security, GTM, Customer Success, Support and partner teams",
+        "Define success metrics for every feature, such as integration adoption, active accounts, agent task success, API usage and work with data teams to ensure instrumentation from day one",
+        "Represent product in leadership reviews, MBRs, partner conversations and customer engagements",
+        "Contribute to packaging and pricing decisions for integrations and AI capabilities"
+      ],
+      "requirements": [
+        "8+ years of product management experience delivering high-impact features in enterprise SaaS or B2B software",
+        "Experience owning platform, API, integration, connectors or developer-facing product areas, including how products work with AI models and agents is a strong plus",
+        "Experience with content, digital asset management, marketing technology or workflow products is a plus",
+        "Proven ability to navigate ambiguous, technically complex problem spaces and make clear scoping and sequencing decisions across multiple engineering teams and external partners",
+        "A working understanding of authentication and authorization (OAuth, SSO, role-based permissions), APIs and webhooks, and data security considerations for AI",
+        "Strong customer instincts: you run structured discovery, synthesize signal and turn it into well-scoped, validated decisions",
+        "A track record of excellent product briefs, requirements and specs that engineering acts on without ambiguity",
+        "Demonstrated ability to drive alignment across engineering, design, security, GTM and Customer Success, including third-party partner dependencies",
+        "A data-driven mindset: you define adoption, funnel, quality and reliability metrics before you ship and use post-launch data to guide iteration",
+        "Excellent written and verbal communication",
+        "Get to Know Us:",
+        "At Smartsheet, your ideas are heard, your potential is supported, and your contributions have real impact. You’ll have the freedom to explore, push boundaries, and grow beyond your role. We welcome diverse perspectives and nontraditional paths—because we know that impact comes from individuals who care deeply and challenge thoughtfully. When you’re doing work that stretches you, excites you, and connects you to something bigger, that’s magic at work. Let’s build what’s next, together."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Smartsheet",
+      "applyUrl": "https://job-boards.greenhouse.io/smartsheet/jobs/8305872",
+      "postedAt": "2026-10-21",
+      "firstSeenAt": "2026-10-21",
       "lastSeenAt": "2026-10-22",
       "status": "Active"
     },
