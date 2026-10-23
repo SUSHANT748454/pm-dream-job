@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T09:41:49.480Z",
+  "generatedAt": "2026-10-23T14:33:56.949Z",
   "jobs": [
     {
       "id": "job_9e5144",
@@ -80,6 +80,154 @@
       "salary": null,
       "source": "Greenhouse · Okta",
       "applyUrl": "https://www.okta.com/company/careers/opportunity/8188921?gh_jid=8188921",
+      "postedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "lastSeenAt": "2026-10-23",
+      "status": "Active"
+    },
+    {
+      "id": "job_26bdee",
+      "slug": "product-management-lead-lifecycle-commercialization-philips-bengaluru-26bdee",
+      "title": "Product Management Lead, Lifecycle & Commercialization",
+      "company": {
+        "id": "philips",
+        "name": "Philips",
+        "logo": null,
+        "domain": "philips.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "Healthcare",
+        "Enterprise",
+        "SaaS"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Go-to-Market",
+        "Growth",
+        "Pricing",
+        "Platform",
+        "Data",
+        "Agile"
+      ],
+      "tags": [
+        "Healthcare",
+        "Enterprise",
+        "SaaS",
+        "Lead Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Go-to-Market",
+        "Growth"
+      ],
+      "description": "Job Title\n\nProduct Management Lead, Lifecycle & Commercialization\n\nJob Description\n\nProduct Management Lead, Lifecycle & Commercialization\n\nLead lifecycle, commercialization, release readiness, and portfolio execution across the Cardiology Informatics portfolio, helping accelerate adoption and the transition toward scalable SaaS-enabled and cloud-based solutions.\n\nYour role:",
+      "responsibilities": [
+        "Lead end-to-end product lifecycle activities across launch, growth, sustainment, transition, and end-of-life, including installed-base migration, customer continuity, adoption, utilization, portfolio economics, and business case realization.",
+        "Drive commercialization and go-to-market readiness for new product introductions, software releases, upgrades, and portfolio transitions, partnering with Product Management, Marketing, regional teams, and other stakeholders on value propositions, pricing and packaging inputs, sales enablement, and launch execution.",
+        "Coordinate cross-functional release readiness across Product Management, Research & Development, Quality & Regulatory, Service Delivery, Business Operations, and regional organizations, ensuring key deliverables, dependencies, risks, and decisions are managed effectively.",
+        "Support the evolution toward Software as a Service (SaaS), cloud, platform, subscription, and recurring-value models by helping establish scalable processes for offer creation, release cadence, provisioning, adoption, utilization, and value realization.",
+        "Partner with Business Operations and Program Management Office teams to strengthen portfolio governance, metrics, planning cadence, and performance visibility while challenging legacy processes constructively and turning successful improvements into repeatable ways of working.",
+        "You’re the right fit if:",
+        "You’ve acquired",
+        "8+ years of relevant experience with a bachelor’s degree, or 5+ years with a master’s degree",
+        ", in Product Management, Product Lifecycle Management, Commercialization, Business Operations, Program Management, Healthcare Technology, Enterprise Software, SaaS, cloud-based solutions, or an equivalent field.",
+        "Your skills include product lifecycle management, new product introduction, commercialization and go-to-market, portfolio and catalog management, release planning and governance, business case realization, adoption measurement, continuous improvement, and cross-functional leadership.",
+        "You have a bachelor’s or master’s degree in Business Administration, Engineering, Product Management, Marketing, Healthcare Technology, Computer Science, or an equivalent field.",
+        "You’ve demonstrated experience coordinating complex releases, new product introductions, commercialization programs, or portfolio transitions in a cross-functional environment, along with experience translating enterprise software or digital-product strategy into operational execution."
+      ],
+      "requirements": [],
+      "preferred": [
+        "How we work together",
+        "We believe that we are better together than apart. For our office-based teams, this means working in-person at least 3 days per week. Onsite roles require full-time presence in the company’s facilities. Field roles are most effectively done outside of the company’s main facilities, generally at the customers’ or suppliers’ locations."
+      ],
+      "salary": null,
+      "source": "Workday · Philips",
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Product-Management-Lead--Lifecycle---Commercialization_593633-1",
+      "postedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "lastSeenAt": "2026-10-23",
+      "status": "Active"
+    },
+    {
+      "id": "job_2eaec9",
+      "slug": "sr-product-manager-i-data-mesh-smartsheet-bengaluru-2eaec9",
+      "title": "Sr. Product Manager I - Data Mesh",
+      "company": {
+        "id": "smartsheet",
+        "name": "Smartsheet",
+        "logo": null,
+        "domain": "smartsheet.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 4,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Analytics",
+        "API",
+        "Platform",
+        "Data",
+        "B2B"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Analytics",
+        "API",
+        "Platform"
+      ],
+      "description": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day.\n\nWe are looking for a Senior Product Manager to own DataMesh, one of Smartsheet’s most widely used cross-sheet data capabilities and a critical part of how enterprise customers build and run their solutions today. DataMesh sits at the centre of a multi-year shift in Smartsheet’s data model, as we evolve towards column links and, ultimately, relational data capabilities.\n\nYou Will:",
+      "responsibilities": [
+        "Own the product strategy and roadmap for DataMesh, balancing near-term stability and customer needs against the longer-term migration strategy",
+        "Own the operational stability and serviceability of DataMesh, partnering with engineering and Support to prioritise defects, performance issues, and escalations",
+        "Shape and execute the migration path from DataMesh to column links, working closely with the Data Links PM on feature parity, the advanced column links roadmap, and report-as-a-source as a critical dependency",
+        "Lead customer and user discovery with enterprise personas (work admins, solution builders, system administrators, and power users) to understand how DataMesh is used in practice, identify migration blockers, and validate decisions before they ship",
+        "Partner with Customer Success and GTM to plan communications, enablement, and migration support for enterprise accounts that depend on DataMesh",
+        "Work with one or more engineering squads, navigating dependencies and making clear scoping and sequencing decisions across a complex, interconnected backlog",
+        "Author clear product briefs, requirements docs, and feature specs that design and engineering can execute on without ambiguity",
+        "Define success metrics for everything you ship, including DataMesh usage, migration progress, and quality indicators, and partner with data and analytics teams on instrumentation and reporting",
+        "Represent DataMesh in leadership reviews, WBRs, and customer conversations, including enterprise account engagements",
+        "Perform other duties as assigned"
+      ],
+      "requirements": [
+        "4+ years of product management experience delivering features within enterprise SaaS or B2B software products",
+        "Experience with data management, data modelling, workflow automation, platform integrations, or cross-sheet data referencing is a strong plus",
+        "Experience managing a mature product through sustain, deprecation, or migration phases is a plus",
+        "Strong customer instincts: you can run structured discovery, synthesise customer feedback, and turn it into well-scoped, validated product decisions",
+        "A track record of writing product briefs, requirements docs, and specs that engineering and design can act on without ambiguity",
+        "Demonstrated ability to drive cross-functional alignment across engineering, design, GTM, and Customer Success",
+        "Comfort working with engineering teams across time zones, including stakeholders in North America",
+        "A data-driven mindset: you define adoption and quality metrics before you ship and use post-launch data to guide iteration",
+        "Excellent written and verbal communication skills, including confidence presenting in leadership reviews and speaking directly with enterprise customers",
+        "Familiarity with API-driven product development or working alongside platform engineering teams is a plus",
+        "Legally eligible to work in India on an ongoing basis",
+        "Fluency in English is required"
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Smartsheet",
+      "applyUrl": "https://job-boards.greenhouse.io/smartsheet/jobs/8317679",
       "postedAt": "2026-10-23",
       "firstSeenAt": "2026-10-23",
       "lastSeenAt": "2026-10-23",
@@ -3054,7 +3202,7 @@
       "workMode": "Onsite",
       "employmentType": "Full Time",
       "experienceLevel": "Senior Product Manager",
-      "experienceMin": 8,
+      "experienceMin": 4,
       "experienceMax": null,
       "domain": [
         "SaaS",
@@ -3094,7 +3242,7 @@
         "Contribute to packaging and pricing decisions for integrations and AI capabilities"
       ],
       "requirements": [
-        "8+ years of product management experience delivering high-impact features in enterprise SaaS or B2B software",
+        "4+ years of product management experience delivering high-impact features in enterprise SaaS or B2B software",
         "Experience owning platform, API, integration, connectors or developer-facing product areas, including how products work with AI models and agents is a strong plus",
         "Experience with content, digital asset management, marketing technology or workflow products is a plus",
         "Proven ability to navigate ambiguous, technically complex problem spaces and make clear scoping and sequencing decisions across multiple engineering teams and external partners",
@@ -31805,8 +31953,8 @@
     },
     {
       "id": "job_5d4dbd",
-      "slug": "lead-product-manager-saas-ai-zenoti-hyderabad-5d4dbd",
-      "title": "Lead Product Manager(SaaS + AI)",
+      "slug": "lead-product-manager-market-billing-zenoti-hyderabad-5d4dbd",
+      "title": "Lead Product Manager (Market + Billing)",
       "company": {
         "id": "zenoti",
         "name": "Zenoti",
@@ -31828,15 +31976,13 @@
         "Enterprise"
       ],
       "skills": [
-        "Analytics",
-        "User Research",
         "Growth",
         "Platform",
         "Data",
         "Mobile",
         "iOS",
         "Retention",
-        "Compliance"
+        "Agile"
       ],
       "tags": [
         "SaaS",
@@ -31844,30 +31990,30 @@
         "Enterprise",
         "Lead Product Manager",
         "Onsite",
-        "Analytics",
-        "User Research",
-        "Growth"
+        "Growth",
+        "Platform",
+        "Data"
       ],
-      "description": "Zenoti provides an all-in-one, cloud-based software solution for the beauty and wellness industry. Our solution allows users to seamlessly manage every aspect of the business in a comprehensive mobile solution: online appointment bookings, POS, CRM, employee management, inventory management, built-in marketing programs and more. Zenoti helps clients streamline their systems and reduce costs, while simultaneously improving customer retention and spending. Our platform is engineered for reliability and scale and harnesses the power of enterprise-level technology for businesses of all sizes\n\nZenoti powers more than 30,000 salons, spas, medspas and fitness studios in over 50 countries. This includes a vast portfolio of global brands, such as European Wax Center, Hand & Stone, Massage Heights, Rush Hair & Beauty, Sono Bello, Profile by Sanford, Hair Cuttery, CorePower Yoga and TONI&GUY.\n\nOur recent accomplishments include surpassing a $1 billion unicorn valuation, being named Next Tech Titan by GeekWire, raising an $80 million investment from TPG, ranking as the 316th fastest-growing company in North America on Deloitte’s 2020 Technology Fast 500™. We are also proud to be recognized as a Great Place to Work CertifiedTM for 2021-2022 as this reaffirms our commitment to empowering people to feel good and find their greatness. To learn more about Zenoti visit: https://www.zenoti.com\n\nWhat will I be doing?",
+      "description": "Zenoti provides an all-in-one, cloud-based software solution for the beauty and wellness industry. Our solution allows users to seamlessly manage every aspect of the business in a comprehensive mobile solution: online appointment bookings, POS, CRM, employee management, inventory management, built-in marketing programs and more. Zenoti helps clients streamline their systems and reduce costs, while simultaneously improving customer retention and spending. Our platform is engineered for reliability and scale and harnesses the power of enterprise-level technology for businesses of all sizes\n\nZenoti powers more than 30,000 salons, spas, medspas and fitness studios in over 50 countries. This includes a vast portfolio of global brands, such as European Wax Center, Hand & Stone, Massage Heights, Rush Hair & Beauty, Sono Bello, Profile by Sanford, Hair Cuttery, CorePower Yoga and TONI&GUY.\n\nOur recent accomplishments include surpassing a $1 billion unicorn valuation, being named Next Tech Titan by GeekWire, raising an $80 million investment from TPG, ranking as the 316th fastest-growing company in North America on Deloitte’s 2020 Technology Fast 500™. We are also proud to be recognized as a Great Place to Work CertifiedTM for 2021-2022 as this reaffirms our commitment to empowering people to feel good and find their greatness. To learn more about Zenoti visit: https://www.zenoti.com\n\nWhat's the opportunity?\n\nAs a product manager you will be responsible for defining market",
       "responsibilities": [
-        "Develop and articulate a clear vision and strategic direction for our data products. Work closely with senior management to ensure alignment with the organization’s overall objectives and the specific needs of our customers.",
-        "Oversee the technical design and architectural decisions for building scalable and efficient data products. Ensure products are designed to leverage our data assets effectively.",
-        "Implement data governance frameworks and establish data quality and consistency standards across Data Lake and other platforms. Ensure compliance with data security and privacy standards.",
-        "Facilitate collaboration across engineering, data science, and business teams. Translate business needs into technical specifications and ensure that developed solutions meet these specifications.",
-        "Conduct user research to gather insights into user needs and pain points. Use this information to guide product development and prioritize features that deliver significant value to users.",
-        "Define and monitor key performance indicators for data products to evaluate success and identify opportunities for improvement.",
-        "Write detailed functional specifications and collaborate with engineering teams to deliver features release after release.",
-        "What skills do I need?",
-        "8+ years of work experience as a Product manager in Reporting and Analytics areas of the product",
-        "Working knowledge of current analytical technologies, data warehouse design and business intelligence best practices",
-        "Excellent analytical, problem-solving, and strategic thinking skills.",
-        "Effective communication skills, capable of explaining complex data concepts to non-technical stakeholders."
+        "Excellent communication and presentation skills, including presenting to customers and senior executives",
+        "Excellent problem-solving skills, and ability to come up recommendations using data",
+        "Good interpersonal skills, ability to work in teams with a results-oriented attitude",
+        "Can deal with ambiguity and break complex and vaguely defined problems into a clear and actionable set of steps",
+        "Proven ability to influence cross-functional teams",
+        "Ability to strike the right balance between developing a high-level understanding of the business and market requirements, and developing detailed specs needed for execution",
+        "Must have a good understanding of mobile, web and cloud technology space",
+        "Has 8+ years of work experience in a Product Manager or Technical Product Manager role",
+        "Technical or engineering background required. MBA from a premier management institute desired.",
+        "Why Zenoti?",
+        "Be part of an innovative company that is revolutionizing the wellness and beauty industry.",
+        "Work with a dynamic and diverse team that values collaboration, creativity, and growth."
       ],
       "requirements": [],
       "preferred": [],
       "salary": null,
       "source": "Greenhouse · Zenoti",
-      "applyUrl": "https://job-boards.greenhouse.io/zenoti/jobs/7806709003",
+      "applyUrl": "https://job-boards.greenhouse.io/zenoti/jobs/7729931003",
       "postedAt": "2026-10-09",
       "firstSeenAt": "2026-10-09",
       "lastSeenAt": "2026-10-23",
