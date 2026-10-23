@@ -1,6 +1,90 @@
 {
-  "generatedAt": "2026-10-23T02:46:14.456Z",
+  "generatedAt": "2026-10-23T09:41:49.480Z",
   "jobs": [
+    {
+      "id": "job_9e5144",
+      "slug": "principal-bt-product-manager-okta-bengaluru-9e5144",
+      "title": "Principal BT Product Manager",
+      "company": {
+        "id": "okta",
+        "name": "Okta",
+        "logo": null,
+        "domain": "okta.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "AI",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "B2B",
+        "Onboarding",
+        "Stakeholder Management",
+        "Compliance"
+      ],
+      "tags": [
+        "SaaS",
+        "AI",
+        "Enterprise",
+        "Lead Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Growth",
+        "API"
+      ],
+      "description": "Secure Every Identity, from AI to Human\n\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\n\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.\n\nThe Enterprise Technology Team\n\nThe Enterprise Technology team builds and delivers the secure, scalable systems that power how our business runs. Our People Technology Team sits at the heart of this work, overseeing the full Hire-to-Retire technical ecosystem—including core applications like Workday, Greenhouse, and Cornerstone—and ensuring these platforms evolve alongside the company's growth. We partner closely with HR, Talent Acquisition, Talent Management, and Business Operations to bring data-driven, compliant, and innovative solutions to life.\n\nThe Opportunity\n\nReporting to the Director of People Technology, this role will serve as the Product Manager for Okta's People Technology portfolio, focused on Employee Growth & Talent. You will act as the strategic bridge between global People leaders and delivery teams. You will translate strategic product visions into high-velocity execution — shaping the what and why in partnership with Digital Solutions and",
+      "responsibilities": [
+        "Product Strategy & Roadmap Leadership:",
+        "Define the multi-year product vision and strategy for the Growth & Talent domain in close collaboration with functional and technical leadership. Translate that strategy into a prioritized, outcome-driven roadmap that articulates clear business value, return on investment (ROI), and measurable impact on talent operations and employee experience.",
+        "Talent Ecosystem Modernization:",
+        "Build data-driven business cases and functional strategies for major platform initiatives across the talent ecosystem (e.g., ATS, LMS, and custom Workday Extend applications), articulating clear ROI, operational efficiency gains, and improved employee and candidate experiences.",
+        "Delivery Lead Partnership:",
+        "Partner closely with the Growth & Talent Delivery Lead to translate business priorities and functional requirements into well-scoped epics and user stories, while maintaining clear alignment on trade-offs, velocity, and delivery milestones.",
+        "Functional & Technical Alignment:",
+        "Act as the voice of the business and end users within technical discussions, translating complex functional requirements into clear product specifications and acceptance criteria. Partner with the delivery team to evaluate technical trade-offs, balancing user experience, operational risk, and long-term scalability.",
+        "AI & Talent Automation Strategy:",
+        "Define the strategy and functional requirements for integrating AI across the talent lifecycle (sourcing, onboarding, learning, internal mobility)—evaluating build vs. buy solutions, designing human-in-the-loop workflows, and ensuring enterprise-grade privacy and ethical AI standards.",
+        "Global Stakeholder Management:",
+        "Drive cross-functional alignment across Digital Solutions, distributed executive stakeholders, business functional leads, and US-based product counterparts to ensure clear visibility, smooth change management, and high program adoption."
+      ],
+      "requirements": [
+        "8+ years of Product Management experience leading internal enterprise platforms, enterprise HR/Talent systems, or complex B2B SaaS products at global scale.",
+        "Deep Talent Tech Domain Expertise:",
+        "In-depth understanding of core Talent Acquisition, Learning & Development, and Performance/Talent Management processes, with hands-on familiarity with enterprise platforms such as Greenhouse, Cornerstone, and Workday Talent (or equivalent ATS/LMS/HCM ecosystems).",
+        "Strategic Business Case & ROI Sizing:",
+        "Proven ability to translate long-term business goals into multi-year product strategies, build data-backed investment cases, and measure the tangible ROI and operational impact of platform initiatives.",
+        "Technical Fluency & Cross-Functional Translation:",
+        "Demonstrated track record partnering with delivery teams on system integrations, data flows, and technical trade-offs—translating complex business requirements into clear functional specifications, acceptance criteria, and PRDs.",
+        "AI & Automation Acumen:",
+        "Functional understanding of enterprise AI applications, generative AI capabilities, and automated workflows, with an appreciation for human-in-the-loop design, ethical AI, and data privacy safeguards.",
+        "Autonomous Global Leadership:",
+        "Proven success operating with high autonomy across distributed time zones (US / APAC / EMEA), driving alignment and influencing senior business stakeholders and technical delivery teams asynchronously.",
+        "Education:"
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Okta",
+      "applyUrl": "https://www.okta.com/company/careers/opportunity/8188921?gh_jid=8188921",
+      "postedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "lastSeenAt": "2026-10-23",
+      "status": "Active"
+    },
     {
       "id": "job_719dce",
       "slug": "branch-product-manager-asus-india-719dce",
@@ -81431,9 +81515,8 @@
       "experienceMin": 8,
       "experienceMax": null,
       "domain": [
-        "SaaS",
         "AI",
-        "Enterprise"
+        "SaaS"
       ],
       "skills": [
         "Product Strategy",
@@ -81448,39 +81531,39 @@
         "Compliance"
       ],
       "tags": [
-        "SaaS",
         "AI",
-        "Enterprise",
+        "SaaS",
         "Lead Product Manager",
         "Onsite",
         "Product Strategy",
         "Growth",
-        "API"
+        "API",
+        "Platform"
       ],
-      "description": "Secure Every Identity, from AI to Human\n\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\n\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.\n\nThe Enterprise Technology Team\n\nThe Enterprise Technology team builds and delivers the secure, scalable systems that power how our business runs. Our People Technology Team sits at the heart of this work, overseeing the full Hire-to-Retire technical ecosystem—including core applications like Workday, Greenhouse, and Cornerstone—and ensuring these platforms evolve alongside the company's growth. We partner closely with HR, Talent Acquisition, Talent Management, and Business Operations to bring data-driven, compliant, and innovative solutions to life.\n\nThe Opportunity\n\nReporting to the Director of People Technology, this role will serve as the Product Manager for Okta's People Technology portfolio, focused on Employee Growth & Talent. You will act as the strategic bridge between global People leaders and delivery teams. You will translate strategic product visions into high-velocity execution — shaping the what and why in partnership with Digital Solutions and",
+      "description": "Secure Every Identity, from AI to Human\n\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\n\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.\n\nThe Enterprise Technology Team\n\nThe Enterprise Technology team builds and delivers the secure, scalable systems that power how our business runs. Our People Technology Team sits at the heart of this work, overseeing the full Hire-to-Retire technical ecosystem-including core applications like Workday, Greenhouse, and Cornerstone-and ensuring these platforms evolve alongside the company's growth. We partner closely with HR, Talent Acquisition, Talent Management, and Business Operations to bring data-driven, compliant, and innovative solutions to life.\n\nThe Opportunity\n\nReporting to the Director of People Technology, this role will serve as the Product Manager for Okta's People Technology portfolio, focused on Employee Growth Talent. You will act as the strategic bridge between global People leaders and delivery teams. You will translate strategic product visions into high-velocity execution - shaping the what and why in partnership with Digital Solutions and People",
       "responsibilities": [
-        "Product Strategy & Roadmap Leadership:",
-        "Define the multi-year product vision and strategy for the Growth & Talent domain in close collaboration with functional and technical leadership. Translate that strategy into a prioritized, outcome-driven roadmap that articulates clear business value, return on investment (ROI), and measurable impact on talent operations and employee experience.",
+        "Product Strategy Roadmap Leadership:",
+        "Define the multi-year product vision and strategy for the Growth Talent domain in close collaboration with functional and technical leadership. Translate that strategy into a prioritized, outcome-driven roadmap that articulates clear business value, return on investment (ROI), and measurable impact on talent operations and employee experience.",
         "Talent Ecosystem Modernization:",
         "Build data-driven business cases and functional strategies for major platform initiatives across the talent ecosystem (e.g., ATS, LMS, and custom Workday Extend applications), articulating clear ROI, operational efficiency gains, and improved employee and candidate experiences.",
         "Delivery Lead Partnership:",
-        "Partner closely with the Growth & Talent Delivery Lead to translate business priorities and functional requirements into well-scoped epics and user stories, while maintaining clear alignment on trade-offs, velocity, and delivery milestones.",
-        "Functional & Technical Alignment:",
+        "Partner closely with the Growth Talent Delivery Lead to translate business priorities and functional requirements into well-scoped epics and user stories, while maintaining clear alignment on trade-offs, velocity, and delivery milestones.",
+        "Functional Technical Alignment:",
         "Act as the voice of the business and end users within technical discussions, translating complex functional requirements into clear product specifications and acceptance criteria. Partner with the delivery team to evaluate technical trade-offs, balancing user experience, operational risk, and long-term scalability.",
-        "AI & Talent Automation Strategy:",
-        "Define the strategy and functional requirements for integrating AI across the talent lifecycle (sourcing, onboarding, learning, internal mobility)—evaluating build vs. buy solutions, designing human-in-the-loop workflows, and ensuring enterprise-grade privacy and ethical AI standards.",
+        "AI Talent Automation Strategy:",
+        "Define the strategy and functional requirements for integrating AI across the talent lifecycle (sourcing, onboarding, learning, internal mobility)-evaluating build vs. buy solutions, designing human-in-the-loop workflows, and ensuring enterprise-grade privacy and ethical AI standards.",
         "Global Stakeholder Management:",
         "Drive cross-functional alignment across Digital Solutions, distributed executive stakeholders, business functional leads, and US-based product counterparts to ensure clear visibility, smooth change management, and high program adoption."
       ],
       "requirements": [
         "8+ years of Product Management experience leading internal enterprise platforms, enterprise HR/Talent systems, or complex B2B SaaS products at global scale.",
         "Deep Talent Tech Domain Expertise:",
-        "In-depth understanding of core Talent Acquisition, Learning & Development, and Performance/Talent Management processes, with hands-on familiarity with enterprise platforms such as Greenhouse, Cornerstone, and Workday Talent (or equivalent ATS/LMS/HCM ecosystems).",
-        "Strategic Business Case & ROI Sizing:",
+        "In-depth understanding of core Talent Acquisition, Learning Development, and Performance/Talent Management processes, with hands-on familiarity with enterprise platforms such as Greenhouse, Cornerstone, and Workday Talent (or equivalent ATS/LMS/HCM ecosystems).",
+        "Strategic Business Case ROI Sizing:",
         "Proven ability to translate long-term business goals into multi-year product strategies, build data-backed investment cases, and measure the tangible ROI and operational impact of platform initiatives.",
-        "Technical Fluency & Cross-Functional Translation:",
-        "Demonstrated track record partnering with delivery teams on system integrations, data flows, and technical trade-offs—translating complex business requirements into clear functional specifications, acceptance criteria, and PRDs.",
-        "AI & Automation Acumen:",
+        "Technical Fluency Cross-Functional Translation:",
+        "Demonstrated track record partnering with delivery teams on system integrations, data flows, and technical trade-offs-translating complex business requirements into clear functional specifications, acceptance criteria, and PRDs.",
+        "AI Automation Acumen:",
         "Functional understanding of enterprise AI applications, generative AI capabilities, and automated workflows, with an appreciation for human-in-the-loop design, ethical AI, and data privacy safeguards.",
         "Autonomous Global Leadership:",
         "Proven success operating with high autonomy across distributed time zones (US / APAC / EMEA), driving alignment and influencing senior business stakeholders and technical delivery teams asynchronously.",
@@ -81488,8 +81571,8 @@
       ],
       "preferred": [],
       "salary": null,
-      "source": "Greenhouse · Okta",
-      "applyUrl": "https://www.okta.com/company/careers/opportunity/8188921?gh_jid=8188921",
+      "source": "Naukri",
+      "applyUrl": "https://www.naukri.com/job-listings-people-technology-product-manager-okta-identity-india-private-limited-bengaluru-5-to-9-years-211026922412",
       "postedAt": "2026-09-23",
       "firstSeenAt": "2026-09-23",
       "lastSeenAt": "2026-10-23",
@@ -109435,84 +109518,6 @@
       "status": "Active"
     },
     {
-      "id": "job_29f119",
-      "slug": "principal-product-manager-sumo-logic-delhi-ncr-29f119",
-      "title": "Principal Product Manager",
-      "company": {
-        "id": "sumo-logic",
-        "name": "Sumo Logic",
-        "logo": null,
-        "domain": "sumologic.com"
-      },
-      "location": {
-        "city": "Delhi NCR",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Group Product Manager",
-      "experienceMin": 8,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Enterprise"
-      ],
-      "skills": [
-        "SQL",
-        "Analytics",
-        "Platform",
-        "Data",
-        "Demand"
-      ],
-      "tags": [
-        "SaaS",
-        "Enterprise",
-        "Group Product Manager",
-        "Onsite",
-        "SQL",
-        "Analytics",
-        "Platform",
-        "Data"
-      ],
-      "description": "",
-      "responsibilities": [
-        "Agentic Investigation & Reliability Experiences",
-        "Sumo Logic is hiring a Principal Product Manager to lead how engineers and operators investigate incidents, understand reliability risk, and act on their operational and security telemetry.",
-        "The observability category was built around collecting telemetry and giving people tools to navigate it: dashboards, queries, monitors, traces, and alerts. Customer expectations are now shifting. Teams don't just want more dashboards; they want help getting from a signal to a resolution, understanding what's broken, why, what's impacted, and what to do next. As AI agents move into production operations, this role owns how Sumo Logic brings intelligent, agent-assisted investigation and reliability workflows to customers, grounded in evidence, context, and enterprise governance.",
-        "This is a senior, high-ownership role. It requires genuine observability domain background. You should have lived in this space and understand how monitoring, troubleshooting, and reliability actually work, combined with the ambition to define a new category of experience on top of it.",
-        "What You Will Own",
-        "The current data experiences.",
-        "Log Search, Live Tail, query and query optimization, Metrics Search, Tracing, Dashboards, and the data-experience UI. This is a live, revenue-generating product with real customers, and keeping it strong is part of the job. You own its health, roadmap, and competitiveness today while steering it toward an AI-native future, focusing new investment where it strengthens investigation, speed, and value for both new and power users.",
-        "The reliability and alerting surface.",
-        "Monitors, Alerts, SLOs, Scheduled Searches, and the reliability workflows around them. You will own alerting accuracy, noise reduction, and operational health signals both as capabilities customers depend on today and as the foundation for more automated, agent-assisted detection and investigation.",
-        "The agentic investigation experience.",
-        "You will define how a user moves from a search, a monitor, a dashboard, or an alert to likely cause faster, with supporting evidence. This means productizing investigation workflows that reason across logs, metrics, traces, monitors, dashboards, and related context, and evolving them from reactive troubleshooting toward more proactive detection over time.",
-        "What You Will Be Doing"
-      ],
-      "requirements": [
-        "8+ years of product management experience with real observability or monitoring domain background. You have owned products in observability, monitoring, incident response, APM, or a closely adjacent operational-telemetry space. This is a hard requirement.",
-        "Deep, first-hand understanding of the observability surface area including logs, metrics, traces, dashboards, monitors, alerts, and SLOs, and of how engineers and operators actually investigate incidents and decide what to trust.",
-        "Proven ability to run a live, at-scale product, owning the roadmap, health, and competitiveness of shipping surfaces while driving a larger transformation.",
-        "A track record of owning broad, technically deep surfaces and setting direction that other teams build on.",
-        "Familiarity with how AI and agents are changing data interaction, including natural-language investigation, tools, guardrails, and human-in-the-loop action, or the ability to ramp quickly.",
-        "Strong technical instincts around query engines, time-series and trace data, and alerting systems, plus the judgment to know where an AI-assisted experience should replace a manual flow and where depth must stay.",
-        "Strong analytical skills and comfort using telemetry, dashboards, SQL, and usage data to understand adoption, friction, reliability, and cost.",
-        "Excellent communication across technical and business audiences, and the ability to write clear proposals, decision docs, PRDs, and acceptance criteria.",
-        "High ownership and drive to make progress across a large, ambiguous, fast-moving surface.",
-        "Must-Have Qualities",
-        "Runs today, builds tomorrow.",
-        "Keeps a live product healthy and competitive while reinventing it, and knows what to sustain and what to rebuild."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · Sumo Logic",
-      "applyUrl": "https://job-boards.greenhouse.io/sumologic/jobs/8089130",
-      "postedAt": "2026-09-08",
-      "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-10-23",
-      "status": "Active"
-    },
-    {
       "id": "job_e4eec1",
       "slug": "principal-product-manager-sumo-logic-bengaluru-e4eec1",
       "title": "Principal Product Manager",
@@ -109585,6 +109590,84 @@
       "salary": null,
       "source": "Greenhouse · Sumo Logic",
       "applyUrl": "https://job-boards.greenhouse.io/sumologic/jobs/8098451",
+      "postedAt": "2026-09-08",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-10-23",
+      "status": "Active"
+    },
+    {
+      "id": "job_29f119",
+      "slug": "principal-product-manager-sumo-logic-delhi-ncr-29f119",
+      "title": "Principal Product Manager",
+      "company": {
+        "id": "sumo-logic",
+        "name": "Sumo Logic",
+        "logo": null,
+        "domain": "sumologic.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise"
+      ],
+      "skills": [
+        "SQL",
+        "Analytics",
+        "Platform",
+        "Data",
+        "Demand"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "Group Product Manager",
+        "Onsite",
+        "SQL",
+        "Analytics",
+        "Platform",
+        "Data"
+      ],
+      "description": "",
+      "responsibilities": [
+        "Agentic Investigation & Reliability Experiences",
+        "Sumo Logic is hiring a Principal Product Manager to lead how engineers and operators investigate incidents, understand reliability risk, and act on their operational and security telemetry.",
+        "The observability category was built around collecting telemetry and giving people tools to navigate it: dashboards, queries, monitors, traces, and alerts. Customer expectations are now shifting. Teams don't just want more dashboards; they want help getting from a signal to a resolution, understanding what's broken, why, what's impacted, and what to do next. As AI agents move into production operations, this role owns how Sumo Logic brings intelligent, agent-assisted investigation and reliability workflows to customers, grounded in evidence, context, and enterprise governance.",
+        "This is a senior, high-ownership role. It requires genuine observability domain background. You should have lived in this space and understand how monitoring, troubleshooting, and reliability actually work, combined with the ambition to define a new category of experience on top of it.",
+        "What You Will Own",
+        "The current data experiences.",
+        "Log Search, Live Tail, query and query optimization, Metrics Search, Tracing, Dashboards, and the data-experience UI. This is a live, revenue-generating product with real customers, and keeping it strong is part of the job. You own its health, roadmap, and competitiveness today while steering it toward an AI-native future, focusing new investment where it strengthens investigation, speed, and value for both new and power users.",
+        "The reliability and alerting surface.",
+        "Monitors, Alerts, SLOs, Scheduled Searches, and the reliability workflows around them. You will own alerting accuracy, noise reduction, and operational health signals both as capabilities customers depend on today and as the foundation for more automated, agent-assisted detection and investigation.",
+        "The agentic investigation experience.",
+        "You will define how a user moves from a search, a monitor, a dashboard, or an alert to likely cause faster, with supporting evidence. This means productizing investigation workflows that reason across logs, metrics, traces, monitors, dashboards, and related context, and evolving them from reactive troubleshooting toward more proactive detection over time.",
+        "What You Will Be Doing"
+      ],
+      "requirements": [
+        "8+ years of product management experience with real observability or monitoring domain background. You have owned products in observability, monitoring, incident response, APM, or a closely adjacent operational-telemetry space. This is a hard requirement.",
+        "Deep, first-hand understanding of the observability surface area including logs, metrics, traces, dashboards, monitors, alerts, and SLOs, and of how engineers and operators actually investigate incidents and decide what to trust.",
+        "Proven ability to run a live, at-scale product, owning the roadmap, health, and competitiveness of shipping surfaces while driving a larger transformation.",
+        "A track record of owning broad, technically deep surfaces and setting direction that other teams build on.",
+        "Familiarity with how AI and agents are changing data interaction, including natural-language investigation, tools, guardrails, and human-in-the-loop action, or the ability to ramp quickly.",
+        "Strong technical instincts around query engines, time-series and trace data, and alerting systems, plus the judgment to know where an AI-assisted experience should replace a manual flow and where depth must stay.",
+        "Strong analytical skills and comfort using telemetry, dashboards, SQL, and usage data to understand adoption, friction, reliability, and cost.",
+        "Excellent communication across technical and business audiences, and the ability to write clear proposals, decision docs, PRDs, and acceptance criteria.",
+        "High ownership and drive to make progress across a large, ambiguous, fast-moving surface.",
+        "Must-Have Qualities",
+        "Runs today, builds tomorrow.",
+        "Keeps a live product healthy and competitive while reinventing it, and knows what to sustain and what to rebuild."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Sumo Logic",
+      "applyUrl": "https://job-boards.greenhouse.io/sumologic/jobs/8089130",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-10",
       "lastSeenAt": "2026-10-23",
@@ -122696,8 +122779,8 @@
       "companySize": "1000-5000",
       "description": "Sumo Logic is a saas company hiring product managers in India.",
       "locations": [
-        "Delhi NCR",
-        "Bengaluru"
+        "Bengaluru",
+        "Delhi NCR"
       ]
     },
     {
