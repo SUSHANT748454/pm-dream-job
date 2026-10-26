@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-10-26T02:32:02.863Z",
+  "generatedAt": "2026-10-26T10:40:43.476Z",
   "jobs": [
+    {
+      "id": "job_1ee5cf",
+      "slug": "principal-product-manager-recovery-orchestration-commvault-bengaluru-1ee5cf",
+      "title": "Principal Product Manager, Recovery Orchestration",
+      "company": {
+        "id": "commvault",
+        "name": "Commvault",
+        "logo": null,
+        "domain": "commvault.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise",
+        "Fintech"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Pricing",
+        "Platform",
+        "Data",
+        "Fraud",
+        "Retention",
+        "Compliance"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "Fintech",
+        "Group Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Pricing",
+        "Platform"
+      ],
+      "description": "Recruitment Fraud Alert\n\nWe’ve learned that scammers are impersonating Commvault team members—including HR and leadership—via email or text. These bad actors may conduct fake interviews and ask for personal information, such as your social security number.\n\nWhat to know:",
+      "responsibilities": [
+        "Commvault does not conduct interviews by email or text.",
+        "We will never ask you to submit sensitive documents (including banking information, SSN, etc) before your first day.",
+        "Commvault recruiters may contact prospective candidates through LinkedIn and other professional networking platforms regarding career opportunities. If you are unsure whether a recruiting communication is legitimate, review the profile to ensure they have a badge verifying them as a Commvault employee.",
+        "If you suspect a recruiting scam, please contact us at wwrecruitingteam@commvault.com"
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Commvault",
+      "applyUrl": "https://job-boards.greenhouse.io/commvault/jobs/5456259008",
+      "postedAt": "2026-10-26",
+      "firstSeenAt": "2026-10-26",
+      "lastSeenAt": "2026-10-26",
+      "status": "Active"
+    },
     {
       "id": "job_536baa",
       "slug": "product-lead-ai-broadridge-bengaluru-536baa",
@@ -55348,6 +55408,64 @@
       "status": "Active"
     },
     {
+      "id": "job_7682b4",
+      "slug": "product-manager-toast-bengaluru-7682b4",
+      "title": "Product Manager",
+      "company": {
+        "id": "toast",
+        "name": "Toast",
+        "logo": null,
+        "domain": "toasttab.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "SaaS",
+        "AI"
+      ],
+      "skills": [
+        "Experimentation",
+        "SQL",
+        "Growth",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "Payments",
+        "Fraud",
+        "Onboarding",
+        "Compliance"
+      ],
+      "tags": [
+        "Fintech",
+        "SaaS",
+        "AI",
+        "Product Manager",
+        "Onsite",
+        "Experimentation",
+        "SQL",
+        "Growth"
+      ],
+      "description": "Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees happy.\n\nWe're looking for a Product Manager for Fraud & Risk who wants to understand how fraud really happens and to build products that stop it at scale. You're comfortable with ambiguity and you like hard trade-offs, like loss vs. friction or automation vs. human review. Your decisions rest on data, customer insight and strong cross-functional partnerships. And last, but not least, you know that a team succeeds because of its people, and you want to help build an environment where we can all do our best work.\n\nThis is a chance to shape the risk platform behind one of the largest restaurant payments businesses in the US. You'll use machine learning and AI to protect restaurants and help Toast grow.",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Toast",
+      "applyUrl": "https://careers.toasttab.com/jobs?gh_jid=8263535",
+      "postedAt": "2026-10-05",
+      "firstSeenAt": "2026-10-05",
+      "lastSeenAt": "2026-10-26",
+      "status": "Active"
+    },
+    {
       "id": "job_9b2fd7",
       "slug": "product-manager-accion-labs-bengaluru-9b2fd7",
       "title": "Product Manager",
@@ -56832,56 +56950,6 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-geo-local-data-next-billion-users-at-google-4474612649",
       "postedAt": "2026-10-05",
       "firstSeenAt": "2026-10-07",
-      "lastSeenAt": "2026-10-26",
-      "status": "Active"
-    },
-    {
-      "id": "job_7682b4",
-      "slug": "sr-product-manager-toast-bengaluru-7682b4",
-      "title": "Sr Product Manager",
-      "company": {
-        "id": "toast",
-        "name": "Toast",
-        "logo": null,
-        "domain": "toasttab.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": null,
-      "experienceMax": null,
-      "domain": [],
-      "skills": [
-        "Growth",
-        "Data"
-      ],
-      "tags": [
-        "Senior Product Manager",
-        "Onsite",
-        "Growth",
-        "Data"
-      ],
-      "description": "• Develop and execute product strategies to achieve business objectives and drive revenue growth.",
-      "responsibilities": [
-        "Develop and execute product strategies to achieve business objectives and drive revenue growth.",
-        "Collaborate with cross-functional teams, including engineering, design, and marketing, to ensure alignment and successful product launches.",
-        "Conduct market research and analyze customer feedback to identify trends and opportunities for innovation.",
-        "Define and measure key performance indicators (KPIs) to measure product success and make data-driven decisions.",
-        "Work closely with stakeholders to prioritize product requirements and develop detailed product roadmaps.",
-        "Lead the planning, execution, and delivery of new products or features, ensuring timely and within-budget delivery.",
-        "Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying."
-      ],
-      "requirements": [],
-      "preferred": [],
-      "salary": null,
-      "source": "Naukri",
-      "applyUrl": "https://www.naukri.com/job-listings-sr-product-manager-toast-bengaluru-6-to-11-years-061026501759",
-      "postedAt": "2026-10-05",
-      "firstSeenAt": "2026-10-05",
       "lastSeenAt": "2026-10-26",
       "status": "Active"
     },
@@ -117784,6 +117852,75 @@
       "status": "Active"
     },
     {
+      "id": "job_204311",
+      "slug": "lead-product-manager-technical-mastercard-pune-204311",
+      "title": "Lead Product Manager- Technical",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Pune",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Enterprise",
+        "Ecommerce"
+      ],
+      "skills": [
+        "SQL",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Payments",
+        "Agile",
+        "Scrum"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "Ecommerce",
+        "Lead Product Manager",
+        "Onsite",
+        "SQL",
+        "Growth",
+        "API"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nLead Product Manager- Technical\n\nLead Product Manager",
+      "responsibilities": [
+        "Technical",
+        "Overview:",
+        "Who is Mastercard?",
+        "Mastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.",
+        "Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.",
+        "Job Description Summary",
+        "Providing Innovative, Secure, and Reliable Switching Solutions is the lifeblood of Mastercard Core Products, we are currently seeking a passionate, collaborative, and experienced Lead, Product Manager Technical to join the Switching Solutions Team.",
+        "Are you a collaborator capable of communicating effectively with Business and IT stakeholders across all organizational levels?",
+        "Are you an innovator who embraces, adopts, and studies the latest technology to solve challenging business problems?",
+        "Are you a leader who inspires the team to think “out of the box” and effectively communicates across all levels of the organization?",
+        "If this describes you, Mastercard wants to talk to you about joining our Squad.",
+        "Overview"
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--Technical_R-291502",
+      "postedAt": "2026-09-08",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-10-26",
+      "status": "Active"
+    },
+    {
       "id": "job_e4eec1",
       "slug": "principal-product-manager-sumo-logic-bengaluru-e4eec1",
       "title": "Principal Product Manager",
@@ -118003,74 +118140,6 @@
       "applyUrl": "https://www.themuse.com/jobs/cornerstoneondemand/senior-product-manager-c42e85",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
-      "lastSeenAt": "2026-10-26",
-      "status": "Active"
-    },
-    {
-      "id": "job_204311",
-      "slug": "senior-product-manager-technical-mastercard-pune-204311",
-      "title": "Senior Product Manager - Technical",
-      "company": {
-        "id": "mastercard",
-        "name": "Mastercard",
-        "logo": null,
-        "domain": "mastercard.com"
-      },
-      "location": {
-        "city": "Pune",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": null,
-      "experienceMax": null,
-      "domain": [
-        "Fintech"
-      ],
-      "skills": [
-        "Product Strategy",
-        "Analytics",
-        "User Research",
-        "Go-to-Market",
-        "Monetization",
-        "Pricing",
-        "API",
-        "Platform",
-        "Data",
-        "Payments"
-      ],
-      "tags": [
-        "Fintech",
-        "Senior Product Manager",
-        "Onsite",
-        "Product Strategy",
-        "Analytics",
-        "User Research",
-        "Go-to-Market"
-      ],
-      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle And Summary\n\nSenior Product Manager",
-      "responsibilities": [
-        "Technical",
-        "Overview",
-        "MasterCard Data & Services enables customers across industries and geographies to make smarter decisions and reach better outcomes with a tailored portfolio of solutions beyond the transaction.",
-        "We harness the power of real-time, anonymized, aggregated transaction data; powerful software platforms; and a wealth of expertise",
-        "We empower customers to make better data-driven decisions by unlocking a holistic view of consumer behaviour beyond their four walls and distilling actionable insights from data",
-        "We work with financial institutions, retailers, telecommunications organizations, travel companies, and more",
-        "The MasterCard Data & Services Operational Insights Program Global Product Management team is seeking an accomplished technology-focused Product Manager to support the evolution of its products. This person will be part of a team of product managers that oversee key activities including execution of the product strategy, management of the roadmap, shaping the product platform architecture and the creation of technical requirements leading to building and commercialisation of products and services.",
-        "This individual will partner closely with other Global Product Management team members to support the development of the product strategy and ensure product priorities are well-aligned with commercial objectives. This individual will also be the key collaborator with the Platform team to shape the long-term technical vision for the product and ensure efficient development execution.",
-        "Product Managers in Data & Services at Mastercard",
-        "Translate a deep understanding of our customers into products and solutions that drive significant customer value",
-        "Balance the long-term direction of a product with today’s needs and constraints by fully understanding the technical, competitive, and commercial contexts of our products",
-        "Ensure the technical success of our products through close partnerships with Technology teams"
-      ],
-      "requirements": [],
-      "preferred": [],
-      "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-technical-at-mastercard-4462221943",
-      "postedAt": "2026-09-08",
-      "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-10-26",
       "status": "Active"
     },
@@ -124863,6 +124932,19 @@
       "description": null,
       "locations": [
         "India"
+      ]
+    },
+    {
+      "id": "commvault",
+      "name": "Commvault",
+      "logo": null,
+      "domain": "commvault.com",
+      "website": "https://commvault.com",
+      "industry": "Enterprise",
+      "companySize": "1000-5000",
+      "description": "Commvault is a enterprise company hiring product managers in India.",
+      "locations": [
+        "Bengaluru"
       ]
     },
     {
