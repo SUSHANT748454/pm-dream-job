@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T10:08:45.179Z",
+  "generatedAt": "2026-10-27T19:46:17.477Z",
   "jobs": [
     {
       "id": "job_fc9eac",
@@ -101786,75 +101786,6 @@
       "status": "Active"
     },
     {
-      "id": "job_204311",
-      "slug": "lead-product-manager-technical-mastercard-pune-204311",
-      "title": "Lead Product Manager- Technical",
-      "company": {
-        "id": "mastercard",
-        "name": "Mastercard",
-        "logo": null,
-        "domain": "mastercard.com"
-      },
-      "location": {
-        "city": "Pune",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Lead Product Manager",
-      "experienceMin": null,
-      "experienceMax": null,
-      "domain": [
-        "Fintech",
-        "Enterprise",
-        "Ecommerce"
-      ],
-      "skills": [
-        "SQL",
-        "Growth",
-        "API",
-        "Platform",
-        "Data",
-        "Payments",
-        "Agile",
-        "Scrum"
-      ],
-      "tags": [
-        "Fintech",
-        "Enterprise",
-        "Ecommerce",
-        "Lead Product Manager",
-        "Onsite",
-        "SQL",
-        "Growth",
-        "API"
-      ],
-      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nLead Product Manager- Technical\n\nLead Product Manager",
-      "responsibilities": [
-        "Technical",
-        "Overview:",
-        "Who is Mastercard?",
-        "Mastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.",
-        "Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.",
-        "Job Description Summary",
-        "Providing Innovative, Secure, and Reliable Switching Solutions is the lifeblood of Mastercard Core Products, we are currently seeking a passionate, collaborative, and experienced Lead, Product Manager Technical to join the Switching Solutions Team.",
-        "Are you a collaborator capable of communicating effectively with Business and IT stakeholders across all organizational levels?",
-        "Are you an innovator who embraces, adopts, and studies the latest technology to solve challenging business problems?",
-        "Are you a leader who inspires the team to think “out of the box” and effectively communicates across all levels of the organization?",
-        "If this describes you, Mastercard wants to talk to you about joining our Squad.",
-        "Overview"
-      ],
-      "requirements": [],
-      "preferred": [],
-      "salary": null,
-      "source": "Workday · Mastercard",
-      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--Technical_R-291502",
-      "postedAt": "2026-09-08",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-10-27",
-      "status": "Active"
-    },
-    {
       "id": "job_e4eec1",
       "slug": "principal-product-manager-sumo-logic-bengaluru-e4eec1",
       "title": "Principal Product Manager",
@@ -102078,6 +102009,74 @@
       "status": "Active"
     },
     {
+      "id": "job_204311",
+      "slug": "senior-product-manager-technical-mastercard-pune-204311",
+      "title": "Senior Product Manager - Technical",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Pune",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Fintech"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Analytics",
+        "User Research",
+        "Go-to-Market",
+        "Monetization",
+        "Pricing",
+        "API",
+        "Platform",
+        "Data",
+        "Payments"
+      ],
+      "tags": [
+        "Fintech",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Analytics",
+        "User Research",
+        "Go-to-Market"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle And Summary\n\nSenior Product Manager",
+      "responsibilities": [
+        "Technical",
+        "Overview",
+        "MasterCard Data & Services enables customers across industries and geographies to make smarter decisions and reach better outcomes with a tailored portfolio of solutions beyond the transaction.",
+        "We harness the power of real-time, anonymized, aggregated transaction data; powerful software platforms; and a wealth of expertise",
+        "We empower customers to make better data-driven decisions by unlocking a holistic view of consumer behaviour beyond their four walls and distilling actionable insights from data",
+        "We work with financial institutions, retailers, telecommunications organizations, travel companies, and more",
+        "The MasterCard Data & Services Operational Insights Program Global Product Management team is seeking an accomplished technology-focused Product Manager to support the evolution of its products. This person will be part of a team of product managers that oversee key activities including execution of the product strategy, management of the roadmap, shaping the product platform architecture and the creation of technical requirements leading to building and commercialisation of products and services.",
+        "This individual will partner closely with other Global Product Management team members to support the development of the product strategy and ensure product priorities are well-aligned with commercial objectives. This individual will also be the key collaborator with the Platform team to shape the long-term technical vision for the product and ensure efficient development execution.",
+        "Product Managers in Data & Services at Mastercard",
+        "Translate a deep understanding of our customers into products and solutions that drive significant customer value",
+        "Balance the long-term direction of a product with today’s needs and constraints by fully understanding the technical, competitive, and commercial contexts of our products",
+        "Ensure the technical success of our products through close partnerships with Technology teams"
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "LinkedIn",
+      "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-technical-at-mastercard-4462221943",
+      "postedAt": "2026-09-08",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-10-27",
+      "status": "Active"
+    },
+    {
       "id": "job_bddb01",
       "slug": "senior-specialist-product-manager-mastercard-pune-bddb01",
       "title": "Senior Specialist Product Manager",
@@ -102173,7 +102172,7 @@
       "preferred": [],
       "salary": null,
       "source": "Ashby · SpotDraft",
-      "applyUrl": "https://jobs.ashbyhq.com/spotdraft/4c635c45-27c4-4e53-892d-da09156ef0e6",
+      "applyUrl": "https://jobs.ashbyhq.com/spotdraft/96761f6b-578d-4daa-9d02-25c47fd39590",
       "postedAt": "2026-09-07",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
       "lastSeenAt": "2026-10-27",
