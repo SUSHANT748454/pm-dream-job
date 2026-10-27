@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T03:06:54.643Z",
+  "generatedAt": "2026-10-27T10:08:45.179Z",
   "jobs": [
     {
       "id": "job_fc9eac",
@@ -63,6 +63,155 @@
       "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Manager--Product-Data---Analytics_R-294717",
       "postedAt": "2026-10-27",
       "firstSeenAt": "2026-10-26",
+      "lastSeenAt": "2026-10-27",
+      "status": "Active"
+    },
+    {
+      "id": "job_650e17",
+      "slug": "manager-product-management-mastercard-delhi-ncr-650e17",
+      "title": "Manager, Product Management",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 6,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Enterprise",
+        "AI"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Experimentation",
+        "Analytics",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Payments",
+        "Demand",
+        "Stakeholder Management"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "AI",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Experimentation",
+        "Analytics"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nManager, Product Management\n\nManager, Product Management\n\nAI Foundations & Agent\n\nCapabilities & Data | Business & Marketing Insights\n\nJob Title:  Manager, Product Management\n\nWho is Mastercard? Mastercard powers economies and empowers people in 200+ countries and territories worldwide. We support a wide range of digital payment choices, making transactions secure, simple, smart, and accessible. Our technology, innovation, partnerships, and networks combine to deliver products and services that help individuals, businesses, and governments realize their greatest potential.\n\nOverview\n\nMastercard Services Team enables customers across industries and geographies to make smarter decisions and reach better outcomes with a tailored portfolio of solutions beyond the transaction.\n\nThe Capabilities & Data team in enables Business & Marketing Insights teams to build, scale, and distribute products faster through interoperable data, reusable AI capabilities, and",
+      "responsibilities": [
+        "Role",
+        "The AI Foundations & Agent Platform team is building the reusable capabilities, frameworks, tools, governance models, and development environments that will power the next generation of AI-enabled products across Business & Marketing Insights.We are seeking a Product Manager to help shape and scale Mastercard's AI platform ecosystem, enabling product teams to rapidly build, deploy, and manage intelligent agents and AI-powered experiences. This role sits at the intersection of product, engineering, data science, and business strategy.You will work with product teams across B&MI to identify common AI needs, translate them into platform capabilities, and drive adoption of reusable AI services that accelerate innovation while ensuring governance, scalability, and consistency.",
+        "Build and scale the platform capabilities that make AI development faster and more effective across multiple product teams. Work at the intersection of AI, platform engineering, and product strategy to create reusable agent frameworks, services, and development capabilities. Identify common AI needs across partner teams and translate them into scalable platform requirements and product investments. Support the C&D AI portfolio strategy by understanding current and future business, product, technology, and stakeholder needs. Define, socialize, and drive adoption of standards, templates, governance models, and best practices for building AI-powered solutions and agents. Serve as the voice of the customer by leveraging user feedback, product telemetry, and Voice of Customer programs to identify opportunities and prioritize enhancements. Define and monitor success metrics focused on adoption, business impact, product effectiveness, and outcomes across the AI portfolio. Establish and drive product management disciplines across the product lifecycle, including roadmap management, prioritization, experimentation, Agile delivery, and product readiness. Champion a user-centric and data-driven culture through Design Thinking, test-and-learn principles, and continuous product improvement. Partner closely with Engineering, Data Science, UX, Compliance, Security, and Legal teams to deliver scalable, compliant, and high-quality AI solutions. Make thoughtful tradeoff decisions balancing customer value, technical feasibility, risk, scalability, and time-to-market considerations. Build strong relationships across regions, functions, and stakeholder groups to drive alignment, influence decisions, and accelerate adoption. Foster operational excellence through documentation, knowledge management, repeatable processes, and scalable ways of working.",
+        "All About You",
+        "Required6+ years of Product Management experience in AI, analytics, data, platform, or technology products. Strong understanding of Generative AI concepts including: LLMs, AI Agents, Agent Orchestration, Retrieval-Augmented Generation (RAG), Evaluation & Testing, AI Governance & Controls Experience partnering with Engineering and Data Science teams to deliver production-grade solutions. Strong analytical thinking and structured problem-solving skills. Outstanding stakeholder management and communication skills. Ability to influence across teams without direct authority. Experience working in Agile product environments. Comfortable with coding and working with large data assetsPreferredExperience building internal platforms, developer products, APIs, or reusable services. Experience with AI development ecosystems and agent frameworks. Familiarity with experimentation, model evaluation, and responsible AI practices. Experience working across global organizations and multiple stakeholder groups. Knowledge of payments, analytics, consulting, or data products.",
+        "Success in This Role",
+        "After 12 months, this individual will have:Helped expand adoption of AI Foundations capabilities across multiple BMI products. Defined and scaled reusable frameworks that reduce duplication of AI development effort. Enabled product teams to launch AI-powered experiences faster through shared platform services. Contributed to a consistent approach for agent development, governance, and deployment across BMI. Established measurable platform adoption and business impact metrics.",
+        "Corporate Security Responsibility",
+        "All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:",
+        "Abide by Mastercard’s security policies and practices;",
+        "Ensure the confidentiality and integrity of the information being accessed;",
+        "Report any suspected information security violation or breach, and"
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Manager--Product-Management_R-291979",
+      "postedAt": "2026-10-27",
+      "firstSeenAt": "2026-10-27",
+      "lastSeenAt": "2026-10-27",
+      "status": "Active"
+    },
+    {
+      "id": "job_780ac1",
+      "slug": "principal-it-product-management-analyst-medtronic-hyderabad-780ac1",
+      "title": "Principal IT Product Management Analyst",
+      "company": {
+        "id": "medtronic",
+        "name": "Medtronic",
+        "logo": null,
+        "domain": "medtronic.com"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Director",
+      "experienceMin": 14,
+      "experienceMax": null,
+      "domain": [
+        "Healthcare",
+        "Enterprise",
+        "Fintech"
+      ],
+      "skills": [
+        "SQL",
+        "Analytics",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Fraud",
+        "Agile",
+        "Compliance"
+      ],
+      "tags": [
+        "Healthcare",
+        "Enterprise",
+        "Fintech",
+        "Director",
+        "Onsite",
+        "SQL",
+        "Analytics",
+        "Growth"
+      ],
+      "description": "Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate pain, restore health, and extend life. Our 95,000 employees work across more than 150 countries to put patients first — developing innovative medical technologies that improve the lives of 72+ million patients each year. Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact.\n\nA Day in the Life\n\nThe Data Platform & Services (DPS) value stream is responsible for overseeing enterprise data assets across the organization. This includes the management of data and analytics platforms, governance of data solutions, ensuring data quality and timeliness, maintaining data interfaces, enabling seamless integration with external systems, and supporting advanced analytics capabilities.\n\nWithin this stream, the Enterprise Data Governance team plays a vital role by delivering metadata management services through the Enterprise Data Catalog (Atlan). These services empower business users to efficiently discover and access the data they need, and include capabilities such as metadata management, data lineage tracking, transformation logic transparency, and standardized business terminology.\n\nWe are looking for a seasoned and highly skilled Principal Product Analyst (PA) with deep expertise in metadata integration and data governance solutions, specifically utilizing Atlan. In this role, you will be",
+      "responsibilities": [
+        "Manage enterprise password vault and ensure consistent credential integrity across all systems.",
+        "Design, develop, and implement robust data integration solutions across systems and applications, using APIs, and integration tools such as Atlan.",
+        "Collaborate with stakeholders to gather, analyze, and document requirements for data integration and metadata management initiatives, ensuring alignment with business goals and technical specifications.",
+        "Integrate metadata management tools with relational databases, ELT pipelines, and BI platforms to support enterprise-wide data transparency and governance.",
+        "Maintain, manage, and communicate the technical roadmap for new connector deployments and ensure alignment with key stakeholders",
+        "Ensure catalog and governance coverage aligns to enterprise data governance policies",
+        "Identify, inform, and suggest new product functionality deployments and enablement for prioritization and implementation",
+        "Partner with data stewards to identify, define, and maintain critical business and technical metadata, and ensure comprehensive documentation.",
+        "Ensure comprehensive metadata availability in Atlan by reviewing data assets and verifying data lineage, with a focus on maintaining traceability, accuracy, and transparency of data movement across systems, including associated transformations and controls.",
+        "Leverage cloud technologies such as AWS S3 for scalable storage of metadata and architectural resources.",
+        "Develop and execute testing protocols to validate integration flows and data functionality, ensuring the quality and integrity of both data and metadata.",
+        "Monitor data integration pipelines, perform root cause analysis, and implement resolutions to technical and process-related issues."
+      ],
+      "requirements": [
+        "The above statements are intended to describe the general nature and level of work being performed by employees assigned to this position, but they are not an exhaustive list of all the required responsibilities and skills of this position.",
+        "Recruitment Fraud Alert",
+        "We are aware of phishing scams targeting job seekers. Please keep the following in mind:",
+        "Apply only through official Medtronic channels. All legitimate Medtronic recruiting communications come from approved Medtronic platforms and official @medtronic.com email addresses.",
+        "Medtronic will never ask for payment or sensitive personal information (such as bank account or Social Security details) during early stages of the hiring process. Any such requests are not legitimate.",
+        "If you receive a suspicious message claiming to be from Medtronic, do not respond, click links, or open attachments.",
+        "If you have any questions, concerns regarding the authenticity of a communication alleged to have been made by or on behalf of Medtronic, please contact us immediately at AskHR@medtronic.com."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Medtronic",
+      "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Principal-IT-Product-Management-Analyst_R62079-1",
+      "postedAt": "2026-10-27",
+      "firstSeenAt": "2026-10-27",
       "lastSeenAt": "2026-10-27",
       "status": "Active"
     },
@@ -84598,9 +84747,9 @@
       "experienceMin": null,
       "experienceMax": null,
       "domain": [
-        "AI",
         "SaaS",
-        "Enterprise"
+        "Enterprise",
+        "AI"
       ],
       "skills": [
         "SQL",
@@ -84615,9 +84764,9 @@
         "iOS"
       ],
       "tags": [
-        "AI",
         "SaaS",
         "Enterprise",
+        "AI",
         "Senior Product Manager",
         "Onsite",
         "SQL",
@@ -84629,12 +84778,12 @@
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "The Muse",
-      "applyUrl": "https://www.themuse.com/jobs/salesforce/product-manager-sr-product-manager-mulesoft",
+      "source": "Workday · Salesforce",
+      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Product-Manager---Commerce-Platform--Hyderabad-_JR321301",
       "postedAt": "2026-09-24",
       "firstSeenAt": "2026-09-24",
-      "lastSeenAt": "2026-10-14",
-      "status": "Expired"
+      "lastSeenAt": "2026-10-27",
+      "status": "Active"
     },
     {
       "id": "job_0d7a2d",
@@ -112696,6 +112845,19 @@
       ]
     },
     {
+      "id": "medtronic",
+      "name": "Medtronic",
+      "logo": null,
+      "domain": "medtronic.com",
+      "website": "https://medtronic.com",
+      "industry": "Healthcare",
+      "companySize": "5000+",
+      "description": "Medtronic is a healthcare company hiring product managers in India.",
+      "locations": [
+        "Hyderabad"
+      ]
+    },
+    {
       "id": "meesho",
       "name": "Meesho",
       "logo": null,
@@ -115191,6 +115353,7 @@
       "companySize": "5000+",
       "description": "Salesforce is a saas company hiring product managers in India.",
       "locations": [
+        "Bengaluru",
         "Hyderabad"
       ]
     },
