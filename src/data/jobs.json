@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T07:02:07.649Z",
+  "generatedAt": "2026-10-28T10:54:51.353Z",
   "jobs": [
     {
       "id": "job_828d66",
@@ -230,6 +230,63 @@
       "salary": null,
       "source": "Workday · Mastercard",
       "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Consumer-Credit-Analytics---Global-Product-Manager---Specialist_R-280794-1",
+      "postedAt": "2026-10-28",
+      "firstSeenAt": "2026-10-28",
+      "lastSeenAt": "2026-10-28",
+      "status": "Active"
+    },
+    {
+      "id": "job_2d806a",
+      "slug": "director-product-management-enterprise-data-strategy-target-bengaluru-2d806a",
+      "title": "Director Product Management - Enterprise Data Strategy",
+      "company": {
+        "id": "target",
+        "name": "Target",
+        "logo": null,
+        "domain": "target.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Director",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "Ecommerce",
+        "Consumer",
+        "Logistics"
+      ],
+      "skills": [
+        "Analytics",
+        "Growth",
+        "Platform",
+        "Data",
+        "Supply",
+        "Agile",
+        "Scrum",
+        "OKRs",
+        "P&L"
+      ],
+      "tags": [
+        "Ecommerce",
+        "Consumer",
+        "Logistics",
+        "Director",
+        "Onsite",
+        "Analytics",
+        "Growth",
+        "Platform"
+      ],
+      "description": "Director Product Management, Enterprise Data Strategy",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Target",
+      "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
       "postedAt": "2026-10-28",
       "firstSeenAt": "2026-10-28",
       "lastSeenAt": "2026-10-28",
@@ -489,6 +546,59 @@
       "salary": null,
       "source": "Naukri",
       "applyUrl": "https://www.naukri.com/job-listings-product-manager-intern-revvity-healthcare-mumbai-0-to-1-years-221026503388",
+      "postedAt": "2026-10-28",
+      "firstSeenAt": "2026-10-28",
+      "lastSeenAt": "2026-10-28",
+      "status": "Active"
+    },
+    {
+      "id": "job_145c50",
+      "slug": "product-manager-senior-specialist-salesforce-hyderabad-145c50",
+      "title": "Product Manager Senior Specialist",
+      "company": {
+        "id": "salesforce",
+        "name": "Salesforce",
+        "logo": null,
+        "domain": "salesforce.com"
+      },
+      "location": {
+        "city": "Hyderabad",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "Enterprise",
+        "SaaS",
+        "AI"
+      ],
+      "skills": [
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Agile"
+      ],
+      "tags": [
+        "Enterprise",
+        "SaaS",
+        "AI",
+        "Product Manager",
+        "Onsite",
+        "Growth",
+        "API",
+        "Platform"
+      ],
+      "description": "To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.\n\nAbout Futureforce University Recruiting\n\nOur Futureforce University Recruiting program is dedicated to attracting, retaining and cultivating talent. Our interns and new graduates work on real projects that affect how our business runs, giving them the opportunity to make a tangible impact on the future of our company. With offices all over the world, our recruits have the chance to collaborate and connect with fellow employees on a global scale. We offer job shadowing, mentorship programs, talent development courses, and much more.\n\nJob Category\n\nProduct\n\nJob Details",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Salesforce",
+      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Product-Manager-Senior-Specialist_JR365929-1",
       "postedAt": "2026-10-28",
       "firstSeenAt": "2026-10-28",
       "lastSeenAt": "2026-10-28",
@@ -73957,6 +74067,64 @@
       "status": "Active"
     },
     {
+      "id": "job_03934a",
+      "slug": "product-management-product-manager-ii-travel-paytm-delhi-ncr-03934a",
+      "title": "Product Management - Product Manager II - Travel",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
+      "experienceMax": 5,
+      "domain": [
+        "Fintech",
+        "Consumer",
+        "Ecommerce"
+      ],
+      "skills": [
+        "Experimentation",
+        "Analytics",
+        "User Research",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Mobile",
+        "iOS",
+        "Android"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Ecommerce",
+        "Product Manager",
+        "Onsite",
+        "Experimentation",
+        "Analytics",
+        "User Research"
+      ],
+      "description": "About Us: Paytm is India’s leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Our mission is to serve half a billion Indians and bring them into the mainstream economy with the help of technology. About the Role: We are looking for early-career Product Managers who are ready to take independent ownership of a product pod or charter. The role involves understanding customer problems, defining product priorities, collaborating with Design and",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/cf1076c8-e8be-4fc4-8112-aa55051de742",
+      "postedAt": "2026-09-30",
+      "firstSeenAt": "2026-10-28",
+      "lastSeenAt": "2026-10-28",
+      "status": "Active"
+    },
+    {
       "id": "job_d2470f",
       "slug": "product-management-intern-convin-bengaluru-d2470f",
       "title": "Product Management Intern",
@@ -111955,80 +112123,55 @@
       "status": "Active"
     },
     {
-      "id": "job_e4eec1",
-      "slug": "principal-product-manager-sumo-logic-bengaluru-e4eec1",
-      "title": "Principal Product Manager",
+      "id": "job_204311",
+      "slug": "lead-product-manager-technical-mastercard-pune-204311",
+      "title": "Lead Product Manager- Technical",
       "company": {
-        "id": "sumo-logic",
-        "name": "Sumo Logic",
+        "id": "mastercard",
+        "name": "Mastercard",
         "logo": null,
-        "domain": "sumologic.com"
+        "domain": "mastercard.com"
       },
       "location": {
-        "city": "Bengaluru",
+        "city": "Pune",
         "country": "India"
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Group Product Manager",
-      "experienceMin": 8,
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": null,
       "experienceMax": null,
       "domain": [
-        "SaaS",
-        "Enterprise"
+        "Fintech",
+        "SaaS"
       ],
       "skills": [
-        "SQL",
-        "Analytics",
+        "API",
         "Platform",
         "Data",
-        "Demand"
+        "Payments",
+        "Agile",
+        "Scrum"
       ],
       "tags": [
+        "Fintech",
         "SaaS",
-        "Enterprise",
-        "Group Product Manager",
+        "Lead Product Manager",
         "Onsite",
-        "SQL",
-        "Analytics",
+        "API",
         "Platform",
-        "Data"
+        "Data",
+        "Payments"
       ],
-      "description": "",
-      "responsibilities": [
-        "Agentic Investigation & Reliability Experiences",
-        "Sumo Logic is hiring a Principal Product Manager to lead how engineers and operators investigate incidents, understand reliability risk, and act on their operational and security telemetry.",
-        "The observability category was built around collecting telemetry and giving people tools to navigate it: dashboards, queries, monitors, traces, and alerts. Customer expectations are now shifting. Teams don't just want more dashboards; they want help getting from a signal to a resolution, understanding what's broken, why, what's impacted, and what to do next. As AI agents move into production operations, this role owns how Sumo Logic brings intelligent, agent-assisted investigation and reliability workflows to customers, grounded in evidence, context, and enterprise governance.",
-        "This is a senior, high-ownership role. It requires genuine observability domain background. You should have lived in this space and understand how monitoring, troubleshooting, and reliability actually work, combined with the ambition to define a new category of experience on top of it.",
-        "What You Will Own",
-        "The current data experiences.",
-        "Log Search, Live Tail, query and query optimization, Metrics Search, Tracing, Dashboards, and the data-experience UI. This is a live, revenue-generating product with real customers, and keeping it strong is part of the job. You own its health, roadmap, and competitiveness today while steering it toward an AI-native future, focusing new investment where it strengthens investigation, speed, and value for both new and power users.",
-        "The reliability and alerting surface.",
-        "Monitors, Alerts, SLOs, Scheduled Searches, and the reliability workflows around them. You will own alerting accuracy, noise reduction, and operational health signals both as capabilities customers depend on today and as the foundation for more automated, agent-assisted detection and investigation.",
-        "The agentic investigation experience.",
-        "You will define how a user moves from a search, a monitor, a dashboard, or an alert to likely cause faster, with supporting evidence. This means productizing investigation workflows that reason across logs, metrics, traces, monitors, dashboards, and related context, and evolving them from reactive troubleshooting toward more proactive detection over time.",
-        "What You Will Be Doing"
-      ],
-      "requirements": [
-        "8+ years of product management experience with real observability or monitoring domain background. You have owned products in observability, monitoring, incident response, APM, or a closely adjacent operational-telemetry space. This is a hard requirement.",
-        "Deep, first-hand understanding of the observability surface area including logs, metrics, traces, dashboards, monitors, alerts, and SLOs, and of how engineers and operators actually investigate incidents and decide what to trust.",
-        "Proven ability to run a live, at-scale product, owning the roadmap, health, and competitiveness of shipping surfaces while driving a larger transformation.",
-        "A track record of owning broad, technically deep surfaces and setting direction that other teams build on.",
-        "Familiarity with how AI and agents are changing data interaction, including natural-language investigation, tools, guardrails, and human-in-the-loop action, or the ability to ramp quickly.",
-        "Strong technical instincts around query engines, time-series and trace data, and alerting systems, plus the judgment to know where an AI-assisted experience should replace a manual flow and where depth must stay.",
-        "Strong analytical skills and comfort using telemetry, dashboards, SQL, and usage data to understand adoption, friction, reliability, and cost.",
-        "Excellent communication across technical and business audiences, and the ability to write clear proposals, decision docs, PRDs, and acceptance criteria.",
-        "High ownership and drive to make progress across a large, ambiguous, fast-moving surface.",
-        "Must-Have Qualities",
-        "Runs today, builds tomorrow.",
-        "Keeps a live product healthy and competitive while reinventing it, and knows what to sustain and what to rebuild."
-      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle And Summary\n\nLead Product Manager- Technical\n\nOverview\n\nAre you a product management professional who wants to shape the cloud platform for Mastercard’s products? Do you want to work for a company that offers above and beyond benefits including paid parental leave, flexible work hours, gift matching, and even volunteer incentives? Do you want to work in an inclusive and nurturing culture that encourages your own professional learning and development?\n\nROLE\n\nWe are looking for seasoned Product Management professionals to join our team and help us build towards the future. Product Management-Technical (PM-T) are technical roles and work closely with Technical Program Managers, Software Design Engineers, User Experience, Operations and internal customers to define the details behind the business requirements, the specifications, the user experience, and the API strategy for platform building blocks they own. Our PM-Ts use the Working Backwards process, which is all about",
+      "responsibilities": [],
+      "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "Greenhouse · Sumo Logic",
-      "applyUrl": "https://job-boards.greenhouse.io/sumologic/jobs/8098451",
+      "source": "LinkedIn",
+      "applyUrl": "https://in.linkedin.com/jobs/view/lead-product-manager-technical-at-mastercard-4452825413",
       "postedAt": "2026-09-08",
-      "firstSeenAt": "2026-09-10",
+      "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-10-28",
       "status": "Active"
     },
@@ -112111,67 +112254,80 @@
       "status": "Active"
     },
     {
-      "id": "job_204311",
-      "slug": "product-manager-technical-ii-mastercard-pune-204311",
-      "title": "Product Manager - Technical II",
+      "id": "job_e4eec1",
+      "slug": "principal-product-manager-sumo-logic-bengaluru-e4eec1",
+      "title": "Principal Product Manager",
       "company": {
-        "id": "mastercard",
-        "name": "Mastercard",
+        "id": "sumo-logic",
+        "name": "Sumo Logic",
         "logo": null,
-        "domain": "mastercard.com"
+        "domain": "sumologic.com"
       },
       "location": {
-        "city": "Pune",
+        "city": "Bengaluru",
         "country": "India"
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Product Manager",
-      "experienceMin": null,
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": 8,
       "experienceMax": null,
       "domain": [
-        "Fintech",
+        "SaaS",
         "Enterprise"
       ],
       "skills": [
+        "SQL",
+        "Analytics",
         "Platform",
         "Data",
-        "iOS",
-        "Payments",
-        "Agile"
+        "Demand"
       ],
       "tags": [
-        "Fintech",
+        "SaaS",
         "Enterprise",
-        "Product Manager",
+        "Group Product Manager",
         "Onsite",
+        "SQL",
+        "Analytics",
         "Platform",
-        "Data",
-        "iOS",
-        "Payments"
+        "Data"
       ],
-      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nProduct Manager",
+      "description": "",
       "responsibilities": [
-        "Technical II",
-        "Overview",
-        "The Mastercard Transaction Stream team is involved in delivering next-generation Core Payment capabilities for Mastercard. These solutions are built using modern digital architecture, cloud-native principles, event-driven technologies, and a Scaled Agile delivery framework.",
-        "As a Product Manager",
-        "Technical II within the Transaction Stream team, you will bring strong payments domain and technical expertise to translate business requirements and customer experiences into well-defined product capabilities and measurable outcomes. You will play a key role in ensuring that Transaction Stream capabilities work effectively across integrated payment ecosystems by analysing transaction flows, defining validation approaches, assessing end-to-end behaviour, and supporting product readiness.",
-        "This role requires a strong understanding of cards and payments, transaction switching, integration flows, ISO payment messaging, and distributed systems, with the ability to analyse complex business scenarios across multiple platforms and services.",
-        "Serve as a functional and technical domain expert for Transaction Stream and Mastercard payment processing capabilities.",
-        "Translate business requirements, customer journeys, architecture, and product requirements into end-to-end functional scenarios and expected product behaviours.",
-        "Define and execute integration validation approaches for Transaction Switching capabilities across interconnected systems, applications, and services.",
-        "Analyse complex payment transaction flows across authorization, advice, reversal, clearing and other related payment-processing lifecycle scenarios.",
-        "Assess product behaviour across upstream and downstream systems to ensure capabilities meet intended business and technical outcomes.",
-        "Identify functional gaps, integration issues, dependencies, and potential customer impacts through detailed analysis of transaction flows and system interactions."
+        "Agentic Investigation & Reliability Experiences",
+        "Sumo Logic is hiring a Principal Product Manager to lead how engineers and operators investigate incidents, understand reliability risk, and act on their operational and security telemetry.",
+        "The observability category was built around collecting telemetry and giving people tools to navigate it: dashboards, queries, monitors, traces, and alerts. Customer expectations are now shifting. Teams don't just want more dashboards; they want help getting from a signal to a resolution, understanding what's broken, why, what's impacted, and what to do next. As AI agents move into production operations, this role owns how Sumo Logic brings intelligent, agent-assisted investigation and reliability workflows to customers, grounded in evidence, context, and enterprise governance.",
+        "This is a senior, high-ownership role. It requires genuine observability domain background. You should have lived in this space and understand how monitoring, troubleshooting, and reliability actually work, combined with the ambition to define a new category of experience on top of it.",
+        "What You Will Own",
+        "The current data experiences.",
+        "Log Search, Live Tail, query and query optimization, Metrics Search, Tracing, Dashboards, and the data-experience UI. This is a live, revenue-generating product with real customers, and keeping it strong is part of the job. You own its health, roadmap, and competitiveness today while steering it toward an AI-native future, focusing new investment where it strengthens investigation, speed, and value for both new and power users.",
+        "The reliability and alerting surface.",
+        "Monitors, Alerts, SLOs, Scheduled Searches, and the reliability workflows around them. You will own alerting accuracy, noise reduction, and operational health signals both as capabilities customers depend on today and as the foundation for more automated, agent-assisted detection and investigation.",
+        "The agentic investigation experience.",
+        "You will define how a user moves from a search, a monitor, a dashboard, or an alert to likely cause faster, with supporting evidence. This means productizing investigation workflows that reason across logs, metrics, traces, monitors, dashboards, and related context, and evolving them from reactive troubleshooting toward more proactive detection over time.",
+        "What You Will Be Doing"
       ],
-      "requirements": [],
+      "requirements": [
+        "8+ years of product management experience with real observability or monitoring domain background. You have owned products in observability, monitoring, incident response, APM, or a closely adjacent operational-telemetry space. This is a hard requirement.",
+        "Deep, first-hand understanding of the observability surface area including logs, metrics, traces, dashboards, monitors, alerts, and SLOs, and of how engineers and operators actually investigate incidents and decide what to trust.",
+        "Proven ability to run a live, at-scale product, owning the roadmap, health, and competitiveness of shipping surfaces while driving a larger transformation.",
+        "A track record of owning broad, technically deep surfaces and setting direction that other teams build on.",
+        "Familiarity with how AI and agents are changing data interaction, including natural-language investigation, tools, guardrails, and human-in-the-loop action, or the ability to ramp quickly.",
+        "Strong technical instincts around query engines, time-series and trace data, and alerting systems, plus the judgment to know where an AI-assisted experience should replace a manual flow and where depth must stay.",
+        "Strong analytical skills and comfort using telemetry, dashboards, SQL, and usage data to understand adoption, friction, reliability, and cost.",
+        "Excellent communication across technical and business audiences, and the ability to write clear proposals, decision docs, PRDs, and acceptance criteria.",
+        "High ownership and drive to make progress across a large, ambiguous, fast-moving surface.",
+        "Must-Have Qualities",
+        "Runs today, builds tomorrow.",
+        "Keeps a live product healthy and competitive while reinventing it, and knows what to sustain and what to rebuild."
+      ],
       "preferred": [],
       "salary": null,
-      "source": "Workday · Mastercard",
-      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Product-Manager---Technical-II_R-293237",
+      "source": "Greenhouse · Sumo Logic",
+      "applyUrl": "https://job-boards.greenhouse.io/sumologic/jobs/8098451",
       "postedAt": "2026-09-08",
-      "firstSeenAt": "2026-09-13",
+      "firstSeenAt": "2026-09-10",
       "lastSeenAt": "2026-10-28",
       "status": "Active"
     },
@@ -126409,8 +126565,8 @@
       "companySize": "5000+",
       "description": "Salesforce is a saas company hiring product managers in India.",
       "locations": [
-        "Bengaluru",
-        "Hyderabad"
+        "Hyderabad",
+        "Bengaluru"
       ]
     },
     {
@@ -127209,8 +127365,8 @@
       "companySize": "1000-5000",
       "description": "Sumo Logic is a saas company hiring product managers in India.",
       "locations": [
-        "Bengaluru",
-        "Delhi NCR"
+        "Delhi NCR",
+        "Bengaluru"
       ]
     },
     {
