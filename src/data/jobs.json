@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T19:47:42.159Z",
+  "generatedAt": "2026-10-30T23:24:04.881Z",
   "jobs": [
     {
       "id": "job_55f247",
@@ -230,6 +230,87 @@
       "salary": null,
       "source": "Workday · Philips",
       "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Senior-Product-Manager_582154-1",
+      "postedAt": "2026-10-30",
+      "firstSeenAt": "2026-10-30",
+      "lastSeenAt": "2026-10-30",
+      "status": "Active"
+    },
+    {
+      "id": "job_46f98d",
+      "slug": "staff-product-manager-tech-warner-bros-discovery-bengaluru-46f98d",
+      "title": "Staff Product Manager -Tech",
+      "company": {
+        "id": "warner-bros-discovery",
+        "name": "Warner Bros. Discovery",
+        "logo": null,
+        "domain": null
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 9,
+      "experienceMax": 12,
+      "domain": [
+        "Consumer",
+        "AI",
+        "Logistics"
+      ],
+      "skills": [
+        "Experimentation",
+        "Growth",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "iOS",
+        "Supply",
+        "Agile"
+      ],
+      "tags": [
+        "Consumer",
+        "AI",
+        "Logistics",
+        "Lead Product Manager",
+        "Onsite",
+        "Experimentation",
+        "Growth",
+        "Platform"
+      ],
+      "description": "Storytelling is, and will always be, the heart of what we do at Skydance.\n\nOur vision is to build a thriving entertainment ecosystem where stories and worlds are imagined, brought to life and experienced. We create for every age and audience, anchored by the strength of our content and experiences and the depth of our connection with fans. We are creator-first, audience-focused, tech-forward, globally scaled.\n\nHere, you'll work with talented teams that move fast, think boldly and collaborate with purpose to deliver results. We aim high, champion the best ideas and win together, earning the trust of our employees, creators, partners and audiences every day.\n\nIf you're energized by the opportunity to help build the next-generation global media and entertainment company powered by creativity and technology, we'd be thrilled to welcome you aboard. LET'S GO!\n\nJob Description\n\nStaff Product Manager, Technical (PM-T)",
+      "responsibilities": [
+        "Content Intelligence",
+        "Meet Our Team:",
+        "When we say, \"the stuff dreams are made of,\" we're not just referring to the world of wizards, dragons. and superheroes, or even to the wonders of Planet Earth. Behind the vast portfolio of iconic content and beloved brands, are the storytellers bringing our characters to life, the creators bringing them to your living rooms and the dreamers creating what's next...",
+        "From brilliant creatives to technology trailblazers, across the globe, we offer career defining opportunities, thoughtfully curated benefits, and the tools to explore and grow into your best selves. Here you are supported, here you are celebrated, here you can thrive.",
+        "Roles and",
+        "The Content Intelligence team is seeking a Staff-level Technical Product Manager (PM-T) to support the development and execution of AI/ML capabilities powering next-generation content localization workflows. This role focuses on context-aware localization, including transcription, subtitling, translation, captioning, audio description and dubbing workflows, as well as content intelligence capabilities that improve localization quality through scene, character, dialogue, and metadata awareness. These capabilities play a critical role in expanding the global reach, accessibility, and discoverability of WBD content by enabling content availability across more languages, markets, and audience segments.",
+        "This is a hands-on product management role with a strong emphasis on execution, cross-functional coordination, and operationalizing AI/ML capabilities within content localization workflows. The ideal candidate is detail-oriented, comfortable working closely with engineering and program management, and experienced in defining requirements and driving delivery for AI/ML-powered systems and backend platforms.",
+        "Partner with engineering and program managers to drive execution across sprint cycles, including backlog management, story writing, feature clarification, dependency management, and release planning.",
+        "Write product requirement documents (PRDs) and define detailed functional and technical specifications for AI-powered localization workflows, including translation, dubbing, captioning, subtitle generation, audio description, editorial review, quality evaluation, and workflow orchestration systems.",
+        "Define and support capabilities that leverage content context, including character identity, dialogue history, scene metadata, terminology, style guides, content metadata, and franchise-specific knowledge to improve localization quality and consistency.",
+        "Support the evolution of localization workflows from asset-level processing to context-aware systems that leverage metadata, character relationships, dialogue history, content intelligence, and editorial feedback to improve quality and consistency at scale.",
+        "Collaborate with AI/ML teams to operationalize context-aware localization systems utilizing large language models (LLMs), metadata enrichment, retrieval-based approaches, and multimodal content understanding."
+      ],
+      "requirements": [
+        "Background in Computer Science, Engineering, Data Science, or a related technical field.",
+        "Familiarity with language AI technologies and media localization workflows, including Automatic Speech Recognition (ASR), Machine Translation (MT), Large Language Models (LLMs), Text-to-Speech (TTS), dubbing, captioning, subtitling, and audio description.",
+        "Experience with context-aware localization systems leveraging metadata, terminology management, style guides, character context, dialogue history, and retrieval-based approaches.",
+        "Familiarity with localization quality evaluation methodologies, human-in-the-loop review processes, and post-editing workflows.",
+        "Comfortable working with AI evaluation methodologies and quality metrics, including precision, recall, confidence scoring, translation quality assessment, and human evaluation frameworks.",
+        "What Success Looks Like:",
+        "Deliver scalable AI-powered localization capabilities that improve localization quality, editorial efficiency, accessibility outcomes, and operational throughput.",
+        "Advance context-aware localization workflows by incorporating content metadata, character context, dialogue history, and editorial feedback into AI-assisted processes.",
+        "Drive measurable improvements in localization quality, post-edit effort, consistency, accessibility coverage, and cost efficiency across global content catalogs.",
+        "Successfully coordinate delivery across engineering, AI/ML, editorial, operations, legal, accessibility, and vendor teams while maintaining strong execution rigor and stakeholder alignment.",
+        "Help scale the organization's localization AI capabilities by translating emerging AI technologies into operationally viable products that deliver measurable business value"
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "The Muse",
+      "applyUrl": "https://www.themuse.com/jobs/warnerbrosdiscovery/staff-product-manager-tech-b390ba",
       "postedAt": "2026-10-30",
       "firstSeenAt": "2026-10-30",
       "lastSeenAt": "2026-10-30",
@@ -115345,6 +115426,19 @@
       "logo": null,
       "domain": "tech.walmart.com",
       "website": "https://tech.walmart.com",
+      "industry": null,
+      "companySize": null,
+      "description": null,
+      "locations": [
+        "Bengaluru"
+      ]
+    },
+    {
+      "id": "warner-bros-discovery",
+      "name": "Warner Bros. Discovery",
+      "logo": null,
+      "domain": null,
+      "website": null,
       "industry": null,
       "companySize": null,
       "description": null,
