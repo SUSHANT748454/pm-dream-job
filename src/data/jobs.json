@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T11:07:16.630Z",
+  "generatedAt": "2026-10-30T19:47:42.159Z",
   "jobs": [
     {
       "id": "job_55f247",
@@ -79,6 +79,92 @@
       "salary": null,
       "source": "Greenhouse · Truecaller",
       "applyUrl": "https://job-boards.greenhouse.io/truecaller/jobs/8336111",
+      "postedAt": "2026-10-30",
+      "firstSeenAt": "2026-10-30",
+      "lastSeenAt": "2026-10-30",
+      "status": "Active"
+    },
+    {
+      "id": "job_a6995f",
+      "slug": "product-manager-billing-platform-ebay-bengaluru-a6995f",
+      "title": "Product Manager, Billing Platform",
+      "company": {
+        "id": "ebay",
+        "name": "eBay",
+        "logo": null,
+        "domain": "ebay.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Ecommerce",
+        "Consumer"
+      ],
+      "skills": [
+        "API",
+        "Platform",
+        "Data",
+        "Payments",
+        "Marketplace",
+        "Stakeholder Management",
+        "Compliance"
+      ],
+      "tags": [
+        "Fintech",
+        "Ecommerce",
+        "Consumer",
+        "Product Manager",
+        "Onsite",
+        "API",
+        "Platform",
+        "Data"
+      ],
+      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nAt eBay, we connect tens of millions of buyers and sellers globally, processing billions of dollars in trade. Our platform powers trusted commerce at global scale, and we continue to invest in the products and platforms that make those experiences simpler, smarter, and more reliable.\n\nThe Billing Platform sits at the intersection of commerce, payments, and financial systems. It powers critical capabilities across billing, invoicing, financial transaction processing, and revenue-related workflows, enabling scalable and reliable financial operations across eBay.\n\nWe are seeking an ambitious, impact-driven Product Manager to lead critical capabilities for this platform. If you thrive on solving complex, large-scale platform challenges and translating intricacy into seamless user",
+      "responsibilities": [
+        "Define & Drive Strategy:",
+        "Partner with payments, finance, operations, and business units to discover high-value platform opportunities and translate them into a clear product vision.",
+        "Architect Scalable Solutions:",
+        "Collaborate closely with engineering to build reusable, API-based charging, invoicing, and transaction workflows that support diverse global use cases.",
+        "Lead Execution:",
+        "Write clear, high-quality product requirements and user stories, set measurable success metrics, and manage end-to-end rollouts across complex multi-system dependencies.",
+        "Prioritize for Impact:",
+        "Balance trade-offs between innovation, platform resilience, risk mitigation, and execution speed to maximize partner and customer value.",
+        "Optimize with Data:",
+        "Leverage operational metrics, analytical insights, and partner feedback to continuously evaluate product performance and guide rapid iteration.",
+        "Champion Quality & Trust:",
+        "Proactively identify risks, resolve complex cross-functional alignment blockers, and continuously elevate product quality and platform experience."
+      ],
+      "requirements": [
+        "Platform Product Experience:",
+        "3+ years in product management, with a proven track record of shipping technical, platform-based products.",
+        "FinTech / Payments Foundation:",
+        "Practical experience in payments, billing, invoicing, or related financial transaction processing environments.",
+        "Technical Execution:",
+        "Strong ability to translate business capabilities into technical requirements and partner effectively with engineering teams on architectural choices.",
+        "Analytical Rigor:",
+        "Skilled in using data to quantify opportunities, validate hypotheses, and measure product performance metrics.",
+        "Cross-Functional Collaboration:",
+        "Outstanding communication and stakeholder management skills, capable of driving consensus across matrixed teams."
+      ],
+      "preferred": [
+        "Hands-on experience with API-based architectures, eCommerce platforms, or large-scale multi-sided marketplaces.",
+        "Familiarity with financial reporting, ERPs, revenue recognition, tax integrations, or controllership domain workflows.",
+        "Exposure to compliance, audits, or billing-adjacent platform domains.",
+        "Additional Details",
+        "eBay is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, veteran status, and disability, or other legally protected status. If you have a need that requires accommodation, please contact us at talent@ebay.com. We will make every effort to respond to your request for accommodation as soon as possible. View our accessibility statement to learn more about eBay's commitment to ensuring digital accessibility for people with disabilities.",
+        "We use cookies to enhance your experience and may use AI tools for administrative tasks in the hiring process. To learn how we handle your personal data and use AI responsibly, please visit our Talent Privacy Notice, Privacy Center, and AI Hiring Guidelines."
+      ],
+      "salary": null,
+      "source": "Workday · eBay",
+      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Product-Manager--Billing-Platform_R0077220",
       "postedAt": "2026-10-30",
       "firstSeenAt": "2026-10-30",
       "lastSeenAt": "2026-10-30",
@@ -71789,8 +71875,8 @@
       "applyUrl": "https://www.themuse.com/jobs/appian/senior-technical-product-manager-modernization",
       "postedAt": "2026-10-01",
       "firstSeenAt": "2026-10-15",
-      "lastSeenAt": "2026-10-29",
-      "status": "Expired"
+      "lastSeenAt": "2026-10-30",
+      "status": "Active"
     },
     {
       "id": "job_93b3ba",
@@ -105062,8 +105148,8 @@
       "id": "appian",
       "name": "Appian",
       "logo": null,
-      "domain": "appian.com",
-      "website": "https://appian.com",
+      "domain": null,
+      "website": null,
       "industry": null,
       "companySize": null,
       "description": null,
@@ -107374,14 +107460,14 @@
       "id": "ebay",
       "name": "eBay",
       "logo": null,
-      "domain": "ebayinc.com",
-      "website": "https://ebayinc.com",
+      "domain": "ebay.com",
+      "website": "https://ebay.com",
       "industry": "Ecommerce",
       "companySize": "5000+",
       "description": "eBay is a ecommerce company hiring product managers in India.",
       "locations": [
-        "India",
-        "Bengaluru"
+        "Bengaluru",
+        "India"
       ]
     },
     {
