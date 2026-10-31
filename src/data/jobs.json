@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T07:12:35.201Z",
+  "generatedAt": "2026-10-31T10:41:30.430Z",
   "jobs": [
     {
       "id": "job_b55aaf",
@@ -1475,7 +1475,7 @@
         "id": "ebay",
         "name": "eBay",
         "logo": null,
-        "domain": "ebayinc.com"
+        "domain": "ebay.com"
       },
       "location": {
         "city": "Bengaluru",
@@ -1488,7 +1488,8 @@
       "experienceMax": null,
       "domain": [
         "Fintech",
-        "Ecommerce"
+        "Ecommerce",
+        "Consumer"
       ],
       "skills": [
         "API",
@@ -1502,28 +1503,39 @@
       "tags": [
         "Fintech",
         "Ecommerce",
+        "Consumer",
         "Product Manager",
         "Onsite",
         "API",
         "Platform",
-        "Data",
-        "Payments"
+        "Data"
       ],
       "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nAt eBay, we connect tens of millions of buyers and sellers globally, processing billions of dollars in trade. Our platform powers trusted commerce at global scale, and we continue to invest in the products and platforms that make those experiences simpler, smarter, and more reliable.\n\nThe Billing Platform sits at the intersection of commerce, payments, and financial systems. It powers critical capabilities across billing, invoicing, financial transaction processing, and revenue-related workflows, enabling scalable and reliable financial operations across eBay.\n\nWe are seeking an ambitious, impact-driven Product Manager to lead critical capabilities for this platform. If you thrive on solving complex, large-scale platform challenges and translating intricacy into seamless user",
       "responsibilities": [
-        "Define & Drive Strategy: Partner with payments, finance, operations, and business units to discover high-value platform opportunities and translate them into a clear product vision.",
-        "Architect Scalable Solutions: Collaborate closely with engineering to build reusable, API-based charging, invoicing, and transaction workflows that support diverse global use cases.",
-        "Lead Execution: Write clear, high-quality product requirements and user stories, set measurable success metrics, and manage end-to-end rollouts across complex multi-system dependencies.",
-        "Prioritize for Impact: Balance trade-offs between innovation, platform resilience, risk mitigation, and execution speed to maximize partner and customer value.",
-        "Optimize with Data: Leverage operational metrics, analytical insights, and partner feedback to continuously evaluate product performance and guide rapid iteration.",
-        "Champion Quality & Trust: Proactively identify risks, resolve complex cross-functional alignment blockers, and continuously elevate product quality and platform experience."
+        "Define & Drive Strategy:",
+        "Partner with payments, finance, operations, and business units to discover high-value platform opportunities and translate them into a clear product vision.",
+        "Architect Scalable Solutions:",
+        "Collaborate closely with engineering to build reusable, API-based charging, invoicing, and transaction workflows that support diverse global use cases.",
+        "Lead Execution:",
+        "Write clear, high-quality product requirements and user stories, set measurable success metrics, and manage end-to-end rollouts across complex multi-system dependencies.",
+        "Prioritize for Impact:",
+        "Balance trade-offs between innovation, platform resilience, risk mitigation, and execution speed to maximize partner and customer value.",
+        "Optimize with Data:",
+        "Leverage operational metrics, analytical insights, and partner feedback to continuously evaluate product performance and guide rapid iteration.",
+        "Champion Quality & Trust:",
+        "Proactively identify risks, resolve complex cross-functional alignment blockers, and continuously elevate product quality and platform experience."
       ],
       "requirements": [
-        "Platform Product Experience: 3+ years in product management, with a proven track record of shipping technical, platform-based products.",
-        "FinTech / Payments Foundation: Practical experience in payments, billing, invoicing, or related financial transaction processing environments.",
-        "Technical Execution: Strong ability to translate business capabilities into technical requirements and partner effectively with engineering teams on architectural choices.",
-        "Analytical Rigor: Skilled in using data to quantify opportunities, validate hypotheses, and measure product performance metrics.",
-        "Cross-Functional Collaboration: Outstanding communication and stakeholder management skills, capable of driving consensus across matrixed teams."
+        "Platform Product Experience:",
+        "3+ years in product management, with a proven track record of shipping technical, platform-based products.",
+        "FinTech / Payments Foundation:",
+        "Practical experience in payments, billing, invoicing, or related financial transaction processing environments.",
+        "Technical Execution:",
+        "Strong ability to translate business capabilities into technical requirements and partner effectively with engineering teams on architectural choices.",
+        "Analytical Rigor:",
+        "Skilled in using data to quantify opportunities, validate hypotheses, and measure product performance metrics.",
+        "Cross-Functional Collaboration:",
+        "Outstanding communication and stakeholder management skills, capable of driving consensus across matrixed teams."
       ],
       "preferred": [
         "Hands-on experience with API-based architectures, eCommerce platforms, or large-scale multi-sided marketplaces.",
@@ -1534,8 +1546,8 @@
         "We use cookies to enhance your experience and may use AI tools for administrative tasks in the hiring process. To learn how we handle your personal data and use AI responsibly, please visit our Talent Privacy Notice, Privacy Center, and AI Hiring Guidelines."
       ],
       "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-billing-platform-at-ebay-4483483339",
+      "source": "Workday · eBay",
+      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Product-Manager--Billing-Platform_R0077220",
       "postedAt": "2026-10-30",
       "firstSeenAt": "2026-10-30",
       "lastSeenAt": "2026-10-31",
@@ -1807,6 +1819,71 @@
       "status": "Active"
     },
     {
+      "id": "job_e503ad",
+      "slug": "senior-product-manager-philips-bengaluru-e503ad",
+      "title": "Senior Product Manager",
+      "company": {
+        "id": "philips",
+        "name": "Philips",
+        "logo": null,
+        "domain": "philips.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": 10,
+      "domain": [
+        "Healthcare",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Growth",
+        "Pricing",
+        "Demand",
+        "Segmentation"
+      ],
+      "tags": [
+        "Healthcare",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Growth",
+        "Pricing",
+        "Demand"
+      ],
+      "description": "Job Title\n\nSenior Product Manager\n\nJob Description\n\nSenior Product Manager\n\nYou will play a pivotal marketing role at Diagnostic X-Ray (DXR) and drive creation of solutions (integrated combination of products and services) from idea to market. You will be accountable for defining, launching and building profitable product solutions that transform healthcare. You will work directly with the different functions within the organization and maintains a balanced development scope. This will not only ensure the products/solutions are developed to the feature and price specifications that each target market segment demands but also will deliver a profitable and performing product in all its aspects.\n\nThe Product Manager owns the product lifecycle from concept phase through development and launch and eventually, end of life. You are required to have expertise in market segmentation, product strategy, competitive strategy, and product development.\n\nYour role:",
+      "responsibilities": [
+        "Join corporate core teams to drive implementation (plan, execute, track, and communicate) of strategic marketing initiatives at DXR.",
+        "Own your product and its performance during its complete lifecycle from concept phase throughout development and launch, till end of life.",
+        "Support and drive upstream marketing activities for the solution, including definition of the strategy and its enablers as well as its alignment with key markets globally.",
+        "Translate in-depth customer and market insights to support the product strategy: analyze the customers, markets, the competition, and the trends to create winning concepts, value propositions and clear product specifications to ensure delivering according to the customer’s needs and expectations.",
+        "Drive the development of business cases to prioritize investments",
+        "Interact with various disciplines including Research, R&D departments, internal and external design agencies, suppliers, industrialization, marketing management, marketing communication and international sales organizations.",
+        "Be a key core team member in product development and lifecycle management teams.",
+        "Drive the market readiness as part of PDLM. Ensure completion of appropriate deliverables (feature descriptions, value propositions, costing/pricing/quoting materials, etc.)",
+        "Follow a lean way of working and a continuous improvement mindset within the product management team.",
+        "You are a part of",
+        "The Diagnostic X-ray product management team of Philips Healthcare and become part of the global marketing department. You will be based in Pune and report into the Head of Product Management and be working in an international network of various stakeholders based across the globe. The team operates in an open, ‘can-do’ atmosphere. The team is characterized by a “self-starting” mentality.",
+        "In the team we focus on translating the customer voice in medical products, solutions and services. We manage a wide Radiography and Fluoroscopy portfolio targeting the global health market contributing directly to the growth of the business."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Philips",
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Senior-Product-Manager_582154-1",
+      "postedAt": "2026-10-30",
+      "firstSeenAt": "2026-10-30",
+      "lastSeenAt": "2026-10-31",
+      "status": "Active"
+    },
+    {
       "id": "job_b33a64",
       "slug": "senior-product-manager-krisatwork-bengaluru-b33a64",
       "title": "Senior Product Manager",
@@ -1918,71 +1995,6 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-at-persistent-systems-4484830653",
       "postedAt": "2026-10-30",
       "firstSeenAt": "2026-10-31",
-      "lastSeenAt": "2026-10-31",
-      "status": "Active"
-    },
-    {
-      "id": "job_e503ad",
-      "slug": "senior-product-manager-philips-bengaluru-e503ad",
-      "title": "Senior Product Manager",
-      "company": {
-        "id": "philips",
-        "name": "Philips",
-        "logo": null,
-        "domain": "philips.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 5,
-      "experienceMax": 10,
-      "domain": [
-        "Healthcare",
-        "Enterprise"
-      ],
-      "skills": [
-        "Product Strategy",
-        "Growth",
-        "Pricing",
-        "Demand",
-        "Segmentation"
-      ],
-      "tags": [
-        "Healthcare",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Product Strategy",
-        "Growth",
-        "Pricing",
-        "Demand"
-      ],
-      "description": "Job Title\n\nSenior Product Manager\n\nJob Description\n\nSenior Product Manager\n\nYou will play a pivotal marketing role at Diagnostic X-Ray (DXR) and drive creation of solutions (integrated combination of products and services) from idea to market. You will be accountable for defining, launching and building profitable product solutions that transform healthcare. You will work directly with the different functions within the organization and maintains a balanced development scope. This will not only ensure the products/solutions are developed to the feature and price specifications that each target market segment demands but also will deliver a profitable and performing product in all its aspects.\n\nThe Product Manager owns the product lifecycle from concept phase through development and launch and eventually, end of life. You are required to have expertise in market segmentation, product strategy, competitive strategy, and product development.\n\nYour role:",
-      "responsibilities": [
-        "Join corporate core teams to drive implementation (plan, execute, track, and communicate) of strategic marketing initiatives at DXR.",
-        "Own your product and its performance during its complete lifecycle from concept phase throughout development and launch, till end of life.",
-        "Support and drive upstream marketing activities for the solution, including definition of the strategy and its enablers as well as its alignment with key markets globally.",
-        "Translate in-depth customer and market insights to support the product strategy: analyze the customers, markets, the competition, and the trends to create winning concepts, value propositions and clear product specifications to ensure delivering according to the customer’s needs and expectations.",
-        "Drive the development of business cases to prioritize investments",
-        "Interact with various disciplines including Research, R&D departments, internal and external design agencies, suppliers, industrialization, marketing management, marketing communication and international sales organizations.",
-        "Be a key core team member in product development and lifecycle management teams.",
-        "Drive the market readiness as part of PDLM. Ensure completion of appropriate deliverables (feature descriptions, value propositions, costing/pricing/quoting materials, etc.)",
-        "Follow a lean way of working and a continuous improvement mindset within the product management team.",
-        "You are a part of",
-        "The Diagnostic X-ray product management team of Philips Healthcare and become part of the global marketing department. You will be based in Pune and report into the Head of Product Management and be working in an international network of various stakeholders based across the globe. The team operates in an open, ‘can-do’ atmosphere. The team is characterized by a “self-starting” mentality.",
-        "In the team we focus on translating the customer voice in medical products, solutions and services. We manage a wide Radiography and Fluoroscopy portfolio targeting the global health market contributing directly to the growth of the business."
-      ],
-      "requirements": [],
-      "preferred": [],
-      "salary": null,
-      "source": "Workday · Philips",
-      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Senior-Product-Manager_582154-1",
-      "postedAt": "2026-10-30",
-      "firstSeenAt": "2026-10-30",
       "lastSeenAt": "2026-10-31",
       "status": "Active"
     },
@@ -44692,60 +44704,6 @@
       "status": "Active"
     },
     {
-      "id": "job_16fb7a",
-      "slug": "senior-product-manager-core-risk-ebay-india-16fb7a",
-      "title": "Senior Product Manager - Core Risk",
-      "company": {
-        "id": "ebay",
-        "name": "eBay",
-        "logo": null,
-        "domain": "ebayinc.com"
-      },
-      "location": {
-        "city": "India",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 5,
-      "experienceMax": null,
-      "domain": [
-        "Ecommerce"
-      ],
-      "skills": [
-        "Product Strategy",
-        "Analytics",
-        "API",
-        "Platform",
-        "Data",
-        "Fraud",
-        "Marketplace",
-        "Agile",
-        "Scrum"
-      ],
-      "tags": [
-        "Ecommerce",
-        "Senior Product Manager",
-        "Onsite",
-        "Product Strategy",
-        "Analytics",
-        "API",
-        "Platform"
-      ],
-      "description": "JOB DESCRIPTION\n\nAt eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.",
-      "responsibilities": [],
-      "requirements": [],
-      "preferred": [],
-      "salary": null,
-      "source": "Indeed",
-      "applyUrl": "https://jobs.ebayinc.com/us/en/job/R0077062",
-      "postedAt": "2026-10-15",
-      "firstSeenAt": "2026-10-16",
-      "lastSeenAt": "2026-10-31",
-      "status": "Active"
-    },
-    {
       "id": "job_41c127",
       "slug": "senior-product-manager-core-risk-ebay-bengaluru-41c127",
       "title": "Senior Product Manager - Core Risk",
@@ -44798,6 +44756,60 @@
       "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager---Core-Risk_R0077062",
       "postedAt": "2026-10-15",
       "firstSeenAt": "2026-10-15",
+      "lastSeenAt": "2026-10-31",
+      "status": "Active"
+    },
+    {
+      "id": "job_16fb7a",
+      "slug": "senior-product-manager-core-risk-ebay-india-16fb7a",
+      "title": "Senior Product Manager - Core Risk",
+      "company": {
+        "id": "ebay",
+        "name": "eBay",
+        "logo": null,
+        "domain": "ebayinc.com"
+      },
+      "location": {
+        "city": "India",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": null,
+      "domain": [
+        "Ecommerce"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Analytics",
+        "API",
+        "Platform",
+        "Data",
+        "Fraud",
+        "Marketplace",
+        "Agile",
+        "Scrum"
+      ],
+      "tags": [
+        "Ecommerce",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Analytics",
+        "API",
+        "Platform"
+      ],
+      "description": "JOB DESCRIPTION\n\nAt eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Indeed",
+      "applyUrl": "https://jobs.ebayinc.com/us/en/job/R0077062",
+      "postedAt": "2026-10-15",
+      "firstSeenAt": "2026-10-16",
       "lastSeenAt": "2026-10-31",
       "status": "Active"
     },
@@ -46336,22 +46348,53 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Product Manager",
-      "experienceMin": null,
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 8,
       "experienceMax": null,
-      "domain": [],
-      "skills": [],
-      "tags": [
-        "Product Manager",
-        "Onsite"
+      "domain": [
+        "Healthcare",
+        "Enterprise"
       ],
-      "description": "Global Product Management experience\n\nExperience in regulated industries",
-      "responsibilities": [],
+      "skills": [
+        "Product Strategy",
+        "Analytics",
+        "Go-to-Market",
+        "Growth",
+        "Data",
+        "Demand",
+        "Stakeholder Management",
+        "Compliance"
+      ],
+      "tags": [
+        "Healthcare",
+        "Enterprise",
+        "Lead Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Analytics",
+        "Go-to-Market",
+        "Growth"
+      ],
+      "description": "",
+      "responsibilities": [
+        "Respiratory Accessories",
+        "Job Description",
+        "As a",
+        "Global Product Manager(GPM)- Respiratory Accessories,",
+        "you will work on",
+        "sustaining and optimizing the existing respiratory accessories portfolio",
+        ", including roadmap prioritization, portfolio simplification, margin, and lifecycle performance",
+        "Your role:",
+        "Product roadmap and go-to-market understanding",
+        "Owns the",
+        "execution of the claims roadmap by collaborating with cross-functional teams",
+        "to prioritize validated claims based on market trends and regulatory requirements, while continuously optimizing the strategy through analysis of competitor activity, customer insights, and compliance needs."
+      ],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "Naukri",
-      "applyUrl": "https://www.naukri.com/job-listings-global-product-manager-respiratory-accessories-philips-india-limited-bengaluru-8-to-13-years-151026503032",
+      "source": "Workday · Philips",
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Global-Product-Manager---Respiratory-Accessories_593014-1",
       "postedAt": "2026-10-14",
       "firstSeenAt": "2026-10-14",
       "lastSeenAt": "2026-10-31",
@@ -50895,6 +50938,85 @@
       "status": "Active"
     },
     {
+      "id": "job_051cc6",
+      "slug": "lead-product-manager-paypal-bengaluru-051cc6",
+      "title": "Lead Product Manager",
+      "company": {
+        "id": "paypal",
+        "name": "PayPal",
+        "logo": null,
+        "domain": "paypal.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 5,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Consumer",
+        "Healthcare"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Analytics",
+        "Platform",
+        "Data",
+        "Payments",
+        "Fraud",
+        "Onboarding",
+        "Compliance"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Healthcare",
+        "Lead Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Analytics",
+        "Platform"
+      ],
+      "description": "The Company\n\nPayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy.\n\nWe operate a global, two-sided network at scale that connects hundreds of millions of merchants and consumers. We help merchants and consumers connect, transact, and complete payments, whether they are online or in person. PayPal is more than a connection to third-party payment networks. We provide proprietary payment solutions accepted by merchants that enable the completion of payments on our platform on behalf of our customers.\n\nWe offer our customers the flexibility to use their accounts to purchase and receive payments for goods and services, as well as the ability to transfer and withdraw funds. We enable consumers to exchange funds more safely with merchants using a variety of funding sources, which may include a bank account, a PayPal or Venmo account balance, PayPal and Venmo branded credit products, a credit card, a debit card, certain cryptocurrencies, or other stored value products such as gift cards, and eligible credit card rewards.  Our PayPal, Venmo, and Xoom products also make it safer and simpler for friends and family to transfer funds to each other. We offer merchants an end-to-end payments solution that provides authorization and settlement",
+      "responsibilities": [
+        "Inputs to product strategy with cross-functional stakeholders consistent with the shared vision for the product or enabling platform.",
+        "Implements the architectural roadmap that balances innovative design and technical implementation, while balancing regulatory requirements, time-to-market, meeting customer needs and product profitability.",
+        "Controls for the customer experience and customer needs in product requirements and as an input to decision making.",
+        "Monitors metrics that inform the success of products including usability studies, research and market analysis.",
+        "Manages one or more workstreams to include analytics, customer discovery, market research and competitive analysis to drive data-driven decision-making.",
+        "Monitors product profitability measures, including budget.",
+        "Participates in operational mechanisms that drive execution and accountability including Product Reviews, Operating Reviews, and Business Reviews. Interfaces with product and technology leadership as needed.",
+        "Partners with content developers, data scientists, product designers and user experience researchers.",
+        "Minimum"
+      ],
+      "requirements": [
+        "5+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience.",
+        "Additional",
+        "Must-Have:",
+        "Must have atleast 5+ years of relevant Product Management experience into Payments/Card Acquiring",
+        "Define and own the product strategy and roadmap for Payments and Payouts Platform including, card acquiring, bank payment processing, and payouts, balancing customer needs, business value, and technical dependencies.",
+        "Gather customer and stakeholder requirements and translate them into actionable product requirements, workflows, and acceptance criteria.",
+        "Lead",
+        "end-to-end",
+        "product development, from discovery and solution design through delivery, launch, and continuous improvement.",
+        "Collaborate with business teams, engineering, architects, operations, risk, and compliance to build scalable capabilities and ensure launch readiness.",
+        "Own payment lifecycle requirements, including processing, settlement, reconciliation, payouts, and exception handling.",
+        "Resolve customer issues, processing challenges, and delivery blockers through hands-on problem solving and root-cause analysis."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · PayPal",
+      "applyUrl": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Bangalore-Karnataka-India/Lead-Product-Manager_R0138350",
+      "postedAt": "2026-10-13",
+      "firstSeenAt": "2026-10-13",
+      "lastSeenAt": "2026-10-31",
+      "status": "Active"
+    },
+    {
       "id": "job_038997",
       "slug": "lead-product-manager-paypal-india-038997",
       "title": "Lead Product Manager",
@@ -53956,81 +54078,6 @@
       "applyUrl": "https://careers.amgen.com/en/job/hyderabad/sr-digital-product-manager-r-and-d-commercialization-and-ppm/87/101905531344",
       "postedAt": "2026-10-13",
       "firstSeenAt": "2026-10-16",
-      "lastSeenAt": "2026-10-31",
-      "status": "Active"
-    },
-    {
-      "id": "job_051cc6",
-      "slug": "sr-product-manager-paypal-bengaluru-051cc6",
-      "title": "Sr Product Manager",
-      "company": {
-        "id": "paypal",
-        "name": "PayPal",
-        "logo": null,
-        "domain": "paypal.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 3,
-      "experienceMax": null,
-      "domain": [
-        "Fintech",
-        "Healthcare"
-      ],
-      "skills": [
-        "Product Strategy",
-        "Platform",
-        "Data",
-        "Payments",
-        "Fraud",
-        "Onboarding",
-        "Compliance"
-      ],
-      "tags": [
-        "Fintech",
-        "Healthcare",
-        "Senior Product Manager",
-        "Onsite",
-        "Product Strategy",
-        "Platform",
-        "Data",
-        "Payments"
-      ],
-      "description": "The Company\n\nPayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy.\n\nWe operate a global, two-sided network at scale that connects hundreds of millions of merchants and consumers. We help merchants and consumers connect, transact, and complete payments, whether they are online or in person. PayPal is more than a connection to third-party payment networks. We provide proprietary payment solutions accepted by merchants that enable the completion of payments on our platform on behalf of our customers.\n\nWe offer our customers the flexibility to use their accounts to purchase and receive payments for goods and services, as well as the ability to transfer and withdraw funds. We enable consumers to exchange funds more safely with merchants using a variety of funding sources, which may include a bank account, a PayPal or Venmo account balance, PayPal and Venmo branded credit products, a credit card, a debit card, certain cryptocurrencies, or other stored value products such as gift cards, and eligible credit card rewards. Our PayPal, Venmo, and Xoom products also make it safer and simpler for friends and family to transfer funds to each other. We offer merchants an end-to-end payments solution that provides authorization and settlement",
-      "responsibilities": [
-        "Uses data to build insights on product or platform requirements consistent with the shared vision for the product.",
-        "Gathers insights from the customer experience and customer needs to input to product requirements",
-        "Analyzes research, market analysis and usability studies, research and market analysis to support data-driven decision making",
-        "Monitors product profitability measures, including budget.",
-        "Lead sprint planning, daily standups and retrospectives to drive execution. Interfaces with product and technology leadership as needed.",
-        "Partners with content developers, data scientists, product designers and user experience researchers to identify new opportunities.",
-        "Minimum"
-      ],
-      "requirements": [
-        "3+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience.",
-        "Additional",
-        "Must-Have:",
-        "Must have atleast 3+years of relevant Product Management experience into Payments/Card Acquiring",
-        "Define and own the product strategy and roadmap for Payments and Payouts Platform including, card acquiring, bank payment processing, and payouts, balancing customer needs, business value, and technical dependencies.",
-        "Gather customer and stakeholder requirements and translate them into actionable product requirements, workflows, and acceptance criteria.",
-        "Lead end-to-end product development, from discovery and solution design through delivery, launch, and continuous improvement.",
-        "Collaborate with business teams, engineering, architects, operations, risk, and compliance to build scalable capabilities and ensure launch readiness.",
-        "Own payment lifecycle requirements, including processing, settlement, reconciliation, payouts, and exception handling.",
-        "Resolve customer issues, processing challenges, and delivery blockers through hands-on problem solving and root-cause analysis.",
-        "Maintain stakeholder alignment, define success metrics, and remain accountable for product delivery and outcomes.",
-        "Subsidiary:"
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/sr-product-manager-at-paypal-4478786136",
-      "postedAt": "2026-10-13",
-      "firstSeenAt": "2026-10-13",
       "lastSeenAt": "2026-10-31",
       "status": "Active"
     },
@@ -83113,7 +83160,7 @@
         "id": "ebay",
         "name": "eBay",
         "logo": null,
-        "domain": "ebayinc.com"
+        "domain": "ebay.com"
       },
       "location": {
         "city": "Bengaluru",
@@ -83125,7 +83172,8 @@
       "experienceMin": 6,
       "experienceMax": null,
       "domain": [
-        "Ecommerce"
+        "Ecommerce",
+        "Consumer"
       ],
       "skills": [
         "Product Strategy",
@@ -83137,6 +83185,7 @@
       ],
       "tags": [
         "Ecommerce",
+        "Consumer",
         "Senior Product Manager",
         "Onsite",
         "Product Strategy",
@@ -83149,8 +83198,8 @@
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/sr-product-manager-digital-services-ai-at-ebay-4472695766",
+      "source": "Workday · eBay",
+      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Sr-Product-Manager--Digital-Services-AI_R0076494",
       "postedAt": "2026-10-01",
       "firstSeenAt": "2026-10-01",
       "lastSeenAt": "2026-10-31",
@@ -112705,7 +112754,7 @@
         "id": "ebay",
         "name": "eBay",
         "logo": null,
-        "domain": "ebayinc.com"
+        "domain": "ebay.com"
       },
       "location": {
         "city": "Bengaluru",
@@ -112718,8 +112767,8 @@
       "experienceMax": null,
       "domain": [
         "Ecommerce",
-        "Fintech",
-        "AI"
+        "Consumer",
+        "Fintech"
       ],
       "skills": [
         "Analytics",
@@ -112735,15 +112784,15 @@
       ],
       "tags": [
         "Ecommerce",
+        "Consumer",
         "Fintech",
-        "AI",
         "Senior Product Manager",
         "Onsite",
         "Analytics",
         "Growth",
         "Platform"
       ],
-      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nLocation: India\n\nAt eBay, we're more than a global eCommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of eCommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nWithin the risk & Compliance team our vision is “Deliver intuitive risk,",
+      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nLocation\n\n: India\n\nAt eBay, we're more than a global eCommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of eCommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nWithin the risk & Compliance team our vision is “Deliver intuitive risk,",
       "responsibilities": [
         "Create Product Vision & Strategy. Lead the comprehensive vision and end-to-end execution of Risk Platform",
         "Develop a compelling and iterative roadmap and launch plan that supports Risk business needs",
@@ -112761,8 +112810,8 @@
       ],
       "preferred": [],
       "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-ii-at-ebay-4452251899",
+      "source": "Workday · eBay",
+      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager-II_R0076068",
       "postedAt": "2026-08-17",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-10-31",
@@ -113938,7 +113987,8 @@
       "experienceMin": 10,
       "experienceMax": null,
       "domain": [
-        "Healthcare"
+        "Healthcare",
+        "Enterprise"
       ],
       "skills": [
         "Go-to-Market",
@@ -113950,6 +114000,7 @@
       ],
       "tags": [
         "Healthcare",
+        "Enterprise",
         "Group Product Manager",
         "Onsite",
         "Go-to-Market",
@@ -113957,13 +114008,26 @@
         "Pricing",
         "API"
       ],
-      "description": "Job Title\n\nSenior Global Product Manager (Respiratory Therapy)\n\nJob Description\n\nSenior Global Product Manager (Respiratory Therapy)\n\nIn this role, you will lead partnership strategy and legacy portfolio lifecycle management within the Respiratory Therapies segment. You will drive the commercial success of products brought to market through strategic partnerships — owning go-to-market planning, business case development, and launch performance — while also ensuring the legacy portfolio continues to meet customer needs through service excellence and smart portfolio optimization. You will work closely with cross-functional product management, R&D, and commercial teams, and report to the Segment Leader, Respiratory Therapies. This role is based in Pune, India, co-located with our R&D and cross-functional execution teams.\n\nYour Role\n\nPartnership & Go-to-Market Strategy: Lead go-to-market planning for products developed through strategic partnerships, collaborating with regional market teams to align on pricing, volumes, positioning, and launch sequencing that maximize commercial impact.\n\nBusiness Case & Market Alignment: Develop and own business cases for partnership-driven launches, securing alignment and sign-off with markets on investment, pricing strategy, and volume commitments to ensure mutual accountability and commercial readiness.\n\nLaunch Execution & Performance Management: Support regional teams in executing local launch plans and own the performance management cadence",
-      "responsibilities": [],
+      "description": "Job Title\n\nSenior Global Product Manager (Respiratory Therapy)\n\nJob Description\n\nSenior Global Product Manager (Respiratory Therapy)\n\nIn this role, you will lead partnership strategy and legacy portfolio lifecycle management within the Respiratory Therapies segment. You will drive the commercial success of products brought to market through strategic partnerships — owning go-to-market planning, business case development, and launch performance — while also ensuring the legacy portfolio continues to meet customer needs through service excellence and smart portfolio optimization. You will work closely with cross-functional product management, R&D, and commercial teams, and report to the Segment Leader, Respiratory Therapies. This role is based in Pune, India, co-located with our R&D and cross-functional execution teams.\n\nYour role:\n\nPartnership & Go-to-Market Strategy\n\n: Lead go-to-market planning for products developed through strategic partnerships, collaborating with regional market teams to align on pricing, volumes, positioning, and launch sequencing that maximize commercial impact.",
+      "responsibilities": [
+        "Business Case & Market Alignment",
+        ": Develop and own business cases for partnership-driven launches, securing alignment and sign-off with markets on investment, pricing strategy, and volume commitments to ensure mutual accountability and commercial readiness.",
+        "Launch Execution & Performance Management",
+        ": Support regional teams in executing local launch plans and own the performance management cadence post-launch — tracking adoption, identifying gaps, and driving corrective actions to deliver on committed targets.",
+        "Legacy Portfolio & Customer Support",
+        ": Serve as the product management lead for the legacy portfolio, ensuring ongoing customer-facing needs are met with a focus on service continuity, support readiness, and a positive end-of-life experience for customers and patients.",
+        "Portfolio Optimization",
+        ": Continuously evaluate the legacy portfolio to identify rationalization and pruning opportunities that simplify the offering, reduce complexity, and identify opportunities to shift focus to growth — while managing transitions in a way that protects customer trust and market position.",
+        "You're the right fit if:",
+        "You’ve acquired",
+        "10+ years of experience",
+        "in an international business environment in the field of product management, marketing, or related commercial/strategic role in medical devices or health technology"
+      ],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/senior-global-product-manager-respiratory-therapy-at-philips-4436843071",
+      "source": "Workday · Philips",
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Senior-Global-Product-Manager--Respiratory-Therapy-_585968-1",
       "postedAt": "2026-07-07",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-10-31",
@@ -119184,8 +119248,8 @@
       "id": "ebay",
       "name": "eBay",
       "logo": null,
-      "domain": "ebayinc.com",
-      "website": "https://ebayinc.com",
+      "domain": "ebay.com",
+      "website": "https://ebay.com",
       "industry": "Ecommerce",
       "companySize": "5000+",
       "description": "eBay is a ecommerce company hiring product managers in India.",
@@ -124234,8 +124298,8 @@
       "companySize": "5000+",
       "description": "PayPal is a fintech company hiring product managers in India.",
       "locations": [
-        "India",
-        "Bengaluru"
+        "Bengaluru",
+        "India"
       ]
     },
     {
