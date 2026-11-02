@@ -1,6 +1,59 @@
 {
-  "generatedAt": "2026-11-02T03:42:46.425Z",
+  "generatedAt": "2026-11-02T12:59:32.693Z",
   "jobs": [
+    {
+      "id": "job_848bee",
+      "slug": "product-manager-agents-glean-bengaluru-848bee",
+      "title": "Product Manager, Agents",
+      "company": {
+        "id": "glean",
+        "name": "Glean",
+        "logo": null,
+        "domain": "glean.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 6,
+      "experienceMax": null,
+      "domain": [
+        "AI",
+        "Enterprise",
+        "SaaS"
+      ],
+      "skills": [
+        "API",
+        "Platform",
+        "Data",
+        "B2B",
+        "Onboarding"
+      ],
+      "tags": [
+        "AI",
+        "Enterprise",
+        "SaaS",
+        "Senior Product Manager",
+        "Onsite",
+        "API",
+        "Platform",
+        "Data"
+      ],
+      "description": "About Glean: Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industry’s most advanced enterprise search has evolved into a full-scale Work AI ecosystem, powering intelligent Search, an AI Assistant, and scalable AI agents on one secure, open platform. With over 100 enterprise SaaS connectors, flexible LLM choice, and robust APIs, Glean gives organizations the infrastructure to govern, scale, and customize AI across their entire business",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Glean",
+      "applyUrl": "https://job-boards.greenhouse.io/gleanwork/jobs/4726336005",
+      "postedAt": "2026-11-02",
+      "firstSeenAt": "2026-11-02",
+      "lastSeenAt": "2026-11-02",
+      "status": "Active"
+    },
     {
       "id": "job_1c5eed",
       "slug": "product-manager-aitainment-bengaluru-1c5eed",
@@ -3266,7 +3319,7 @@
         "id": "ebay",
         "name": "eBay",
         "logo": null,
-        "domain": "ebay.com"
+        "domain": "ebayinc.com"
       },
       "location": {
         "city": "Bengaluru",
@@ -3279,8 +3332,7 @@
       "experienceMax": null,
       "domain": [
         "Fintech",
-        "Ecommerce",
-        "Consumer"
+        "Ecommerce"
       ],
       "skills": [
         "API",
@@ -3294,39 +3346,28 @@
       "tags": [
         "Fintech",
         "Ecommerce",
-        "Consumer",
         "Product Manager",
         "Onsite",
         "API",
         "Platform",
-        "Data"
+        "Data",
+        "Payments"
       ],
       "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nAt eBay, we connect tens of millions of buyers and sellers globally, processing billions of dollars in trade. Our platform powers trusted commerce at global scale, and we continue to invest in the products and platforms that make those experiences simpler, smarter, and more reliable.\n\nThe Billing Platform sits at the intersection of commerce, payments, and financial systems. It powers critical capabilities across billing, invoicing, financial transaction processing, and revenue-related workflows, enabling scalable and reliable financial operations across eBay.\n\nWe are seeking an ambitious, impact-driven Product Manager to lead critical capabilities for this platform. If you thrive on solving complex, large-scale platform challenges and translating intricacy into seamless user",
       "responsibilities": [
-        "Define & Drive Strategy:",
-        "Partner with payments, finance, operations, and business units to discover high-value platform opportunities and translate them into a clear product vision.",
-        "Architect Scalable Solutions:",
-        "Collaborate closely with engineering to build reusable, API-based charging, invoicing, and transaction workflows that support diverse global use cases.",
-        "Lead Execution:",
-        "Write clear, high-quality product requirements and user stories, set measurable success metrics, and manage end-to-end rollouts across complex multi-system dependencies.",
-        "Prioritize for Impact:",
-        "Balance trade-offs between innovation, platform resilience, risk mitigation, and execution speed to maximize partner and customer value.",
-        "Optimize with Data:",
-        "Leverage operational metrics, analytical insights, and partner feedback to continuously evaluate product performance and guide rapid iteration.",
-        "Champion Quality & Trust:",
-        "Proactively identify risks, resolve complex cross-functional alignment blockers, and continuously elevate product quality and platform experience."
+        "Define & Drive Strategy: Partner with payments, finance, operations, and business units to discover high-value platform opportunities and translate them into a clear product vision.",
+        "Architect Scalable Solutions: Collaborate closely with engineering to build reusable, API-based charging, invoicing, and transaction workflows that support diverse global use cases.",
+        "Lead Execution: Write clear, high-quality product requirements and user stories, set measurable success metrics, and manage end-to-end rollouts across complex multi-system dependencies.",
+        "Prioritize for Impact: Balance trade-offs between innovation, platform resilience, risk mitigation, and execution speed to maximize partner and customer value.",
+        "Optimize with Data: Leverage operational metrics, analytical insights, and partner feedback to continuously evaluate product performance and guide rapid iteration.",
+        "Champion Quality & Trust: Proactively identify risks, resolve complex cross-functional alignment blockers, and continuously elevate product quality and platform experience."
       ],
       "requirements": [
-        "Platform Product Experience:",
-        "3+ years in product management, with a proven track record of shipping technical, platform-based products.",
-        "FinTech / Payments Foundation:",
-        "Practical experience in payments, billing, invoicing, or related financial transaction processing environments.",
-        "Technical Execution:",
-        "Strong ability to translate business capabilities into technical requirements and partner effectively with engineering teams on architectural choices.",
-        "Analytical Rigor:",
-        "Skilled in using data to quantify opportunities, validate hypotheses, and measure product performance metrics.",
-        "Cross-Functional Collaboration:",
-        "Outstanding communication and stakeholder management skills, capable of driving consensus across matrixed teams."
+        "Platform Product Experience: 3+ years in product management, with a proven track record of shipping technical, platform-based products.",
+        "FinTech / Payments Foundation: Practical experience in payments, billing, invoicing, or related financial transaction processing environments.",
+        "Technical Execution: Strong ability to translate business capabilities into technical requirements and partner effectively with engineering teams on architectural choices.",
+        "Analytical Rigor: Skilled in using data to quantify opportunities, validate hypotheses, and measure product performance metrics.",
+        "Cross-Functional Collaboration: Outstanding communication and stakeholder management skills, capable of driving consensus across matrixed teams."
       ],
       "preferred": [
         "Hands-on experience with API-based architectures, eCommerce platforms, or large-scale multi-sided marketplaces.",
@@ -3337,8 +3378,8 @@
         "We use cookies to enhance your experience and may use AI tools for administrative tasks in the hiring process. To learn how we handle your personal data and use AI responsibly, please visit our Talent Privacy Notice, Privacy Center, and AI Hiring Guidelines."
       ],
       "salary": null,
-      "source": "Workday · eBay",
-      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Product-Manager--Billing-Platform_R0077220",
+      "source": "LinkedIn",
+      "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-billing-platform-at-ebay-4483483339",
       "postedAt": "2026-10-30",
       "firstSeenAt": "2026-10-30",
       "lastSeenAt": "2026-11-02",
@@ -81303,64 +81344,6 @@
       "status": "Expired"
     },
     {
-      "id": "job_7682b4",
-      "slug": "product-manager-toast-bengaluru-7682b4",
-      "title": "Product Manager",
-      "company": {
-        "id": "toast",
-        "name": "Toast",
-        "logo": null,
-        "domain": "toasttab.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Product Manager",
-      "experienceMin": 3,
-      "experienceMax": null,
-      "domain": [
-        "Fintech",
-        "SaaS",
-        "AI"
-      ],
-      "skills": [
-        "Experimentation",
-        "SQL",
-        "Growth",
-        "Platform",
-        "Data",
-        "Machine Learning",
-        "Payments",
-        "Fraud",
-        "Onboarding",
-        "Compliance"
-      ],
-      "tags": [
-        "Fintech",
-        "SaaS",
-        "AI",
-        "Product Manager",
-        "Onsite",
-        "Experimentation",
-        "SQL",
-        "Growth"
-      ],
-      "description": "Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees happy.\n\nWe're looking for a Product Manager for Fraud & Risk who wants to understand how fraud really happens and to build products that stop it at scale. You're comfortable with ambiguity and you like hard trade-offs, like loss vs. friction or automation vs. human review. Your decisions rest on data, customer insight and strong cross-functional partnerships. And last, but not least, you know that a team succeeds because of its people, and you want to help build an environment where we can all do our best work.\n\nThis is a chance to shape the risk platform behind one of the largest restaurant payments businesses in the US. You'll use machine learning and AI to protect restaurants and help Toast grow.",
-      "responsibilities": [],
-      "requirements": [],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · Toast",
-      "applyUrl": "https://careers.toasttab.com/jobs?gh_jid=8263535",
-      "postedAt": "2026-10-05",
-      "firstSeenAt": "2026-10-05",
-      "lastSeenAt": "2026-11-02",
-      "status": "Active"
-    },
-    {
       "id": "job_cdd77e",
       "slug": "product-manager-scikiq-delhi-ncr-cdd77e",
       "title": "Product Manager",
@@ -81432,6 +81415,54 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-at-scikiq-4483910976",
       "postedAt": "2026-10-05",
       "firstSeenAt": "2026-10-07",
+      "lastSeenAt": "2026-11-02",
+      "status": "Active"
+    },
+    {
+      "id": "job_7682b4",
+      "slug": "product-manager-toast-bengaluru-7682b4",
+      "title": "Product Manager",
+      "company": {
+        "id": "toast",
+        "name": "Toast",
+        "logo": null,
+        "domain": "toasttab.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [],
+      "skills": [
+        "Data"
+      ],
+      "tags": [
+        "Product Manager",
+        "Onsite",
+        "Data"
+      ],
+      "description": "• Develop and execute product strategies to achieve business objectives.",
+      "responsibilities": [
+        "Develop and execute product strategies to achieve business objectives.",
+        "Collaborate with cross-functional teams to design, develop, and launch new products.",
+        "Conduct market research and analyze customer feedback to identify trends and opportunities.",
+        "Create and maintain product roadmaps and prioritize features based on customer needs.",
+        "Work closely with engineering teams to ensure successful product launches.",
+        "Analyze sales data and market trends to inform product decisions.",
+        "Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Naukri",
+      "applyUrl": "https://www.naukri.com/job-listings-product-manager-toast-bengaluru-2-to-5-years-271026501855",
+      "postedAt": "2026-10-05",
+      "firstSeenAt": "2026-10-05",
       "lastSeenAt": "2026-11-02",
       "status": "Active"
     },
@@ -111066,84 +111097,6 @@
       "status": "Active"
     },
     {
-      "id": "job_29f119",
-      "slug": "principal-product-manager-sumo-logic-delhi-ncr-29f119",
-      "title": "Principal Product Manager",
-      "company": {
-        "id": "sumo-logic",
-        "name": "Sumo Logic",
-        "logo": null,
-        "domain": "sumologic.com"
-      },
-      "location": {
-        "city": "Delhi NCR",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Group Product Manager",
-      "experienceMin": 8,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Enterprise"
-      ],
-      "skills": [
-        "SQL",
-        "Analytics",
-        "Platform",
-        "Data",
-        "Demand"
-      ],
-      "tags": [
-        "SaaS",
-        "Enterprise",
-        "Group Product Manager",
-        "Onsite",
-        "SQL",
-        "Analytics",
-        "Platform",
-        "Data"
-      ],
-      "description": "",
-      "responsibilities": [
-        "Agentic Investigation & Reliability Experiences",
-        "Sumo Logic is hiring a Principal Product Manager to lead how engineers and operators investigate incidents, understand reliability risk, and act on their operational and security telemetry.",
-        "The observability category was built around collecting telemetry and giving people tools to navigate it: dashboards, queries, monitors, traces, and alerts. Customer expectations are now shifting. Teams don't just want more dashboards; they want help getting from a signal to a resolution, understanding what's broken, why, what's impacted, and what to do next. As AI agents move into production operations, this role owns how Sumo Logic brings intelligent, agent-assisted investigation and reliability workflows to customers, grounded in evidence, context, and enterprise governance.",
-        "This is a senior, high-ownership role. It requires genuine observability domain background. You should have lived in this space and understand how monitoring, troubleshooting, and reliability actually work, combined with the ambition to define a new category of experience on top of it.",
-        "What You Will Own",
-        "The current data experiences.",
-        "Log Search, Live Tail, query and query optimization, Metrics Search, Tracing, Dashboards, and the data-experience UI. This is a live, revenue-generating product with real customers, and keeping it strong is part of the job. You own its health, roadmap, and competitiveness today while steering it toward an AI-native future, focusing new investment where it strengthens investigation, speed, and value for both new and power users.",
-        "The reliability and alerting surface.",
-        "Monitors, Alerts, SLOs, Scheduled Searches, and the reliability workflows around them. You will own alerting accuracy, noise reduction, and operational health signals both as capabilities customers depend on today and as the foundation for more automated, agent-assisted detection and investigation.",
-        "The agentic investigation experience.",
-        "You will define how a user moves from a search, a monitor, a dashboard, or an alert to likely cause faster, with supporting evidence. This means productizing investigation workflows that reason across logs, metrics, traces, monitors, dashboards, and related context, and evolving them from reactive troubleshooting toward more proactive detection over time.",
-        "What You Will Be Doing"
-      ],
-      "requirements": [
-        "8+ years of product management experience with real observability or monitoring domain background. You have owned products in observability, monitoring, incident response, APM, or a closely adjacent operational-telemetry space. This is a hard requirement.",
-        "Deep, first-hand understanding of the observability surface area including logs, metrics, traces, dashboards, monitors, alerts, and SLOs, and of how engineers and operators actually investigate incidents and decide what to trust.",
-        "Proven ability to run a live, at-scale product, owning the roadmap, health, and competitiveness of shipping surfaces while driving a larger transformation.",
-        "A track record of owning broad, technically deep surfaces and setting direction that other teams build on.",
-        "Familiarity with how AI and agents are changing data interaction, including natural-language investigation, tools, guardrails, and human-in-the-loop action, or the ability to ramp quickly.",
-        "Strong technical instincts around query engines, time-series and trace data, and alerting systems, plus the judgment to know where an AI-assisted experience should replace a manual flow and where depth must stay.",
-        "Strong analytical skills and comfort using telemetry, dashboards, SQL, and usage data to understand adoption, friction, reliability, and cost.",
-        "Excellent communication across technical and business audiences, and the ability to write clear proposals, decision docs, PRDs, and acceptance criteria.",
-        "High ownership and drive to make progress across a large, ambiguous, fast-moving surface.",
-        "Must-Have Qualities",
-        "Runs today, builds tomorrow.",
-        "Keeps a live product healthy and competitive while reinventing it, and knows what to sustain and what to rebuild."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · Sumo Logic",
-      "applyUrl": "https://job-boards.greenhouse.io/sumologic/jobs/8089130",
-      "postedAt": "2026-09-08",
-      "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-11-02",
-      "status": "Active"
-    },
-    {
       "id": "job_e4eec1",
       "slug": "principal-product-manager-sumo-logic-bengaluru-e4eec1",
       "title": "Principal Product Manager",
@@ -111216,6 +111169,84 @@
       "salary": null,
       "source": "Greenhouse · Sumo Logic",
       "applyUrl": "https://job-boards.greenhouse.io/sumologic/jobs/8098451",
+      "postedAt": "2026-09-08",
+      "firstSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-11-02",
+      "status": "Active"
+    },
+    {
+      "id": "job_29f119",
+      "slug": "principal-product-manager-sumo-logic-delhi-ncr-29f119",
+      "title": "Principal Product Manager",
+      "company": {
+        "id": "sumo-logic",
+        "name": "Sumo Logic",
+        "logo": null,
+        "domain": "sumologic.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Group Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise"
+      ],
+      "skills": [
+        "SQL",
+        "Analytics",
+        "Platform",
+        "Data",
+        "Demand"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "Group Product Manager",
+        "Onsite",
+        "SQL",
+        "Analytics",
+        "Platform",
+        "Data"
+      ],
+      "description": "",
+      "responsibilities": [
+        "Agentic Investigation & Reliability Experiences",
+        "Sumo Logic is hiring a Principal Product Manager to lead how engineers and operators investigate incidents, understand reliability risk, and act on their operational and security telemetry.",
+        "The observability category was built around collecting telemetry and giving people tools to navigate it: dashboards, queries, monitors, traces, and alerts. Customer expectations are now shifting. Teams don't just want more dashboards; they want help getting from a signal to a resolution, understanding what's broken, why, what's impacted, and what to do next. As AI agents move into production operations, this role owns how Sumo Logic brings intelligent, agent-assisted investigation and reliability workflows to customers, grounded in evidence, context, and enterprise governance.",
+        "This is a senior, high-ownership role. It requires genuine observability domain background. You should have lived in this space and understand how monitoring, troubleshooting, and reliability actually work, combined with the ambition to define a new category of experience on top of it.",
+        "What You Will Own",
+        "The current data experiences.",
+        "Log Search, Live Tail, query and query optimization, Metrics Search, Tracing, Dashboards, and the data-experience UI. This is a live, revenue-generating product with real customers, and keeping it strong is part of the job. You own its health, roadmap, and competitiveness today while steering it toward an AI-native future, focusing new investment where it strengthens investigation, speed, and value for both new and power users.",
+        "The reliability and alerting surface.",
+        "Monitors, Alerts, SLOs, Scheduled Searches, and the reliability workflows around them. You will own alerting accuracy, noise reduction, and operational health signals both as capabilities customers depend on today and as the foundation for more automated, agent-assisted detection and investigation.",
+        "The agentic investigation experience.",
+        "You will define how a user moves from a search, a monitor, a dashboard, or an alert to likely cause faster, with supporting evidence. This means productizing investigation workflows that reason across logs, metrics, traces, monitors, dashboards, and related context, and evolving them from reactive troubleshooting toward more proactive detection over time.",
+        "What You Will Be Doing"
+      ],
+      "requirements": [
+        "8+ years of product management experience with real observability or monitoring domain background. You have owned products in observability, monitoring, incident response, APM, or a closely adjacent operational-telemetry space. This is a hard requirement.",
+        "Deep, first-hand understanding of the observability surface area including logs, metrics, traces, dashboards, monitors, alerts, and SLOs, and of how engineers and operators actually investigate incidents and decide what to trust.",
+        "Proven ability to run a live, at-scale product, owning the roadmap, health, and competitiveness of shipping surfaces while driving a larger transformation.",
+        "A track record of owning broad, technically deep surfaces and setting direction that other teams build on.",
+        "Familiarity with how AI and agents are changing data interaction, including natural-language investigation, tools, guardrails, and human-in-the-loop action, or the ability to ramp quickly.",
+        "Strong technical instincts around query engines, time-series and trace data, and alerting systems, plus the judgment to know where an AI-assisted experience should replace a manual flow and where depth must stay.",
+        "Strong analytical skills and comfort using telemetry, dashboards, SQL, and usage data to understand adoption, friction, reliability, and cost.",
+        "Excellent communication across technical and business audiences, and the ability to write clear proposals, decision docs, PRDs, and acceptance criteria.",
+        "High ownership and drive to make progress across a large, ambiguous, fast-moving surface.",
+        "Must-Have Qualities",
+        "Runs today, builds tomorrow.",
+        "Keeps a live product healthy and competitive while reinventing it, and knows what to sustain and what to rebuild."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Sumo Logic",
+      "applyUrl": "https://job-boards.greenhouse.io/sumologic/jobs/8089130",
       "postedAt": "2026-09-08",
       "firstSeenAt": "2026-09-10",
       "lastSeenAt": "2026-11-02",
@@ -111530,84 +111561,6 @@
       "status": "Active"
     },
     {
-      "id": "job_aeae06",
-      "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
-      "title": "Senior Product Manager - SAP FICO",
-      "company": {
-        "id": "zoominfo",
-        "name": "ZoomInfo",
-        "logo": null,
-        "domain": "zoominfo.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 10,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Fintech",
-        "Enterprise"
-      ],
-      "skills": [
-        "Go-to-Market",
-        "API",
-        "Platform",
-        "Data",
-        "B2B",
-        "Agile"
-      ],
-      "tags": [
-        "SaaS",
-        "Fintech",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Go-to-Market",
-        "API",
-        "Platform"
-      ],
-      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
-      "responsibilities": [
-        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
-        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
-        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
-        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
-        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
-        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
-        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
-        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
-        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
-        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
-      ],
-      "requirements": [
-        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
-        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
-        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
-        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
-        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
-        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
-        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
-        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
-        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
-        "SAP Certification in Finance or a related SAP discipline.",
-        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
-        "Experience in high-tech, SaaS, software, or Finance transformation programs."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · ZoomInfo",
-      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
-      "postedAt": "2026-09-05",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-11-02",
-      "status": "Active"
-    },
-    {
       "id": "job_a4f741",
       "slug": "senior-product-manager-sap-fico-zoominfo-chennai-a4f741",
       "title": "Senior Product Manager - SAP FICO",
@@ -111680,6 +111633,84 @@
       "salary": null,
       "source": "Greenhouse · ZoomInfo",
       "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8733078002",
+      "postedAt": "2026-09-05",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-11-02",
+      "status": "Active"
+    },
+    {
+      "id": "job_aeae06",
+      "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
+      "title": "Senior Product Manager - SAP FICO",
+      "company": {
+        "id": "zoominfo",
+        "name": "ZoomInfo",
+        "logo": null,
+        "domain": "zoominfo.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "API",
+        "Platform",
+        "Data",
+        "B2B",
+        "Agile"
+      ],
+      "tags": [
+        "SaaS",
+        "Fintech",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "API",
+        "Platform"
+      ],
+      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
+      "responsibilities": [
+        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
+        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
+        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
+        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
+        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
+        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
+        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
+        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
+        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
+        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
+      ],
+      "requirements": [
+        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
+        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
+        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
+        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
+        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
+        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
+        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
+        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
+        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
+        "SAP Certification in Finance or a related SAP discipline.",
+        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
+        "Experience in high-tech, SaaS, software, or Finance transformation programs."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · ZoomInfo",
+      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
       "postedAt": "2026-09-05",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-11-02",
@@ -118816,8 +118847,8 @@
       "id": "ebay",
       "name": "eBay",
       "logo": null,
-      "domain": "ebay.com",
-      "website": "https://ebay.com",
+      "domain": "ebayinc.com",
+      "website": "https://ebayinc.com",
       "industry": "Ecommerce",
       "companySize": "5000+",
       "description": "eBay is a ecommerce company hiring product managers in India.",
@@ -125733,8 +125764,8 @@
       "companySize": "1000-5000",
       "description": "Sumo Logic is a saas company hiring product managers in India.",
       "locations": [
-        "Delhi NCR",
-        "Bengaluru"
+        "Bengaluru",
+        "Delhi NCR"
       ]
     },
     {
@@ -127800,8 +127831,8 @@
       "companySize": "1000-5000",
       "description": "ZoomInfo is a saas company hiring product managers in India.",
       "locations": [
-        "Bengaluru",
-        "Chennai"
+        "Chennai",
+        "Bengaluru"
       ]
     },
     {
