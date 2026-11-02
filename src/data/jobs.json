@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T12:59:32.693Z",
+  "generatedAt": "2026-11-02T22:58:22.194Z",
   "jobs": [
     {
       "id": "job_848bee",
@@ -49,6 +49,75 @@
       "salary": null,
       "source": "Greenhouse · Glean",
       "applyUrl": "https://job-boards.greenhouse.io/gleanwork/jobs/4726336005",
+      "postedAt": "2026-11-02",
+      "firstSeenAt": "2026-11-02",
+      "lastSeenAt": "2026-11-02",
+      "status": "Active"
+    },
+    {
+      "id": "job_16cf95",
+      "slug": "senior-product-manager-data-integrations-gitlab-bengaluru-16cf95",
+      "title": "Senior Product Manager - Data Integrations",
+      "company": {
+        "id": "gitlab",
+        "name": "GitLab",
+        "logo": null,
+        "domain": "gitlab.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Enterprise",
+        "AI"
+      ],
+      "skills": [
+        "Analytics",
+        "Growth",
+        "Pricing",
+        "Platform",
+        "Data",
+        "Compliance"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "AI",
+        "Senior Product Manager",
+        "Onsite",
+        "Analytics",
+        "Growth",
+        "Pricing"
+      ],
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.\n\nThe same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software.\n\nFortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.\n\nAn overview of this role\n\nAs a Senior Product Manager for Data Integrations, you'll help GitLab's analytics and artificial intelligence (AI)",
+      "responsibilities": [
+        "Set integration priorities using evidence from customers, field teams, and other product managers to identify the biggest gaps in context.",
+        "Shape how external data maps into GitLab's shared data models, including the extract, transform, and load (ETL) approach and the transformations needed to make sources work together.",
+        "Define the customer problems and user groups each integration serves. Partner with engineering to agree on the intended experience, trade-offs, and delivery sequence.",
+        "Translate product decisions into a clear backlog of epics and issues for engineering.",
+        "Define telemetry and adoption signals to understand whether connected data helps customers answer new questions, and use those findings to guide priorities.",
+        "Help shape integration pricing and packaging as the product area matures.",
+        "Use AI coding agents and GitLab to explore data, prototype integrations, and document the intended experience."
+      ],
+      "requirements": [
+        "Product management experience, with the ability to connect customer needs to priorities and make trade-offs with incomplete information.",
+        "Strong knowledge of the software development and operations (DevOps) ecosystem, including how planning, security, observability, and IT service management tools fit into engineering workflows.",
+        "A working understanding of data integration, ETL, and data transformation, including how data from different systems maps to a common model. You don't need a background as a data engineer.",
+        "Comfort using AI tools for prototyping and documentation as part of your product work.",
+        "Clear communication about customer problems, close collaboration with engineering, and a habit of using data to evaluate adoption.",
+        "Experience with integration products, data models, or value stream analytics is helpful, but isn't required."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · GitLab",
+      "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8905040002",
       "postedAt": "2026-11-02",
       "firstSeenAt": "2026-11-02",
       "lastSeenAt": "2026-11-02",
@@ -87974,8 +88043,8 @@
       "applyUrl": "https://www.themuse.com/jobs/appian/senior-technical-product-manager-modernization",
       "postedAt": "2026-10-01",
       "firstSeenAt": "2026-10-15",
-      "lastSeenAt": "2026-10-31",
-      "status": "Expired"
+      "lastSeenAt": "2026-11-02",
+      "status": "Active"
     },
     {
       "id": "job_93b3ba",
@@ -119890,6 +119959,19 @@
       "description": null,
       "locations": [
         "Chennai"
+      ]
+    },
+    {
+      "id": "gitlab",
+      "name": "GitLab",
+      "logo": null,
+      "domain": "gitlab.com",
+      "website": "https://gitlab.com",
+      "industry": "Developer Tools",
+      "companySize": "1000-5000",
+      "description": "GitLab is a developer tools company hiring product managers in India.",
+      "locations": [
+        "Bengaluru"
       ]
     },
     {
