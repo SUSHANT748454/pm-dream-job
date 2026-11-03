@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-11-03T12:32:50.245Z",
+  "generatedAt": "2026-11-03T20:43:58.443Z",
   "jobs": [
+    {
+      "id": "job_8bae25",
+      "slug": "senior-product-manager-checkout-ebay-bengaluru-8bae25",
+      "title": "Senior Product Manager, Checkout",
+      "company": {
+        "id": "ebay",
+        "name": "eBay",
+        "logo": null,
+        "domain": "ebay.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "Ecommerce",
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Experimentation",
+        "Analytics",
+        "Platform",
+        "Data",
+        "Payments",
+        "Personalization",
+        "Marketplace",
+        "Stakeholder Management"
+      ],
+      "tags": [
+        "Ecommerce",
+        "Fintech",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "Experimentation",
+        "Analytics",
+        "Platform"
+      ],
+      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · eBay",
+      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager--Checkout_R0077106",
+      "postedAt": "2026-11-03",
+      "firstSeenAt": "2026-11-03",
+      "lastSeenAt": "2026-11-03",
+      "status": "Active"
+    },
     {
       "id": "job_1b5b38",
       "slug": "sr-product-manager-marketplace-target-bengaluru-1b5b38",
@@ -118973,8 +119029,8 @@
       "id": "ebay",
       "name": "eBay",
       "logo": null,
-      "domain": "ebayinc.com",
-      "website": "https://ebayinc.com",
+      "domain": "ebay.com",
+      "website": "https://ebay.com",
       "industry": "Ecommerce",
       "companySize": "5000+",
       "description": "eBay is a ecommerce company hiring product managers in India.",
