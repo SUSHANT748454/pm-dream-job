@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T07:41:46.145Z",
+  "generatedAt": "2026-11-04T12:43:30.749Z",
   "jobs": [
     {
       "id": "job_967c42",
@@ -120916,8 +120916,8 @@
     },
     {
       "id": "job_ec0788",
-      "slug": "senior-product-manager-highradius-hyderabad-ec0788",
-      "title": "Senior Product Manager",
+      "slug": "product-manager-highradius-hyderabad-ec0788",
+      "title": "Product Manager",
       "company": {
         "id": "highradius",
         "name": "HighRadius",
@@ -120930,38 +120930,38 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 7,
-      "experienceMax": null,
+      "experienceLevel": "Product Manager",
+      "experienceMin": 2,
+      "experienceMax": 4,
       "domain": [
-        "Fintech",
-        "SaaS",
-        "AI"
+        "Enterprise"
       ],
       "skills": [
+        "Product Strategy",
+        "Growth",
         "API",
         "Platform",
         "Data",
-        "B2B",
-        "Payments"
+        "Stakeholder Management",
+        "Agile",
+        "Scrum"
       ],
       "tags": [
-        "Fintech",
-        "SaaS",
-        "AI",
-        "Senior Product Manager",
+        "Enterprise",
+        "Product Manager",
         "Onsite",
+        "Product Strategy",
+        "Growth",
         "API",
-        "Platform",
-        "Data"
+        "Platform"
       ],
-      "description": "About Us HighRadius provides a single Agentic AI platform for the Office of the CFO. It integrates 180+ agents that orchestrate end-to-end processes across Order-to-Cash, Close & Reconciliation, Consolidation & Reporting, Accounts Payable, B2B Payments, and Treasury. HighRadius guarantees operational KPI improvements by mapping them to specific agents on the platform. With a 3-6 month go-live period, HighRadius drives value creation at 1300+ enterprises such as 3M, Unilever, Bristol-Myers Squibb Company, Red Bull, Lufthansa, and more. HighRadius has been consistently recognized as a market",
+      "description": "About Us: HighRadius, a renowned provider of cloud-based Autonomous Software for the Office of the CFO, has transformed critical financial processes for over 800+ leading companies worldwide. Trusted by prestigious organizations like 3M, Unilever, Anheuser-Busch InBev, Sanofi, Kellogg Company, Danone, Hershey's, and many others, HighRadius optimizes order-to-cash, treasury, and record-to-report processes, earning us back-to-back recognition in Gartner's Magic Quadrant and a prestigious spot in Forbes Cloud 100 List for three consecutive years. With a remarkable valuation of $3.1B and an",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "Greenhouse · HighRadius",
-      "applyUrl": "https://www.highradius.com/about/careers-list/?gh_jid=7707536003",
+      "source": "LinkedIn",
+      "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-at-highradius-4482582953",
       "postedAt": "2026-06-23",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-11-04",
