@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T12:38:19.895Z",
+  "generatedAt": "2026-11-06T20:40:21.804Z",
   "jobs": [
     {
       "id": "job_6dbbb3",
@@ -108747,12 +108747,12 @@
         "Platform",
         "Data"
       ],
-      "description": "Here at Appian, our values of\n\nIntensity\n\nand\n\nExcellence\n\ndefine who we are. We set high standards and live up to them, ensuring that everything we do is done with care and quality. We approach every challenge with ambition and commitment, holding ourselves and each other accountable to achieve the best results. When you join Appian, you'll be part of a passionate team dedicated to accomplishing hard things, together.\n\nThis role is open to people who are currently in a product leadership role or someone in an engineering leadership role that is interested to make the switch into product.\n\nThis role combines experienced product management leadership with the pivotal responsibilities of a Group Product Lead, offering an opportunity to shape the product strategy and the missions of several teams. You will oversee the product management execution working closely with the product managers for several cross-functional software engineering teams around the world. This position reports to the Head of Product for the Platform Engineering Strategic Business Unit, which is responsible for Appian Cloud offering.\n\nAn excellent candidate will come with a wide range of experience in a product leadership role in the cloud infrastructure domain at a software-as-a-service firm. The product portfolio owned by this position will cover a wide range of cloud native infrastructure and services - from the highly available, resilient, scalable, and efficient infrastructure components on which all",
+      "description": "Here at Appian, our values of\n\nIntensity\n\nand\n\nExcellence\n\ndefine who we are. We set high standards and live up to them, ensuring that everything we do is done with care and quality. We approach every challenge with ambition and commitment, holding ourselves and each other accountable to achieve the best results. When you join Appian, you'll be part of a passionate team dedicated to accomplishing hard things, together.\n\nThis role is open to people who are currently in a product leadership role or someone in an engineering leadership role who is interested in making the switch to product.\n\nThis role combines experienced product management leadership with the pivotal responsibilities of a Group Product Lead, offering an opportunity to shape the product strategy and the missions of several teams. You will oversee the product management execution, working closely with the product managers for several cross-functional software engineering teams around the world. This position reports to the Head of Product for the Platform Engineering Strategic Business Unit, which is responsible for the Appian Cloud offering.\n\nAn excellent candidate will come with a wide range of experience in a product leadership role in the cloud infrastructure domain at a software-as-a-service firm. The product portfolio owned by this position will cover a wide range of cloud-native infrastructure and services - from the highly available, resilient, scalable, and efficient infrastructure components on which",
       "responsibilities": [
         "Oversee the initiation, planning, execution, and rollout for strategic initiatives.",
         "Lead the creation and ongoing maintenance of a multi-team, short-term and long-term feature backlogs strongly aligned to product and corporate vision.",
-        "Initiate and facilitate conversations across business units and departments to reach alignment on strategy, roadmap, key investments and messaging.",
-        "Build relationships with key business stakeholders, keeping them apprised of important features, critical scope changes, planned investments.",
+        "Initiate and facilitate conversations across business units and departments to reach alignment on strategy, roadmap, key investments, and messaging.",
+        "Build relationships with key business stakeholders, keeping them apprised of important features, critical scope changes, and planned investments.",
         "Help identify and cultivate the next generation of product management leaders.",
         "Provide constructive feedback on feature specifications to ensure new feature delivery provides optimal impact.",
         "Coach product managers on balancing functional and non-functional enhancements and",
