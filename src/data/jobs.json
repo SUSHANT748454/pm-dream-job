@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T00:21:03.880Z",
+  "generatedAt": "2026-11-11T12:19:38.815Z",
   "jobs": [
     {
       "id": "job_ed2221",
@@ -12838,10 +12838,7 @@
       "experienceLevel": "Senior Product Manager",
       "experienceMin": 4,
       "experienceMax": null,
-      "domain": [
-        "Ecommerce",
-        "Consumer"
-      ],
+      "domain": [],
       "skills": [
         "Product Strategy",
         "Experimentation",
@@ -12855,8 +12852,6 @@
         "OKRs"
       ],
       "tags": [
-        "Ecommerce",
-        "Consumer",
         "Senior Product Manager",
         "Onsite",
         "Product Strategy",
@@ -12864,13 +12859,13 @@
         "Analytics",
         "Growth"
       ],
-      "description": "About us: As a Fortune 50 company with more than 350,000 team members worldwide, Target is an iconic brand and one of America's leading retailers. Working at Target means the opportunity to help all families discover the joy of everyday life. Caring for our communities is woven into who we are, and we invest in the places we collectively live, work and play. We prioritize relationships, fuel and develop talent by creating growth opportunities, and succeed as one Target team. At our core, our purpose is ingrained in who we are, what we value, and how we work. It’s how we care, grow, and win",
+      "description": "About Us As a Fortune 50 company with more than 350,000 team members worldwide, Target is an iconic brand and one of America's leading retailers. Working at Target means the opportunity to help all families discover the joy of everyday life. Caring for our communities is woven into who we are, and we invest in the places we collectively live, work and play. We prioritize relationships, fuel and develop talent by creating growth opportunities, and succeed as one Target team. At our core, our purpose is ingrained in who we are, what we value, and how we work. It’s how we care, grow, and win",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "Workday · Target",
-      "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Product-Manager---Customer-Data-Platform_R0000479703",
+      "source": "LinkedIn",
+      "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-customer-data-platform-at-target-4486502135",
       "postedAt": "2026-11-04",
       "firstSeenAt": "2026-11-04",
       "lastSeenAt": "2026-11-11",
@@ -34347,8 +34342,8 @@
       "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Director-Product-Management---Enterprise-Data-Strategy_R0000478841",
       "postedAt": "2026-10-28",
       "firstSeenAt": "2026-10-28",
-      "lastSeenAt": "2026-11-02",
-      "status": "Expired"
+      "lastSeenAt": "2026-11-11",
+      "status": "Active"
     },
     {
       "id": "job_e8529b",
@@ -114637,55 +114632,42 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Product Manager",
-      "experienceMin": null,
-      "experienceMax": null,
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": 6,
       "domain": [
         "Fintech",
         "SaaS"
       ],
       "skills": [
+        "SQL",
         "Go-to-Market",
+        "Pricing",
         "API",
         "Platform",
         "Data",
         "Payments",
         "Fraud",
-        "Onboarding"
+        "Onboarding",
+        "Stakeholder Management"
       ],
       "tags": [
         "Fintech",
         "SaaS",
-        "Product Manager",
+        "Senior Product Manager",
         "Onsite",
+        "SQL",
         "Go-to-Market",
-        "API",
-        "Platform",
-        "Data"
+        "Pricing",
+        "API"
       ],
       "description": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we’ve since grown into a fintech powerhouse driving India’s digital payment revolution.\n\nRazorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow.\n\nFrom building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech\n\nAcross India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that’s redefining how money moves across Asia.\n\nToday, that ecosystem supports everyone from early-stage startups to some of India’s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently.\n\nOur scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like",
-      "responsibilities": [
-        "Build Customer Empathy: PMs have to regularly meet and understand customer needs first-hand as well as stay on top of the customer pulse via secondary insights - both qualitative and quantitative.",
-        "Devise Strategy: Define both long-term strategy and quarterly roadmap to achieve the product vision and create impact.",
-        "Conceptualize new solutions: Product Conceptualization with a problem first, data-driven, and test & iterate approach. Ensures conceptualization from a platform and a long-term view. Ensures value-based prioritization of product initiatives.",
-        "Build products: Collaborate with Engineering and ecosystem players to build products that customers love. Produce high-quality product specifications and effectively prioritize and manage the scope of each product launch to deliver products and features on time.",
-        "Launch products: Draft and execute a go-to-market plan in conjunction with Product Marketing. Be the internal and external authority and advocate for your given area of focus.",
-        "Ecosystem collaboration: Self-starter to collaborate closely with ecosystem players to co-build products that don’t exist.",
-        "Mandatory"
-      ],
-      "requirements": [
-        "You understand technology, but love customer-first & business-first thinking.",
-        "You are comfortable working hands-on in a fast-paced start-up environment.",
-        "You are curious about metrics, execution processes, macro trends.",
-        "Problem-solving and detail orientation come naturally to you.",
-        "You have an analytical and data-driven approach in day-to-day work. Energetic self-starter with the ability to work independently in a fast-paced environment.",
-        "Razorpay believes in and follows an equal employment opportunity policy that doesn't discriminate on gender, religion, sexual orientation, colour, nationality, age, etc. We welcome interests and applications from all groups and communities across the globe.",
-        "Follow us on LinkedIn & Twitter"
-      ],
+      "responsibilities": [],
+      "requirements": [],
       "preferred": [],
       "salary": null,
       "source": "Greenhouse · Razorpay",
-      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
+      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
       "postedAt": "2026-09-07",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
       "lastSeenAt": "2026-11-11",
@@ -117339,7 +117321,7 @@
         "id": "glean",
         "name": "Glean",
         "logo": null,
-        "domain": "glean.com"
+        "domain": "glean-it.com"
       },
       "location": {
         "city": "Bengaluru",
@@ -117351,9 +117333,8 @@
       "experienceMin": 8,
       "experienceMax": null,
       "domain": [
-        "AI",
-        "Enterprise",
-        "SaaS"
+        "SaaS",
+        "AI"
       ],
       "skills": [
         "Go-to-Market",
@@ -117364,22 +117345,22 @@
         "Onboarding"
       ],
       "tags": [
-        "AI",
-        "Enterprise",
         "SaaS",
+        "AI",
         "Lead Product Manager",
         "Onsite",
         "Go-to-Market",
         "Growth",
-        "API"
+        "API",
+        "Platform"
       ],
-      "description": "About Glean: Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industry’s most advanced enterprise search has evolved into a full-scale Work AI ecosystem, powering intelligent Search, an AI Assistant, and scalable AI agents on one secure, open platform. With over 100 enterprise SaaS connectors, flexible LLM choice, and robust APIs, Glean gives organizations the infrastructure to govern, scale, and customize AI across their entire business",
+      "description": "About Glean Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industry’s most advanced enterprise search has evolved into a full-scale Work AI ecosystem, powering intelligent Search, an AI Assistant, and scalable AI agents on one secure, open platform. With over 100 enterprise SaaS connectors, flexible LLM choice, and robust APIs, Glean gives organizations the infrastructure to govern, scale, and customize AI across their entire business",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "Greenhouse · Glean",
-      "applyUrl": "https://job-boards.greenhouse.io/gleanwork/jobs/4641940005",
+      "source": "LinkedIn",
+      "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-glean-protect-security-governance-at-glean-4345783059",
       "postedAt": "2026-05-14",
       "firstSeenAt": "2026-09-10",
       "lastSeenAt": "2026-11-11",
