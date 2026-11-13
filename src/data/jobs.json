@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T08:22:59.840Z",
+  "generatedAt": "2026-11-13T12:45:25.122Z",
   "jobs": [
     {
       "id": "job_5ec881",
@@ -11520,6 +11520,86 @@
       "status": "Active"
     },
     {
+      "id": "job_ffc746",
+      "slug": "product-manager-toast-chennai-ffc746",
+      "title": "Product Manager",
+      "company": {
+        "id": "toast",
+        "name": "Toast",
+        "logo": null,
+        "domain": "toasttab.com"
+      },
+      "location": {
+        "city": "Chennai",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "SaaS",
+        "AI"
+      ],
+      "skills": [
+        "Product Strategy",
+        "User Research",
+        "Growth",
+        "Platform",
+        "Data",
+        "Mobile"
+      ],
+      "tags": [
+        "Fintech",
+        "SaaS",
+        "AI",
+        "Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "User Research",
+        "Growth"
+      ],
+      "description": "Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees happy. This P3 Product Manager will be the India-based product lead for Chennai-led Toast IQ Inventory platform capabilities, partnering with US-based product leadership to translate product strategy into clear priorities, requirements, and delivery decisions.\n\nThis role will focus on inventory platform capabilities such as native mobile experiences for key inventory workflows, migration of existing users to the new platform, accounting integrations, supplier and item data models, EDI ingestion and mappings, and other integrations that keep stock, COGS, revenue, and accounting records accurate across channels. A key part of the work will be helping close the cost loop by ensuring invoice-level expenses, revenue, and inventory activity can sync reliably to customers' accounting platforms. While the role reports into the Retail line of business, its scope and impact are cross-product: you will help deliver inventory functionality used by Retail and Restaurant customers alike, and support the continued scaling of those capabilities as we expand our market. Chennai teams will participate in mission-critical workstreams that support Retail footprint growth, including mobile inventory workflows, platform migration, accounting connectivity, and other high-value integration efforts.\n\nYou will be the",
+      "responsibilities": [
+        "Develop and Execute Product Roadmap:",
+        "Define and prioritize product initiatives based on customer needs, market trends, and business objectives. This includes critical work streams focused on supporting TAM expansion and building core inventory functionality. Own and drive the execution of the product roadmap, ensuring alignment with the overall Retail strategy.",
+        "Collaborate with Cross-Functional Teams:",
+        "Partner closely with Design and Engineering to bring new products and features to market. Effectively communicate product vision, requirements, and priorities to ensure successful execution.",
+        "Conduct Customer Research and Analysis:",
+        "Deeply understand the needs of retail customers (and the shared inventory needs of all Toast locations) through user research, market analysis, and competitive analysis. Translate insights into actionable product requirements and use cases.",
+        "Champion Innovation and Customer Value:",
+        "Drive a culture of innovation and customer-centricity within the product team. Identify opportunities to enhance the customer experience and deliver exceptional value, especially as it relates to expanding our market reach and solving complex inventory challenges.",
+        "Apply AI to Product Management:",
+        "Use AI tools to synthesize customer research, analyze feedback and product data, explore solutions, prototype concepts, draft requirements, and accelerate delivery. Validate outputs carefully and model responsible, secure use of AI across the product team.",
+        "Develop AI-First Experiences:",
+        "Identify and lead workflows where AI can materially reduce customer effort. Examples include invoice digitization using OCR and LLMs to extract invoice headers and line items, normalize supplier and item data, recommend catalog and accounting mappings, and route low-confidence results for human review."
+      ],
+      "requirements": [
+        "Bachelor's degree in any related discipline",
+        "Proven Product Leadership:",
+        "3+ years of experience in product management, with a proven track record of successfully launching and scaling products in the retail or technology space.",
+        "Strategic Thinking:",
+        "Ability to think strategically about the retail market, identify opportunities, and develop a compelling product vision.",
+        "Customer Focus:",
+        "Passion for understanding customer needs and translating them into innovative product solutions. Experience with user research and customer journey mapping is a plus.",
+        "Data-Driven Decision Making:",
+        "Strong analytical skills and experience using data to inform product strategy, prioritize features, and measure success.",
+        "Collaboration and Communication:",
+        "Excellent communication and interpersonal skills, with a proven ability to build strong relationships with stakeholders across different functions.",
+        "AI-Fluent Product Execution:"
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Toast",
+      "applyUrl": "https://careers.toasttab.com/jobs?gh_jid=8349001",
+      "postedAt": "2026-11-09",
+      "firstSeenAt": "2026-11-09",
+      "lastSeenAt": "2026-11-13",
+      "status": "Active"
+    },
+    {
       "id": "job_762bf9",
       "slug": "product-manager-zydus-lifesciences-mumbai-762bf9",
       "title": "Product Manager",
@@ -11680,86 +11760,6 @@
       "firstSeenAt": "2026-11-10",
       "lastSeenAt": "2026-11-13",
       "status": "Active"
-    },
-    {
-      "id": "job_ffc746",
-      "slug": "product-manager-toast-chennai-ffc746",
-      "title": "Product Manager",
-      "company": {
-        "id": "toast",
-        "name": "Toast",
-        "logo": null,
-        "domain": "toasttab.com"
-      },
-      "location": {
-        "city": "Chennai",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Product Manager",
-      "experienceMin": 3,
-      "experienceMax": null,
-      "domain": [
-        "Fintech",
-        "SaaS",
-        "AI"
-      ],
-      "skills": [
-        "Product Strategy",
-        "User Research",
-        "Growth",
-        "Platform",
-        "Data",
-        "Mobile"
-      ],
-      "tags": [
-        "Fintech",
-        "SaaS",
-        "AI",
-        "Product Manager",
-        "Onsite",
-        "Product Strategy",
-        "User Research",
-        "Growth"
-      ],
-      "description": "Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees happy. This P3 Product Manager will be the India-based product lead for Chennai-led Toast IQ Inventory platform capabilities, partnering with US-based product leadership to translate product strategy into clear priorities, requirements, and delivery decisions.\n\nThis role will focus on inventory platform capabilities such as native mobile experiences for key inventory workflows, migration of existing users to the new platform, accounting integrations, supplier and item data models, EDI ingestion and mappings, and other integrations that keep stock, COGS, revenue, and accounting records accurate across channels. A key part of the work will be helping close the cost loop by ensuring invoice-level expenses, revenue, and inventory activity can sync reliably to customers' accounting platforms. While the role reports into the Retail line of business, its scope and impact are cross-product: you will help deliver inventory functionality used by Retail and Restaurant customers alike, and support the continued scaling of those capabilities as we expand our market. Chennai teams will participate in mission-critical workstreams that support Retail footprint growth, including mobile inventory workflows, platform migration, accounting connectivity, and other high-value integration efforts.\n\nYou will be the",
-      "responsibilities": [
-        "Develop and Execute Product Roadmap:",
-        "Define and prioritize product initiatives based on customer needs, market trends, and business objectives. This includes critical work streams focused on supporting TAM expansion and building core inventory functionality. Own and drive the execution of the product roadmap, ensuring alignment with the overall Retail strategy.",
-        "Collaborate with Cross-Functional Teams:",
-        "Partner closely with Design and Engineering to bring new products and features to market. Effectively communicate product vision, requirements, and priorities to ensure successful execution.",
-        "Conduct Customer Research and Analysis:",
-        "Deeply understand the needs of retail customers (and the shared inventory needs of all Toast locations) through user research, market analysis, and competitive analysis. Translate insights into actionable product requirements and use cases.",
-        "Champion Innovation and Customer Value:",
-        "Drive a culture of innovation and customer-centricity within the product team. Identify opportunities to enhance the customer experience and deliver exceptional value, especially as it relates to expanding our market reach and solving complex inventory challenges.",
-        "Apply AI to Product Management:",
-        "Use AI tools to synthesize customer research, analyze feedback and product data, explore solutions, prototype concepts, draft requirements, and accelerate delivery. Validate outputs carefully and model responsible, secure use of AI across the product team.",
-        "Develop AI-First Experiences:",
-        "Identify and lead workflows where AI can materially reduce customer effort. Examples include invoice digitization using OCR and LLMs to extract invoice headers and line items, normalize supplier and item data, recommend catalog and accounting mappings, and route low-confidence results for human review."
-      ],
-      "requirements": [
-        "Bachelor's degree in any related discipline",
-        "Proven Product Leadership:",
-        "3+ years of experience in product management, with a proven track record of successfully launching and scaling products in the retail or technology space.",
-        "Strategic Thinking:",
-        "Ability to think strategically about the retail market, identify opportunities, and develop a compelling product vision.",
-        "Customer Focus:",
-        "Passion for understanding customer needs and translating them into innovative product solutions. Experience with user research and customer journey mapping is a plus.",
-        "Data-Driven Decision Making:",
-        "Strong analytical skills and experience using data to inform product strategy, prioritize features, and measure success.",
-        "Collaboration and Communication:",
-        "Excellent communication and interpersonal skills, with a proven ability to build strong relationships with stakeholders across different functions.",
-        "AI-Fluent Product Execution:"
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · Toast",
-      "applyUrl": "https://careers.toasttab.com/jobs?gh_jid=8349001",
-      "postedAt": "2026-11-09",
-      "firstSeenAt": "2026-11-09",
-      "lastSeenAt": "2026-11-10",
-      "status": "Expired"
     },
     {
       "id": "job_235d28",
@@ -125616,87 +125616,6 @@
       "status": "Expired"
     },
     {
-      "id": "job_0fec8a",
-      "slug": "product-manager-product-platform-okta-bengaluru-0fec8a",
-      "title": "Product Manager, Product Platform",
-      "company": {
-        "id": "okta",
-        "name": "Okta",
-        "logo": null,
-        "domain": "okta.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Product Manager",
-      "experienceMin": 3,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Enterprise",
-        "AI"
-      ],
-      "skills": [
-        "Growth",
-        "Pricing",
-        "Platform",
-        "Machine Learning",
-        "Onboarding",
-        "Retention",
-        "Scrum"
-      ],
-      "tags": [
-        "SaaS",
-        "Enterprise",
-        "AI",
-        "Product Manager",
-        "Onsite",
-        "Growth",
-        "Pricing",
-        "Platform"
-      ],
-      "description": "Secure Every Identity, from AI to Human\n\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\n\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.\n\nProduct Manager, Product Platform (India)\n\nCompany Overview\n\nOkta is The World’s Identity Company. We free everyone to safely use any technology - anywhere, on any device, for any app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth.",
-      "responsibilities": [
-        "This is a rare 0-to-1 opportunity to build a brand-new, high-visibility capability that touches every Okta customer: backup and recovery to strengthen the resilience of our system. You’ll be responsible for building a modern, self-service experience that allows IT Admins to recover back their accidentally or maliciously deleted identity objects. You'll partner closely with Engineering, Field, Pricing & Packaging, and Product leadership to shape a capability with direct, measurable impact on customer retention and revenue growth.",
-        "Contribute to",
-        "the long-term product vision and strategy for Okta's resilience strategy, ensuring the backup and recovery roadmap scales with the breadth of Okta's customer base and product portfolio.",
-        "Design",
-        "a self-service recovery center to ensure customers can seamlessly and securely track their deletions and changes and revert back across the entire Okta ecosystem.",
-        "Collaborat",
-        "with India-based engineering and development scrum teams to deliver high-performance, scalable backup and recovery solution",
-        "Distill",
-        "complex requirements from a diverse stakeholder group - including Field (AE/CSM), Pricing & Packaging, Support, Design, and Product teams - into precise technical specifications.",
-        "Analyze",
-        "how large-scale enterprise customer’s resilience needs to identify friction points and drive improvements in customer trust and platform experience.",
-        "Validate"
-      ],
-      "requirements": [
-        "3+ years of Product Management experience",
-        "specifically within",
-        "enterprise-scale SaaS platforms",
-        "or core software infrastructure.",
-        "BS in Computer Science, Computer Engineering",
-        ", or equivalent technical experience that enables you to rationalize and influence complex architectural decisions.",
-        "Proven ability to produce solid, actionable plans",
-        "from incomplete, conflicting, or highly ambiguous inputs.",
-        "Exceptional communication and presentation skills",
-        ", with a track record of successfully collaborating across global functions and time zones.",
-        "Demonstrated business results from customer-facing platform capabilities shipped at scale.",
-        "Experience with Backup or recovery tools"
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · Okta",
-      "applyUrl": "https://www.okta.com/company/careers/opportunity/8210924?gh_jid=8210924",
-      "postedAt": "2026-09-11",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-11-13",
-      "status": "Active"
-    },
-    {
       "id": "job_daead3",
       "slug": "product-manager-senior-product-manager-ipca-mumbai-daead3",
       "title": "Product Manager/ Senior Product Manager",
@@ -125738,6 +125657,89 @@
       "firstSeenAt": "2026-09-17",
       "lastSeenAt": "2026-11-04",
       "status": "Expired"
+    },
+    {
+      "id": "job_0fec8a",
+      "slug": "senior-product-manager-product-platform-okta-bengaluru-0fec8a",
+      "title": "Senior Product Manager, Product Platform",
+      "company": {
+        "id": "okta",
+        "name": "Okta",
+        "logo": null,
+        "domain": "okta.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 4,
+      "experienceMax": 5,
+      "domain": [
+        "SaaS",
+        "Enterprise",
+        "AI"
+      ],
+      "skills": [
+        "Growth",
+        "Monetization",
+        "Pricing",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "Onboarding",
+        "Retention",
+        "Scrum"
+      ],
+      "tags": [
+        "SaaS",
+        "Enterprise",
+        "AI",
+        "Senior Product Manager",
+        "Onsite",
+        "Growth",
+        "Monetization",
+        "Pricing"
+      ],
+      "description": "Secure Every Identity, from AI to Human\n\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\n\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.\n\nSenior Product Manager, Product Platform\n\nCompany Overview\n\nOkta is The World’s Identity Company. We free everyone to safely use any technology - anywhere, on any device, for any app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth.",
+      "responsibilities": [
+        "This is a rare 0-to-1 opportunity to build a brand-new, high-visibility capability that touches every Okta customer: self-service visibility into subscription and license usage, delivered directly in the Admin Console. You’ll be responsible for building a modern, self-service experience that increases customer trust, unlocks new upsell and expansion motions, and sets the standard for how Okta communicates value to its largest accounts. You'll partner closely with Engineering, Field, Pricing & Packaging, and Product leadership to shape a capability with direct, measurable impact on customer retention and revenue growth.",
+        "Orchestrate",
+        "the long-term product vision and strategy for Okta's subscription usage and licensing visibility, ensuring the Admin Console roadmap scales with the breadth of Okta's customer base and product portfolio.",
+        "Architect",
+        "a self-service usage dashboard and reporting framework to ensure customers can seamlessly and securely track their subscription and license usage across the entire Okta ecosystem.",
+        "Collaborat",
+        "with India-based engineering and development scrum teams to deliver high-performance usage computation and reporting infrastructure improvements.",
+        "Distill",
+        "complex requirements from a diverse stakeholder group - including Field (AE/CSM), Pricing & Packaging, Support, Design, and Product teams - into precise technical specifications.",
+        "Analyze",
+        "large-scale subscription and usage data to identify friction points and drive improvements in customer trust and platform experience.",
+        "Validate"
+      ],
+      "requirements": [
+        "4-5+ years of Product Management experience",
+        "specifically within",
+        "enterprise-scale SaaS platforms",
+        "or core software infrastructure.",
+        "BS in Computer Science, Computer Engineering",
+        ", or equivalent technical experience that enables you to rationalize and influence complex architectural decisions.",
+        "Proven ability to produce solid, actionable plans",
+        "from incomplete, conflicting, or highly ambiguous inputs.",
+        "Exceptional communication and presentation skills",
+        ", with a track record of successfully collaborating across global functions and time zones.",
+        "Demonstrated business results from customer-facing platform capabilities shipped at scale.",
+        "Experience with subscription/licensing models, usage-based billing, or SaaS packaging and monetization."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Okta",
+      "applyUrl": "https://www.okta.com/company/careers/opportunity/8164066?gh_jid=8164066",
+      "postedAt": "2026-09-11",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-11-13",
+      "status": "Active"
     },
     {
       "id": "job_4d4907",
@@ -126657,55 +126659,42 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Product Manager",
-      "experienceMin": null,
-      "experienceMax": null,
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": 6,
       "domain": [
         "Fintech",
         "SaaS"
       ],
       "skills": [
+        "SQL",
         "Go-to-Market",
+        "Pricing",
         "API",
         "Platform",
         "Data",
         "Payments",
         "Fraud",
-        "Onboarding"
+        "Onboarding",
+        "Stakeholder Management"
       ],
       "tags": [
         "Fintech",
         "SaaS",
-        "Product Manager",
+        "Senior Product Manager",
         "Onsite",
+        "SQL",
         "Go-to-Market",
-        "API",
-        "Platform",
-        "Data"
+        "Pricing",
+        "API"
       ],
       "description": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we’ve since grown into a fintech powerhouse driving India’s digital payment revolution.\n\nRazorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow.\n\nFrom building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech\n\nAcross India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that’s redefining how money moves across Asia.\n\nToday, that ecosystem supports everyone from early-stage startups to some of India’s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently.\n\nOur scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like",
-      "responsibilities": [
-        "Build Customer Empathy: PMs have to regularly meet and understand customer needs first-hand as well as stay on top of the customer pulse via secondary insights - both qualitative and quantitative.",
-        "Devise Strategy: Define both long-term strategy and quarterly roadmap to achieve the product vision and create impact.",
-        "Conceptualize new solutions: Product Conceptualization with a problem first, data-driven, and test & iterate approach. Ensures conceptualization from a platform and a long-term view. Ensures value-based prioritization of product initiatives.",
-        "Build products: Collaborate with Engineering and ecosystem players to build products that customers love. Produce high-quality product specifications and effectively prioritize and manage the scope of each product launch to deliver products and features on time.",
-        "Launch products: Draft and execute a go-to-market plan in conjunction with Product Marketing. Be the internal and external authority and advocate for your given area of focus.",
-        "Ecosystem collaboration: Self-starter to collaborate closely with ecosystem players to co-build products that don’t exist.",
-        "Mandatory"
-      ],
-      "requirements": [
-        "You understand technology, but love customer-first & business-first thinking.",
-        "You are comfortable working hands-on in a fast-paced start-up environment.",
-        "You are curious about metrics, execution processes, macro trends.",
-        "Problem-solving and detail orientation come naturally to you.",
-        "You have an analytical and data-driven approach in day-to-day work. Energetic self-starter with the ability to work independently in a fast-paced environment.",
-        "Razorpay believes in and follows an equal employment opportunity policy that doesn't discriminate on gender, religion, sexual orientation, colour, nationality, age, etc. We welcome interests and applications from all groups and communities across the globe.",
-        "Follow us on LinkedIn & Twitter"
-      ],
+      "responsibilities": [],
+      "requirements": [],
       "preferred": [],
       "salary": null,
       "source": "Greenhouse · Razorpay",
-      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
+      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
       "postedAt": "2026-09-07",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
       "lastSeenAt": "2026-11-13",
@@ -142493,6 +142482,7 @@
       "companySize": "5000+",
       "description": "Toast is a fintech company hiring product managers in India.",
       "locations": [
+        "Chennai",
         "Bengaluru"
       ]
     },
