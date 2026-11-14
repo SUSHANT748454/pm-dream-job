@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T11:53:27.296Z",
+  "generatedAt": "2026-11-14T19:38:41.193Z",
   "jobs": [
     {
       "id": "job_5ec881",
@@ -31817,6 +31817,62 @@
       "status": "Expired"
     },
     {
+      "id": "job_8bae25",
+      "slug": "senior-product-manager-checkout-ebay-bengaluru-8bae25",
+      "title": "Senior Product Manager, Checkout",
+      "company": {
+        "id": "ebay",
+        "name": "eBay",
+        "logo": null,
+        "domain": "ebay.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 8,
+      "experienceMax": null,
+      "domain": [
+        "Ecommerce",
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Experimentation",
+        "Analytics",
+        "Platform",
+        "Data",
+        "Payments",
+        "Personalization",
+        "Marketplace",
+        "Stakeholder Management"
+      ],
+      "tags": [
+        "Ecommerce",
+        "Fintech",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "Experimentation",
+        "Analytics",
+        "Platform"
+      ],
+      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · eBay",
+      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager--Checkout_R0077106",
+      "postedAt": "2026-11-03",
+      "firstSeenAt": "2026-11-03",
+      "lastSeenAt": "2026-11-14",
+      "status": "Active"
+    },
+    {
       "id": "job_0cd49e",
       "slug": "senior-product-manager-checkout-ebay-india-0cd49e",
       "title": "Senior Product Manager, Checkout",
@@ -31870,62 +31926,6 @@
       "firstSeenAt": "2026-11-07",
       "lastSeenAt": "2026-11-14",
       "status": "Active"
-    },
-    {
-      "id": "job_8bae25",
-      "slug": "senior-product-manager-checkout-ebay-bengaluru-8bae25",
-      "title": "Senior Product Manager, Checkout",
-      "company": {
-        "id": "ebay",
-        "name": "eBay",
-        "logo": null,
-        "domain": "ebay.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 8,
-      "experienceMax": null,
-      "domain": [
-        "Ecommerce",
-        "Fintech",
-        "Consumer"
-      ],
-      "skills": [
-        "Experimentation",
-        "Analytics",
-        "Platform",
-        "Data",
-        "Payments",
-        "Personalization",
-        "Marketplace",
-        "Stakeholder Management"
-      ],
-      "tags": [
-        "Ecommerce",
-        "Fintech",
-        "Consumer",
-        "Senior Product Manager",
-        "Onsite",
-        "Experimentation",
-        "Analytics",
-        "Platform"
-      ],
-      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.",
-      "responsibilities": [],
-      "requirements": [],
-      "preferred": [],
-      "salary": null,
-      "source": "Workday · eBay",
-      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager--Checkout_R0077106",
-      "postedAt": "2026-11-03",
-      "firstSeenAt": "2026-11-03",
-      "lastSeenAt": "2026-11-13",
-      "status": "Expired"
     },
     {
       "id": "job_b09a6a",
@@ -39764,7 +39764,7 @@
         "id": "ebay",
         "name": "eBay",
         "logo": null,
-        "domain": "ebayinc.com"
+        "domain": "ebay.com"
       },
       "location": {
         "city": "Bengaluru",
@@ -39777,7 +39777,8 @@
       "experienceMax": null,
       "domain": [
         "Fintech",
-        "Ecommerce"
+        "Ecommerce",
+        "Consumer"
       ],
       "skills": [
         "API",
@@ -39791,28 +39792,39 @@
       "tags": [
         "Fintech",
         "Ecommerce",
+        "Consumer",
         "Product Manager",
         "Onsite",
         "API",
         "Platform",
-        "Data",
-        "Payments"
+        "Data"
       ],
       "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nAt eBay, we connect tens of millions of buyers and sellers globally, processing billions of dollars in trade. Our platform powers trusted commerce at global scale, and we continue to invest in the products and platforms that make those experiences simpler, smarter, and more reliable.\n\nThe Billing Platform sits at the intersection of commerce, payments, and financial systems. It powers critical capabilities across billing, invoicing, financial transaction processing, and revenue-related workflows, enabling scalable and reliable financial operations across eBay.\n\nWe are seeking an ambitious, impact-driven Product Manager to lead critical capabilities for this platform. If you thrive on solving complex, large-scale platform challenges and translating intricacy into seamless user",
       "responsibilities": [
-        "Define & Drive Strategy: Partner with payments, finance, operations, and business units to discover high-value platform opportunities and translate them into a clear product vision.",
-        "Architect Scalable Solutions: Collaborate closely with engineering to build reusable, API-based charging, invoicing, and transaction workflows that support diverse global use cases.",
-        "Lead Execution: Write clear, high-quality product requirements and user stories, set measurable success metrics, and manage end-to-end rollouts across complex multi-system dependencies.",
-        "Prioritize for Impact: Balance trade-offs between innovation, platform resilience, risk mitigation, and execution speed to maximize partner and customer value.",
-        "Optimize with Data: Leverage operational metrics, analytical insights, and partner feedback to continuously evaluate product performance and guide rapid iteration.",
-        "Champion Quality & Trust: Proactively identify risks, resolve complex cross-functional alignment blockers, and continuously elevate product quality and platform experience."
+        "Define & Drive Strategy:",
+        "Partner with payments, finance, operations, and business units to discover high-value platform opportunities and translate them into a clear product vision.",
+        "Architect Scalable Solutions:",
+        "Collaborate closely with engineering to build reusable, API-based charging, invoicing, and transaction workflows that support diverse global use cases.",
+        "Lead Execution:",
+        "Write clear, high-quality product requirements and user stories, set measurable success metrics, and manage end-to-end rollouts across complex multi-system dependencies.",
+        "Prioritize for Impact:",
+        "Balance trade-offs between innovation, platform resilience, risk mitigation, and execution speed to maximize partner and customer value.",
+        "Optimize with Data:",
+        "Leverage operational metrics, analytical insights, and partner feedback to continuously evaluate product performance and guide rapid iteration.",
+        "Champion Quality & Trust:",
+        "Proactively identify risks, resolve complex cross-functional alignment blockers, and continuously elevate product quality and platform experience."
       ],
       "requirements": [
-        "Platform Product Experience: 3+ years in product management, with a proven track record of shipping technical, platform-based products.",
-        "FinTech / Payments Foundation: Practical experience in payments, billing, invoicing, or related financial transaction processing environments.",
-        "Technical Execution: Strong ability to translate business capabilities into technical requirements and partner effectively with engineering teams on architectural choices.",
-        "Analytical Rigor: Skilled in using data to quantify opportunities, validate hypotheses, and measure product performance metrics.",
-        "Cross-Functional Collaboration: Outstanding communication and stakeholder management skills, capable of driving consensus across matrixed teams."
+        "Platform Product Experience:",
+        "3+ years in product management, with a proven track record of shipping technical, platform-based products.",
+        "FinTech / Payments Foundation:",
+        "Practical experience in payments, billing, invoicing, or related financial transaction processing environments.",
+        "Technical Execution:",
+        "Strong ability to translate business capabilities into technical requirements and partner effectively with engineering teams on architectural choices.",
+        "Analytical Rigor:",
+        "Skilled in using data to quantify opportunities, validate hypotheses, and measure product performance metrics.",
+        "Cross-Functional Collaboration:",
+        "Outstanding communication and stakeholder management skills, capable of driving consensus across matrixed teams."
       ],
       "preferred": [
         "Hands-on experience with API-based architectures, eCommerce platforms, or large-scale multi-sided marketplaces.",
@@ -39823,8 +39835,8 @@
         "We use cookies to enhance your experience and may use AI tools for administrative tasks in the hiring process. To learn how we handle your personal data and use AI responsibly, please visit our Talent Privacy Notice, Privacy Center, and AI Hiring Guidelines."
       ],
       "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-billing-platform-at-ebay-4488543153",
+      "source": "Workday · eBay",
+      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Product-Manager--Billing-Platform_R0077220",
       "postedAt": "2026-10-30",
       "firstSeenAt": "2026-10-30",
       "lastSeenAt": "2026-11-14",
@@ -85425,8 +85437,8 @@
       "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager---Core-Risk_R0077062",
       "postedAt": "2026-10-15",
       "firstSeenAt": "2026-10-15",
-      "lastSeenAt": "2026-11-13",
-      "status": "Expired"
+      "lastSeenAt": "2026-11-14",
+      "status": "Active"
     },
     {
       "id": "job_16fb7a",
@@ -91391,6 +91403,7 @@
       "experienceMax": null,
       "domain": [
         "Fintech",
+        "Consumer",
         "Healthcare"
       ],
       "skills": [
@@ -91405,15 +91418,15 @@
       ],
       "tags": [
         "Fintech",
+        "Consumer",
         "Healthcare",
         "Lead Product Manager",
         "Onsite",
         "Product Strategy",
         "Analytics",
-        "Platform",
-        "Data"
+        "Platform"
       ],
-      "description": "The Company\n\nPayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy.\n\nWe operate a global, two-sided network at scale that connects hundreds of millions of merchants and consumers. We help merchants and consumers connect, transact, and complete payments, whether they are online or in person. PayPal is more than a connection to third-party payment networks. We provide proprietary payment solutions accepted by merchants that enable the completion of payments on our platform on behalf of our customers.\n\nWe offer our customers the flexibility to use their accounts to purchase and receive payments for goods and services, as well as the ability to transfer and withdraw funds. We enable consumers to exchange funds more safely with merchants using a variety of funding sources, which may include a bank account, a PayPal or Venmo account balance, PayPal and Venmo branded credit products, a credit card, a debit card, certain cryptocurrencies, or other stored value products such as gift cards, and eligible credit card rewards. Our PayPal, Venmo, and Xoom products also make it safer and simpler for friends and family to transfer funds to each other. We offer merchants an end-to-end payments solution that provides authorization and settlement",
+      "description": "The Company\n\nPayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy.\n\nWe operate a global, two-sided network at scale that connects hundreds of millions of merchants and consumers. We help merchants and consumers connect, transact, and complete payments, whether they are online or in person. PayPal is more than a connection to third-party payment networks. We provide proprietary payment solutions accepted by merchants that enable the completion of payments on our platform on behalf of our customers.\n\nWe offer our customers the flexibility to use their accounts to purchase and receive payments for goods and services, as well as the ability to transfer and withdraw funds. We enable consumers to exchange funds more safely with merchants using a variety of funding sources, which may include a bank account, a PayPal or Venmo account balance, PayPal and Venmo branded credit products, a credit card, a debit card, certain cryptocurrencies, or other stored value products such as gift cards, and eligible credit card rewards.  Our PayPal, Venmo, and Xoom products also make it safer and simpler for friends and family to transfer funds to each other. We offer merchants an end-to-end payments solution that provides authorization and settlement",
       "responsibilities": [
         "Inputs to product strategy with cross-functional stakeholders consistent with the shared vision for the product or enabling platform.",
         "Implements the architectural roadmap that balances innovative design and technical implementation, while balancing regulatory requirements, time-to-market, meeting customer needs and product profitability.",
@@ -91432,17 +91445,17 @@
         "Must have atleast 5+ years of relevant Product Management experience into Payments/Card Acquiring",
         "Define and own the product strategy and roadmap for Payments and Payouts Platform including, card acquiring, bank payment processing, and payouts, balancing customer needs, business value, and technical dependencies.",
         "Gather customer and stakeholder requirements and translate them into actionable product requirements, workflows, and acceptance criteria.",
-        "Lead end-to-end product development, from discovery and solution design through delivery, launch, and continuous improvement.",
+        "Lead",
+        "end-to-end",
+        "product development, from discovery and solution design through delivery, launch, and continuous improvement.",
         "Collaborate with business teams, engineering, architects, operations, risk, and compliance to build scalable capabilities and ensure launch readiness.",
         "Own payment lifecycle requirements, including processing, settlement, reconciliation, payouts, and exception handling.",
-        "Resolve customer issues, processing challenges, and delivery blockers through hands-on problem solving and root-cause analysis.",
-        "Maintain stakeholder alignment, define success metrics, and remain accountable for product delivery and outcomes.",
-        "Subsidiary:"
+        "Resolve customer issues, processing challenges, and delivery blockers through hands-on problem solving and root-cause analysis."
       ],
       "preferred": [],
       "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/lead-product-manager-at-paypal-4478778492",
+      "source": "Workday · PayPal",
+      "applyUrl": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Bangalore-Karnataka-India/Lead-Product-Manager_R0138350",
       "postedAt": "2026-10-13",
       "firstSeenAt": "2026-10-13",
       "lastSeenAt": "2026-11-14",
@@ -104924,8 +104937,8 @@
       "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Sr-Product-Manager--Digital-Services-AI_R0076494",
       "postedAt": "2026-10-01",
       "firstSeenAt": "2026-10-01",
-      "lastSeenAt": "2026-11-13",
-      "status": "Expired"
+      "lastSeenAt": "2026-11-14",
+      "status": "Active"
     },
     {
       "id": "job_92998f",
@@ -118480,55 +118493,42 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Product Manager",
-      "experienceMin": null,
-      "experienceMax": null,
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": 6,
       "domain": [
         "Fintech",
         "SaaS"
       ],
       "skills": [
+        "SQL",
         "Go-to-Market",
+        "Pricing",
         "API",
         "Platform",
         "Data",
         "Payments",
         "Fraud",
-        "Onboarding"
+        "Onboarding",
+        "Stakeholder Management"
       ],
       "tags": [
         "Fintech",
         "SaaS",
-        "Product Manager",
+        "Senior Product Manager",
         "Onsite",
+        "SQL",
         "Go-to-Market",
-        "API",
-        "Platform",
-        "Data"
+        "Pricing",
+        "API"
       ],
       "description": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we’ve since grown into a fintech powerhouse driving India’s digital payment revolution.\n\nRazorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow.\n\nFrom building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech\n\nAcross India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that’s redefining how money moves across Asia.\n\nToday, that ecosystem supports everyone from early-stage startups to some of India’s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently.\n\nOur scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like",
-      "responsibilities": [
-        "Build Customer Empathy: PMs have to regularly meet and understand customer needs first-hand as well as stay on top of the customer pulse via secondary insights - both qualitative and quantitative.",
-        "Devise Strategy: Define both long-term strategy and quarterly roadmap to achieve the product vision and create impact.",
-        "Conceptualize new solutions: Product Conceptualization with a problem first, data-driven, and test & iterate approach. Ensures conceptualization from a platform and a long-term view. Ensures value-based prioritization of product initiatives.",
-        "Build products: Collaborate with Engineering and ecosystem players to build products that customers love. Produce high-quality product specifications and effectively prioritize and manage the scope of each product launch to deliver products and features on time.",
-        "Launch products: Draft and execute a go-to-market plan in conjunction with Product Marketing. Be the internal and external authority and advocate for your given area of focus.",
-        "Ecosystem collaboration: Self-starter to collaborate closely with ecosystem players to co-build products that don’t exist.",
-        "Mandatory"
-      ],
-      "requirements": [
-        "You understand technology, but love customer-first & business-first thinking.",
-        "You are comfortable working hands-on in a fast-paced start-up environment.",
-        "You are curious about metrics, execution processes, macro trends.",
-        "Problem-solving and detail orientation come naturally to you.",
-        "You have an analytical and data-driven approach in day-to-day work. Energetic self-starter with the ability to work independently in a fast-paced environment.",
-        "Razorpay believes in and follows an equal employment opportunity policy that doesn't discriminate on gender, religion, sexual orientation, colour, nationality, age, etc. We welcome interests and applications from all groups and communities across the globe.",
-        "Follow us on LinkedIn & Twitter"
-      ],
+      "responsibilities": [],
+      "requirements": [],
       "preferred": [],
       "salary": null,
       "source": "Greenhouse · Razorpay",
-      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
+      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
       "postedAt": "2026-09-07",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
       "lastSeenAt": "2026-11-14",
@@ -119133,8 +119133,8 @@
       "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Sr-Product-Manager---Case-Management_R0076320",
       "postedAt": "2026-08-31",
       "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-11-13",
-      "status": "Expired"
+      "lastSeenAt": "2026-11-14",
+      "status": "Active"
     },
     {
       "id": "job_691f00",
@@ -119518,7 +119518,7 @@
         "id": "ebay",
         "name": "eBay",
         "logo": null,
-        "domain": "ebayinc.com"
+        "domain": "ebay.com"
       },
       "location": {
         "city": "Bengaluru",
@@ -119531,8 +119531,8 @@
       "experienceMax": null,
       "domain": [
         "Ecommerce",
-        "Fintech",
-        "AI"
+        "Consumer",
+        "Fintech"
       ],
       "skills": [
         "Analytics",
@@ -119548,15 +119548,15 @@
       ],
       "tags": [
         "Ecommerce",
+        "Consumer",
         "Fintech",
-        "AI",
         "Senior Product Manager",
         "Onsite",
         "Analytics",
         "Growth",
         "Platform"
       ],
-      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nLocation: India\n\nAt eBay, we're more than a global eCommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of eCommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nWithin the risk & Compliance team our vision is “Deliver intuitive risk,",
+      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nLocation\n\n: India\n\nAt eBay, we're more than a global eCommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of eCommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nWithin the risk & Compliance team our vision is “Deliver intuitive risk,",
       "responsibilities": [
         "Create Product Vision & Strategy. Lead the comprehensive vision and end-to-end execution of Risk Platform",
         "Develop a compelling and iterative roadmap and launch plan that supports Risk business needs",
@@ -119574,8 +119574,8 @@
       ],
       "preferred": [],
       "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-ii-at-ebay-4477087769",
+      "source": "Workday · eBay",
+      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager-II_R0076068",
       "postedAt": "2026-08-17",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-11-14",
@@ -120259,6 +120259,7 @@
       "experienceMax": 10,
       "domain": [
         "SaaS",
+        "Enterprise",
         "AI"
       ],
       "skills": [
@@ -120272,16 +120273,28 @@
       ],
       "tags": [
         "SaaS",
+        "Enterprise",
         "AI",
         "Group Product Manager",
         "Onsite",
         "Go-to-Market",
         "Growth",
-        "API",
-        "Platform"
+        "API"
       ],
-      "description": "The Opportunity\n\nWe are seeking an experienced Senior Product Manager to join Firefly group. As part of our ambitious team, you will develop a business around Generative-AI surfaces for Adobe, driving innovation and crafting a flawless user experience. Experience working on AI-based products is highly desirable.\n\nRoadmap and Launch\n\nEngage with customers & stakeholders to understand workflows and difficulties, defining requirements\n\nBuild detailed product requirements and specifications\n\nPlan capacity based on estimated demand and goals\n\nSupport launch phases including Private/Public Beta and GA\n\nCollaborate with go-to-market teams to ensure efficient product launch initiatives\n\nResearch Partnership\n\nStay informed about AI, machine learning, and related industry trends\n\nDevelop relevant evaluation datasets for research models to ensure quality release\n\nConnect with client product teams to influence individual product roadmaps\n\nAnalyze\n\nTrack critical metrics to measure performance, usage, and uptime",
-      "responsibilities": [],
+      "description": "The Opportunity\n\nWe are seeking an experienced Senior Product Manager to join Firefly group. As part of our ambitious team, you will develop a business around Generative-AI surfaces for Adobe, driving innovation and crafting a flawless user experience. Experience working on AI-based products is highly desirable.\n\nRoadmap and Launch",
+      "responsibilities": [
+        "Engage with customers & stakeholders to understand workflows and difficulties, defining requirements",
+        "Build detailed product requirements and specifications",
+        "Plan capacity based on estimated demand and goals",
+        "Support launch phases including Private/Public Beta and GA",
+        "Collaborate with go-to-market teams to ensure efficient product launch initiatives",
+        "Research Partnership",
+        "Stay informed about AI, machine learning, and related industry trends",
+        "Develop relevant evaluation datasets for research models to ensure quality release",
+        "Connect with client product teams to influence individual product roadmaps",
+        "Analyze",
+        "Track critical metrics to measure performance, usage, and uptime"
+      ],
       "requirements": [
         "Bachelor's degree in Computer Science, Engineering, Business, or a similar area of study (Master's degree or equivalent experience preferred)",
         "8-10 years of product management experience, preferably in a large technology company",
@@ -120293,8 +120306,8 @@
       ],
       "preferred": [],
       "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/principal-product-manager-firefly-ui-image-video-at-adobe-4487690726",
+      "source": "Workday · Adobe",
+      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager_R167941",
       "postedAt": "2026-07-17",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-11-14",
@@ -125654,14 +125667,14 @@
       "id": "ebay",
       "name": "eBay",
       "logo": null,
-      "domain": "ebayinc.com",
-      "website": "https://ebayinc.com",
+      "domain": "ebay.com",
+      "website": "https://ebay.com",
       "industry": "Ecommerce",
       "companySize": "5000+",
       "description": "eBay is a ecommerce company hiring product managers in India.",
       "locations": [
-        "India",
-        "Bengaluru"
+        "Bengaluru",
+        "India"
       ]
     },
     {
