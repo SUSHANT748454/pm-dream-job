@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T08:10:24.524Z",
+  "generatedAt": "2026-11-16T13:16:57.152Z",
   "jobs": [
     {
       "id": "job_2f9201",
@@ -245,6 +245,64 @@
       "salary": null,
       "source": "Naukri",
       "applyUrl": "https://www.naukri.com/job-listings-associate-product-manager-isolved-india-hyderabad-6-to-10-years-161126002665",
+      "postedAt": "2026-11-16",
+      "firstSeenAt": "2026-11-16",
+      "lastSeenAt": "2026-11-16",
+      "status": "Active"
+    },
+    {
+      "id": "job_95cc2d",
+      "slug": "product-management-app-product-paytm-delhi-ncr-95cc2d",
+      "title": "Product Management - App Product",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
+      "experienceMax": 5,
+      "domain": [
+        "Fintech",
+        "Consumer",
+        "Enterprise"
+      ],
+      "skills": [
+        "Product Strategy",
+        "A/B Testing",
+        "Experimentation",
+        "SQL",
+        "Analytics",
+        "Go-to-Market",
+        "Growth",
+        "API",
+        "Platform",
+        "Data"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Enterprise",
+        "Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "A/B Testing",
+        "Experimentation"
+      ],
+      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. About the Role: UPI is the backbone of India's digital payments revolution — and Paytm is one of its largest participants, processing hundreds of millions of transactions every month. We are looking for a Product Manager to join our User",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/364ccee8-163f-4950-8ff5-3181a9345809",
       "postedAt": "2026-11-16",
       "firstSeenAt": "2026-11-16",
       "lastSeenAt": "2026-11-16",
