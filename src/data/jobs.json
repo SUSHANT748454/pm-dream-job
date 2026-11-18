@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T13:36:37.676Z",
+  "generatedAt": "2026-11-18T22:27:06.599Z",
   "jobs": [
     {
       "id": "job_3eac72",
@@ -75,6 +75,64 @@
       "applyUrl": "https://job-boards.greenhouse.io/inmobi/jobs/8349134",
       "postedAt": "2026-11-17",
       "firstSeenAt": "2026-11-17",
+      "lastSeenAt": "2026-11-18",
+      "status": "Active"
+    },
+    {
+      "id": "job_c262d4",
+      "slug": "sr-product-manager-seller-payments-ebay-bengaluru-c262d4",
+      "title": "Sr. Product Manager - Seller Payments",
+      "company": {
+        "id": "ebay",
+        "name": "eBay",
+        "logo": null,
+        "domain": "ebay.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 7,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Ecommerce",
+        "Consumer"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Experimentation",
+        "Analytics",
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Payments",
+        "Retention",
+        "Marketplace"
+      ],
+      "tags": [
+        "Fintech",
+        "Ecommerce",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Experimentation",
+        "Analytics"
+      ],
+      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · eBay",
+      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Sr-Product-Manager---Seller-Payments_R0077052",
+      "postedAt": "2026-11-17",
+      "firstSeenAt": "2026-11-18",
       "lastSeenAt": "2026-11-18",
       "status": "Active"
     },
@@ -324,6 +382,72 @@
       "applyUrl": "https://www.naukri.com/job-listings-associate-product-manager-isolved-india-hyderabad-6-to-10-years-161126002665",
       "postedAt": "2026-11-16",
       "firstSeenAt": "2026-11-16",
+      "lastSeenAt": "2026-11-18",
+      "status": "Active"
+    },
+    {
+      "id": "job_f0b259",
+      "slug": "manager-product-management-resiliency-operations-stand-in-on-demand-decisioning-mastercard-f0b259",
+      "title": "Manager, Product Management – Resiliency Operations (Stand-In & On-Demand Decisioning)",
+      "company": {
+        "id": "mastercard",
+        "name": "Mastercard",
+        "logo": null,
+        "domain": "mastercard.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 7,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Analytics",
+        "Growth",
+        "Data",
+        "Payments",
+        "Demand",
+        "Stakeholder Management"
+      ],
+      "tags": [
+        "Fintech",
+        "Enterprise",
+        "Lead Product Manager",
+        "Onsite",
+        "Analytics",
+        "Growth",
+        "Data",
+        "Payments"
+      ],
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle and Summary\n\nManager, Product Management – Resiliency Operations (Stand-In & On-Demand Decisioning)\n\nManager, Product Management – Resiliency Operations (Stand-In & On-Demand Decisioning)\n\nIssuers face a myriad of authorization risks that come in many forms. Crisis events, such as cyberattacks or natural disasters, complex payment rails and systems, and evolving regulatory demands, like DORA all create disruption to the payment experience. The Mastercard Payment Resiliency team manages a suite of solutions to mitigate these risks. It is critical to ensure a frictionless cardholder experience and uphold the integrity of the Mastercard brand by providing on-behalf authorization decisioning, at any time, for any reason.\n\nAs Manager, Product Management",
+      "responsibilities": [
+        "Resiliency Operations, you will help deliver on our strategy of offering industry leading authorization solutions, promoting Stand-In and On-Demand Decisioning as critical Payment Resiliency solutions. You will collaborate with cross-functional teams to aid in the creation and enhancement of resiliency products, drive utilization through customer education, and ultimately support the improvement of customer performance and profitability.",
+        "We’re seeking a collaborative and results-oriented product professional who thrives in a dynamic, fast-paced environment. You are passionate about the cardholder experience, driving issuer change, and delivering impactful solutions. The role requires a highly analytical thinker who can connect data, market dynamics, customer needs, and business priorities to influence decisions and outcomes. As a natural leader and team player, you excel in building relationships and driving strategic outcomes with energy, creativity, and accountability.",
+        "Primary",
+        "Function as a Payment Resiliency Solutions SME in AP",
+        "Work closely with regional sales and account management teams to support the growth of Stand-In and On-Demand Decisioning",
+        "Partner with Advisors Consulting Services to drive Stand-In performance improvement and to define On-Demand Decisioning use case opportunities as part of ACS auth engagements",
+        "Collaborate closely with local Customer Success and Service Business Leads by providing SME guidance and recommendations in support of their efforts",
+        "Craft and present clear and compelling business cases to stakeholders to secure buy-in for product utilization",
+        "Transform complex data into compelling insights, shape business narratives, and identify opportunities to create value across a diverse set of stakeholders",
+        "Work with different teams to support Resiliency offerings because of direct customer feedback",
+        "Identify issues, risks, and dependencies to track product development",
+        "Conduct market research to identify industry trends and competitive analysis"
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Workday · Mastercard",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Manager--Product-Management---Resiliency-Operations--Stand-In---On-Demand-Decisioning-_R-289205",
+      "postedAt": "2026-11-16",
+      "firstSeenAt": "2026-11-18",
       "lastSeenAt": "2026-11-18",
       "status": "Active"
     },
@@ -46396,7 +46520,7 @@
         "id": "ebay",
         "name": "eBay",
         "logo": null,
-        "domain": "ebayinc.com"
+        "domain": "ebay.com"
       },
       "location": {
         "city": "Bengaluru",
@@ -46409,7 +46533,8 @@
       "experienceMax": null,
       "domain": [
         "Fintech",
-        "Ecommerce"
+        "Ecommerce",
+        "Consumer"
       ],
       "skills": [
         "API",
@@ -46423,28 +46548,39 @@
       "tags": [
         "Fintech",
         "Ecommerce",
+        "Consumer",
         "Product Manager",
         "Onsite",
         "API",
         "Platform",
-        "Data",
-        "Payments"
+        "Data"
       ],
       "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nAt eBay, we connect tens of millions of buyers and sellers globally, processing billions of dollars in trade. Our platform powers trusted commerce at global scale, and we continue to invest in the products and platforms that make those experiences simpler, smarter, and more reliable.\n\nThe Billing Platform sits at the intersection of commerce, payments, and financial systems. It powers critical capabilities across billing, invoicing, financial transaction processing, and revenue-related workflows, enabling scalable and reliable financial operations across eBay.\n\nWe are seeking an ambitious, impact-driven Product Manager to lead critical capabilities for this platform. If you thrive on solving complex, large-scale platform challenges and translating intricacy into seamless user",
       "responsibilities": [
-        "Define & Drive Strategy: Partner with payments, finance, operations, and business units to discover high-value platform opportunities and translate them into a clear product vision.",
-        "Architect Scalable Solutions: Collaborate closely with engineering to build reusable, API-based charging, invoicing, and transaction workflows that support diverse global use cases.",
-        "Lead Execution: Write clear, high-quality product requirements and user stories, set measurable success metrics, and manage end-to-end rollouts across complex multi-system dependencies.",
-        "Prioritize for Impact: Balance trade-offs between innovation, platform resilience, risk mitigation, and execution speed to maximize partner and customer value.",
-        "Optimize with Data: Leverage operational metrics, analytical insights, and partner feedback to continuously evaluate product performance and guide rapid iteration.",
-        "Champion Quality & Trust: Proactively identify risks, resolve complex cross-functional alignment blockers, and continuously elevate product quality and platform experience."
+        "Define & Drive Strategy:",
+        "Partner with payments, finance, operations, and business units to discover high-value platform opportunities and translate them into a clear product vision.",
+        "Architect Scalable Solutions:",
+        "Collaborate closely with engineering to build reusable, API-based charging, invoicing, and transaction workflows that support diverse global use cases.",
+        "Lead Execution:",
+        "Write clear, high-quality product requirements and user stories, set measurable success metrics, and manage end-to-end rollouts across complex multi-system dependencies.",
+        "Prioritize for Impact:",
+        "Balance trade-offs between innovation, platform resilience, risk mitigation, and execution speed to maximize partner and customer value.",
+        "Optimize with Data:",
+        "Leverage operational metrics, analytical insights, and partner feedback to continuously evaluate product performance and guide rapid iteration.",
+        "Champion Quality & Trust:",
+        "Proactively identify risks, resolve complex cross-functional alignment blockers, and continuously elevate product quality and platform experience."
       ],
       "requirements": [
-        "Platform Product Experience: 3+ years in product management, with a proven track record of shipping technical, platform-based products.",
-        "FinTech / Payments Foundation: Practical experience in payments, billing, invoicing, or related financial transaction processing environments.",
-        "Technical Execution: Strong ability to translate business capabilities into technical requirements and partner effectively with engineering teams on architectural choices.",
-        "Analytical Rigor: Skilled in using data to quantify opportunities, validate hypotheses, and measure product performance metrics.",
-        "Cross-Functional Collaboration: Outstanding communication and stakeholder management skills, capable of driving consensus across matrixed teams."
+        "Platform Product Experience:",
+        "3+ years in product management, with a proven track record of shipping technical, platform-based products.",
+        "FinTech / Payments Foundation:",
+        "Practical experience in payments, billing, invoicing, or related financial transaction processing environments.",
+        "Technical Execution:",
+        "Strong ability to translate business capabilities into technical requirements and partner effectively with engineering teams on architectural choices.",
+        "Analytical Rigor:",
+        "Skilled in using data to quantify opportunities, validate hypotheses, and measure product performance metrics.",
+        "Cross-Functional Collaboration:",
+        "Outstanding communication and stakeholder management skills, capable of driving consensus across matrixed teams."
       ],
       "preferred": [
         "Hands-on experience with API-based architectures, eCommerce platforms, or large-scale multi-sided marketplaces.",
@@ -46455,8 +46591,8 @@
         "We use cookies to enhance your experience and may use AI tools for administrative tasks in the hiring process. To learn how we handle your personal data and use AI responsibly, please visit our Talent Privacy Notice, Privacy Center, and AI Hiring Guidelines."
       ],
       "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/product-manager-billing-platform-at-ebay-4488543153",
+      "source": "Workday · eBay",
+      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Product-Manager--Billing-Platform_R0077220",
       "postedAt": "2026-10-30",
       "firstSeenAt": "2026-10-30",
       "lastSeenAt": "2026-11-18",
@@ -109323,84 +109459,6 @@
       "status": "Active"
     },
     {
-      "id": "job_a4f741",
-      "slug": "senior-product-manager-sap-fico-zoominfo-chennai-a4f741",
-      "title": "Senior Product Manager - SAP FICO",
-      "company": {
-        "id": "zoominfo",
-        "name": "ZoomInfo",
-        "logo": null,
-        "domain": "zoominfo.com"
-      },
-      "location": {
-        "city": "Chennai",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 10,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Fintech",
-        "Enterprise"
-      ],
-      "skills": [
-        "Go-to-Market",
-        "API",
-        "Platform",
-        "Data",
-        "B2B",
-        "Agile"
-      ],
-      "tags": [
-        "SaaS",
-        "Fintech",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Go-to-Market",
-        "API",
-        "Platform"
-      ],
-      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
-      "responsibilities": [
-        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
-        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
-        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
-        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
-        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
-        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
-        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
-        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
-        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
-        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
-      ],
-      "requirements": [
-        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
-        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
-        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
-        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
-        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
-        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
-        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
-        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
-        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
-        "SAP Certification in Finance or a related SAP discipline.",
-        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
-        "Experience in high-tech, SaaS, software, or Finance transformation programs."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · ZoomInfo",
-      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8733078002",
-      "postedAt": "2026-09-05",
-      "firstSeenAt": "2026-09-13",
-      "lastSeenAt": "2026-11-18",
-      "status": "Active"
-    },
-    {
       "id": "job_aeae06",
       "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
       "title": "Senior Product Manager - SAP FICO",
@@ -109473,6 +109531,84 @@
       "salary": null,
       "source": "Greenhouse · ZoomInfo",
       "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
+      "postedAt": "2026-09-05",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-11-18",
+      "status": "Active"
+    },
+    {
+      "id": "job_a4f741",
+      "slug": "senior-product-manager-sap-fico-zoominfo-chennai-a4f741",
+      "title": "Senior Product Manager - SAP FICO",
+      "company": {
+        "id": "zoominfo",
+        "name": "ZoomInfo",
+        "logo": null,
+        "domain": "zoominfo.com"
+      },
+      "location": {
+        "city": "Chennai",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "API",
+        "Platform",
+        "Data",
+        "B2B",
+        "Agile"
+      ],
+      "tags": [
+        "SaaS",
+        "Fintech",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "API",
+        "Platform"
+      ],
+      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
+      "responsibilities": [
+        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
+        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
+        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
+        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
+        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
+        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
+        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
+        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
+        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
+        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
+      ],
+      "requirements": [
+        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
+        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
+        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
+        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
+        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
+        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
+        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
+        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
+        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
+        "SAP Certification in Finance or a related SAP discipline.",
+        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
+        "Experience in high-tech, SaaS, software, or Finance transformation programs."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · ZoomInfo",
+      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8733078002",
       "postedAt": "2026-09-05",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-11-18",
@@ -110140,7 +110276,7 @@
         "id": "ebay",
         "name": "eBay",
         "logo": null,
-        "domain": "ebayinc.com"
+        "domain": "ebay.com"
       },
       "location": {
         "city": "Bengaluru",
@@ -110153,8 +110289,8 @@
       "experienceMax": null,
       "domain": [
         "Ecommerce",
-        "Fintech",
-        "AI"
+        "Consumer",
+        "Fintech"
       ],
       "skills": [
         "Analytics",
@@ -110170,15 +110306,15 @@
       ],
       "tags": [
         "Ecommerce",
+        "Consumer",
         "Fintech",
-        "AI",
         "Senior Product Manager",
         "Onsite",
         "Analytics",
         "Growth",
         "Platform"
       ],
-      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nLocation: India\n\nAt eBay, we're more than a global eCommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of eCommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nWithin the risk & Compliance team our vision is “Deliver intuitive risk,",
+      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nLocation\n\n: India\n\nAt eBay, we're more than a global eCommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of eCommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nWithin the risk & Compliance team our vision is “Deliver intuitive risk,",
       "responsibilities": [
         "Create Product Vision & Strategy. Lead the comprehensive vision and end-to-end execution of Risk Platform",
         "Develop a compelling and iterative roadmap and launch plan that supports Risk business needs",
@@ -110196,8 +110332,8 @@
       ],
       "preferred": [],
       "salary": null,
-      "source": "LinkedIn",
-      "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-ii-at-ebay-4477087769",
+      "source": "Workday · eBay",
+      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager-II_R0076068",
       "postedAt": "2026-08-17",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-11-18",
@@ -116261,14 +116397,14 @@
       "id": "ebay",
       "name": "eBay",
       "logo": null,
-      "domain": "ebayinc.com",
-      "website": "https://ebayinc.com",
+      "domain": "ebay.com",
+      "website": "https://ebay.com",
       "industry": "Ecommerce",
       "companySize": "5000+",
       "description": "eBay is a ecommerce company hiring product managers in India.",
       "locations": [
-        "India",
-        "Bengaluru"
+        "Bengaluru",
+        "India"
       ]
     },
     {
@@ -119364,6 +119500,7 @@
       "companySize": "5000+",
       "description": "Mastercard is a fintech company hiring product managers in India.",
       "locations": [
+        "Delhi NCR",
         "Pune"
       ]
     },
@@ -124852,8 +124989,8 @@
       "companySize": "1000-5000",
       "description": "ZoomInfo is a saas company hiring product managers in India.",
       "locations": [
-        "Chennai",
-        "Bengaluru"
+        "Bengaluru",
+        "Chennai"
       ]
     },
     {
