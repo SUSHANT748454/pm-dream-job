@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T01:59:34.586Z",
+  "generatedAt": "2026-11-18T13:36:37.676Z",
   "jobs": [
     {
       "id": "job_3eac72",
@@ -109223,55 +109223,42 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Product Manager",
-      "experienceMin": null,
-      "experienceMax": null,
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": 6,
       "domain": [
         "Fintech",
         "SaaS"
       ],
       "skills": [
+        "SQL",
         "Go-to-Market",
+        "Pricing",
         "API",
         "Platform",
         "Data",
         "Payments",
         "Fraud",
-        "Onboarding"
+        "Onboarding",
+        "Stakeholder Management"
       ],
       "tags": [
         "Fintech",
         "SaaS",
-        "Product Manager",
+        "Senior Product Manager",
         "Onsite",
+        "SQL",
         "Go-to-Market",
-        "API",
-        "Platform",
-        "Data"
+        "Pricing",
+        "API"
       ],
       "description": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we’ve since grown into a fintech powerhouse driving India’s digital payment revolution.\n\nRazorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow.\n\nFrom building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech\n\nAcross India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that’s redefining how money moves across Asia.\n\nToday, that ecosystem supports everyone from early-stage startups to some of India’s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently.\n\nOur scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like",
-      "responsibilities": [
-        "Build Customer Empathy: PMs have to regularly meet and understand customer needs first-hand as well as stay on top of the customer pulse via secondary insights - both qualitative and quantitative.",
-        "Devise Strategy: Define both long-term strategy and quarterly roadmap to achieve the product vision and create impact.",
-        "Conceptualize new solutions: Product Conceptualization with a problem first, data-driven, and test & iterate approach. Ensures conceptualization from a platform and a long-term view. Ensures value-based prioritization of product initiatives.",
-        "Build products: Collaborate with Engineering and ecosystem players to build products that customers love. Produce high-quality product specifications and effectively prioritize and manage the scope of each product launch to deliver products and features on time.",
-        "Launch products: Draft and execute a go-to-market plan in conjunction with Product Marketing. Be the internal and external authority and advocate for your given area of focus.",
-        "Ecosystem collaboration: Self-starter to collaborate closely with ecosystem players to co-build products that don’t exist.",
-        "Mandatory"
-      ],
-      "requirements": [
-        "You understand technology, but love customer-first & business-first thinking.",
-        "You are comfortable working hands-on in a fast-paced start-up environment.",
-        "You are curious about metrics, execution processes, macro trends.",
-        "Problem-solving and detail orientation come naturally to you.",
-        "You have an analytical and data-driven approach in day-to-day work. Energetic self-starter with the ability to work independently in a fast-paced environment.",
-        "Razorpay believes in and follows an equal employment opportunity policy that doesn't discriminate on gender, religion, sexual orientation, colour, nationality, age, etc. We welcome interests and applications from all groups and communities across the globe.",
-        "Follow us on LinkedIn & Twitter"
-      ],
+      "responsibilities": [],
+      "requirements": [],
       "preferred": [],
       "salary": null,
       "source": "Greenhouse · Razorpay",
-      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
+      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
       "postedAt": "2026-09-07",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
       "lastSeenAt": "2026-11-18",
@@ -109332,84 +109319,6 @@
       "applyUrl": "https://jobs.lever.co/paytm/5dbd7403-b047-48e1-b433-574933914ff3",
       "postedAt": "2026-09-06",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-11-18",
-      "status": "Active"
-    },
-    {
-      "id": "job_aeae06",
-      "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
-      "title": "Senior Product Manager - SAP FICO",
-      "company": {
-        "id": "zoominfo",
-        "name": "ZoomInfo",
-        "logo": null,
-        "domain": "zoominfo.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 10,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Fintech",
-        "Enterprise"
-      ],
-      "skills": [
-        "Go-to-Market",
-        "API",
-        "Platform",
-        "Data",
-        "B2B",
-        "Agile"
-      ],
-      "tags": [
-        "SaaS",
-        "Fintech",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Go-to-Market",
-        "API",
-        "Platform"
-      ],
-      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
-      "responsibilities": [
-        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
-        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
-        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
-        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
-        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
-        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
-        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
-        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
-        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
-        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
-      ],
-      "requirements": [
-        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
-        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
-        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
-        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
-        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
-        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
-        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
-        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
-        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
-        "SAP Certification in Finance or a related SAP discipline.",
-        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
-        "Experience in high-tech, SaaS, software, or Finance transformation programs."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · ZoomInfo",
-      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
-      "postedAt": "2026-09-05",
-      "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-11-18",
       "status": "Active"
     },
@@ -109486,6 +109395,84 @@
       "salary": null,
       "source": "Greenhouse · ZoomInfo",
       "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8733078002",
+      "postedAt": "2026-09-05",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-11-18",
+      "status": "Active"
+    },
+    {
+      "id": "job_aeae06",
+      "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
+      "title": "Senior Product Manager - SAP FICO",
+      "company": {
+        "id": "zoominfo",
+        "name": "ZoomInfo",
+        "logo": null,
+        "domain": "zoominfo.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "API",
+        "Platform",
+        "Data",
+        "B2B",
+        "Agile"
+      ],
+      "tags": [
+        "SaaS",
+        "Fintech",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "API",
+        "Platform"
+      ],
+      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
+      "responsibilities": [
+        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
+        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
+        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
+        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
+        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
+        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
+        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
+        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
+        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
+        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
+      ],
+      "requirements": [
+        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
+        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
+        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
+        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
+        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
+        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
+        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
+        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
+        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
+        "SAP Certification in Finance or a related SAP discipline.",
+        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
+        "Experience in high-tech, SaaS, software, or Finance transformation programs."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · ZoomInfo",
+      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
       "postedAt": "2026-09-05",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-11-18",
@@ -110153,7 +110140,7 @@
         "id": "ebay",
         "name": "eBay",
         "logo": null,
-        "domain": "ebay.com"
+        "domain": "ebayinc.com"
       },
       "location": {
         "city": "Bengaluru",
@@ -110166,8 +110153,8 @@
       "experienceMax": null,
       "domain": [
         "Ecommerce",
-        "Consumer",
-        "Fintech"
+        "Fintech",
+        "AI"
       ],
       "skills": [
         "Analytics",
@@ -110183,15 +110170,15 @@
       ],
       "tags": [
         "Ecommerce",
-        "Consumer",
         "Fintech",
+        "AI",
         "Senior Product Manager",
         "Onsite",
         "Analytics",
         "Growth",
         "Platform"
       ],
-      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nLocation\n\n: India\n\nAt eBay, we're more than a global eCommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of eCommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nWithin the risk & Compliance team our vision is “Deliver intuitive risk,",
+      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nLocation: India\n\nAt eBay, we're more than a global eCommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of eCommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nWithin the risk & Compliance team our vision is “Deliver intuitive risk,",
       "responsibilities": [
         "Create Product Vision & Strategy. Lead the comprehensive vision and end-to-end execution of Risk Platform",
         "Develop a compelling and iterative roadmap and launch plan that supports Risk business needs",
@@ -110209,8 +110196,8 @@
       ],
       "preferred": [],
       "salary": null,
-      "source": "Workday · eBay",
-      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Product-Manager-II_R0076068",
+      "source": "LinkedIn",
+      "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-ii-at-ebay-4477087769",
       "postedAt": "2026-08-17",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-11-18",
@@ -110480,7 +110467,7 @@
         "SQL",
         "Analytics"
       ],
-      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology About the Role",
+      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology   About the Role",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -111492,8 +111479,8 @@
     },
     {
       "id": "job_5b44fc",
-      "slug": "senior-manager-product-management-payments-fintech-zenoti-hyderabad-5b44fc",
-      "title": "Senior Manager - Product Management (Payments/Fintech)",
+      "slug": "manager-product-management-saas-b2b-zenoti-hyderabad-5b44fc",
+      "title": "Manager, Product Management (SaaS B2B)",
       "company": {
         "id": "zenoti",
         "name": "Zenoti",
@@ -111506,36 +111493,34 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Lead Product Manager",
-      "experienceMin": 7,
+      "experienceLevel": "Director",
+      "experienceMin": 12,
       "experienceMax": null,
       "domain": [
-        "Fintech",
         "SaaS",
-        "Consumer"
+        "Consumer",
+        "Enterprise"
       ],
       "skills": [
-        "Growth",
         "Platform",
         "Data",
         "Mobile",
         "iOS",
-        "Payments",
+        "B2B",
         "Retention"
       ],
       "tags": [
-        "Fintech",
         "SaaS",
         "Consumer",
-        "Lead Product Manager",
+        "Enterprise",
+        "Director",
         "Onsite",
-        "Growth",
         "Platform",
-        "Data"
+        "Data",
+        "Mobile"
       ],
       "description": "Zenoti provides an all-in-one, cloud-based software solution for the beauty and wellness industry. Our solution allows users to seamlessly manage every aspect of the business in a comprehensive mobile solution: online appointment bookings, POS, CRM, employee management, inventory management, built-in marketing programs and more. Zenoti helps clients streamline their systems and reduce costs, while simultaneously improving customer retention and spending. Our platform is engineered for reliability and scale and harnesses the power of enterprise-level technology for businesses of all sizes\n\nZenoti powers more than 30,000 salons, spas, medspas and fitness studios in over 50 countries. This includes a vast portfolio of global brands, such as European Wax Center, Hand & Stone, Massage Heights, Rush Hair & Beauty, Sono Bello, Profile by Sanford, Hair Cuttery, CorePower Yoga and TONI&GUY.\n\nOur recent accomplishments include surpassing a $1 billion unicorn valuation, being named Next Tech Titan by GeekWire, raising an $80 million investment from TPG, ranking as the 316th fastest-growing company in North America on Deloitte’s 2020 Technology Fast 500™. We are also proud to be recognized as a Great Place to Work CertifiedTM for 2021-2022 as this reaffirms our commitment to empowering people to feel good and find their greatness. To learn more about Zenoti visit: https://www.zenoti.com\n\nWhat skills and experiences do I need?",
       "responsibilities": [
-        "Has 7+ years of work experience in a Product Manager role, preferably in Payments/Fintech",
         "Excellent communication and presentation skills, including presenting to customers and senior executives",
         "Excellent problem-solving skills, and ability to come up recommendations using data",
         "Good interpersonal skills, ability to work in teams with a results-oriented attitude",
@@ -111546,13 +111531,14 @@
         ", but at the same time break things down into smaller components, and build high-level roadmaps from that.",
         "A clear sense of ownership and accountability.",
         "Obsess over building a clear, calm and beautiful product by collaborating with designers, developers and business leaders across the company.",
-        "Must have a good understanding of mobile, web and cloud technology space"
+        "Must have a good understanding of mobile, web and cloud technology space",
+        "Has 12+ years of work experience in a Product Manager role."
       ],
       "requirements": [],
       "preferred": [],
       "salary": null,
       "source": "Greenhouse · Zenoti",
-      "applyUrl": "https://job-boards.greenhouse.io/zenoti/jobs/8029893003",
+      "applyUrl": "https://job-boards.greenhouse.io/zenoti/jobs/8204626003",
       "postedAt": "2026-05-18",
       "firstSeenAt": "2026-09-11",
       "lastSeenAt": "2026-11-18",
@@ -124866,8 +124852,8 @@
       "companySize": "1000-5000",
       "description": "ZoomInfo is a saas company hiring product managers in India.",
       "locations": [
-        "Bengaluru",
-        "Chennai"
+        "Chennai",
+        "Bengaluru"
       ]
     },
     {
