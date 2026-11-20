@@ -1,6 +1,119 @@
 {
-  "generatedAt": "2026-11-20T01:34:51.808Z",
+  "generatedAt": "2026-11-20T13:45:35.406Z",
   "jobs": [
+    {
+      "id": "job_24573a",
+      "slug": "product-management-senior-product-manager-pm-2-risk-product-paytm-bengaluru-24573a",
+      "title": "Product Management - Senior Product Manager / PM-2 – Risk Product",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 3,
+      "experienceMax": 5,
+      "domain": [
+        "Fintech",
+        "Consumer",
+        "AI"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Analytics",
+        "Platform",
+        "Data",
+        "Mobile",
+        "iOS",
+        "Payments",
+        "Fraud",
+        "Onboarding",
+        "Stakeholder Management"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "AI",
+        "Senior Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Analytics",
+        "Platform"
+      ],
+      "description": "About Us: Paytm is India's leading mobile payments and financial services company and the pioneer of mobile QR payments. Our mission is to bring half a billion Indians into the mainstream economy through technology. About the role: Paytm is expanding into merchant payments in Europe, and",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/d08cc291-90b4-47bb-8300-59cc2011b662",
+      "postedAt": "2026-11-20",
+      "firstSeenAt": "2026-11-20",
+      "lastSeenAt": "2026-11-20",
+      "status": "Active"
+    },
+    {
+      "id": "job_4d2813",
+      "slug": "staff-product-manager-finance-rtr-okta-bengaluru-4d2813",
+      "title": "Staff Product Manager - Finance (RTR)",
+      "company": {
+        "id": "okta",
+        "name": "Okta",
+        "logo": null,
+        "domain": "okta.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "Enterprise",
+        "AI",
+        "SaaS"
+      ],
+      "skills": [
+        "Product Strategy",
+        "API",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "Onboarding",
+        "Compliance"
+      ],
+      "tags": [
+        "Enterprise",
+        "AI",
+        "SaaS",
+        "Lead Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "API",
+        "Platform"
+      ],
+      "description": "Secure Every Identity, from AI to Human\n\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\n\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Okta",
+      "applyUrl": "https://www.okta.com/company/careers/opportunity/8405220?gh_jid=8405220",
+      "postedAt": "2026-11-20",
+      "firstSeenAt": "2026-11-20",
+      "lastSeenAt": "2026-11-20",
+      "status": "Active"
+    },
     {
       "id": "job_f669c4",
       "slug": "ai-product-manager-people-group-arabia-delhi-ncr-f669c4",
@@ -113165,32 +113278,21 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 5,
+      "experienceLevel": "Product Manager",
+      "experienceMin": null,
       "experienceMax": null,
       "domain": [
         "Fintech",
         "Consumer"
       ],
-      "skills": [
-        "Data",
-        "Mobile",
-        "Payments",
-        "Onboarding",
-        "Demand",
-        "Compliance"
-      ],
+      "skills": [],
       "tags": [
         "Fintech",
         "Consumer",
-        "Senior Product Manager",
-        "Onsite",
-        "Data",
-        "Mobile",
-        "Payments",
-        "Onboarding"
+        "Product Manager",
+        "Onsite"
       ],
-      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. About The Team: Looking to join the heart of Paytm? Are you someone who loves to build products and also gets curious about technology stack being used? The Payments team is looking for Product Managers to create high impact and critical",
+      "description": "Product Management - Payment Product | Experience : 5-8 yrs at Paytm, based in Delhi NCR (onsite). Full details and application are on the original listing.",
       "responsibilities": [],
       "requirements": [],
       "preferred": [],
@@ -122356,8 +122458,8 @@
     },
     {
       "id": "job_0fec8a",
-      "slug": "senior-product-manager-product-platform-okta-bengaluru-0fec8a",
-      "title": "Senior Product Manager, Product Platform",
+      "slug": "product-manager-product-platform-okta-bengaluru-0fec8a",
+      "title": "Product Manager, Product Platform",
       "company": {
         "id": "okta",
         "name": "Okta",
@@ -122370,52 +122472,49 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 4,
-      "experienceMax": 5,
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
+      "experienceMax": null,
       "domain": [
-        "SaaS",
-        "Enterprise",
-        "AI"
+        "AI",
+        "SaaS"
       ],
       "skills": [
         "Growth",
-        "Monetization",
         "Pricing",
         "Platform",
-        "Data",
         "Machine Learning",
         "Onboarding",
         "Retention",
         "Scrum"
       ],
       "tags": [
-        "SaaS",
-        "Enterprise",
         "AI",
-        "Senior Product Manager",
+        "SaaS",
+        "Product Manager",
         "Onsite",
         "Growth",
-        "Monetization",
-        "Pricing"
+        "Pricing",
+        "Platform",
+        "Machine Learning"
       ],
-      "description": "Secure Every Identity, from AI to Human\n\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\n\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.\n\nSenior Product Manager, Product Platform\n\nCompany Overview\n\nOkta is The World’s Identity Company. We free everyone to safely use any technology - anywhere, on any device, for any app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth.",
+      "description": "Secure Every Identity, from AI to Human\n\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\n\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.\n\nProduct Manager, Product Platform (India)\n\nCompany Overview\n\nOkta is The World's Identity Company. We free everyone to safely use any technology - anywhere, on any device, for any app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth.",
       "responsibilities": [
-        "This is a rare 0-to-1 opportunity to build a brand-new, high-visibility capability that touches every Okta customer: self-service visibility into subscription and license usage, delivered directly in the Admin Console. You’ll be responsible for building a modern, self-service experience that increases customer trust, unlocks new upsell and expansion motions, and sets the standard for how Okta communicates value to its largest accounts. You'll partner closely with Engineering, Field, Pricing & Packaging, and Product leadership to shape a capability with direct, measurable impact on customer retention and revenue growth.",
-        "Orchestrate",
-        "the long-term product vision and strategy for Okta's subscription usage and licensing visibility, ensuring the Admin Console roadmap scales with the breadth of Okta's customer base and product portfolio.",
-        "Architect",
-        "a self-service usage dashboard and reporting framework to ensure customers can seamlessly and securely track their subscription and license usage across the entire Okta ecosystem.",
+        "This is a rare 0-to-1 opportunity to build a brand-new, high-visibility capability that touches every Okta customer: backup and recovery to strengthen the resilience of our system. You'll be responsible for building a modern, self-service experience that allows IT Admins to recover back their accidentally or maliciously deleted identity objects. You'll partner closely with Engineering, Field, Pricing Packaging, and Product leadership to shape a capability with direct, measurable impact on customer retention and revenue growth.",
+        "Contribute to",
+        "the long-term product vision and strategy for Okta's resilience strategy, ensuring the backup and recovery roadmap scales with the breadth of Okta's customer base and product portfolio.",
+        "Design",
+        "a self-service recovery center to ensure customers can seamlessly and securely track their deletions and changes and revert back across the entire Okta ecosystem.",
         "Collaborat",
-        "with India-based engineering and development scrum teams to deliver high-performance usage computation and reporting infrastructure improvements.",
+        "with India-based engineering and development scrum teams to deliver high-performance, scalable backup and recovery solution",
         "Distill",
-        "complex requirements from a diverse stakeholder group - including Field (AE/CSM), Pricing & Packaging, Support, Design, and Product teams - into precise technical specifications.",
+        "complex requirements from a diverse stakeholder group - including Field (AE/CSM), Pricing Packaging, Support, Design, and Product teams - into precise technical specifications.",
         "Analyze",
-        "large-scale subscription and usage data to identify friction points and drive improvements in customer trust and platform experience.",
+        "how large-scale enterprise customer's resilience needs to identify friction points and drive improvements in customer trust and platform experience.",
         "Validate"
       ],
       "requirements": [
-        "4-5+ years of Product Management experience",
+        "3+ years of Product Management experience",
         "specifically within",
         "enterprise-scale SaaS platforms",
         "or core software infrastructure.",
@@ -122426,12 +122525,12 @@
         "Exceptional communication and presentation skills",
         ", with a track record of successfully collaborating across global functions and time zones.",
         "Demonstrated business results from customer-facing platform capabilities shipped at scale.",
-        "Experience with subscription/licensing models, usage-based billing, or SaaS packaging and monetization."
+        "Experience with Backup or recovery tools"
       ],
       "preferred": [],
       "salary": null,
-      "source": "Greenhouse · Okta",
-      "applyUrl": "https://www.okta.com/company/careers/opportunity/8164066?gh_jid=8164066",
+      "source": "Naukri",
+      "applyUrl": "https://www.naukri.com/job-listings-product-manager-product-platform-okta-identity-india-private-limited-bengaluru-3-to-8-years-051126911427",
       "postedAt": "2026-09-11",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-11-20",
@@ -134984,8 +135083,8 @@
       "companySize": "5000+",
       "description": "Paytm is a fintech company hiring product managers in India.",
       "locations": [
-        "Delhi NCR",
-        "Bengaluru"
+        "Bengaluru",
+        "Delhi NCR"
       ]
     },
     {
