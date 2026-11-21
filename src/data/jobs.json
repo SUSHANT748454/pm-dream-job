@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T13:16:22.903Z",
+  "generatedAt": "2026-11-21T20:43:43.299Z",
   "jobs": [
     {
       "id": "job_24573a",
@@ -115548,13 +115548,13 @@
     },
     {
       "id": "job_81db27",
-      "slug": "product-manager-ebay-bengaluru-81db27",
-      "title": "Product Manager",
+      "slug": "senior-product-manager-ii-ebay-bengaluru-81db27",
+      "title": "Senior Product Manager II",
       "company": {
         "id": "ebay",
         "name": "eBay",
         "logo": null,
-        "domain": "ebay.com"
+        "domain": "ebayinc.com"
       },
       "location": {
         "city": "Bengaluru",
@@ -115562,43 +115562,56 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Product Manager",
-      "experienceMin": 3,
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 7,
       "experienceMax": null,
       "domain": [
         "Ecommerce",
-        "Consumer",
-        "Fintech"
+        "Fintech",
+        "AI"
       ],
       "skills": [
-        "Product Strategy",
         "Analytics",
-        "Go-to-Market",
         "Growth",
-        "API",
         "Platform",
         "Data",
-        "B2B",
-        "B2C",
-        "Payments"
+        "Machine Learning",
+        "Payments",
+        "Fraud",
+        "Marketplace",
+        "Agile",
+        "Scrum"
       ],
       "tags": [
         "Ecommerce",
-        "Consumer",
         "Fintech",
-        "Product Manager",
+        "AI",
+        "Senior Product Manager",
         "Onsite",
-        "Product Strategy",
         "Analytics",
-        "Go-to-Market"
+        "Growth",
+        "Platform"
       ],
-      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nProduct Manager\n\nShipping as a Service\n\n(L24)",
-      "responsibilities": [],
-      "requirements": [],
+      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nLocation: India\n\nAt eBay, we're more than a global eCommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of eCommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nWithin the risk & Compliance team our vision is “Deliver intuitive risk,",
+      "responsibilities": [
+        "Create Product Vision & Strategy. Lead the comprehensive vision and end-to-end execution of Risk Platform",
+        "Develop a compelling and iterative roadmap and launch plan that supports Risk business needs",
+        "Obsess the Customer & Overall Quality of Experiences. Demonstrate a relentless focus to listen to our users and feed their voice into our product development process",
+        "Communicate effectively with platform users to collect requirements and drive adoption of new capabilities. Be the voice of and evangelize the Risk Platform capabilities across the company",
+        "Collaborate with senior leaders across Risk management team to align platform visions and goals with other functions"
+      ],
+      "requirements": [
+        "Minimum of 7+ years of Product Management experience with expertise in one or more of following areas",
+        "Risk, Payments or e-Commerce",
+        "2+ years experience in core platform product management. Knowledge of Decision Platforms for Fraud Detection/Risk Management and/or Building Machine Learning Infrastructure is a huge plus.",
+        "Experience managing multiple complex, multi-phase strategic products in parallel with the ability to manage matrixed teams in a global context to successful delivery and excellence. Proven ability and in-market examples of defining a strategic vision for a new and innovative portfolio of products that drove significant impact for millions of end users at a global scale",
+        "Deep understanding of the product development lifecycle from planning through deployment; experience leveraging test and validation frameworks throughout the product lifecycle. Experience in Agile/Scrum methodologies and working in Agile teams is desirable",
+        "Strong, concise communicator and effective story-teller; experience using both analytics and qualitative research to express the vision and strategy of the product"
+      ],
       "preferred": [],
       "salary": null,
-      "source": "Workday · eBay",
-      "applyUrl": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Product-Manager_R0077079",
+      "source": "LinkedIn",
+      "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-ii-at-ebay-4477087769",
       "postedAt": "2026-08-17",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-11-21",
