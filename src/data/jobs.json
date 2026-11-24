@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T04:32:44.052Z",
+  "generatedAt": "2026-11-24T15:28:01.642Z",
   "jobs": [
     {
       "id": "job_1a4056",
@@ -64963,75 +64963,6 @@
       "status": "Active"
     },
     {
-      "id": "job_16cf95",
-      "slug": "senior-product-manager-data-integrations-gitlab-bengaluru-16cf95",
-      "title": "Senior Product Manager - Data Integrations",
-      "company": {
-        "id": "gitlab",
-        "name": "GitLab",
-        "logo": null,
-        "domain": "gitlab.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": null,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Enterprise",
-        "AI"
-      ],
-      "skills": [
-        "Analytics",
-        "Growth",
-        "Pricing",
-        "Platform",
-        "Data",
-        "Compliance"
-      ],
-      "tags": [
-        "SaaS",
-        "Enterprise",
-        "AI",
-        "Senior Product Manager",
-        "Onsite",
-        "Analytics",
-        "Growth",
-        "Pricing"
-      ],
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.\n\nThe same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software.\n\nFortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.\n\nAn overview of this role\n\nAs a Senior Product Manager for Data Integrations, you'll help GitLab's analytics and artificial intelligence (AI)",
-      "responsibilities": [
-        "Set integration priorities using evidence from customers, field teams, and other product managers to identify the biggest gaps in context.",
-        "Shape how external data maps into GitLab's shared data models, including the extract, transform, and load (ETL) approach and the transformations needed to make sources work together.",
-        "Define the customer problems and user groups each integration serves. Partner with engineering to agree on the intended experience, trade-offs, and delivery sequence.",
-        "Translate product decisions into a clear backlog of epics and issues for engineering.",
-        "Define telemetry and adoption signals to understand whether connected data helps customers answer new questions, and use those findings to guide priorities.",
-        "Help shape integration pricing and packaging as the product area matures.",
-        "Use AI coding agents and GitLab to explore data, prototype integrations, and document the intended experience."
-      ],
-      "requirements": [
-        "Product management experience, with the ability to connect customer needs to priorities and make trade-offs with incomplete information.",
-        "Strong knowledge of the software development and operations (DevOps) ecosystem, including how planning, security, observability, and IT service management tools fit into engineering workflows.",
-        "A working understanding of data integration, ETL, and data transformation, including how data from different systems maps to a common model. You don't need a background as a data engineer.",
-        "Comfort using AI tools for prototyping and documentation as part of your product work.",
-        "Clear communication about customer problems, close collaboration with engineering, and a habit of using data to evaluate adoption.",
-        "Experience with integration products, data models, or value stream analytics is helpful, but isn't required."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · GitLab",
-      "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8905040002",
-      "postedAt": "2026-11-02",
-      "firstSeenAt": "2026-11-02",
-      "lastSeenAt": "2026-11-24",
-      "status": "Active"
-    },
-    {
       "id": "job_8d6141",
       "slug": "senior-product-manager-domains-godaddy-india-8d6141",
       "title": "Senior Product Manager - Domains",
@@ -65524,6 +65455,70 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/source-to-pay-product-manager-at-boston-consulting-group-bcg-4485473785",
       "postedAt": "2026-11-02",
       "firstSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-24",
+      "status": "Active"
+    },
+    {
+      "id": "job_16cf95",
+      "slug": "sr-product-manager-data-integrations-gitlab-bengaluru-16cf95",
+      "title": "Sr Product Manager - Data Integrations",
+      "company": {
+        "id": "gitlab",
+        "name": "Gitlab",
+        "logo": null,
+        "domain": "gitlab.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [
+        "AI"
+      ],
+      "skills": [
+        "Analytics",
+        "Pricing",
+        "Platform",
+        "Data"
+      ],
+      "tags": [
+        "AI",
+        "Senior Product Manager",
+        "Onsite",
+        "Analytics",
+        "Pricing",
+        "Platform",
+        "Data"
+      ],
+      "description": "Job Summary\n\nAn overview of this role. As a Senior Product Manager for Data Integrations, youll help GitLabs analytics and artificial intelligence (AI) agents see beyond the data held in GitLab. Youll decide which external systems connect to the Data Insights Platform and Orbit, which integrations come first, and how their data fits into shared models.\n\nEngineering teams plan work, track incidents, monitor production, and manage security findings across different tools. Your challenge is to bring that context together with GitLabs code, merge requests, pipelines, deployments, and vulnerabilities. Youll shape a consistent approach that gives customers a trustworthy picture they can query, report on, and use with agents, rather than another set of disconnected data sources.\n\nThis role is based in Bangalore, India. Youll work from home and come to the Bangalore office when needed for business or team activities. You should be based in Bangalore or willing to relocate there.",
+      "responsibilities": [
+        "Set integration priorities using evidence from customers, field teams, and other product managers to identify the biggest gaps in context.",
+        "Shape how external data maps into GitLabs shared data models, including the extract, transform, and load (ETL) approach and the transformations needed to make sources work together.",
+        "Define the customer problems and user groups each integration serves. Partner with engineering to agree on the intended experience, trade-offs, and delivery sequence.",
+        "Translate product decisions into a clear backlog of epics and issues for engineering.",
+        "Define telemetry and adoption signals to understand whether connected data helps customers answer new questions, and use those findings to guide priorities.",
+        "Help shape integration pricing and packaging as the product area matures.",
+        "Use AI coding agents and GitLab to explore data, prototype integrations, and document the intended experience."
+      ],
+      "requirements": [
+        "Product management experience, with the ability to connect customer needs to priorities and make trade-offs with incomplete information.",
+        "Strong knowledge of the software development and operations (DevOps) ecosystem, including how planning, security, observability, and IT service management tools fit into engineering workflows.",
+        "A working understanding of data integration, ETL, and data transformation, including how data from different systems maps to a common model. You dont need a background as a data engineer.",
+        "Comfort using AI tools for prototyping and documentation as part of your product work.",
+        "Clear communication about customer problems, close collaboration with engineering, and a habit of using data to evaluate adoption.",
+        "Experience with integration products, data models, or value stream analytics is helpful, but isnt required."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Naukri",
+      "applyUrl": "https://www.naukri.com/job-listings-sr-product-manager-data-integrations-gitlab-bengaluru-7-to-12-years-031126501703",
+      "postedAt": "2026-11-02",
+      "firstSeenAt": "2026-11-02",
       "lastSeenAt": "2026-11-24",
       "status": "Active"
     },
@@ -119342,55 +119337,42 @@
       },
       "workMode": "Onsite",
       "employmentType": "Full Time",
-      "experienceLevel": "Product Manager",
-      "experienceMin": null,
-      "experienceMax": null,
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": 6,
       "domain": [
         "Fintech",
         "SaaS"
       ],
       "skills": [
+        "SQL",
         "Go-to-Market",
+        "Pricing",
         "API",
         "Platform",
         "Data",
         "Payments",
         "Fraud",
-        "Onboarding"
+        "Onboarding",
+        "Stakeholder Management"
       ],
       "tags": [
         "Fintech",
         "SaaS",
-        "Product Manager",
+        "Senior Product Manager",
         "Onsite",
+        "SQL",
         "Go-to-Market",
-        "API",
-        "Platform",
-        "Data"
+        "Pricing",
+        "API"
       ],
       "description": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we’ve since grown into a fintech powerhouse driving India’s digital payment revolution.\n\nRazorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow.\n\nFrom building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech\n\nAcross India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that’s redefining how money moves across Asia.\n\nToday, that ecosystem supports everyone from early-stage startups to some of India’s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently.\n\nOur scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like",
-      "responsibilities": [
-        "Build Customer Empathy: PMs have to regularly meet and understand customer needs first-hand as well as stay on top of the customer pulse via secondary insights - both qualitative and quantitative.",
-        "Devise Strategy: Define both long-term strategy and quarterly roadmap to achieve the product vision and create impact.",
-        "Conceptualize new solutions: Product Conceptualization with a problem first, data-driven, and test & iterate approach. Ensures conceptualization from a platform and a long-term view. Ensures value-based prioritization of product initiatives.",
-        "Build products: Collaborate with Engineering and ecosystem players to build products that customers love. Produce high-quality product specifications and effectively prioritize and manage the scope of each product launch to deliver products and features on time.",
-        "Launch products: Draft and execute a go-to-market plan in conjunction with Product Marketing. Be the internal and external authority and advocate for your given area of focus.",
-        "Ecosystem collaboration: Self-starter to collaborate closely with ecosystem players to co-build products that don’t exist.",
-        "Mandatory"
-      ],
-      "requirements": [
-        "You understand technology, but love customer-first & business-first thinking.",
-        "You are comfortable working hands-on in a fast-paced start-up environment.",
-        "You are curious about metrics, execution processes, macro trends.",
-        "Problem-solving and detail orientation come naturally to you.",
-        "You have an analytical and data-driven approach in day-to-day work. Energetic self-starter with the ability to work independently in a fast-paced environment.",
-        "Razorpay believes in and follows an equal employment opportunity policy that doesn't discriminate on gender, religion, sexual orientation, colour, nationality, age, etc. We welcome interests and applications from all groups and communities across the globe.",
-        "Follow us on LinkedIn & Twitter"
-      ],
+      "responsibilities": [],
+      "requirements": [],
       "preferred": [],
       "salary": null,
       "source": "Greenhouse · Razorpay",
-      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
+      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
       "postedAt": "2026-09-07",
       "firstSeenAt": "2026-09-10T09:04:56.856Z",
       "lastSeenAt": "2026-11-24",
@@ -119451,84 +119433,6 @@
       "applyUrl": "https://jobs.lever.co/paytm/5dbd7403-b047-48e1-b433-574933914ff3",
       "postedAt": "2026-09-06",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-11-24",
-      "status": "Active"
-    },
-    {
-      "id": "job_a4f741",
-      "slug": "senior-product-manager-sap-fico-zoominfo-chennai-a4f741",
-      "title": "Senior Product Manager - SAP FICO",
-      "company": {
-        "id": "zoominfo",
-        "name": "ZoomInfo",
-        "logo": null,
-        "domain": "zoominfo.com"
-      },
-      "location": {
-        "city": "Chennai",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 10,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Fintech",
-        "Enterprise"
-      ],
-      "skills": [
-        "Go-to-Market",
-        "API",
-        "Platform",
-        "Data",
-        "B2B",
-        "Agile"
-      ],
-      "tags": [
-        "SaaS",
-        "Fintech",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Go-to-Market",
-        "API",
-        "Platform"
-      ],
-      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
-      "responsibilities": [
-        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
-        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
-        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
-        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
-        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
-        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
-        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
-        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
-        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
-        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
-      ],
-      "requirements": [
-        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
-        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
-        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
-        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
-        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
-        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
-        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
-        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
-        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
-        "SAP Certification in Finance or a related SAP discipline.",
-        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
-        "Experience in high-tech, SaaS, software, or Finance transformation programs."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · ZoomInfo",
-      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8733078002",
-      "postedAt": "2026-09-05",
-      "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-11-24",
       "status": "Active"
     },
@@ -119605,6 +119509,84 @@
       "salary": null,
       "source": "Greenhouse · ZoomInfo",
       "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
+      "postedAt": "2026-09-05",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-11-24",
+      "status": "Active"
+    },
+    {
+      "id": "job_a4f741",
+      "slug": "senior-product-manager-sap-fico-zoominfo-chennai-a4f741",
+      "title": "Senior Product Manager - SAP FICO",
+      "company": {
+        "id": "zoominfo",
+        "name": "ZoomInfo",
+        "logo": null,
+        "domain": "zoominfo.com"
+      },
+      "location": {
+        "city": "Chennai",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "API",
+        "Platform",
+        "Data",
+        "B2B",
+        "Agile"
+      ],
+      "tags": [
+        "SaaS",
+        "Fintech",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "API",
+        "Platform"
+      ],
+      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
+      "responsibilities": [
+        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
+        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
+        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
+        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
+        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
+        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
+        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
+        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
+        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
+        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
+      ],
+      "requirements": [
+        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
+        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
+        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
+        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
+        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
+        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
+        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
+        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
+        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
+        "SAP Certification in Finance or a related SAP discipline.",
+        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
+        "Experience in high-tech, SaaS, software, or Finance transformation programs."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · ZoomInfo",
+      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8733078002",
       "postedAt": "2026-09-05",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-11-24",
@@ -121713,8 +121695,7 @@
       "experienceMin": 5,
       "experienceMax": null,
       "domain": [
-        "SaaS",
-        "Enterprise"
+        "SaaS"
       ],
       "skills": [
         "Product Strategy",
@@ -121724,7 +121705,6 @@
       ],
       "tags": [
         "SaaS",
-        "Enterprise",
         "Senior Product Manager",
         "Onsite",
         "Product Strategy",
@@ -121737,8 +121717,8 @@
       "requirements": [],
       "preferred": [],
       "salary": null,
-      "source": "Ashby · Josys",
-      "applyUrl": "https://jobs.ashbyhq.com/josys/6f88d5de-acdb-42c9-9c7b-da2a3c916b05",
+      "source": "LinkedIn",
+      "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-at-josys-4477061371",
       "postedAt": "2026-04-01",
       "firstSeenAt": "2026-09-10",
       "lastSeenAt": "2026-11-24",
@@ -134639,8 +134619,8 @@
       "companySize": "1000-5000",
       "description": "ZoomInfo is a saas company hiring product managers in India.",
       "locations": [
-        "Chennai",
-        "Bengaluru"
+        "Bengaluru",
+        "Chennai"
       ]
     },
     {
