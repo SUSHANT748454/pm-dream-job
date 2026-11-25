@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T10:01:34.780Z",
+  "generatedAt": "2026-11-25T15:13:32.756Z",
   "jobs": [
     {
       "id": "job_e327d3",
@@ -947,6 +947,73 @@
       "salary": null,
       "source": "Indeed",
       "applyUrl": "https://systango.keka.com/careers/jobdetails/171495?source=indeed%20job%20posts",
+      "postedAt": "2026-11-25",
+      "firstSeenAt": "2026-11-25",
+      "lastSeenAt": "2026-11-25",
+      "status": "Active"
+    },
+    {
+      "id": "job_200b86",
+      "slug": "product-manager-ii-ai-razorpay-bengaluru-200b86",
+      "title": "Product Manager II - AI",
+      "company": {
+        "id": "razorpay",
+        "name": "Razorpay",
+        "logo": null,
+        "domain": "razorpay.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
+      "experienceMax": 6,
+      "domain": [
+        "Fintech",
+        "SaaS",
+        "AI"
+      ],
+      "skills": [
+        "Growth",
+        "API",
+        "Platform",
+        "Data",
+        "Payments",
+        "Fraud"
+      ],
+      "tags": [
+        "Fintech",
+        "SaaS",
+        "AI",
+        "Product Manager",
+        "Onsite",
+        "Growth",
+        "API",
+        "Platform"
+      ],
+      "description": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we’ve since grown into a fintech powerhouse driving India’s digital payment revolution.\n\nRazorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow.\n\nFrom building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech\n\nAcross India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that’s redefining how money moves across Asia.\n\nToday, that ecosystem supports everyone from early-stage startups to some of India’s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently.\n\nOur scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like",
+      "responsibilities": [
+        "Own a product or feature end-to-end: scope the problem, build it, put it in front of users.",
+        "Talk to customers (merchants, internal teams) directly and turn raw pain into a shippable solution, not a spec.",
+        "Prototype in hours, ship in days. Move across frontend, backend, data and LLM orchestration based on what the problem needs, not your title.",
+        "Build AI into the product (agents, evals, guardrails, feedback loops), not just use AI to build it.",
+        "Take it to market: drive adoption, instrument the funnel, and own the outcome metric.",
+        "Raise the bar for AI-native working: share skills, MCPs, workflows and playbooks that make the whole team faster.",
+        "You are a fit if you",
+        "Ask \"why\" before \"how\". You start from the customer problem, and can say what you would not build.",
+        "Have",
+        "3–6 years",
+        "shipping software as a technical PM, product engineer or similar, with a track record of",
+        "shipping, not just building"
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · Razorpay",
+      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4750360005",
       "postedAt": "2026-11-25",
       "firstSeenAt": "2026-11-25",
       "lastSeenAt": "2026-11-25",
@@ -10417,6 +10484,64 @@
       "status": "Active"
     },
     {
+      "id": "job_9b6633",
+      "slug": "product-management-risk-product-paytm-bengaluru-9b6633",
+      "title": "Product Management – Risk Product",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Product Manager",
+      "experienceMin": 3,
+      "experienceMax": 5,
+      "domain": [
+        "Fintech",
+        "Consumer",
+        "AI"
+      ],
+      "skills": [
+        "Product Strategy",
+        "Analytics",
+        "Platform",
+        "Data",
+        "Mobile",
+        "iOS",
+        "Payments",
+        "Fraud",
+        "Onboarding",
+        "Stakeholder Management"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "AI",
+        "Product Manager",
+        "Onsite",
+        "Product Strategy",
+        "Analytics",
+        "Platform"
+      ],
+      "description": "About Us: Paytm is India's leading mobile payments and financial services company and the pioneer of mobile QR payments. Our mission is to bring half a billion Indians into the mainstream economy through technology. About the role: Paytm is expanding into merchant payments in Europe, and",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/d08cc291-90b4-47bb-8300-59cc2011b662",
+      "postedAt": "2026-11-20",
+      "firstSeenAt": "2026-11-25",
+      "lastSeenAt": "2026-11-25",
+      "status": "Active"
+    },
+    {
       "id": "job_b6b5e6",
       "slug": "product-manager-confidential-mumbai-b6b5e6",
       "title": "Product Manager",
@@ -17793,64 +17918,6 @@
       "status": "Active"
     },
     {
-      "id": "job_755570",
-      "slug": "senior-product-manager-core-product-experience-inmobi-bengaluru-755570",
-      "title": "Senior Product Manager - Core Product Experience",
-      "company": {
-        "id": "inmobi",
-        "name": "InMobi",
-        "logo": null,
-        "domain": "inmobi.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 6,
-      "experienceMax": null,
-      "domain": [
-        "AI",
-        "Consumer",
-        "Fintech"
-      ],
-      "skills": [
-        "Pricing",
-        "API",
-        "Platform",
-        "Data",
-        "Machine Learning",
-        "Mobile",
-        "B2B",
-        "Onboarding",
-        "Supply",
-        "Demand"
-      ],
-      "tags": [
-        "AI",
-        "Consumer",
-        "Fintech",
-        "Senior Product Manager",
-        "Onsite",
-        "Pricing",
-        "API",
-        "Platform"
-      ],
-      "description": "InMobi (Corporate)\n\nInMobi Group is a global technology company shaping the future of agentic commerce and advertising. Through its ecosystem of businesses — including InMobi Advertising and flagship consumer platform Glance — InMobi leverages data, machine learning, and generative AI to help brands reach audiences more precisely and consumers discover products more intuitively. Glance, which is pioneering new models of agentic commerce, is owned and operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of InMobi Pte. Ltd.\n\nInMobi Advertising\n\nInMobi Advertising, part of global technology company InMobi, is an agentic advertising platform helping brands and merchants achieve their business outcomes. Through its proprietary intelligence, AI-led solutions, and vast consumer reach — including flagship consumer platform Glance — InMobi Advertising delivers the omnichannel performance defining what's next in advertising and commerce. Glance is owned and operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of InMobi Pte. Ltd. To learn more, visit advertising.inmobi.com.\n\nGlance\n\nGlance is an intelligent shopping agent, redefining the commerce experience. Powered by proprietary agentic intelligence and generative AI, Glance delivers a hyper-personalized consumer experience across mobile and TV — shaping the new era of shopping. Glance is operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of global technology leader InMobi, and is backed by",
-      "responsibilities": [],
-      "requirements": [],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · InMobi",
-      "applyUrl": "https://job-boards.greenhouse.io/inmobi/jobs/8358144",
-      "postedAt": "2026-11-19",
-      "firstSeenAt": "2026-11-19",
-      "lastSeenAt": "2026-11-25",
-      "status": "Active"
-    },
-    {
       "id": "job_1e3fdd",
       "slug": "senior-product-manager-core-product-experience-inmobi-india-1e3fdd",
       "title": "Senior Product Manager - Core Product Experience",
@@ -17985,64 +18052,6 @@
       "status": "Active"
     },
     {
-      "id": "job_bbb9a8",
-      "slug": "senior-product-manager-monetisation-payments-inmobi-bengaluru-bbb9a8",
-      "title": "Senior Product Manager - Monetisation & Payments",
-      "company": {
-        "id": "inmobi",
-        "name": "InMobi",
-        "logo": null,
-        "domain": "inmobi.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 6,
-      "experienceMax": null,
-      "domain": [
-        "Fintech",
-        "AI",
-        "Ecommerce"
-      ],
-      "skills": [
-        "API",
-        "Platform",
-        "Data",
-        "Machine Learning",
-        "Mobile",
-        "B2B",
-        "Payments",
-        "Onboarding",
-        "Retention",
-        "Marketplace"
-      ],
-      "tags": [
-        "Fintech",
-        "AI",
-        "Ecommerce",
-        "Senior Product Manager",
-        "Onsite",
-        "API",
-        "Platform",
-        "Data"
-      ],
-      "description": "InMobi (Corporate)\n\nInMobi Group is a global technology company shaping the future of agentic commerce and advertising. Through its ecosystem of businesses — including InMobi Advertising and flagship consumer platform Glance — InMobi leverages data, machine learning, and generative AI to help brands reach audiences more precisely and consumers discover products more intuitively. Glance, which is pioneering new models of agentic commerce, is owned and operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of InMobi Pte. Ltd.\n\nInMobi Advertising\n\nInMobi Advertising, part of global technology company InMobi, is an agentic advertising platform helping brands and merchants achieve their business outcomes. Through its proprietary intelligence, AI-led solutions, and vast consumer reach — including flagship consumer platform Glance — InMobi Advertising delivers the omnichannel performance defining what's next in advertising and commerce. Glance is owned and operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of InMobi Pte. Ltd. To learn more, visit advertising.inmobi.com.\n\nGlance\n\nGlance is an intelligent shopping agent, redefining the commerce experience. Powered by proprietary agentic intelligence and generative AI, Glance delivers a hyper-personalized consumer experience across mobile and TV — shaping the new era of shopping. Glance is operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of global technology leader InMobi, and is backed by",
-      "responsibilities": [],
-      "requirements": [],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · InMobi",
-      "applyUrl": "https://job-boards.greenhouse.io/inmobi/jobs/8358188",
-      "postedAt": "2026-11-19",
-      "firstSeenAt": "2026-11-19",
-      "lastSeenAt": "2026-11-25",
-      "status": "Active"
-    },
-    {
       "id": "job_caff50",
       "slug": "senior-product-manager-monetisation-payments-inmobi-india-caff50",
       "title": "Senior Product Manager - Monetisation & Payments",
@@ -18155,64 +18164,6 @@
       "applyUrl": "https://in.linkedin.com/jobs/view/senior-product-manager-monetisation-payments-at-inmobi-advertising-4492409937",
       "postedAt": "2026-11-19",
       "firstSeenAt": "2026-11-22",
-      "lastSeenAt": "2026-11-25",
-      "status": "Active"
-    },
-    {
-      "id": "job_9486d5",
-      "slug": "senior-product-manager-onboarding-activation-inmobi-bengaluru-9486d5",
-      "title": "Senior Product Manager - Onboarding & Activation",
-      "company": {
-        "id": "inmobi",
-        "name": "InMobi",
-        "logo": null,
-        "domain": "inmobi.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 6,
-      "experienceMax": null,
-      "domain": [
-        "AI",
-        "Consumer",
-        "Ecommerce"
-      ],
-      "skills": [
-        "Experimentation",
-        "SQL",
-        "Analytics",
-        "Growth",
-        "Monetization",
-        "API",
-        "Platform",
-        "Data",
-        "Machine Learning",
-        "Mobile"
-      ],
-      "tags": [
-        "AI",
-        "Consumer",
-        "Ecommerce",
-        "Senior Product Manager",
-        "Onsite",
-        "Experimentation",
-        "SQL",
-        "Analytics"
-      ],
-      "description": "InMobi (Corporate)\n\nInMobi Group is a global technology company shaping the future of agentic commerce and advertising. Through its ecosystem of businesses — including InMobi Advertising and flagship consumer platform Glance — InMobi leverages data, machine learning, and generative AI to help brands reach audiences more precisely and consumers discover products more intuitively. Glance, which is pioneering new models of agentic commerce, is owned and operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of InMobi Pte. Ltd.\n\nInMobi Advertising\n\nInMobi Advertising, part of global technology company InMobi, is an agentic advertising platform helping brands and merchants achieve their business outcomes. Through its proprietary intelligence, AI-led solutions, and vast consumer reach — including flagship consumer platform Glance — InMobi Advertising delivers the omnichannel performance defining what's next in advertising and commerce. Glance is owned and operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of InMobi Pte. Ltd. To learn more, visit advertising.inmobi.com.\n\nGlance\n\nGlance is an intelligent shopping agent, redefining the commerce experience. Powered by proprietary agentic intelligence and generative AI, Glance delivers a hyper-personalized consumer experience across mobile and TV — shaping the new era of shopping. Glance is operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of global technology leader InMobi, and is backed by",
-      "responsibilities": [],
-      "requirements": [],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · InMobi",
-      "applyUrl": "https://job-boards.greenhouse.io/inmobi/jobs/8358196",
-      "postedAt": "2026-11-19",
-      "firstSeenAt": "2026-11-19",
       "lastSeenAt": "2026-11-25",
       "status": "Active"
     },
@@ -18672,6 +18623,183 @@
       "applyUrl": "https://www.naukri.com/job-listings-sr-product-manager-deservely-hyderabad-6-to-10-years-191126500696",
       "postedAt": "2026-11-19",
       "firstSeenAt": "2026-11-22",
+      "lastSeenAt": "2026-11-25",
+      "status": "Active"
+    },
+    {
+      "id": "job_755570",
+      "slug": "sr-product-manager-core-product-experience-inmobi-bengaluru-755570",
+      "title": "Sr Product Manager - Core Product Experience",
+      "company": {
+        "id": "inmobi",
+        "name": "Inmobi",
+        "logo": null,
+        "domain": "inmobi.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 6,
+      "experienceMax": null,
+      "domain": [
+        "AI",
+        "Fintech",
+        "Ecommerce"
+      ],
+      "skills": [
+        "Pricing",
+        "API",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "Mobile",
+        "B2B",
+        "Onboarding",
+        "Supply",
+        "Demand"
+      ],
+      "tags": [
+        "AI",
+        "Fintech",
+        "Ecommerce",
+        "Senior Product Manager",
+        "Onsite",
+        "Pricing",
+        "API",
+        "Platform"
+      ],
+      "description": "InMobi (Corporate)\n\nInMobi Group is a global technology company shaping the future of agentic commerce and advertising. Through its ecosystem of businesses - including InMobi Advertising and flagship consumer platform Glance",
+      "responsibilities": [
+        "InMobi leverages data, machine learning, and generative AI to help brands reach audiences more precisely and consumers discover products more intuitively. Glance, which is pioneering new models of agentic commerce, is owned and operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of InMobi Pte. Ltd.",
+        "InMobi Advertising",
+        "InMobi Advertising, part of global technology company InMobi, is an agentic advertising platform helping brands and merchants achieve their business outcomes. Through its proprietary intelligence, AI-led solutions, and vast consumer reach - including flagship consumer platform Glance",
+        "InMobi Advertising delivers the omnichannel performance defining whats next in advertising and commerce. Glance is owned and operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of InMobi Pte. Ltd. To learn more, visit advertising.inmobi.com.",
+        "Glance",
+        "Glance is an intelligent shopping agent, redefining the commerce experience. Powered by proprietary agentic intelligence and generative AI, Glance delivers a hyper-personalized consumer experience across mobile and TV - shaping the new era of shopping. Glance is operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of global technology leader InMobi, and is backed by Mithril Capital, Google and Jio Platforms. To learn more, visit glance.com."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Naukri",
+      "applyUrl": "https://www.naukri.com/job-listings-sr-product-manager-core-product-experience-inmobi-solutions-pvt-ltd-bengaluru-6-to-11-years-201126502706",
+      "postedAt": "2026-11-19",
+      "firstSeenAt": "2026-11-19",
+      "lastSeenAt": "2026-11-25",
+      "status": "Active"
+    },
+    {
+      "id": "job_bbb9a8",
+      "slug": "sr-product-manager-monetisation-payments-inmobi-bengaluru-bbb9a8",
+      "title": "Sr Product Manager - Monetisation & Payments",
+      "company": {
+        "id": "inmobi",
+        "name": "Inmobi",
+        "logo": null,
+        "domain": "inmobi.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 6,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "AI",
+        "Ecommerce"
+      ],
+      "skills": [
+        "API",
+        "Platform",
+        "Data",
+        "Machine Learning",
+        "Mobile",
+        "B2B",
+        "Payments",
+        "Onboarding",
+        "Retention",
+        "Marketplace"
+      ],
+      "tags": [
+        "Fintech",
+        "AI",
+        "Ecommerce",
+        "Senior Product Manager",
+        "Onsite",
+        "API",
+        "Platform",
+        "Data"
+      ],
+      "description": "InMobi (Corporate)\n\nInMobi Group is a global technology company shaping the future of agentic commerce and advertising. Through its ecosystem of businesses - including InMobi Advertising and flagship consumer platform Glance",
+      "responsibilities": [
+        "InMobi leverages data, machine learning, and generative AI to help brands reach audiences more precisely and consumers discover products more intuitively. Glance, which is pioneering new models of agentic commerce, is owned and operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of InMobi Pte. Ltd.",
+        "InMobi Advertising",
+        "InMobi Advertising, part of global technology company InMobi, is an agentic advertising platform helping brands and merchants achieve their business outcomes. Through its proprietary intelligence, AI-led solutions, and vast consumer reach - including flagship consumer platform Glance",
+        "InMobi Advertising delivers the omnichannel performance defining whats next in advertising and commerce. Glance is owned and operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of InMobi Pte. Ltd. To learn more, visit advertising.inmobi.com.",
+        "Glance",
+        "Glance is an intelligent shopping agent, redefining the commerce experience. Powered by proprietary agentic intelligence and generative AI, Glance delivers a hyper-personalized consumer experience across mobile and TV - shaping the new era of shopping. Glance is operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of global technology leader InMobi, and is backed by Mithril Capital, Google and Jio Platforms. To learn more, visit glance.com."
+      ],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Naukri",
+      "applyUrl": "https://www.naukri.com/job-listings-sr-product-manager-monetisation-payments-inmobi-solutions-pvt-ltd-bengaluru-6-to-11-years-201126504560",
+      "postedAt": "2026-11-19",
+      "firstSeenAt": "2026-11-19",
+      "lastSeenAt": "2026-11-25",
+      "status": "Active"
+    },
+    {
+      "id": "job_9486d5",
+      "slug": "sr-product-manager-onboarding-activation-inmobi-bengaluru-9486d5",
+      "title": "Sr Product Manager - Onboarding & Activation",
+      "company": {
+        "id": "inmobi",
+        "name": "Inmobi",
+        "logo": null,
+        "domain": "inmobi.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": null,
+      "experienceMax": null,
+      "domain": [],
+      "skills": [
+        "Growth",
+        "Platform",
+        "Data",
+        "Onboarding",
+        "Demand"
+      ],
+      "tags": [
+        "Senior Product Manager",
+        "Onsite",
+        "Growth",
+        "Platform",
+        "Data",
+        "Onboarding"
+      ],
+      "description": "This role sits on the demand side,reporting to the Group Product Manager for Customer Experience Core. .\n\nAbout the Role: You will own Accelerate s growth engine: getting every advertiser from first visit to a live,performing campaign,and keeping them coming back\n\nExperience with ad-platform account linking,OAuth integrations,or migrating users and data from a competing product.",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Naukri",
+      "applyUrl": "https://www.naukri.com/job-listings-sr-product-manager-onboarding-activation-inmobi-solutions-pvt-ltd-bengaluru-6-to-11-years-201126502693",
+      "postedAt": "2026-11-19",
+      "firstSeenAt": "2026-11-19",
       "lastSeenAt": "2026-11-25",
       "status": "Active"
     },
@@ -129367,37 +129495,55 @@
       "workMode": "Onsite",
       "employmentType": "Full Time",
       "experienceLevel": "Senior Product Manager",
-      "experienceMin": 5,
-      "experienceMax": 6,
+      "experienceMin": 4,
+      "experienceMax": null,
       "domain": [
         "Fintech",
         "SaaS"
       ],
       "skills": [
-        "SQL",
         "Go-to-Market",
-        "Pricing",
         "API",
         "Platform",
         "Data",
         "Payments",
-        "Fraud",
-        "Onboarding",
-        "Stakeholder Management"
+        "Fraud"
       ],
       "tags": [
         "Fintech",
         "SaaS",
         "Senior Product Manager",
         "Onsite",
-        "SQL",
         "Go-to-Market",
-        "Pricing",
-        "API"
+        "API",
+        "Platform",
+        "Data"
       ],
       "description": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we’ve since grown into a fintech powerhouse driving India’s digital payment revolution.\n\nRazorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow.\n\nFrom building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech\n\nAcross India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that’s redefining how money moves across Asia.\n\nToday, that ecosystem supports everyone from early-stage startups to some of India’s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently.\n\nOur scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like",
-      "responsibilities": [],
-      "requirements": [],
+      "responsibilities": [
+        "Having built strong foundations in India, we now operate across multiple international markets and are expanding into new ones. International Payments (i18n) takes Razorpay’s products into these markets: local payment methods, cross-border flows, and the partnerships with banks, wallets and schemes that make them work — on top of a platform and systems layer that has to be rebuilt for each market’s rails, currency, regulation and settlement cycle. Much of this is 0 to 1 work. You will be deciding what to build, building it with engineering, taking it to merchants, and growing it. There is no running playbook to inherit. You will write it.",
+        "This is a builder role as much as a product role. In a new market, Razorpay has no brand recall and few relationships, so you will open doors yourself: reach out to merchants, banks, wallets and partners, earn their trust from scratch, and turn those conversations into products they adopt. And because a new market means new rails, you will also own the systems underneath — the APIs, ledger, settlement and reconciliation machinery that every downstream product depends on.",
+        "What you will own",
+        "Build Customer Empathy: PMs have to regularly meet and understand customer needs first-hand as well as stay on top of the customer pulse via secondary insights - both qualitative and quantitative.",
+        "Devise Strategy: Define both long-term strategy and quarterly roadmap to achieve the product vision and create impact.",
+        "Conceptualize new solutions: Product Conceptualization with a problem first, data-driven, and test & iterate approach. Ensures conceptualization from a platform and a long-term view. Ensures value-based prioritization of product initiatives.",
+        "Build products: Collaborate with Engineering and ecosystem players to build products that customers love. Produce high-quality product specifications and effectively prioritize and manage the scope of each product launch to deliver products and features on time.",
+        "Launch products: Draft and execute a go-to-market plan in conjunction with Product Marketing. Be the internal and external authority and advocate for your given area of focus.",
+        "Ecosystem collaboration: Self-starter to collaborate closely with ecosystem players to co-build products that don’t exist",
+        "Business focus: Build business strategy around ecosystem product that would define the success for the Razorpay and the Ecosystem players",
+        "Mandatory"
+      ],
+      "requirements": [
+        "You understand technology, but love customer-first & business-first thinking.",
+        "You are comfortable working hands-on in a fast-paced start-up environment.",
+        "You are curious about metrics, execution processes, macro trends.",
+        "Problem-solving and detail orientation come naturally to you.",
+        "You have an analytical and data-driven approach in day-to-day work. Energetic self-starter with the ability to work independently in a fast-paced environment.",
+        "You are entrepreneurial and have the hunger to solve problems end-2-end.",
+        "You have at least 4 years of experience in Product Management.",
+        "Razorpay believes in and follows an equal employment opportunity policy that doesn't discriminate on gender, religion, sexual orientation, colour, nationality, age, etc. We welcome interests and applications from all groups and communities across the globe.",
+        "Follow us on LinkedIn & Twitter"
+      ],
       "preferred": [],
       "salary": null,
       "source": "Greenhouse · Razorpay",
@@ -129462,84 +129608,6 @@
       "applyUrl": "https://jobs.lever.co/paytm/5dbd7403-b047-48e1-b433-574933914ff3",
       "postedAt": "2026-09-06",
       "firstSeenAt": "2026-09-17",
-      "lastSeenAt": "2026-11-25",
-      "status": "Active"
-    },
-    {
-      "id": "job_aeae06",
-      "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
-      "title": "Senior Product Manager - SAP FICO",
-      "company": {
-        "id": "zoominfo",
-        "name": "ZoomInfo",
-        "logo": null,
-        "domain": "zoominfo.com"
-      },
-      "location": {
-        "city": "Bengaluru",
-        "country": "India"
-      },
-      "workMode": "Onsite",
-      "employmentType": "Full Time",
-      "experienceLevel": "Senior Product Manager",
-      "experienceMin": 10,
-      "experienceMax": null,
-      "domain": [
-        "SaaS",
-        "Fintech",
-        "Enterprise"
-      ],
-      "skills": [
-        "Go-to-Market",
-        "API",
-        "Platform",
-        "Data",
-        "B2B",
-        "Agile"
-      ],
-      "tags": [
-        "SaaS",
-        "Fintech",
-        "Enterprise",
-        "Senior Product Manager",
-        "Onsite",
-        "Go-to-Market",
-        "API",
-        "Platform"
-      ],
-      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
-      "responsibilities": [
-        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
-        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
-        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
-        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
-        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
-        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
-        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
-        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
-        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
-        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
-      ],
-      "requirements": [
-        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
-        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
-        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
-        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
-        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
-        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
-        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
-        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
-        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
-        "SAP Certification in Finance or a related SAP discipline.",
-        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
-        "Experience in high-tech, SaaS, software, or Finance transformation programs."
-      ],
-      "preferred": [],
-      "salary": null,
-      "source": "Greenhouse · ZoomInfo",
-      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
-      "postedAt": "2026-09-05",
-      "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-11-25",
       "status": "Active"
     },
@@ -129616,6 +129684,84 @@
       "salary": null,
       "source": "Greenhouse · ZoomInfo",
       "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8733078002",
+      "postedAt": "2026-09-05",
+      "firstSeenAt": "2026-09-13",
+      "lastSeenAt": "2026-11-25",
+      "status": "Active"
+    },
+    {
+      "id": "job_aeae06",
+      "slug": "senior-product-manager-sap-fico-zoominfo-bengaluru-aeae06",
+      "title": "Senior Product Manager - SAP FICO",
+      "company": {
+        "id": "zoominfo",
+        "name": "ZoomInfo",
+        "logo": null,
+        "domain": "zoominfo.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 10,
+      "experienceMax": null,
+      "domain": [
+        "SaaS",
+        "Fintech",
+        "Enterprise"
+      ],
+      "skills": [
+        "Go-to-Market",
+        "API",
+        "Platform",
+        "Data",
+        "B2B",
+        "Agile"
+      ],
+      "tags": [
+        "SaaS",
+        "Fintech",
+        "Enterprise",
+        "Senior Product Manager",
+        "Onsite",
+        "Go-to-Market",
+        "API",
+        "Platform"
+      ],
+      "description": "ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen fast.\n\nRole Description:\n\nOwn the strategy, roadmap, architecture, and delivery of the SAP S/4HANA Finance platform, with prima ry responsibility for Record-to-Report (RTR), Procure-to-Pay (PTP), General Ledger, Accounts Payable, Asset Accounting, Banking, and Financial Reporting. Partner with Finance, Accounting, Procurement, Engineering, and Enterprise Technology teams to deliver scalable, compliant, and efficient solutions. Serve as a senior product and solution leader who translates business priorities into technology outcomes while advancing AI-enabled Finance capabilities.",
+      "responsibilities": [
+        "Own the SAP Finance product vision, roadmap, backlog, prioritization, and investment recommen dations across RTR and PTP.",
+        "Lead requirements, process design, solution architecture, and delivery for SAP S/4HANA Finance, including GL, AP, Asset Accounting, Banking, financial close, reporting, and PTP capabilities.",
+        "Design and support Asset Accounting processes, including asset acquisition, capitalization, transfers, retirement/disposal, depreciation, impairment, and integration with the General Ledger.",
+        "Define current- and future-state architecture, identify portfolio gaps and overlaps, and establish scalable platform and integration strategies.",
+        "Lead integrations between SAP and enterprise applications, including Thomson Reuters OneSource Tax, using APIs, middleware, data flows, extensions, and appropriate monitoring.",
+        "Partner with GPOs, Finance leaders, Engineering, vendors, and implementation partners to drive delivery quality, issue resolution, governance, and operational stability.",
+        "Lead agile delivery teams, manage dependencies and risks, and ensure effective testing, deployment, documentation, and support.",
+        "Identify and implement AI and automation opportunities such as exception management, reconcilia tions, payment operations, Finance insights, and root-cause analysis, with appropriate human review, controls, security, and auditability.",
+        "Present roadmaps, solution options, risks, and investment proposals to executive stakeholders.",
+        "Stay current on SAP, Finance, integration, automation, and SaaS transformation trends and champion best-in-class solutions."
+      ],
+      "requirements": [
+        "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Finance, Accounting, or a related field.",
+        "10+ years of experience architecting and delivering SAP Finance solutions, including 5+ years with SAP S/4HANA.",
+        "Deep experience with SAP FI, including GL, AP, Asset Accounting, Banking, Financial Reporting, financial close, and RTR/PTP processes.",
+        "Hands-on experience with Asset Accounting configuration and end-to-end processes, including acquisition, capitalization, depreciation, transfers, retirement, impairment, and financial integration.",
+        "Experience with Thomson Reuters OneSource Tax integration with SAP, including tax determination, transaction data flows, tax posting, field mappings, and issue resolution.",
+        "Experience defining enterprise architecture, business capability maps, current-to-future-state roadmaps, and integration strategies.",
+        "Proven experience leading agile teams, managing product backlogs, partnering with business stake holders, and overseeing vendors or implementation partners.",
+        "Strong executive communication, solution design, troubleshooting, governance, and Finance controls experience.",
+        "Demonstrated ability to identify practical AI, automation, or data-driven opportunities that improve Finance productivity and quality.",
+        "SAP Certification in Finance or a related SAP discipline.",
+        "Experience with Accounts Receivable, SAP BRIM, FICA, Revenue Accounting and Reporting (RAR), or subscription-based Finance processes.",
+        "Experience in high-tech, SaaS, software, or Finance transformation programs."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Greenhouse · ZoomInfo",
+      "applyUrl": "https://www.zoominfo.com/careers?gh_jid=8725957002",
       "postedAt": "2026-09-05",
       "firstSeenAt": "2026-09-13",
       "lastSeenAt": "2026-11-25",
@@ -138268,8 +138414,8 @@
       "companySize": "1000-5000",
       "description": "InMobi is a adtech company hiring product managers in India.",
       "locations": [
-        "Bengaluru",
-        "India"
+        "India",
+        "Bengaluru"
       ]
     },
     {
@@ -145894,8 +146040,8 @@
       "companySize": "1000-5000",
       "description": "ZoomInfo is a saas company hiring product managers in India.",
       "locations": [
-        "Bengaluru",
-        "Chennai"
+        "Chennai",
+        "Bengaluru"
       ]
     },
     {
