@@ -1,6 +1,113 @@
 {
-  "generatedAt": "2026-11-26T02:35:16.445Z",
+  "generatedAt": "2026-11-26T14:38:38.346Z",
   "jobs": [
+    {
+      "id": "job_140fc1",
+      "slug": "growth-product-manager-cvm-paytm-delhi-ncr-140fc1",
+      "title": "Growth & Product Manager - CVM",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 5,
+      "experienceMax": 9,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Analytics",
+        "Growth",
+        "Monetization",
+        "Platform",
+        "Mobile",
+        "Payments",
+        "Retention",
+        "Segmentation"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Senior Product Manager",
+        "Onsite",
+        "Analytics",
+        "Growth",
+        "Monetization",
+        "Platform"
+      ],
+      "description": "About Paytm Group:\n\nPaytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology.",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/0df36bd7-bf94-4ab3-9457-2f937604066d",
+      "postedAt": "2026-11-26",
+      "firstSeenAt": "2026-11-26",
+      "lastSeenAt": "2026-11-26",
+      "status": "Active"
+    },
+    {
+      "id": "job_e4b67d",
+      "slug": "product-management-international-expansion-paytm-delhi-ncr-e4b67d",
+      "title": "Product Management- International Expansion.",
+      "company": {
+        "id": "paytm",
+        "name": "Paytm",
+        "logo": null,
+        "domain": "paytm.com"
+      },
+      "location": {
+        "city": "Delhi NCR",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Lead Product Manager",
+      "experienceMin": 7,
+      "experienceMax": null,
+      "domain": [
+        "Fintech",
+        "Consumer"
+      ],
+      "skills": [
+        "Mobile",
+        "Payments",
+        "Onboarding",
+        "Demand",
+        "Compliance"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer",
+        "Lead Product Manager",
+        "Onsite",
+        "Mobile",
+        "Payments",
+        "Onboarding",
+        "Demand"
+      ],
+      "description": "About Paytm: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. Role Overview: We are looking for a Senior Product Manager to own and scale Paytm's International Expansion charter. This role requires deep hands-on experience in payment products across acquiring, gateways, banking and card scheme",
+      "responsibilities": [],
+      "requirements": [],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Paytm",
+      "applyUrl": "https://jobs.lever.co/paytm/7deb675f-0250-41df-9bea-033c22c6c54a",
+      "postedAt": "2026-11-26",
+      "firstSeenAt": "2026-11-26",
+      "lastSeenAt": "2026-11-26",
+      "status": "Active"
+    },
     {
       "id": "job_e327d3",
       "slug": "ai-engineer-product-owner-digitxl-india-e327d3",
@@ -140106,8 +140213,8 @@
       "companySize": "5000+",
       "description": "Paytm is a fintech company hiring product managers in India.",
       "locations": [
-        "Bengaluru",
-        "Delhi NCR"
+        "Delhi NCR",
+        "Bengaluru"
       ]
     },
     {
