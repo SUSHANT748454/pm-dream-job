@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T14:38:38.346Z",
+  "generatedAt": "2026-11-26T23:25:48.544Z",
   "jobs": [
     {
       "id": "job_140fc1",
@@ -20498,6 +20498,77 @@
       "applyUrl": "http://in.indeed.com/job/group-product-manager-8ce5f9819591c99c",
       "postedAt": "2026-11-18",
       "firstSeenAt": "2026-11-19",
+      "lastSeenAt": "2026-11-26",
+      "status": "Active"
+    },
+    {
+      "id": "job_0a6b1b",
+      "slug": "kirana-club-product-manager-ii-commerce-meesho-bengaluru-0a6b1b",
+      "title": "Kirana Club : Product Manager II - Commerce",
+      "company": {
+        "id": "meesho",
+        "name": "Meesho",
+        "logo": null,
+        "domain": "meesho.com"
+      },
+      "location": {
+        "city": "Bengaluru",
+        "country": "India"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full Time",
+      "experienceLevel": "Senior Product Manager",
+      "experienceMin": 6,
+      "experienceMax": 9,
+      "domain": [
+        "Ecommerce",
+        "Consumer",
+        "Fintech"
+      ],
+      "skills": [
+        "User Research",
+        "Growth",
+        "Pricing",
+        "Data",
+        "Retention",
+        "Marketplace",
+        "Supply"
+      ],
+      "tags": [
+        "Ecommerce",
+        "Consumer",
+        "Fintech",
+        "Senior Product Manager",
+        "Onsite",
+        "User Research",
+        "Growth",
+        "Pricing"
+      ],
+      "description": "About the role You will own critical retailer-commerce journeys on Kirana Club, from product discovery and decision-making to checkout and repeat purchase. Your first and most important mandate will be to improve retailer activation—moving retailers from their first to fourth delivered order. This is an ambiguous, cross-functional problem spanning product experience, assortment, pricing, trust, fulfilment and user behaviour. You will be expected to identify where the real constraint lies, determine what product should solve, and build solutions that materially improve the business outcome.",
+      "responsibilities": [
+        "You will own critical retailer-commerce journeys on Kirana Club, from product discovery and decision-making to checkout and repeat purchase. Your first and most important mandate will be to improve retailer activation—moving retailers from their first to fourth delivered order. This is an ambiguous, cross-functional problem spanning product experience, assortment, pricing, trust, fulfilment and user behaviour. You will be expected to identify where the real constraint lies, determine what product should solve, and build solutions that materially improve the business outcome.",
+        "Own the product roadmap for retailer activation, with an immediate focus on first-order conversion and progression from the first to fourth delivered order.",
+        "Diagnose funnel and behavioural problems through data, user research and market visits rather than starting with predetermined features.",
+        "Build and test solutions across discovery, product comprehension, cart, checkout, assisted buying, post-order and repeat journeys.",
+        "Work closely with Growth, Design, Engineering, Data, Supply and Fulfilment, while distinguishing product problems from pricing, assortment and operational problems.",
+        "Define success metrics, make clear product trade-offs and measure impact on delivered orders and repeat behaviour—not only clicks or feature adoption.",
+        "Build scalable product systems rather than relying primarily on notifications, discounts or manual interventions."
+      ],
+      "requirements": [
+        "6–9 years of total experience, including at least 4–6 years in product management, preferably in consumer commerce, marketplaces, fintech, quick commerce or another transactional product.",
+        "Has independently owned a meaningful conversion, activation, retention, monetisation or transactional-funnel metric.",
+        "Strong first-principles problem solver who can structure an ambiguous problem before jumping to solutions.",
+        "Comfortable combining behavioural data, qualitative research and commercial understanding.",
+        "Has built or materially improved a zero-to-one consumer journey, not only optimised an established feature backlog.",
+        "Strong execution in a resource-constrained environment and comfortable working directly with business and operating teams.",
+        "AI-native in research, analysis, prototyping and day-to-day product execution."
+      ],
+      "preferred": [],
+      "salary": null,
+      "source": "Lever · Meesho",
+      "applyUrl": "https://jobs.lever.co/meesho/bb950ba6-dd50-4caf-9c52-00d5168a59a5",
+      "postedAt": "2026-11-18",
+      "firstSeenAt": "2026-11-26",
       "lastSeenAt": "2026-11-26",
       "status": "Active"
     },
