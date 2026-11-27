@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T06:01:29.718Z",
+  "generatedAt": "2026-11-27T19:17:07.660Z",
   "jobs": [
     {
       "id": "job_140fc1",
@@ -100561,8 +100561,8 @@
       "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Global-Product-Manager--IVP---Launch-Excellence_593018-1",
       "postedAt": "2026-10-19",
       "firstSeenAt": "2026-10-19",
-      "lastSeenAt": "2026-11-15",
-      "status": "Expired"
+      "lastSeenAt": "2026-11-27",
+      "status": "Active"
     },
     {
       "id": "job_6a6695",
@@ -128777,6 +128777,7 @@
       "companySize": "5000+",
       "description": "Philips is a healthcare company hiring product managers in India.",
       "locations": [
+        "Bengaluru",
         "Pune"
       ]
     },
